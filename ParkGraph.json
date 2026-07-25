@@ -1,0 +1,3431 @@
+[
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-98",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-98",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think02",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph_npc_common_wait-longidle-00",
+        "data": {
+            "id": "graph_npc_common_wait-longidle-00",
+            "graphId": "vis_state_common_wait-longidle-00"
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-19",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-19",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "glad02",
+                "tired00"
+            ]
+        }
+    },
+    {
+        "id": "graph_npc_common_wait-shop-00",
+        "data": {
+            "id": "graph_npc_common_wait-shop-00",
+            "graphId": "vis_state_common_wait-shop-00"
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-1",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-1",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph_npc_common_wait-shop-01",
+        "data": {
+            "id": "graph_npc_common_wait-shop-01",
+            "graphId": "vis_state_common_wait-shop-01"
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-10",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-10",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-11",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-11",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "ask00"
+            ]
+        }
+    },
+    {
+        "id": "graph_npc_wait_default",
+        "data": {
+            "id": "graph_npc_wait_default",
+            "graphId": "vis_state_common_wait-00"
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-12",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-12",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-13",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-13",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-14",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-14",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-15",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-15",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-16",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-16",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-17",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-17",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-18",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-18",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-2",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-2",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "phone-hold00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-20",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-20",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-21",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-21",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "think00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-22",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-22",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "phone-hold01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-23",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-23",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-3",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-3",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-4",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-4",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-5",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-5",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-6",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-6",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph_npc_common_wavehands-00",
+        "data": {
+            "id": "graph_npc_common_wavehands-00",
+            "graphId": "vis_state_common_wavehands-00"
+        }
+    },
+    {
+        "id": "graph_npc_common_wait-peek-00",
+        "data": {
+            "id": "graph_npc_common_wait-peek-00",
+            "graphId": "vis_state_common_wait-peek-00"
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-7",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-7",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "phone-hold01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-8",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-8",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-house-day-chat-9",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-house-day-chat-9",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-1",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-1",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-10",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-10",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-11",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-11",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-12",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-12",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-13",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-13",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-14",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-14",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-15",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-15",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-16",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-16",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-17",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-17",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-18",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-18",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "shy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-19",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-19",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "trouble00",
+                "shy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-2",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-2",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-20",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-20",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph_npc_common_wait-01",
+        "data": {
+            "id": "graph_npc_common_wait-01",
+            "graphId": "vis_state_common_wait-01"
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-21",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-21",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-3",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-3",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-4",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-4",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-5",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-5",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think02",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-6",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-6",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-7",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-7",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-8",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-8",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-9",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-multiplay_inside-day-chat-9",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-secretbase-day-chat-1",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-secretbase-day-chat-1",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-10",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-10",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "think02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-100",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-100",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "glad02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-101",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-101",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-102",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-102",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-103",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-103",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-104",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-104",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-105",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-105",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-107",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-107",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "shy00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-108",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-108",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-109",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-109",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-11",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-11",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-110",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-110",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle00",
+                "tired00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-112",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-112",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-114",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-114",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-115",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-115",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-116",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-116",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-117",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-117",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-119",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-119",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-12",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-12",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-120",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-120",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-121",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-121",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-122",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-122",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "getsleep01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-124",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-124",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-125",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-125",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-126",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-126",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-127",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-127",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-128",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-128",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-129",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-129",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-13",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-13",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-130",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-130",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-131",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-131",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-132",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-132",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-134",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-134",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "anger02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-135",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-135",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "think00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-136",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-136",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-137",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-137",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "shy00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-138",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-138",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-106",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-106",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-14",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-14",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-140",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-140",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-141",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-141",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-142",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-142",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-143",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-143",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-144",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-144",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-145",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-145",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-146",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-146",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-147",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-147",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-148",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-148",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-149",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-149",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-15",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-15",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-150",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-150",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "getsleep01",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-151",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-151",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-152",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-152",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-153",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-153",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-154",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-154",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-155",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-155",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-156",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-156",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-157",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-157",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "phone-hold00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-158",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-158",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-159",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-159",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-16",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-16",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "furueru01",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-160",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-160",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "furueru01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-161",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-161",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "shy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-162",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-162",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-163",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-163",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-164",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-164",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-165",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-165",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "furueru01",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-166",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-166",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-167",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-167",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle00",
+                "anger02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-168",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-168",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-169",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-169",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-17",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-17",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-170",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-170",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-171",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-171",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-173",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-173",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "furueru01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-174",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-174",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle00",
+                "glad02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-175",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-175",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger00",
+                "anger02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-176",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-176",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-177",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-177",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "getsleep01",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-179",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-179",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-18",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-18",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-180",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-180",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-181",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-181",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "trouble00",
+                "anger02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-182",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-182",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-183",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-183",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-184",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-184",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-185",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-185",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think02",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-186",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-186",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-188",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-188",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger00",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-189",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-189",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-19",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-19",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-190",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-190",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-191",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-191",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-192",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-192",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-193",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-193",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "anger00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-194",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-194",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-195",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-195",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "getsleep01",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-196",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-196",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-197",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-197",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-198",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-198",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-199",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-199",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-20",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-20",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "think00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-200",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-200",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-201",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-201",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-202",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-202",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-203",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-203",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-204",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-204",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-205",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-205",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-206",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-206",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-207",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-207",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-208",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-208",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-209",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-209",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-21",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-21",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-210",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-210",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-211",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-211",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-212",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-212",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-213",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-213",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "shy00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-214",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-214",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-215",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-215",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-216",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-216",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-218",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-218",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-219",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-219",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-22",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-22",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-23",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-23",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-24",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-24",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "anger02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-25",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-25",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "tired00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-26",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-26",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "phone-hold01",
+                "think02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-27",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-27",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "getsleep01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-217",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-217",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "glad02",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-187",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-187",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-28",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-28",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-29",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-29",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-3",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-3",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "dance00",
+                "think00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-30",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-30",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "tired00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-31",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-31",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-32",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-32",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-33",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-33",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-34",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-34",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-35",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-35",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "anger02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-36",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-36",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-37",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-37",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-38",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-38",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-39",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-39",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-4",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-4",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-40",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-40",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-41",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-41",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-43",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-43",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-45",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-45",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-46",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-46",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-47",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-47",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-48",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-48",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-49",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-49",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think02",
+                "trouble00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-5",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-5",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-50",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-50",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-51",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-51",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-52",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-52",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-53",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-53",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "think00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-54",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-54",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-55",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-55",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-56",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-56",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-57",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-57",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-58",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-58",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-59",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-59",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-6",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-6",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "phone-hold00",
+                "ask00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-60",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-60",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "trouble00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-61",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-61",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-63",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-63",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "trouble00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-64",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-64",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "getsleep01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-65",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-65",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-66",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-66",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-67",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-67",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-68",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-68",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-69",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-69",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-70",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-70",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "think00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-71",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-71",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-72",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-72",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-75",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-75",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-76",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-76",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-77",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-77",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "shy00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-78",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-78",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-79",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-79",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "glad02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-8",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-8",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-80",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-80",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "anger02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-81",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-81",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "trouble00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-83",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-83",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-84",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-84",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-86",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-86",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "think00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-87",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-87",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-88",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-88",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "ask00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-89",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-89",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-9",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-9",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-90",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-90",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-91",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-91",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "getsleep01",
+                "idle04"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-93",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-93",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-94",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-94",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "tired00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-95",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-95",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think02",
+                "anger00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-96",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-96",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-97",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-97",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-99",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-99",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-1",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-1",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-10",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-10",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-11",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-11",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-12",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-12",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "shy00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-13",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-13",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-14",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-14",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-15",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-15",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-16",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-16",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-17",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-17",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-18",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-18",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-19",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-19",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-2",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-2",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "phone-hold01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-20",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-20",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "furueru01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-21",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-21",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-22",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-22",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-23",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-23",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-24",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-24",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-25",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-25",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-26",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-26",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "ask00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-27",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-27",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-28",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-28",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "tired00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-29",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-29",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-3",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-3",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-30",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-30",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-31",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-31",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "tired00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-32",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-32",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-33",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-33",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-34",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-34",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "trouble00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-35",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-35",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "happy00",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-36",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-36",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-37",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-37",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-38",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-38",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "glad02",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-39",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-39",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-4",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-4",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-40",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-40",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-41",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-41",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-42",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-42",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-43",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-43",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle00",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-44",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-44",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-46",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-46",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "shy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-47",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-47",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-48",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-48",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-49",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-49",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "ask00",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-5",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-5",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-50",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-50",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-7",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-7",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle00",
+                "phone-hold01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-8",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-8",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "think00",
+                "think02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-9",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-9",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "anger02",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-1",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-1",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle02",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-42",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-42",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "glad02",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-73",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-73",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle01",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-74",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-74",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-82",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-82",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-92",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-92",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle03"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-6",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-6",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle04",
+                "happy00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-111",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-111",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-113",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-113",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle05"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-118",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-118",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle01"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-123",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-123",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle03",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-square-day-chat-139",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-square-day-chat-139",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle02"
+            ]
+        }
+    },
+    {
+        "id": "graph_npc_a01_talk-group-00",
+        "data": {
+            "id": "graph_npc_a01_talk-group-00",
+            "graphId": "vis_state_area-a01_talk-group-00"
+        }
+    },
+    {
+        "id": "graph-park_talk_free-multi-a01-station-day-chat-45",
+        "data": {
+            "id": "graph-park_talk_free-multi-a01-station-day-chat-45",
+            "graphId": "vis_state_common_talk-group-00",
+            "parameterValues": [
+                "idle05",
+                "idle00"
+            ]
+        }
+    },
+    {
+        "id": "graph_npc_common_chaseplayer-00",
+        "data": {
+            "id": "graph_npc_common_chaseplayer-00",
+            "graphId": "vis_state_common_chaseplayer-00"
+        }
+    }
+]

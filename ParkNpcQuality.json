@@ -1,0 +1,146 @@
+[
+    {
+        "os_type": 2,
+        "graphics_quality_type": 2,
+        "data": {
+            "osType": "OsType_OS_TYPE_ANDROID",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_HIGH",
+            "maxNpcCount": 32,
+            "lazyLoadMaxNpcCount": 15
+        }
+    },
+    {
+        "os_type": 2,
+        "graphics_quality_type": 4,
+        "data": {
+            "osType": "OsType_OS_TYPE_ANDROID",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_LOW",
+            "maxNpcCount": 16,
+            "lazyLoadMaxNpcCount": 12
+        }
+    },
+    {
+        "os_type": 2,
+        "graphics_quality_type": 1,
+        "data": {
+            "osType": "OsType_OS_TYPE_ANDROID",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_MAX",
+            "lazyLoadMaxNpcCount": 15
+        }
+    },
+    {
+        "os_type": 2,
+        "graphics_quality_type": 3,
+        "data": {
+            "osType": "OsType_OS_TYPE_ANDROID",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_MEDIUM",
+            "maxNpcCount": 24,
+            "lazyLoadMaxNpcCount": 15
+        }
+    },
+    {
+        "os_type": 2,
+        "graphics_quality_type": 5,
+        "data": {
+            "osType": "OsType_OS_TYPE_ANDROID",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_VERY_LOW",
+            "maxNpcCount": 12,
+            "lazyLoadMaxNpcCount": 8
+        }
+    },
+    {
+        "os_type": 1,
+        "graphics_quality_type": 2,
+        "data": {
+            "osType": "OsType_OS_TYPE_IOS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_HIGH",
+            "maxNpcCount": 32,
+            "lazyLoadMaxNpcCount": 15
+        }
+    },
+    {
+        "os_type": 1,
+        "graphics_quality_type": 4,
+        "data": {
+            "osType": "OsType_OS_TYPE_IOS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_LOW",
+            "maxNpcCount": 16,
+            "lazyLoadMaxNpcCount": 12
+        }
+    },
+    {
+        "os_type": 1,
+        "graphics_quality_type": 1,
+        "data": {
+            "osType": "OsType_OS_TYPE_IOS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_MAX",
+            "lazyLoadMaxNpcCount": 15
+        }
+    },
+    {
+        "os_type": 1,
+        "graphics_quality_type": 3,
+        "data": {
+            "osType": "OsType_OS_TYPE_IOS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_MEDIUM",
+            "maxNpcCount": 24,
+            "lazyLoadMaxNpcCount": 15
+        }
+    },
+    {
+        "os_type": 1,
+        "graphics_quality_type": 5,
+        "data": {
+            "osType": "OsType_OS_TYPE_IOS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_VERY_LOW",
+            "maxNpcCount": 12,
+            "lazyLoadMaxNpcCount": 8
+        }
+    },
+    {
+        "os_type": 3,
+        "graphics_quality_type": 2,
+        "data": {
+            "osType": "OsType_OS_TYPE_WINDOWS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_HIGH"
+        }
+    },
+    {
+        "os_type": 3,
+        "graphics_quality_type": 4,
+        "data": {
+            "osType": "OsType_OS_TYPE_WINDOWS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_LOW",
+            "maxNpcCount": 24,
+            "lazyLoadMaxNpcCount": 15
+        }
+    },
+    {
+        "os_type": 3,
+        "graphics_quality_type": 1,
+        "data": {
+            "osType": "OsType_OS_TYPE_WINDOWS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_MAX"
+        }
+    },
+    {
+        "os_type": 3,
+        "graphics_quality_type": 3,
+        "data": {
+            "osType": "OsType_OS_TYPE_WINDOWS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_MEDIUM",
+            "maxNpcCount": 32,
+            "lazyLoadMaxNpcCount": 23
+        }
+    },
+    {
+        "os_type": 3,
+        "graphics_quality_type": 5,
+        "data": {
+            "osType": "OsType_OS_TYPE_WINDOWS",
+            "graphicsQualityType": "GraphicsQualityType_GRAPHICS_QUALITY_TYPE_VERY_LOW",
+            "maxNpcCount": 24,
+            "lazyLoadMaxNpcCount": 15
+        }
+    }
+]

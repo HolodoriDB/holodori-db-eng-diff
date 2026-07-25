@@ -1,0 +1,1531 @@
+[
+    {
+        "id": "skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always",
+        "data": {
+            "id": "skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP",
+            "value": "10",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP_PERMIL_UP",
+            "value": "40",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance",
+        "data": {
+            "id": "skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_DECK_LEADER_ACTIVE_SKILL_ADDITION",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "liveActiveSkillId": "live_active_skill-skill_tree-judgement_enhance",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery",
+        "data": {
+            "id": "skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_DECK_LEADER_ACTIVE_SKILL_ADDITION",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "liveActiveSkillId": "live_active_skill-skill_tree-life_recovery",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance",
+        "data": {
+            "id": "skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_DECK_LEADER_ACTIVE_SKILL_LEVEL_UP",
+            "value": "2",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "liveActiveSkillId": "live_active_skill-skill_tree-judgement_enhance",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "225",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_4",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "75",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_4",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1",
+        "data": {
+            "id": "skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_WORK_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "80",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_WORK",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-skill_tree_card-1",
+                "item-skill_tree_card-2",
+                "item-skill_tree_allmember-1",
+                "item-skill_tree_allmember-2",
+                "item-skill_tree_leader-1",
+                "item-skill_tree_leader-2",
+                "item-skill_tree_content-1",
+                "item-skill_tree_content-2"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-advent",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_PERMIL_UP",
+            "value": "10",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_PERMIL_UP",
+            "value": "30",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP_PERMIL_UP",
+            "value": "30",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP_PERMIL_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP_PERMIL_UP",
+            "value": "30",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP_PERMIL_UP",
+            "value": "40",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP_PERMIL_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP_PERMIL_UP",
+            "value": "30",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP_PERMIL_UP",
+            "value": "40",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP_PERMIL_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_EFFECT_UP_PERMIL_UP",
+            "value": "40",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko",
+        "data": {
+            "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+            "value": "5",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-music_bonus",
+            "iconAssetIdSuffix": "-solo",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all",
+        "data": {
+            "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+            "value": "5",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-music_bonus",
+            "iconAssetIdSuffix": "-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo",
+        "data": {
+            "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+            "value": "5",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-music_bonus",
+            "iconAssetIdSuffix": "-solo",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit",
+        "data": {
+            "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "miniGameTypes": [
+                "MiniGameType_MINI_GAME_TYPE_CIRCUIT"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_5",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-holox",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-regloss",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-advent",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gamers",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP",
+            "value": "70",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gamers",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_0",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_1",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_3",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_0",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_1",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_2",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_3",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_4",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_5",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-holox",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_1",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_2",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_3",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-myth",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-promise",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-regloss",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "200",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_1",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "225",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_2",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "225",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_1",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "225",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_2",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "225",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_3",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "225",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-myth",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "225",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-promise",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "300",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gamers",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-advent",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gamers",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_0",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_1",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_3",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_5",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-holox",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-regloss",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "75",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-gen_2",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "75",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_1",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "75",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_2",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "75",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_3",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "75",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-myth",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always",
+        "data": {
+            "id": "skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_ALL_PARAMETER_UP_FOR_CHARACTER_GROUPING",
+            "value": "75",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-character_grouping-grp-promise",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIFE_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+            "value": "20",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+            "value": "30",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+            "value": "60",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_COOL_TIME_SHORTEN_PERMIL_UP",
+            "value": "40",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_EFFECT_UP_PERMIL_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_EFFECT_UP_PERMIL_UP",
+            "value": "20",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_EFFECT_UP_PERMIL_UP",
+            "value": "30",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_REWARD_CARD_EXP_QUANTITY_UP_PERMIL_UP",
+            "value": "200",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always",
+        "data": {
+            "id": "skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_REWARD_CARD_EXP_QUANTITY_UP_PERMIL_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_REWARD_CARD_EXP_QUANTITY_UP_PERMIL_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold",
+        "data": {
+            "id": "skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "200",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-gold"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold",
+        "data": {
+            "id": "skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-gold"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold",
+        "data": {
+            "id": "skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-gold"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all",
+        "data": {
+            "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+            "value": "1",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-music_bonus",
+            "iconAssetIdSuffix": "-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group",
+        "data": {
+            "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+            "value": "10",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-music_bonus",
+            "iconAssetIdSuffix": "-group",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group",
+        "data": {
+            "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+            "value": "20",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-music_bonus",
+            "iconAssetIdSuffix": "-group",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo",
+        "data": {
+            "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+            "value": "20",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-music_bonus",
+            "iconAssetIdSuffix": "-solo",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game",
+        "data": {
+            "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "miniGameTypes": [
+                "MiniGameType_MINI_GAME_TYPE_COMBO_CARD_GAME"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle",
+        "data": {
+            "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "miniGameTypes": [
+                "MiniGameType_MINI_GAME_TYPE_COOKING_PUZZLE"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope",
+        "data": {
+            "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "miniGameTypes": [
+                "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always",
+        "data": {
+            "id": "skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_PERFORMANCE_UP_PERMIL_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always",
+        "data": {
+            "id": "skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP",
+            "value": "10",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always",
+        "data": {
+            "id": "skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_SENSE_UP_PERMIL_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko",
+        "data": {
+            "id": "skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_SCORE_BONUS_ADD_PERMIL_UP_BY_MUSIC_SKILL_TREE_CHARACTER_AND_MUSIC_SINGER_TYPE",
+            "value": "20",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-music_bonus",
+            "iconAssetIdSuffix": "-solo",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always",
+        "data": {
+            "id": "skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP",
+            "value": "10",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always",
+        "data": {
+            "id": "skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP",
+            "value": "150",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-card",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always",
+        "data": {
+            "id": "skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "nameLangId": "la-skill_tree_effect-name-all",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_TECHNIQUE_UP_PERMIL_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "skillTreeEffectPassiveTriggerGroupId": "skill_tree_effect_passive_trigger-music_skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up",
+        "data": {
+            "id": "skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_WORK_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "30",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_WORK",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-card_level_up"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up",
+        "data": {
+            "id": "skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_WORK_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "50",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_WORK",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-card_level_up"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up",
+        "data": {
+            "id": "skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_WORK_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "60",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_WORK",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-card_level_up"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1",
+        "data": {
+            "id": "skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_WORK_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "40",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_WORK",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-skill_tree_card-1",
+                "item-skill_tree_card-2",
+                "item-skill_tree_allmember-1",
+                "item-skill_tree_allmember-2",
+                "item-skill_tree_leader-1",
+                "item-skill_tree_leader-2",
+                "item-skill_tree_content-1",
+                "item-skill_tree_content-2"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1",
+        "data": {
+            "id": "skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_WORK_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "80",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_WORK",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-card_limit_break-attribute_1-1",
+                "item-card_limit_break-attribute_2-1",
+                "item-card_limit_break-attribute_3-1",
+                "item-card_limit_break-attribute_1-2",
+                "item-card_limit_break-attribute_2-2",
+                "item-card_limit_break-attribute_3-2"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1",
+        "data": {
+            "id": "skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_WORK_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "40",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-skill_tree_character",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_WORK",
+            "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "resourceIds": [
+                "item-card_limit_break-attribute_1-1",
+                "item-card_limit_break-attribute_2-1",
+                "item-card_limit_break-attribute_3-1",
+                "item-card_limit_break-attribute_1-2",
+                "item-card_limit_break-attribute_2-2",
+                "item-card_limit_break-attribute_3-2"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description"
+        }
+    }
+]

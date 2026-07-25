@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-circuit-game_playing_display_clear_condition_lang-default",
+        "data": {
+            "id": "la-circuit-game_playing_display_clear_condition_lang-default",
+            "text": "Get to LAP 2 in #<size=56>{0}</size>!"
+        }
+    },
+    {
+        "id": "la-circuit-game_playing_display_clear_condition_lang-play",
+        "data": {
+            "id": "la-circuit-game_playing_display_clear_condition_lang-play",
+            "text": "Play until the end!"
+        }
+    },
+    {
+        "id": "la-circuit-game_playing_display_clear_condition_lang-rank",
+        "data": {
+            "id": "la-circuit-game_playing_display_clear_condition_lang-rank",
+            "text": "Finish in the top <size=56>{0}</size>!"
+        }
+    },
+    {
+        "id": "la-circuit-game_start_display_clear_condition_lang-default",
+        "data": {
+            "id": "la-circuit-game_start_display_clear_condition_lang-default",
+            "text": "Get to LAP 2 in place #{0}!"
+        }
+    },
+    {
+        "id": "la-circuit-game_start_display_clear_condition_lang-play",
+        "data": {
+            "id": "la-circuit-game_start_display_clear_condition_lang-play",
+            "text": "Play until the end!"
+        }
+    },
+    {
+        "id": "la-circuit-game_start_display_clear_condition_lang-rank",
+        "data": {
+            "id": "la-circuit-game_start_display_clear_condition_lang-rank",
+            "text": "See if you can get to the top {0}!"
+        }
+    }
+]

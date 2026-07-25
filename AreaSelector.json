@@ -1,0 +1,59 @@
+[
+    {
+        "id": "area-a01-house-selector",
+        "data": {
+            "id": "area-a01-house-selector",
+            "areaGroupingId": "area_group-a01",
+            "facilityId": "facility-a01-house"
+        }
+    },
+    {
+        "id": "area-a01-multiplay-selector",
+        "data": {
+            "id": "area-a01-multiplay-selector",
+            "areaGroupingId": "area_group-a01",
+            "facilityId": "facility-a01-multiplay"
+        }
+    },
+    {
+        "id": "area-a01-restaurant-selector",
+        "data": {
+            "id": "area-a01-restaurant-selector",
+            "areaGroupingId": "area_group-a01",
+            "facilityId": "facility-a01-restaurant"
+        }
+    },
+    {
+        "id": "area-a01-selector",
+        "data": {
+            "id": "area-a01-selector",
+            "areaGroupingId": "area_group-a01",
+            "isMapVisible": true
+        }
+    },
+    {
+        "id": "area-a01-theater-selector",
+        "data": {
+            "id": "area-a01-theater-selector",
+            "areaGroupingId": "area_group-a01",
+            "facilityId": "facility-a01-theater"
+        }
+    },
+    {
+        "id": "area-a02-selector",
+        "data": {
+            "id": "area-a02-selector",
+            "areaGroupingId": "area_group-a02",
+            "isMapVisible": true
+        }
+    },
+    {
+        "id": "area-a02-play-selector",
+        "data": {
+            "id": "area-a02-play-selector",
+            "areaGroupingId": "area_group-a02",
+            "isMapVisible": true,
+            "isUserSelectable": true
+        }
+    }
+]

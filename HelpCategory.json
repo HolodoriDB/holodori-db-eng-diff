@@ -1,0 +1,242 @@
+[
+    {
+        "id": "help_category-faq-data-modelchange",
+        "data": {
+            "id": "help_category-faq-data-modelchange",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_FAQ",
+            "titleLangId": "la-help_category-faq-data-modelchange",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 2
+        }
+    },
+    {
+        "id": "help_category-faq-game",
+        "data": {
+            "id": "help_category-faq-game",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_FAQ",
+            "titleLangId": "la-help_category-faq-game",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 5
+        }
+    },
+    {
+        "id": "help_category-faq-live",
+        "data": {
+            "id": "help_category-faq-live",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_FAQ",
+            "titleLangId": "la-help_category-faq-live",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 4
+        }
+    },
+    {
+        "id": "help_category-faq-others",
+        "data": {
+            "id": "help_category-faq-others",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_FAQ",
+            "titleLangId": "la-help_category-faq-others",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 6
+        }
+    },
+    {
+        "id": "help_category-faq-questions",
+        "data": {
+            "id": "help_category-faq-questions",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_FAQ",
+            "titleLangId": "la-help_category-faq-questions",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 1
+        }
+    },
+    {
+        "id": "help_category-faq-trouble",
+        "data": {
+            "id": "help_category-faq-trouble",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_FAQ",
+            "titleLangId": "la-help_category-faq-trouble",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 3
+        }
+    },
+    {
+        "id": "help_category-help-account-alignment",
+        "data": {
+            "id": "help_category-help-account-alignment",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-account-alignment",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 17
+        }
+    },
+    {
+        "id": "help_category-help-achievements",
+        "data": {
+            "id": "help_category-help-achievements",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-achievements",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 9
+        }
+    },
+    {
+        "id": "help_category-help-card",
+        "data": {
+            "id": "help_category-help-card",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-card",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 6
+        }
+    },
+    {
+        "id": "help_category-help-character",
+        "data": {
+            "id": "help_category-help-character",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-character",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 5
+        }
+    },
+    {
+        "id": "help_category-help-exchange",
+        "data": {
+            "id": "help_category-help-exchange",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-exchange",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 11
+        }
+    },
+    {
+        "id": "help_category-help-friend",
+        "data": {
+            "id": "help_category-help-friend",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-friend",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 14
+        }
+    },
+    {
+        "id": "help_category-help-gacha",
+        "data": {
+            "id": "help_category-help-gacha",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-gacha",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 13
+        }
+    },
+    {
+        "id": "help_category-help-game",
+        "data": {
+            "id": "help_category-help-game",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-game",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 7
+        }
+    },
+    {
+        "id": "help_category-help-item",
+        "data": {
+            "id": "help_category-help-item",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-item",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 16
+        }
+    },
+    {
+        "id": "help_category-help-option",
+        "data": {
+            "id": "help_category-help-option",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-option",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 18
+        }
+    },
+    {
+        "id": "help_category-help-park",
+        "data": {
+            "id": "help_category-help-park",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-park",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 1
+        }
+    },
+    {
+        "id": "help_category-help-poster",
+        "data": {
+            "id": "help_category-help-poster",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-poster",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 12
+        }
+    },
+    {
+        "id": "help_category-help-profile",
+        "data": {
+            "id": "help_category-help-profile",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-profile",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 15
+        }
+    },
+    {
+        "id": "help_category-help-quest",
+        "data": {
+            "id": "help_category-help-quest",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-quest",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 2
+        }
+    },
+    {
+        "id": "help_category-help-rhythm",
+        "data": {
+            "id": "help_category-help-rhythm",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-rhythm",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 3
+        }
+    },
+    {
+        "id": "help_category-help-shop",
+        "data": {
+            "id": "help_category-help-shop",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-shop",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 10
+        }
+    },
+    {
+        "id": "help_category-help-work",
+        "data": {
+            "id": "help_category-help-work",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-work",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_NONE",
+            "order": 8
+        }
+    },
+    {
+        "id": "help_category-help-creative-chart",
+        "data": {
+            "id": "help_category-help-creative-chart",
+            "type": "HelpCategoryType_HELP_CATEGORY_TYPE_HELP",
+            "titleLangId": "la-help_category-help-creative-chart",
+            "screenType": "HelpCategoryScreenType_HELP_CATEGORY_SCREEN_TYPE_MUSIC_CREATIVE_CHART",
+            "order": 4
+        }
+    }
+]

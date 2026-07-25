@@ -1,0 +1,264 @@
+[
+    {
+        "character_history_type": 5,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_ACHIEVEMENT",
+            "threshold": "10",
+            "isLoop": true,
+            "textLangId": "la-chr_history-achievement-10",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 2,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CARD_GET_RARITY_GTE_5",
+            "textLangId": "la-chr_history-ssr_card_get-0",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 1,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CHARACTER_LEVEL",
+            "threshold": "5",
+            "isLoop": true,
+            "textLangId": "la-chr_history-character_level-1",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 6,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_MEMBERSHIP_ELAPSED_MONTHS",
+            "threshold": "1",
+            "isLoop": true,
+            "textLangId": "la-chr_history-membership_duration_months-1",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 9,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CHARACTER_GET_DURATION_MONTHS",
+            "threshold": "1",
+            "textLangId": "la-chr_history-character_get_duration_months-1",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 9,
+        "order": 2,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CHARACTER_GET_DURATION_MONTHS",
+            "threshold": "6",
+            "textLangId": "la-chr_history-character_get_duration_months-6",
+            "order": 2
+        }
+    },
+    {
+        "character_history_type": 3,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_COSTUME_GET",
+            "textLangId": "la-chr_history-park_costume_get-0",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 7,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_PLAY_COUNT",
+            "threshold": "100",
+            "isLoop": true,
+            "textLangId": "la-chr_history-live_play_count-100",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 8,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_MINI_GAME_PLAY_COUNT",
+            "threshold": "100",
+            "isLoop": true,
+            "textLangId": "la-chr_history-mini_game_play_count-100",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 4,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_SD_COSTUME_GET",
+            "textLangId": "la-chr_history-sd_costume_get-0",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 12,
+        "order": 1,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_BIRTHDAY",
+            "textLangId": "la-chr_history-birthday-0",
+            "order": 1
+        }
+    },
+    {
+        "character_history_type": 10,
+        "order": 3,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CHARACTER_GET_DURATION_YEARS",
+            "threshold": "1",
+            "isLoop": true,
+            "textLangId": "la-chr_history-character_get_duration_years-1",
+            "order": 3
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 100,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "1",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 100
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 87,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "14",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 87
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 88,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "13",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 88
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 89,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "12",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 89
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 90,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "11",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 90
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 91,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "10",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 91
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 92,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "9",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 92
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 93,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "8",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 93
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 94,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "7",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 94
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 95,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "6",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 95
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 96,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "5",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 96
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 97,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "4",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 97
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 98,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "3",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 98
+        }
+    },
+    {
+        "character_history_type": 11,
+        "order": 99,
+        "data": {
+            "characterHistoryType": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "threshold": "2",
+            "textLangId": "la-chr_history-score_rank",
+            "order": 99
+        }
+    }
+]

@@ -1,0 +1,345 @@
+[
+    {
+        "id": "la-resource_type_detail-appealtext",
+        "data": {
+            "id": "la-resource_type_detail-appealtext",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-card-description",
+        "data": {
+            "id": "la-resource_type_detail-card-description",
+            "text": "Members who can be assigned in Live."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-card-name",
+        "data": {
+            "id": "la-resource_type_detail-card-name",
+            "text": "Members"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-character-description",
+        "data": {
+            "id": "la-resource_type_detail-character-description",
+            "text": "Playable holomem."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-character-name",
+        "data": {
+            "id": "la-resource_type_detail-character-name",
+            "text": "holomem"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-costume-description",
+        "data": {
+            "id": "la-resource_type_detail-costume-description",
+            "text": "An Outfit that can be worn by holomem."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-costume-name",
+        "data": {
+            "id": "la-resource_type_detail-costume-name",
+            "text": "Live Outfit"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-custom_palette_decoration-description",
+        "data": {
+            "id": "la-resource_type_detail-custom_palette_decoration-description",
+            "text": "A Decoration that can be set in Custom Profile."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-custom_palette_decoration-name",
+        "data": {
+            "id": "la-resource_type_detail-custom_palette_decoration-name",
+            "text": "Custom Parts"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-emblem-description",
+        "data": {
+            "id": "la-resource_type_detail-emblem-description",
+            "text": "A Title that can be set in Profile."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-emblem-name",
+        "data": {
+            "id": "la-resource_type_detail-emblem-name",
+            "text": "Badge"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-fan_mark-description",
+        "data": {
+            "id": "la-resource_type_detail-fan_mark-description",
+            "text": "A Fan Badge that is available when joining Membership."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-fan_mark-name",
+        "data": {
+            "id": "la-resource_type_detail-fan_mark-name",
+            "text": "Fan Badge"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-gacha_point-description",
+        "data": {
+            "id": "la-resource_type_detail-gacha_point-description",
+            "text": "Points earned in Gacha."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-gacha_point-name",
+        "data": {
+            "id": "la-resource_type_detail-gacha_point-name",
+            "text": "Gacha Pts"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-item-description",
+        "data": {
+            "id": "la-resource_type_detail-item-description",
+            "text": "Different types of items."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-item-name",
+        "data": {
+            "id": "la-resource_type_detail-item-name",
+            "text": "Items"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-live_skin-description",
+        "data": {
+            "id": "la-resource_type_detail-live_skin-description",
+            "text": "A Skin that changes the appearance of Live Skin."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-live_skin-name",
+        "data": {
+            "id": "la-resource_type_detail-live_skin-name",
+            "text": "Live Skin"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-mission_pass_point-description",
+        "data": {
+            "id": "la-resource_type_detail-mission_pass_point-description",
+            "text": "Points that are required to progress Mission Pass."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-mission_pass_point-name",
+        "data": {
+            "id": "la-resource_type_detail-mission_pass_point-name",
+            "text": "Mission Pass Pts"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-music-description",
+        "data": {
+            "id": "la-resource_type_detail-music-description",
+            "text": "Change Leader's Outfit"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-music-name",
+        "data": {
+            "id": "la-resource_type_detail-music-name",
+            "text": "Songs"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-park_accessory-description",
+        "data": {
+            "id": "la-resource_type_detail-park_accessory-description",
+            "text": "An Item that holomem carry in the Park."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-park_accessory-name",
+        "data": {
+            "id": "la-resource_type_detail-park_accessory-name",
+            "text": "Holomem Items"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-park_emotion-description",
+        "data": {
+            "id": "la-resource_type_detail-park_emotion-description",
+            "text": "Emotes used in the Park and Minigames."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-park_emotion-name",
+        "data": {
+            "id": "la-resource_type_detail-park_emotion-name",
+            "text": "Park Emotes"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-player_exp-description",
+        "data": {
+            "id": "la-resource_type_detail-player_exp-description",
+            "text": "An Item that is required to level up the Player."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-player_exp-name",
+        "data": {
+            "id": "la-resource_type_detail-player_exp-name",
+            "text": "Dream EXP"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-poster-description",
+        "data": {
+            "id": "la-resource_type_detail-poster-description",
+            "text": "A Memory that can be set in Park’s Memory Stand."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-poster-name",
+        "data": {
+            "id": "la-resource_type_detail-poster-name",
+            "text": "Memory"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-premium_mission_pass-description",
+        "data": {
+            "id": "la-resource_type_detail-premium_mission_pass-description",
+            "text": "Mission Pass can be purchased in Shop."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-premium_mission_pass-name",
+        "data": {
+            "id": "la-resource_type_detail-premium_mission_pass-name",
+            "text": "Premium Mission Pass"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-sd_costume-description",
+        "data": {
+            "id": "la-resource_type_detail-sd_costume-description",
+            "text": "An Outfit used in the Park and Minigames."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-sd_costume-name",
+        "data": {
+            "id": "la-resource_type_detail-sd_costume-name",
+            "text": "Park Outfit"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-sd_costume_hair_accessory-description",
+        "data": {
+            "id": "la-resource_type_detail-sd_costume_hair_accessory-description",
+            "text": "An Accessory used in the Park and Minigames."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-sd_costume_hair_accessory-name",
+        "data": {
+            "id": "la-resource_type_detail-sd_costume_hair_accessory-name",
+            "text": "Hair Accessories"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-set-description",
+        "data": {
+            "id": "la-resource_type_detail-set-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-set-name",
+        "data": {
+            "id": "la-resource_type_detail-set-name",
+            "text": "Set"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-skill_tree_point-description",
+        "data": {
+            "id": "la-resource_type_detail-skill_tree_point-description",
+            "text": "An item used to unlock the Holomem Board."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-skill_tree_point-name",
+        "data": {
+            "id": "la-resource_type_detail-skill_tree_point-name",
+            "text": "Holomem Board Pt"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stamp-description",
+        "data": {
+            "id": "la-resource_type_detail-stamp-description",
+            "text": "A Sticker used during Multiplayer."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stamp-name",
+        "data": {
+            "id": "la-resource_type_detail-stamp-name",
+            "text": "Stickers"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stone_paid_only-description",
+        "data": {
+            "id": "la-resource_type_detail-stone_paid_only-description",
+            "text": "An item used in purchasing Gacha and Items."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stone_paid_only-name",
+        "data": {
+            "id": "la-resource_type_detail-stone_paid_only-name",
+            "text": "Blue Diamonds"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stone_total-description",
+        "data": {
+            "id": "la-resource_type_detail-stone_total-description",
+            "text": "An item used in purchasing Gacha and Items."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-stone_total-name",
+        "data": {
+            "id": "la-resource_type_detail-stone_total-name",
+            "text": "Red Diamonds"
+        }
+    },
+    {
+        "id": "la-resource_type_detail-wallpaper-description",
+        "data": {
+            "id": "la-resource_type_detail-wallpaper-description",
+            "text": "An item used in Mega Sphere’s Mega Puri."
+        }
+    },
+    {
+        "id": "la-resource_type_detail-wallpaper-name",
+        "data": {
+            "id": "la-resource_type_detail-wallpaper-name",
+            "text": "Background Wallpaper"
+        }
+    }
+]

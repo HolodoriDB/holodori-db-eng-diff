@@ -1,0 +1,50 @@
+[
+    {
+        "type": 1,
+        "data": {
+            "type": "AchievementCategoryType_ACHIEVEMENT_CATEGORY_TYPE_CHARACTER",
+            "nameLangId": "la-achievement_category-character",
+            "order": 1
+        }
+    },
+    {
+        "type": 2,
+        "data": {
+            "type": "AchievementCategoryType_ACHIEVEMENT_CATEGORY_TYPE_LIVE",
+            "nameLangId": "la-achievement_category-live",
+            "order": 2
+        }
+    },
+    {
+        "type": 3,
+        "data": {
+            "type": "AchievementCategoryType_ACHIEVEMENT_CATEGORY_TYPE_MINI_GAME",
+            "nameLangId": "la-achievement_category-mini_game",
+            "order": 3
+        }
+    },
+    {
+        "type": 4,
+        "data": {
+            "type": "AchievementCategoryType_ACHIEVEMENT_CATEGORY_TYPE_PARK",
+            "nameLangId": "la-achievement_category-park",
+            "order": 4
+        }
+    },
+    {
+        "type": 5,
+        "data": {
+            "type": "AchievementCategoryType_ACHIEVEMENT_CATEGORY_TYPE_CARD_TRAINING",
+            "nameLangId": "la-achievement_category-card_training",
+            "order": 5
+        }
+    },
+    {
+        "type": 999,
+        "data": {
+            "type": "AchievementCategoryType_ACHIEVEMENT_CATEGORY_TYPE_OTHER",
+            "nameLangId": "la-achievement_category-other",
+            "order": 6
+        }
+    }
+]

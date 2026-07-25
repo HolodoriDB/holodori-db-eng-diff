@@ -1,0 +1,35 @@
+[
+    {
+        "id": "combo-card_normal_001",
+        "data": {
+            "id": "combo-card_normal_001",
+            "playType": "ComboCardGamePlayType_COMBO_CARD_GAME_PLAY_TYPE_NORMAL",
+            "startTime": "946652400000",
+            "comboCardGameCardGroupId": "combo-card_card-group_001",
+            "gameStartDisplayClearConditionLangId": "la-combo_card_game-game_start_display_clear_condition_lang-default",
+            "gamePlayingDisplayClearConditionLangId": "la-combo_card_game-game_playing_display_clear_condition_lang-default"
+        }
+    },
+    {
+        "id": "combo-card_park_quest_play",
+        "data": {
+            "id": "combo-card_park_quest_play",
+            "playType": "ComboCardGamePlayType_COMBO_CARD_GAME_PLAY_TYPE_PARK_QUEST",
+            "startTime": "946652400000",
+            "comboCardGameCardGroupId": "combo-card_card-group_001",
+            "gameStartDisplayClearConditionLangId": "la-combo_card_game-game_start_display_clear_condition_lang-play",
+            "gamePlayingDisplayClearConditionLangId": "la-combo_card_game-game_playing_display_clear_condition_lang-play"
+        }
+    },
+    {
+        "id": "combo-card_park_quest_rank",
+        "data": {
+            "id": "combo-card_park_quest_rank",
+            "playType": "ComboCardGamePlayType_COMBO_CARD_GAME_PLAY_TYPE_PARK_QUEST",
+            "startTime": "946652400000",
+            "comboCardGameCardGroupId": "combo-card_card-group_001",
+            "gameStartDisplayClearConditionLangId": "la-combo_card_game-game_start_display_clear_condition_lang-rank",
+            "gamePlayingDisplayClearConditionLangId": "la-combo_card_game-game_playing_display_clear_condition_lang-rank"
+        }
+    }
+]

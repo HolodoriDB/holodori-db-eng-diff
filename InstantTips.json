@@ -1,0 +1,152 @@
+[
+    {
+        "id": "instant_tips-cooking_puzzle-normal",
+        "data": {
+            "id": "instant_tips-cooking_puzzle-normal",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_MINI_GAME_TOP",
+            "textLangId": "la-instant_tips-cooking_puzzle-normal",
+            "conditionGroupId": "cd-cook-unlock_normal"
+        }
+    },
+    {
+        "id": "instant_tips-cooking_puzzle-score_attack",
+        "data": {
+            "id": "instant_tips-cooking_puzzle-score_attack",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_MINI_GAME_TOP",
+            "textLangId": "la-instant_tips-cooking_puzzle-score_attack",
+            "conditionGroupId": "cd-cook-unlock_score_attack"
+        }
+    },
+    {
+        "id": "instant_tips-jump_rope-normal",
+        "data": {
+            "id": "instant_tips-jump_rope-normal",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_MINI_GAME_TOP",
+            "textLangId": "la-instant_tips-jump_rope-normal",
+            "conditionGroupId": "cd-jump_rope-unlock_normal"
+        }
+    },
+    {
+        "id": "instant_tips-jump_rope-score_attack",
+        "data": {
+            "id": "instant_tips-jump_rope-score_attack",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_MINI_GAME_TOP",
+            "textLangId": "la-instant_tips-jump_rope-score_attack",
+            "conditionGroupId": "cd-jump_rope-unlock_score_attack"
+        }
+    },
+    {
+        "id": "instant_tips-present-facerock-1",
+        "data": {
+            "id": "instant_tips-present-facerock-1",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-present-facerock-1",
+            "conditionGroupId": "cd-perm-a01-facerock-present"
+        }
+    },
+    {
+        "id": "instant_tips-present-facerock-2",
+        "data": {
+            "id": "instant_tips-present-facerock-2",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TIPS",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "tipsId": "tips-instant_tips-present-facerock-2",
+            "conditionGroupId": "cd-perm-a01-facerock-present"
+        }
+    },
+    {
+        "id": "instant_tips-present-prison-1",
+        "data": {
+            "id": "instant_tips-present-prison-1",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-present-prison-1",
+            "conditionGroupId": "cd-perm-a01-prison-present"
+        }
+    },
+    {
+        "id": "instant_tips-present-prison-2",
+        "data": {
+            "id": "instant_tips-present-prison-2",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TIPS",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "tipsId": "tips-instant_tips-present-prison-2",
+            "conditionGroupId": "cd-perm-a01-prison-present"
+        }
+    },
+    {
+        "id": "instant_tips-random_reward-livehouse-1",
+        "data": {
+            "id": "instant_tips-random_reward-livehouse-1",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-random_reward-livehouse-1",
+            "conditionGroupId": "cd-quest_clear-quest-area-a01-19"
+        }
+    },
+    {
+        "id": "instant_tips-random_reward-livehouse-2",
+        "data": {
+            "id": "instant_tips-random_reward-livehouse-2",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TIPS",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "tipsId": "tips-instant_tips-random_reward-livehouse-2",
+            "conditionGroupId": "cd-quest_clear-quest-area-a01-19"
+        }
+    },
+    {
+        "id": "instant_tips-a02_station",
+        "data": {
+            "id": "instant_tips-a02_station",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-a02_station",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-02-05-1-1"
+        }
+    },
+    {
+        "id": "instant_tips-coinbooth",
+        "data": {
+            "id": "instant_tips-coinbooth",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-coinbooth",
+            "conditionGroupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-facility-area_a02-000-cmn-001"
+        }
+    },
+    {
+        "id": "instant_tips-coinbooth-2",
+        "data": {
+            "id": "instant_tips-coinbooth-2",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-coinbooth",
+            "conditionGroupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-facility-area_a02-000-cmn-002"
+        }
+    },
+    {
+        "id": "instant_tips-coinbooth-3",
+        "data": {
+            "id": "instant_tips-coinbooth-3",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-coinbooth",
+            "conditionGroupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-facility-area_a02-000-cmn-003"
+        }
+    },
+    {
+        "id": "instant_tips-bet_amount",
+        "data": {
+            "id": "instant_tips-bet_amount",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-bet_amount",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-02-10"
+        }
+    }
+]

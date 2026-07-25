@@ -1,0 +1,24 @@
+[
+    {
+        "id": "park_lottery-area_a02-itemgacha",
+        "data": {
+            "id": "park_lottery-area_a02-itemgacha",
+            "type": "ParkLotteryType_PARK_LOTTERY_TYPE_GACHAPON",
+            "dailyLimitCount": 3,
+            "consumption": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-mini_game_bet_coin",
+                "quantity": "300"
+            }
+        }
+    },
+    {
+        "id": "park_lottery-area_a02-scratchstore",
+        "data": {
+            "id": "park_lottery-area_a02-scratchstore",
+            "type": "ParkLotteryType_PARK_LOTTERY_TYPE_SCRATCH",
+            "dailyLimitCount": 1,
+            "limitReachedParkTalkGroupId": "park_talk-perm-a02-lottery-after"
+        }
+    }
+]

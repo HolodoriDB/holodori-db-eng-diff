@@ -1,0 +1,112 @@
+[
+    {
+        "id": "effect-filter-category-all-parameter-up",
+        "data": {
+            "id": "effect-filter-category-all-parameter-up",
+            "nameLangId": "la-effect-filter-category-all-parameter-up",
+            "livePassiveSkillEffectTypes": [
+                "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_ALL_PARAMETER_UP_PERMIL_UP"
+            ],
+            "order": 4
+        }
+    },
+    {
+        "id": "effect-filter-category-performance-up",
+        "data": {
+            "id": "effect-filter-category-performance-up",
+            "nameLangId": "la-effect-filter-category-performance-up",
+            "livePassiveSkillEffectTypes": [
+                "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_PERFORMANCE_UP_PERMIL_UP"
+            ],
+            "order": 1
+        }
+    },
+    {
+        "id": "effect-filter-category-score-up",
+        "data": {
+            "id": "effect-filter-category-score-up",
+            "nameLangId": "la-effect-filter-category-score-up",
+            "liveActiveSkillEffectTypes": [
+                "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_PERMIL_UP"
+            ],
+            "order": 5
+        }
+    },
+    {
+        "id": "effect-filter-category-sense-up",
+        "data": {
+            "id": "effect-filter-category-sense-up",
+            "nameLangId": "la-effect-filter-category-sense-up",
+            "livePassiveSkillEffectTypes": [
+                "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_SENSE_UP_PERMIL_UP"
+            ],
+            "order": 3
+        }
+    },
+    {
+        "id": "effect-filter-category-skill-activation-probability-up",
+        "data": {
+            "id": "effect-filter-category-skill-activation-probability-up",
+            "nameLangId": "la-effect-filter-category-skill-activation-probability-up",
+            "liveSpecialSkillEffectTypes": [
+                "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP"
+            ],
+            "order": 10
+        }
+    },
+    {
+        "id": "effect-filter-category-technique-up",
+        "data": {
+            "id": "effect-filter-category-technique-up",
+            "nameLangId": "la-effect-filter-category-technique-up",
+            "livePassiveSkillEffectTypes": [
+                "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_TECHNIQUE_UP_PERMIL_UP"
+            ],
+            "order": 2
+        }
+    },
+    {
+        "id": "effect-filter-category-score-up-effect-up",
+        "data": {
+            "id": "effect-filter-category-score-up-effect-up",
+            "nameLangId": "la-effect-filter-category-score-up-effect-up",
+            "liveSpecialSkillEffectTypes": [
+                "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_SCORE_UP_EFFECT_UP_PERMIL_UP"
+            ],
+            "order": 6
+        }
+    },
+    {
+        "id": "effect-filter-category-skill-effect-up",
+        "data": {
+            "id": "effect-filter-category-skill-effect-up",
+            "nameLangId": "la-effect-filter-category-skill-effect-up",
+            "livePassiveSkillEffectTypes": [
+                "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_EFFECT_UP_PERMIL_UP"
+            ],
+            "order": 9
+        }
+    },
+    {
+        "id": "effect-filter-category-judgement-enhance",
+        "data": {
+            "id": "effect-filter-category-judgement-enhance",
+            "nameLangId": "la-effect-filter-category-judgement-enhance",
+            "liveSpecialSkillEffectTypes": [
+                "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_JUDGEMENT_ENHANCE"
+            ],
+            "order": 12
+        }
+    },
+    {
+        "id": "effect-filter-category-life-recovery",
+        "data": {
+            "id": "effect-filter-category-life-recovery",
+            "nameLangId": "la-effect-filter-category-life-recovery",
+            "liveSpecialSkillEffectTypes": [
+                "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIFE_RECOVERY"
+            ],
+            "order": 7
+        }
+    }
+]

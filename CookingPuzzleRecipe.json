@@ -1,0 +1,546 @@
+[
+    {
+        "id": "cooking_recipe_001-level_1",
+        "data": {
+            "id": "cooking_recipe_001-level_1",
+            "nameLangId": "la-cooking_recipe_001-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_001-level_1-description",
+            "characterId": "chr-00004",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_001_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_001_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_001_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "00004"
+        }
+    },
+    {
+        "id": "cooking_recipe_001-level_2",
+        "data": {
+            "id": "cooking_recipe_001-level_2",
+            "nameLangId": "la-cooking_recipe_001-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_001-level_2-description",
+            "characterId": "chr-00004",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_001_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_001_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_001_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "00004"
+        }
+    },
+    {
+        "id": "cooking_recipe_001-level_3",
+        "data": {
+            "id": "cooking_recipe_001-level_3",
+            "nameLangId": "la-cooking_recipe_001-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_001-level_3-description",
+            "characterId": "chr-00004",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_001_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_001_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_001_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00004"
+        }
+    },
+    {
+        "id": "cooking_recipe_002-level_1",
+        "data": {
+            "id": "cooking_recipe_002-level_1",
+            "nameLangId": "la-cooking_recipe_002-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_002-level_1-description",
+            "characterId": "chr-00005",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_002_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_002_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_002_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "00005"
+        }
+    },
+    {
+        "id": "cooking_recipe_002-level_2",
+        "data": {
+            "id": "cooking_recipe_002-level_2",
+            "nameLangId": "la-cooking_recipe_002-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_002-level_2-description",
+            "characterId": "chr-00005",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_002_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_002_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_002_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "00005"
+        }
+    },
+    {
+        "id": "cooking_recipe_002-level_3",
+        "data": {
+            "id": "cooking_recipe_002-level_3",
+            "nameLangId": "la-cooking_recipe_002-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_002-level_3-description",
+            "characterId": "chr-00005",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_002_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_002_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_002_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00005"
+        }
+    },
+    {
+        "id": "cooking_recipe_003-level_1",
+        "data": {
+            "id": "cooking_recipe_003-level_1",
+            "nameLangId": "la-cooking_recipe_003-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_003-level_1-description",
+            "characterId": "chr-00006",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_003_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_003_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_003_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "00006"
+        }
+    },
+    {
+        "id": "cooking_recipe_003-level_2",
+        "data": {
+            "id": "cooking_recipe_003-level_2",
+            "nameLangId": "la-cooking_recipe_003-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_003-level_2-description",
+            "characterId": "chr-00006",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_003_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_003_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_003_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "00006"
+        }
+    },
+    {
+        "id": "cooking_recipe_003-level_3",
+        "data": {
+            "id": "cooking_recipe_003-level_3",
+            "nameLangId": "la-cooking_recipe_003-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_003-level_3-description",
+            "characterId": "chr-00006",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_003_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_003_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_003_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00006"
+        }
+    },
+    {
+        "id": "cooking_recipe_004-level_1",
+        "data": {
+            "id": "cooking_recipe_004-level_1",
+            "nameLangId": "la-cooking_recipe_004-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_004-level_1-description",
+            "characterId": "chr-00007",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_004_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_004_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_004_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "00007"
+        }
+    },
+    {
+        "id": "cooking_recipe_004-level_2",
+        "data": {
+            "id": "cooking_recipe_004-level_2",
+            "nameLangId": "la-cooking_recipe_004-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_004-level_2-description",
+            "characterId": "chr-00007",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_004_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_004_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_004_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "00007"
+        }
+    },
+    {
+        "id": "cooking_recipe_004-level_3",
+        "data": {
+            "id": "cooking_recipe_004-level_3",
+            "nameLangId": "la-cooking_recipe_004-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_004-level_3-description",
+            "characterId": "chr-00007",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_004_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_004_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_004_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00007"
+        }
+    },
+    {
+        "id": "cooking_recipe_005-level_1",
+        "data": {
+            "id": "cooking_recipe_005-level_1",
+            "nameLangId": "la-cooking_recipe_005-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_005-level_1-description",
+            "characterId": "chr-00011",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_005_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_005_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_005_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "00011"
+        }
+    },
+    {
+        "id": "cooking_recipe_005-level_2",
+        "data": {
+            "id": "cooking_recipe_005-level_2",
+            "nameLangId": "la-cooking_recipe_005-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_005-level_2-description",
+            "characterId": "chr-00011",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_005_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_005_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_005_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "00011"
+        }
+    },
+    {
+        "id": "cooking_recipe_005-level_3",
+        "data": {
+            "id": "cooking_recipe_005-level_3",
+            "nameLangId": "la-cooking_recipe_005-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_005-level_3-description",
+            "characterId": "chr-00011",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_005_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_005_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_005_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00011"
+        }
+    },
+    {
+        "id": "cooking_recipe_006-level_1",
+        "data": {
+            "id": "cooking_recipe_006-level_1",
+            "nameLangId": "la-cooking_recipe_006-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_006-level_1-description",
+            "characterId": "chr-00036",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_006_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_006_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_006_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "00036"
+        }
+    },
+    {
+        "id": "cooking_recipe_006-level_2",
+        "data": {
+            "id": "cooking_recipe_006-level_2",
+            "nameLangId": "la-cooking_recipe_006-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_006-level_2-description",
+            "characterId": "chr-00036",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_006_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_006_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_006_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "00036"
+        }
+    },
+    {
+        "id": "cooking_recipe_006-level_3",
+        "data": {
+            "id": "cooking_recipe_006-level_3",
+            "nameLangId": "la-cooking_recipe_006-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_006-level_3-description",
+            "characterId": "chr-00036",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_006_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_006_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_006_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00036"
+        }
+    },
+    {
+        "id": "cooking_recipe_006-level_3-area-a01-20-1-4-stage6",
+        "data": {
+            "id": "cooking_recipe_006-level_3-area-a01-20-1-4-stage6",
+            "nameLangId": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-name",
+            "descriptionLangId": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-description",
+            "characterId": "chr-00036",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_006_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_006_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_006_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00036"
+        }
+    },
+    {
+        "id": "cooking_recipe_007-level_1",
+        "data": {
+            "id": "cooking_recipe_007-level_1",
+            "nameLangId": "la-cooking_recipe_007-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_007-level_1-description",
+            "characterId": "chr-00032",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_007_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_007_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_007_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "00032"
+        }
+    },
+    {
+        "id": "cooking_recipe_007-level_2",
+        "data": {
+            "id": "cooking_recipe_007-level_2",
+            "nameLangId": "la-cooking_recipe_007-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_007-level_2-description",
+            "characterId": "chr-00032",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_007_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_007_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_007_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "00032"
+        }
+    },
+    {
+        "id": "cooking_recipe_007-level_3",
+        "data": {
+            "id": "cooking_recipe_007-level_3",
+            "nameLangId": "la-cooking_recipe_007-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_007-level_3-description",
+            "characterId": "chr-00032",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_007_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_007_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_007_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00032"
+        }
+    },
+    {
+        "id": "cooking_recipe_008-level_1",
+        "data": {
+            "id": "cooking_recipe_008-level_1",
+            "nameLangId": "la-cooking_recipe_008-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_008-level_1-description",
+            "characterId": "chr-06003",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_008_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_008_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_008_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "06003"
+        }
+    },
+    {
+        "id": "cooking_recipe_008-level_2",
+        "data": {
+            "id": "cooking_recipe_008-level_2",
+            "nameLangId": "la-cooking_recipe_008-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_008-level_2-description",
+            "characterId": "chr-06003",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_008_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_008_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_008_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "06003"
+        }
+    },
+    {
+        "id": "cooking_recipe_008-level_2-area-a01-11-1-2-stage4",
+        "data": {
+            "id": "cooking_recipe_008-level_2-area-a01-11-1-2-stage4",
+            "nameLangId": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-name",
+            "descriptionLangId": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-description",
+            "characterId": "chr-06003",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_008_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_008_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_008_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "06003"
+        }
+    },
+    {
+        "id": "cooking_recipe_008-level_3",
+        "data": {
+            "id": "cooking_recipe_008-level_3",
+            "nameLangId": "la-cooking_recipe_008-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_008-level_3-description",
+            "characterId": "chr-06003",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_008_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_008_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_008_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "06003"
+        }
+    },
+    {
+        "id": "cooking_recipe_009-level_1",
+        "data": {
+            "id": "cooking_recipe_009-level_1",
+            "nameLangId": "la-cooking_recipe_009-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_009-level_1-description",
+            "characterId": "chr-04010",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_009_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_009_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_009_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "04010"
+        }
+    },
+    {
+        "id": "cooking_recipe_009-level_2",
+        "data": {
+            "id": "cooking_recipe_009-level_2",
+            "nameLangId": "la-cooking_recipe_009-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_009-level_2-description",
+            "characterId": "chr-04010",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_009_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_009_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_009_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "04010"
+        }
+    },
+    {
+        "id": "cooking_recipe_009-level_3",
+        "data": {
+            "id": "cooking_recipe_009-level_3",
+            "nameLangId": "la-cooking_recipe_009-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_009-level_3-description",
+            "characterId": "chr-04010",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_009_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_009_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_009_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "04010"
+        }
+    },
+    {
+        "id": "cooking_recipe_010-level_1",
+        "data": {
+            "id": "cooking_recipe_010-level_1",
+            "nameLangId": "la-cooking_recipe_010-level_1-name",
+            "descriptionLangId": "la-cooking_recipe_010-level_1-description",
+            "characterId": "chr-03006",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_010_1",
+            "requiredQuantity1": 3,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_010_2",
+            "requiredQuantity2": 3,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_010_3",
+            "requiredQuantity3": 3,
+            "imageAssetId": "03006"
+        }
+    },
+    {
+        "id": "cooking_recipe_003-level_2-area-a01-11-1-2-stage5",
+        "data": {
+            "id": "cooking_recipe_003-level_2-area-a01-11-1-2-stage5",
+            "nameLangId": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-name",
+            "descriptionLangId": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-description",
+            "characterId": "chr-00006",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_003_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_003_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_003_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "00006"
+        }
+    },
+    {
+        "id": "cooking_recipe_010-level_2",
+        "data": {
+            "id": "cooking_recipe_010-level_2",
+            "nameLangId": "la-cooking_recipe_010-level_2-name",
+            "descriptionLangId": "la-cooking_recipe_010-level_2-description",
+            "characterId": "chr-03006",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_010_1",
+            "requiredQuantity1": 6,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_010_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_010_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "03006"
+        }
+    },
+    {
+        "id": "cooking_recipe_010-level_3",
+        "data": {
+            "id": "cooking_recipe_010-level_3",
+            "nameLangId": "la-cooking_recipe_010-level_3-name",
+            "descriptionLangId": "la-cooking_recipe_010-level_3-description",
+            "characterId": "chr-03006",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_010_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_010_2",
+            "requiredQuantity2": 9,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_010_3",
+            "requiredQuantity3": 9,
+            "imageAssetId": "03006"
+        }
+    },
+    {
+        "id": "cooking_recipe_009-level_2-area-a01-20-1-4-stage5",
+        "data": {
+            "id": "cooking_recipe_009-level_2-area-a01-20-1-4-stage5",
+            "nameLangId": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-name",
+            "descriptionLangId": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-description",
+            "characterId": "chr-04010",
+            "cookingPuzzleFoodstuffId1": "cooking_foodstuff_009_1",
+            "requiredQuantity1": 9,
+            "cookingPuzzleFoodstuffId2": "cooking_foodstuff_009_2",
+            "requiredQuantity2": 6,
+            "cookingPuzzleFoodstuffId3": "cooking_foodstuff_009_3",
+            "requiredQuantity3": 6,
+            "imageAssetId": "04010"
+        }
+    }
+]

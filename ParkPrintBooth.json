@@ -1,0 +1,146 @@
+[
+    {
+        "type": 2,
+        "number": 1,
+        "park_print_booth_composition_id": "park_print_booth_composition-pair_001",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_PAIR",
+            "number": 1,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-pair_001",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 2,
+        "number": 2,
+        "park_print_booth_composition_id": "park_print_booth_composition-pair_002",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_PAIR",
+            "number": 2,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-pair_002",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 2,
+        "number": 3,
+        "park_print_booth_composition_id": "park_print_booth_composition-pair_003",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_PAIR",
+            "number": 3,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-pair_003",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 2,
+        "number": 4,
+        "park_print_booth_composition_id": "park_print_booth_composition-pair_004",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_PAIR",
+            "number": 4,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-pair_004",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 2,
+        "number": 5,
+        "park_print_booth_composition_id": "park_print_booth_composition-pair_005",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_PAIR",
+            "number": 5,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-pair_005",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 2,
+        "number": 6,
+        "park_print_booth_composition_id": "park_print_booth_composition-pair_006",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_PAIR",
+            "number": 6,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-pair_006",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 1,
+        "number": 1,
+        "park_print_booth_composition_id": "park_print_booth_composition-single_001",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_SINGLE",
+            "number": 1,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-single_001",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 1,
+        "number": 2,
+        "park_print_booth_composition_id": "park_print_booth_composition-single_002",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_SINGLE",
+            "number": 2,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-single_002",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 1,
+        "number": 3,
+        "park_print_booth_composition_id": "park_print_booth_composition-single_003",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_SINGLE",
+            "number": 3,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-single_003",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 1,
+        "number": 4,
+        "park_print_booth_composition_id": "park_print_booth_composition-single_004",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_SINGLE",
+            "number": 4,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-single_004",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 1,
+        "number": 5,
+        "park_print_booth_composition_id": "park_print_booth_composition-single_005",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_SINGLE",
+            "number": 5,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-single_005",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    },
+    {
+        "type": 1,
+        "number": 6,
+        "park_print_booth_composition_id": "park_print_booth_composition-single_006",
+        "data": {
+            "type": "ParkPrintBoothType_PARK_PRINT_BOOTH_TYPE_SINGLE",
+            "number": 6,
+            "parkPrintBoothCompositionId": "park_print_booth_composition-single_006",
+            "ratio": 1,
+            "parkPrintBoothMotionGroupId": "park_print_booth_motion-default_001"
+        }
+    }
+]

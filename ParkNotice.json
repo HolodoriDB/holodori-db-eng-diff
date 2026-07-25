@@ -1,0 +1,167 @@
+[
+    {
+        "type": 7,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_ITEM_EXPIRATION_SOON",
+            "order": 17
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-house-present-fri",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-house-present-fri",
+            "order": 9
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-house-present-mon",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-house-present-mon",
+            "order": 5
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-house-present-sat",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-house-present-sat",
+            "order": 10
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-house-present-sun",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-house-present-sun",
+            "order": 4
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-house-present-thu",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-house-present-thu",
+            "order": 8
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-house-present-tue",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-house-present-tue",
+            "order": 6
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-house-present-wed",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-house-present-wed",
+            "order": 7
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-prison-present",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-prison-present",
+            "order": 11
+        }
+    },
+    {
+        "type": 3,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PLAYER_LEVEL_REWARD_RECEIVABLE",
+            "order": 1
+        }
+    },
+    {
+        "type": 5,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_WORK_AVAILABLE",
+            "order": 3
+        }
+    },
+    {
+        "type": 4,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_WORK_FINISH",
+            "order": 2
+        }
+    },
+    {
+        "type": 6,
+        "target_id": "exchange_booth_group-facility-a01-exchangebooth",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
+            "targetId": "exchange_booth_group-facility-a01-exchangebooth",
+            "order": 14
+        }
+    },
+    {
+        "type": 6,
+        "target_id": "exchange_booth_group-facility-a02-exchangebooth2",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
+            "targetId": "exchange_booth_group-facility-a02-exchangebooth2",
+            "order": 15
+        }
+    },
+    {
+        "type": 6,
+        "target_id": "exchange_booth_group-facility-a02-exchangebooth3",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
+            "targetId": "exchange_booth_group-facility-a02-exchangebooth3",
+            "order": 16
+        }
+    },
+    {
+        "type": 10,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_EVENT_END_TIME_SOON",
+            "order": 19
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-facerock-present-all_character_get",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-facerock-present-all_character_get",
+            "order": 12
+        }
+    },
+    {
+        "type": 2,
+        "target_id": "perm-a01-facerock-present-default",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
+            "targetId": "perm-a01-facerock-present-default",
+            "order": 12
+        }
+    },
+    {
+        "type": 8,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_LOTTERY_SCRATCH_AVAILABLE",
+            "order": 18
+        }
+    }
+]

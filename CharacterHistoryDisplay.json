@@ -1,0 +1,86 @@
+[
+    {
+        "type": 1,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CHARACTER_LEVEL",
+            "order": 12
+        }
+    },
+    {
+        "type": 2,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CARD_GET_RARITY_GTE_5",
+            "order": 11
+        }
+    },
+    {
+        "type": 3,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_COSTUME_GET",
+            "order": 10
+        }
+    },
+    {
+        "type": 4,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_SD_COSTUME_GET",
+            "order": 9
+        }
+    },
+    {
+        "type": 5,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_ACHIEVEMENT",
+            "order": 8
+        }
+    },
+    {
+        "type": 6,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_MEMBERSHIP_ELAPSED_MONTHS",
+            "order": 7
+        }
+    },
+    {
+        "type": 7,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_PLAY_COUNT",
+            "order": 6
+        }
+    },
+    {
+        "type": 8,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_MINI_GAME_PLAY_COUNT",
+            "order": 5
+        }
+    },
+    {
+        "type": 9,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CHARACTER_GET_DURATION_MONTHS",
+            "order": 3
+        }
+    },
+    {
+        "type": 10,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_CHARACTER_GET_DURATION_YEARS",
+            "order": 4
+        }
+    },
+    {
+        "type": 11,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_LIVE_DECK_EVALUATION_RANK",
+            "order": 2
+        }
+    },
+    {
+        "type": 12,
+        "data": {
+            "type": "CharacterHistoryType_CHARACTER_HISTORY_TYPE_BIRTHDAY",
+            "order": 1
+        }
+    }
+]

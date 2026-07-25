@@ -1,0 +1,236 @@
+[
+    {
+        "area_id": "area-a02-lobby",
+        "priority": 2,
+        "data": {
+            "areaId": "area-a02-lobby",
+            "priority": 2,
+            "assetId": "env_3d_park_area-a02-area-01-night",
+            "bgmAssetId": "bgm_park_area_area-a02-area-01",
+            "conditionGroupId": "cd-park_area_select-area-a02-casino"
+        }
+    },
+    {
+        "area_id": "area-a01-theater",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a01-theater",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a01-theater-01-noon"
+        }
+    },
+    {
+        "area_id": "area-a01-house",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a01-house",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a01-house-01-noon",
+            "bgmAssetId": "bgm_park_facility_area-a01-house-noon",
+            "conditionGroupId": "cd-area-a01-house"
+        }
+    },
+    {
+        "area_id": "area-a01-house",
+        "priority": 2,
+        "data": {
+            "areaId": "area-a01-house",
+            "priority": 2,
+            "assetId": "env_3d_park_area-a01-house-01-evening",
+            "bgmAssetId": "bgm_park_facility_area-a01-house-evening",
+            "conditionGroupId": "cd-area-a01-house-evening"
+        }
+    },
+    {
+        "area_id": "area-a01-house",
+        "priority": 3,
+        "data": {
+            "areaId": "area-a01-house",
+            "priority": 3,
+            "assetId": "env_3d_park_area-a01-house-01-night",
+            "bgmAssetId": "bgm_park_facility_area-a01-house-night",
+            "conditionGroupId": "cd-area-a01-house-night"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a01-area-00-noon",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-pre-001"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 2,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 2,
+            "assetId": "env_3d_park_area-a01-area-00-evening",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-pre-001",
+            "conditionGroupId": "cd-park_period-evening"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 3,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 3,
+            "assetId": "env_3d_park_area-a01-area-00-night",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-pre-001",
+            "conditionGroupId": "cd-park_period-night"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 4,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 4,
+            "assetId": "env_3d_park_area-a01-area-01-noon",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-pre-002",
+            "conditionGroupId": "cd-area-a01-step-2-noon"
+        }
+    },
+    {
+        "area_id": "area-a01-restaurant",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a01-restaurant",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a01-restaurant-01-noon",
+            "bgmAssetId": "bgm_park_facility_area-a01-restaurant-noon"
+        }
+    },
+    {
+        "area_id": "area-a01-restaurant",
+        "priority": 2,
+        "data": {
+            "areaId": "area-a01-restaurant",
+            "priority": 2,
+            "assetId": "env_3d_park_area-a01-restaurant-01-evening",
+            "bgmAssetId": "bgm_park_facility_area-a01-restaurant-noon",
+            "conditionGroupId": "cd-park_period-evening"
+        }
+    },
+    {
+        "area_id": "area-a01-restaurant",
+        "priority": 3,
+        "data": {
+            "areaId": "area-a01-restaurant",
+            "priority": 3,
+            "assetId": "env_3d_park_area-a01-restaurant-01-night",
+            "bgmAssetId": "bgm_park_facility_area-a01-restaurant-noon",
+            "conditionGroupId": "cd-park_period-night"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 5,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 5,
+            "assetId": "env_3d_park_area-a01-area-01-evening",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-pre-002",
+            "conditionGroupId": "cd-area-a01-step-2-evening"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 6,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 6,
+            "assetId": "env_3d_park_area-a01-area-01-night",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-pre-002",
+            "conditionGroupId": "cd-area-a01-step-2-night"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 7,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 7,
+            "assetId": "env_3d_park_area-a01-area-02-noon",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-noon",
+            "conditionGroupId": "cd-area-a01-step-3-noon"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 8,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 8,
+            "assetId": "env_3d_park_area-a01-area-02-evening",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-evening",
+            "conditionGroupId": "cd-area-a01-step-3-evening"
+        }
+    },
+    {
+        "area_id": "area-a01",
+        "priority": 9,
+        "data": {
+            "areaId": "area-a01",
+            "priority": 9,
+            "assetId": "env_3d_park_area-a01-area-02-night",
+            "bgmAssetId": "bgm_park_area_area-a01-area-01-night",
+            "conditionGroupId": "cd-area-a01-step-3-night"
+        }
+    },
+    {
+        "area_id": "area-a01-multiplay",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a01-multiplay",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a01-multiplay-01-noon",
+            "bgmAssetId": "bgm_park_facility_area-a01-multiplay-noon"
+        }
+    },
+    {
+        "area_id": "area-a02-casino",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a02-casino",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a02-area-03-night",
+            "bgmAssetId": "bgm_park_area_area-a02-area-02-casino"
+        }
+    },
+    {
+        "area_id": "area-a02-game",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a02-game",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a02-area-02-pre-noon",
+            "bgmAssetId": "bgm_park_area_area-a02-area-02-game"
+        }
+    },
+    {
+        "area_id": "area-a02-game",
+        "priority": 2,
+        "data": {
+            "areaId": "area-a02-game",
+            "priority": 2,
+            "assetId": "env_3d_park_area-a02-area-02-noon",
+            "bgmAssetId": "bgm_park_area_area-a02-area-02-game",
+            "conditionGroupId": "cd-area-a02-game-repair"
+        }
+    },
+    {
+        "area_id": "area-a02-lobby",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a02-lobby",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a02-area-01-noon",
+            "bgmAssetId": "bgm_park_area_area-a02-area-01"
+        }
+    }
+]

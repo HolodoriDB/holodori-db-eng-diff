@@ -1,0 +1,591 @@
+[
+    {
+        "id": "quest_chapter-area-a01",
+        "data": {
+            "id": "quest_chapter-area-a01",
+            "titleLangId": "la-quest_chapter-area-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-03",
+            "assetId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest_chapter-area-a02",
+        "data": {
+            "id": "quest_chapter-area-a02",
+            "titleLangId": "la-quest_chapter-area-a02",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-23",
+            "assetId": "area_group-a02",
+            "order": 2
+        }
+    },
+    {
+        "id": "quest_chapter-main-w1-01",
+        "data": {
+            "id": "quest_chapter-main-w1-01",
+            "titleLangId": "la-quest_chapter-main-w1-01",
+            "assetId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00001",
+        "data": {
+            "id": "quest_chapter-chr-00001",
+            "titleLangId": "la-quest_chapter-chr-00001",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00002",
+        "data": {
+            "id": "quest_chapter-chr-00002",
+            "titleLangId": "la-quest_chapter-chr-00002",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 2
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00004",
+        "data": {
+            "id": "quest_chapter-chr-00004",
+            "titleLangId": "la-quest_chapter-chr-00004",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 6
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00005",
+        "data": {
+            "id": "quest_chapter-chr-00005",
+            "titleLangId": "la-quest_chapter-chr-00005",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 7
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00006",
+        "data": {
+            "id": "quest_chapter-chr-00006",
+            "titleLangId": "la-quest_chapter-chr-00006",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 8
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00007",
+        "data": {
+            "id": "quest_chapter-chr-00007",
+            "titleLangId": "la-quest_chapter-chr-00007",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 9
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00010",
+        "data": {
+            "id": "quest_chapter-chr-00010",
+            "titleLangId": "la-quest_chapter-chr-00010",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 10
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00011",
+        "data": {
+            "id": "quest_chapter-chr-00011",
+            "titleLangId": "la-quest_chapter-chr-00011",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 11
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00012",
+        "data": {
+            "id": "quest_chapter-chr-00012",
+            "titleLangId": "la-quest_chapter-chr-00012",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 12
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00013",
+        "data": {
+            "id": "quest_chapter-chr-00013",
+            "titleLangId": "la-quest_chapter-chr-00013",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 3
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00014",
+        "data": {
+            "id": "quest_chapter-chr-00014",
+            "titleLangId": "la-quest_chapter-chr-00014",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 13
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00015",
+        "data": {
+            "id": "quest_chapter-chr-00015",
+            "titleLangId": "la-quest_chapter-chr-00015",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 4
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00016",
+        "data": {
+            "id": "quest_chapter-chr-00016",
+            "titleLangId": "la-quest_chapter-chr-00016",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 14
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00017",
+        "data": {
+            "id": "quest_chapter-chr-00017",
+            "titleLangId": "la-quest_chapter-chr-00017",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 15
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00018",
+        "data": {
+            "id": "quest_chapter-chr-00018",
+            "titleLangId": "la-quest_chapter-chr-00018",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 5
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00019",
+        "data": {
+            "id": "quest_chapter-chr-00019",
+            "titleLangId": "la-quest_chapter-chr-00019",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 16
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00021",
+        "data": {
+            "id": "quest_chapter-chr-00021",
+            "titleLangId": "la-quest_chapter-chr-00021",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 17
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00022",
+        "data": {
+            "id": "quest_chapter-chr-00022",
+            "titleLangId": "la-quest_chapter-chr-00022",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 18
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00023",
+        "data": {
+            "id": "quest_chapter-chr-00023",
+            "titleLangId": "la-quest_chapter-chr-00023",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 19
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00026",
+        "data": {
+            "id": "quest_chapter-chr-00026",
+            "titleLangId": "la-quest_chapter-chr-00026",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 21
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00027",
+        "data": {
+            "id": "quest_chapter-chr-00027",
+            "titleLangId": "la-quest_chapter-chr-00027",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 22
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00028",
+        "data": {
+            "id": "quest_chapter-chr-00028",
+            "titleLangId": "la-quest_chapter-chr-00028",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 23
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00030",
+        "data": {
+            "id": "quest_chapter-chr-00030",
+            "titleLangId": "la-quest_chapter-chr-00030",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 24
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00031",
+        "data": {
+            "id": "quest_chapter-chr-00031",
+            "titleLangId": "la-quest_chapter-chr-00031",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 25
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00032",
+        "data": {
+            "id": "quest_chapter-chr-00032",
+            "titleLangId": "la-quest_chapter-chr-00032",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 26
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00034",
+        "data": {
+            "id": "quest_chapter-chr-00034",
+            "titleLangId": "la-quest_chapter-chr-00034",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 27
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00035",
+        "data": {
+            "id": "quest_chapter-chr-00035",
+            "titleLangId": "la-quest_chapter-chr-00035",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 28
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00036",
+        "data": {
+            "id": "quest_chapter-chr-00036",
+            "titleLangId": "la-quest_chapter-chr-00036",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 29
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00037",
+        "data": {
+            "id": "quest_chapter-chr-00037",
+            "titleLangId": "la-quest_chapter-chr-00037",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 30
+        }
+    },
+    {
+        "id": "quest_chapter-chr-00039",
+        "data": {
+            "id": "quest_chapter-chr-00039",
+            "titleLangId": "la-quest_chapter-chr-00039",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 31
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03001",
+        "data": {
+            "id": "quest_chapter-chr-03001",
+            "titleLangId": "la-quest_chapter-chr-03001",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 32
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03002",
+        "data": {
+            "id": "quest_chapter-chr-03002",
+            "titleLangId": "la-quest_chapter-chr-03002",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 33
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03003",
+        "data": {
+            "id": "quest_chapter-chr-03003",
+            "titleLangId": "la-quest_chapter-chr-03003",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 34
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03004",
+        "data": {
+            "id": "quest_chapter-chr-03004",
+            "titleLangId": "la-quest_chapter-chr-03004",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 35
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03005",
+        "data": {
+            "id": "quest_chapter-chr-03005",
+            "titleLangId": "la-quest_chapter-chr-03005",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 36
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03006",
+        "data": {
+            "id": "quest_chapter-chr-03006",
+            "titleLangId": "la-quest_chapter-chr-03006",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 37
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03007",
+        "data": {
+            "id": "quest_chapter-chr-03007",
+            "titleLangId": "la-quest_chapter-chr-03007",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 38
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03008",
+        "data": {
+            "id": "quest_chapter-chr-03008",
+            "titleLangId": "la-quest_chapter-chr-03008",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 39
+        }
+    },
+    {
+        "id": "quest_chapter-chr-03009",
+        "data": {
+            "id": "quest_chapter-chr-03009",
+            "titleLangId": "la-quest_chapter-chr-03009",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 40
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04001",
+        "data": {
+            "id": "quest_chapter-chr-04001",
+            "titleLangId": "la-quest_chapter-chr-04001",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 41
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04002",
+        "data": {
+            "id": "quest_chapter-chr-04002",
+            "titleLangId": "la-quest_chapter-chr-04002",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 42
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04003",
+        "data": {
+            "id": "quest_chapter-chr-04003",
+            "titleLangId": "la-quest_chapter-chr-04003",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 43
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04007",
+        "data": {
+            "id": "quest_chapter-chr-04007",
+            "titleLangId": "la-quest_chapter-chr-04007",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 44
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04010",
+        "data": {
+            "id": "quest_chapter-chr-04010",
+            "titleLangId": "la-quest_chapter-chr-04010",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 45
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04012",
+        "data": {
+            "id": "quest_chapter-chr-04012",
+            "titleLangId": "la-quest_chapter-chr-04012",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 46
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04013",
+        "data": {
+            "id": "quest_chapter-chr-04013",
+            "titleLangId": "la-quest_chapter-chr-04013",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 47
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04014",
+        "data": {
+            "id": "quest_chapter-chr-04014",
+            "titleLangId": "la-quest_chapter-chr-04014",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 48
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04015",
+        "data": {
+            "id": "quest_chapter-chr-04015",
+            "titleLangId": "la-quest_chapter-chr-04015",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 49
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04016",
+        "data": {
+            "id": "quest_chapter-chr-04016",
+            "titleLangId": "la-quest_chapter-chr-04016",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 50
+        }
+    },
+    {
+        "id": "quest_chapter-chr-04017",
+        "data": {
+            "id": "quest_chapter-chr-04017",
+            "titleLangId": "la-quest_chapter-chr-04017",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 51
+        }
+    },
+    {
+        "id": "quest_chapter-chr-06002",
+        "data": {
+            "id": "quest_chapter-chr-06002",
+            "titleLangId": "la-quest_chapter-chr-06002",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 53
+        }
+    },
+    {
+        "id": "quest_chapter-chr-06003",
+        "data": {
+            "id": "quest_chapter-chr-06003",
+            "titleLangId": "la-quest_chapter-chr-06003",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 54
+        }
+    },
+    {
+        "id": "quest_chapter-chr-06004",
+        "data": {
+            "id": "quest_chapter-chr-06004",
+            "titleLangId": "la-quest_chapter-chr-06004",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 55
+        }
+    },
+    {
+        "id": "quest_chapter-chr-06005",
+        "data": {
+            "id": "quest_chapter-chr-06005",
+            "titleLangId": "la-quest_chapter-chr-06005",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "assetId": "area_group-a01",
+            "order": 56
+        }
+    },
+    {
+        "id": "quest_chapter-daily",
+        "data": {
+            "id": "quest_chapter-daily",
+            "titleLangId": "la-quest_chapter-daily",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-05",
+            "assetId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest_chapter-main-w1-02",
+        "data": {
+            "id": "quest_chapter-main-w1-02",
+            "titleLangId": "la-quest_chapter-main-w1-02",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-23",
+            "assetId": "area_group-a02",
+            "order": 2
+        }
+    }
+]

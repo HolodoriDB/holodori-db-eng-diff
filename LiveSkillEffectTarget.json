@@ -1,0 +1,827 @@
+[
+    {
+        "id": "live_skill_effect_target-all",
+        "data": {
+            "id": "live_skill_effect_target-all",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ALL",
+            "descriptionLangId": "la-generated-live_skill_effect_target-all-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_1-1",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_1-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 1,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_1-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_1-2",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_1-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 2,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_1-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_1-3",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_1-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 3,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_1-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_1-4",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_1-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 4,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_1-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_1-5",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_1-5",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 5,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_1-5-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_2-1",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_2-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 1,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_2-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_2-2",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_2-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 2,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_2-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_2-3",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_2-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 3,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_2-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_2-4",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_2-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 4,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_2-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_2-5",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_2-5",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 5,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_2-5-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_3-1",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_3-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 1,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_3-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_3-2",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_3-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 2,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_3-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_3-3",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_3-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 3,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_3-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_3-4",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_3-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 4,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_3-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-attribute-attribute_3-5",
+        "data": {
+            "id": "live_skill_effect_target-attribute-attribute_3-5",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_ATTRIBUTE",
+            "targetCount": 5,
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-attribute-attribute_3-5-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-advent-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-advent-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-advent-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-advent-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-advent-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-advent-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-advent-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-advent-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-advent-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-advent-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-advent-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-advent-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-advent-5",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-advent-5",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 5,
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-advent-5-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gamers-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gamers-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gamers-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gamers-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gamers-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gamers-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gamers-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gamers-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_0-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_0-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_0-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_0-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_0-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_0-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_0-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_0-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_0-5",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_0-5",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 5,
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-5-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_1-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_1-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_1-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_1-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_1-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_1-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_1-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_1-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_2-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_2-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_2-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_2-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_2-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_2-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_2-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_2-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_3-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_3-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_3-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_3-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_3-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_3-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_3-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_3-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_4-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_4-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_4-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_4-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_4-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_4-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_4-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_4-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_5-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_5-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_5-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_5-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_5-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_5-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-gen_5-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-gen_5-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-holox-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-holox-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-holox-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-holox-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-holox-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-holox-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-holox-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-holox-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-holox-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-holox-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-holox-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-holox-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-5",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-5",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 5,
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-5-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_1-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_1-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-indonesia-gen_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-indonesia-gen_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_1-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_1-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-indonesia-gen_1",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_2-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_2-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-indonesia-gen_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-indonesia-gen_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_2-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_2-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-indonesia-gen_2",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_3-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_3-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-indonesia-gen_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-indonesia-gen_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_3-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-indonesia-gen_3-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-indonesia-gen_3",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-myth-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-myth-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-myth-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-myth-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-myth-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-myth-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-myth-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-myth-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-myth-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-myth-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-myth-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-myth-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-promise-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-promise-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-promise-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-promise-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-promise-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-promise-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-promise-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-promise-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-promise-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-promise-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-promise-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-promise-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-regloss-1",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-regloss-1",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 1,
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-1-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-regloss-2",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-regloss-2",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 2,
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-2-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-regloss-3",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-regloss-3",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 3,
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-3-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-regloss-4",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-regloss-4",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 4,
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-4-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-character_grouping-grp-regloss-5",
+        "data": {
+            "id": "live_skill_effect_target-character_grouping-grp-regloss-5",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "targetCount": 5,
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-5-description"
+        }
+    },
+    {
+        "id": "live_skill_effect_target-self",
+        "data": {
+            "id": "live_skill_effect_target-self",
+            "type": "LiveSkillEffectTargetType_LIVE_SKILL_EFFECT_TARGET_TYPE_SELF",
+            "descriptionLangId": "la-generated-live_skill_effect_target-self-description"
+        }
+    }
+]

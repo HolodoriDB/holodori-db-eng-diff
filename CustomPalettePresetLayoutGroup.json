@@ -1,0 +1,204 @@
+[
+    {
+        "id": "ctm_preset_grp-001",
+        "data": {
+            "id": "ctm_preset_grp-001",
+            "nameLangId": "la-ctm_preset_grp-001",
+            "order": 1,
+            "customPalettePresetLayouts": [
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-001",
+                    "number": 1,
+                    "positionXPermil": -450000,
+                    "positionYPermil": -300000,
+                    "scalePermil": 1000,
+                    "layer": 1
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-001",
+                    "number": 2,
+                    "positionXPermil": -450000,
+                    "positionYPermil": -100000,
+                    "scalePermil": 1000,
+                    "layer": 2
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-001",
+                    "number": 3,
+                    "positionXPermil": -450000,
+                    "positionYPermil": 100000,
+                    "scalePermil": 1000,
+                    "layer": 3
+                }
+            ]
+        }
+    },
+    {
+        "id": "ctm_preset_grp-002",
+        "data": {
+            "id": "ctm_preset_grp-002",
+            "nameLangId": "la-ctm_preset_grp-002",
+            "order": 2,
+            "customPalettePresetLayouts": [
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-002",
+                    "number": 1,
+                    "positionXPermil": -450000,
+                    "positionYPermil": 300000,
+                    "scalePermil": 1000,
+                    "layer": 1
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-002",
+                    "number": 2,
+                    "positionXPermil": -450000,
+                    "positionYPermil": 100000,
+                    "scalePermil": 1000,
+                    "layer": 2
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-002",
+                    "number": 3,
+                    "positionXPermil": -450000,
+                    "positionYPermil": -100000,
+                    "scalePermil": 1000,
+                    "layer": 3
+                }
+            ]
+        }
+    },
+    {
+        "id": "ctm_preset_grp-003",
+        "data": {
+            "id": "ctm_preset_grp-003",
+            "nameLangId": "la-ctm_preset_grp-003",
+            "order": 3,
+            "customPalettePresetLayouts": [
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-003",
+                    "number": 1,
+                    "positionXPermil": 450000,
+                    "positionYPermil": -300000,
+                    "scalePermil": 1000,
+                    "layer": 1
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-003",
+                    "number": 2,
+                    "positionXPermil": 450000,
+                    "positionYPermil": -100000,
+                    "scalePermil": 1000,
+                    "layer": 2
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-003",
+                    "number": 3,
+                    "positionXPermil": 450000,
+                    "positionYPermil": 100000,
+                    "scalePermil": 1000,
+                    "layer": 3
+                }
+            ]
+        }
+    },
+    {
+        "id": "ctm_preset_grp-004",
+        "data": {
+            "id": "ctm_preset_grp-004",
+            "nameLangId": "la-ctm_preset_grp-004",
+            "order": 4,
+            "customPalettePresetLayouts": [
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-004",
+                    "number": 1,
+                    "positionXPermil": 450000,
+                    "positionYPermil": 300000,
+                    "scalePermil": 1000,
+                    "layer": 1
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-004",
+                    "number": 2,
+                    "positionXPermil": 450000,
+                    "positionYPermil": 100000,
+                    "scalePermil": 1000,
+                    "layer": 2
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-004",
+                    "number": 3,
+                    "positionXPermil": 450000,
+                    "positionYPermil": -100000,
+                    "scalePermil": 1000,
+                    "layer": 3
+                }
+            ]
+        }
+    },
+    {
+        "id": "ctm_preset_grp-005",
+        "data": {
+            "id": "ctm_preset_grp-005",
+            "nameLangId": "la-ctm_preset_grp-005",
+            "order": 5,
+            "customPalettePresetLayouts": [
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-005",
+                    "number": 1,
+                    "positionXPermil": 450000,
+                    "positionYPermil": -300000,
+                    "scalePermil": 1000,
+                    "layer": 1
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-005",
+                    "number": 2,
+                    "positionYPermil": -300000,
+                    "scalePermil": 1000,
+                    "layer": 2
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-005",
+                    "number": 3,
+                    "positionXPermil": -450000,
+                    "positionYPermil": -300000,
+                    "scalePermil": 1000,
+                    "layer": 3
+                }
+            ]
+        }
+    },
+    {
+        "id": "ctm_preset_grp-006",
+        "data": {
+            "id": "ctm_preset_grp-006",
+            "nameLangId": "la-ctm_preset_grp-006",
+            "order": 6,
+            "customPalettePresetLayouts": [
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-006",
+                    "number": 1,
+                    "positionXPermil": -450000,
+                    "positionYPermil": 300000,
+                    "scalePermil": 1000,
+                    "layer": 1
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-006",
+                    "number": 2,
+                    "positionYPermil": 300000,
+                    "scalePermil": 1000,
+                    "layer": 2
+                },
+                {
+                    "customPalettePresetLayoutGroupId": "ctm_preset_grp-006",
+                    "number": 3,
+                    "positionXPermil": 450000,
+                    "positionYPermil": 300000,
+                    "scalePermil": 1000,
+                    "layer": 3
+                }
+            ]
+        }
+    }
+]

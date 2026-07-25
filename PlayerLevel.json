@@ -1,0 +1,929 @@
+[
+    {
+        "level": 1,
+        "data": {
+            "level": 1
+        }
+    },
+    {
+        "level": 2,
+        "data": {
+            "level": 2,
+            "exp": "250",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 3,
+        "data": {
+            "level": 3,
+            "exp": "750",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 4,
+        "data": {
+            "level": 4,
+            "exp": "1500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 5,
+        "data": {
+            "level": 5,
+            "exp": "2500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 6,
+        "data": {
+            "level": 6,
+            "exp": "3750",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 7,
+        "data": {
+            "level": 7,
+            "exp": "5250",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 8,
+        "data": {
+            "level": 8,
+            "exp": "7000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 9,
+        "data": {
+            "level": 9,
+            "exp": "9000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 10,
+        "data": {
+            "level": 10,
+            "exp": "11500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 11,
+        "data": {
+            "level": 11,
+            "exp": "14500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 12,
+        "data": {
+            "level": 12,
+            "exp": "18000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 13,
+        "data": {
+            "level": 13,
+            "exp": "22000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 14,
+        "data": {
+            "level": 14,
+            "exp": "26500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 15,
+        "data": {
+            "level": 15,
+            "exp": "31500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 16,
+        "data": {
+            "level": 16,
+            "exp": "37000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 17,
+        "data": {
+            "level": 17,
+            "exp": "43000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 18,
+        "data": {
+            "level": 18,
+            "exp": "49500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 19,
+        "data": {
+            "level": 19,
+            "exp": "56500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "level": 20,
+        "data": {
+            "level": 20,
+            "exp": "64000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 21,
+        "data": {
+            "level": 21,
+            "exp": "72000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 22,
+        "data": {
+            "level": 22,
+            "exp": "80500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 23,
+        "data": {
+            "level": 23,
+            "exp": "89500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 24,
+        "data": {
+            "level": 24,
+            "exp": "99000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 25,
+        "data": {
+            "level": 25,
+            "exp": "109000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 26,
+        "data": {
+            "level": 26,
+            "exp": "119500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 27,
+        "data": {
+            "level": 27,
+            "exp": "130500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 28,
+        "data": {
+            "level": 28,
+            "exp": "142000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 29,
+        "data": {
+            "level": 29,
+            "exp": "154000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 30,
+        "data": {
+            "level": 30,
+            "exp": "166500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 31,
+        "data": {
+            "level": 31,
+            "exp": "179500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 32,
+        "data": {
+            "level": 32,
+            "exp": "193000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 33,
+        "data": {
+            "level": 33,
+            "exp": "207000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 34,
+        "data": {
+            "level": 34,
+            "exp": "221500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 35,
+        "data": {
+            "level": 35,
+            "exp": "236500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 36,
+        "data": {
+            "level": 36,
+            "exp": "251500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 37,
+        "data": {
+            "level": 37,
+            "exp": "266500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 38,
+        "data": {
+            "level": 38,
+            "exp": "281500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 39,
+        "data": {
+            "level": 39,
+            "exp": "296500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 40,
+        "data": {
+            "level": 40,
+            "exp": "311500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 41,
+        "data": {
+            "level": 41,
+            "exp": "326500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 42,
+        "data": {
+            "level": 42,
+            "exp": "341500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 43,
+        "data": {
+            "level": 43,
+            "exp": "356500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 44,
+        "data": {
+            "level": 44,
+            "exp": "371500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 45,
+        "data": {
+            "level": 45,
+            "exp": "386500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 46,
+        "data": {
+            "level": 46,
+            "exp": "401500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 47,
+        "data": {
+            "level": 47,
+            "exp": "416500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 48,
+        "data": {
+            "level": 48,
+            "exp": "431500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 49,
+        "data": {
+            "level": 49,
+            "exp": "446500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "level": 50,
+        "data": {
+            "level": 50,
+            "exp": "461500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ]
+        }
+    }
+]

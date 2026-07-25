@@ -1,0 +1,34 @@
+[
+    {
+        "id": "music_mv_category-live",
+        "data": {
+            "id": "music_mv_category-live",
+            "labelNameLangId": "la-music_mv_category-live",
+            "isDefaultForCompatibleDevice": true,
+            "isDefaultForIncompatibleDevice": true,
+            "isDisplayFilter": true,
+            "filterNameLangId": "la-music_mv_category-filter-live",
+            "order": 3
+        }
+    },
+    {
+        "id": "music_mv_category-mv",
+        "data": {
+            "id": "music_mv_category-mv",
+            "labelNameLangId": "la-music_mv_category-mv",
+            "isDefaultForCompatibleDevice": true,
+            "isDefaultForIncompatibleDevice": true,
+            "isDisplayFilter": true,
+            "filterNameLangId": "la-music_mv_category-filter-mv",
+            "order": 1
+        }
+    },
+    {
+        "id": "music_mv_category-mv_light",
+        "data": {
+            "id": "music_mv_category-mv_light",
+            "labelNameLangId": "la-music_mv_category-mv_light",
+            "order": 2
+        }
+    }
+]

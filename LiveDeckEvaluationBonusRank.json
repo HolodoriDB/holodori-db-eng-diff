@@ -1,0 +1,122 @@
+[
+    {
+        "type": 4,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_A",
+            "thresholdPermilUp": 1000
+        }
+    },
+    {
+        "type": 4,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_A",
+            "plus": 1,
+            "thresholdPermilUp": 1100
+        }
+    },
+    {
+        "type": 3,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_B",
+            "thresholdPermilUp": 700
+        }
+    },
+    {
+        "type": 3,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_B",
+            "plus": 1,
+            "thresholdPermilUp": 800
+        }
+    },
+    {
+        "type": 2,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_C",
+            "thresholdPermilUp": 500
+        }
+    },
+    {
+        "type": 2,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_C",
+            "plus": 1,
+            "thresholdPermilUp": 600
+        }
+    },
+    {
+        "type": 1,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_D"
+        }
+    },
+    {
+        "type": 1,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_D",
+            "plus": 1,
+            "thresholdPermilUp": 400
+        }
+    },
+    {
+        "type": 5,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "thresholdPermilUp": 1300
+        }
+    },
+    {
+        "type": 5,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 1,
+            "thresholdPermilUp": 1400
+        }
+    },
+    {
+        "type": 5,
+        "plus": 2,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 2,
+            "thresholdPermilUp": 1500
+        }
+    },
+    {
+        "type": 5,
+        "plus": 3,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 3,
+            "thresholdPermilUp": 1650
+        }
+    },
+    {
+        "type": 5,
+        "plus": 4,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 4,
+            "thresholdPermilUp": 1800
+        }
+    },
+    {
+        "type": 5,
+        "plus": 5,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 5,
+            "thresholdPermilUp": 2000
+        }
+    }
+]

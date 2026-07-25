@@ -1,0 +1,29 @@
+[
+    {
+        "perfect_fever_point_sum_from": 0,
+        "data": {
+            "requiredFeverPointRatioPermil": 700
+        }
+    },
+    {
+        "perfect_fever_point_sum_from": 10000,
+        "data": {
+            "perfectFeverPointSumFrom": 10000,
+            "requiredFeverPointRatioPermil": 800
+        }
+    },
+    {
+        "perfect_fever_point_sum_from": 20000,
+        "data": {
+            "perfectFeverPointSumFrom": 20000,
+            "requiredFeverPointRatioPermil": 850
+        }
+    },
+    {
+        "perfect_fever_point_sum_from": 50000,
+        "data": {
+            "perfectFeverPointSumFrom": 50000,
+            "requiredFeverPointRatioPermil": 900
+        }
+    }
+]

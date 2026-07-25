@@ -1,0 +1,702 @@
+[
+    {
+        "id": "la-loading_display-tips-achievement-001-text",
+        "data": {
+            "id": "la-loading_display-tips-achievement-001-text",
+            "text": "Complete achievements to get Holomem EXP and titles!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-achievement-001-title",
+        "data": {
+            "id": "la-loading_display-tips-achievement-001-title",
+            "text": "Achievs"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-001-text",
+        "data": {
+            "id": "la-loading_display-tips-card-001-text",
+            "text": "Level up to boost your parameters!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-001-title",
+        "data": {
+            "id": "la-loading_display-tips-card-001-title",
+            "text": "Member Level"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-002-text",
+        "data": {
+            "id": "la-loading_display-tips-card-002-text",
+            "text": "You can earn Lesson Pts doing things like Holowork!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-002-title",
+        "data": {
+            "id": "la-loading_display-tips-card-002-title",
+            "text": "Lesson Pt"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-003-text",
+        "data": {
+            "id": "la-loading_display-tips-card-003-text",
+            "text": "Unlock Nodes within range to earn bonuses!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-003-title",
+        "data": {
+            "id": "la-loading_display-tips-card-003-title",
+            "text": "Connect Nodes"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-004-text",
+        "data": {
+            "id": "la-loading_display-tips-card-004-text",
+            "text": "The maximum level will increase through special training!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-004-title",
+        "data": {
+            "id": "la-loading_display-tips-card-004-title",
+            "text": "Member Training"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-005-text",
+        "data": {
+            "id": "la-loading_display-tips-card-005-text",
+            "text": "Training Items can be obtained as rewards from completing Live and more!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-005-title",
+        "data": {
+            "id": "la-loading_display-tips-card-005-title",
+            "text": "Training Items"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-006-text",
+        "data": {
+            "id": "la-loading_display-tips-card-006-text",
+            "text": "You can strengthen your skills by blooming!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-006-title",
+        "data": {
+            "id": "la-loading_display-tips-card-006-title",
+            "text": "Member Bloom"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-007-text",
+        "data": {
+            "id": "la-loading_display-tips-card-007-text",
+            "text": "Training members will increase your Unit Score!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-007-title",
+        "data": {
+            "id": "la-loading_display-tips-card-007-title",
+            "text": "Unit Score"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-008-text",
+        "data": {
+            "id": "la-loading_display-tips-card-008-text",
+            "text": "There are 3 types of members!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-008-title",
+        "data": {
+            "id": "la-loading_display-tips-card-008-title",
+            "text": "Member Type"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-009-text",
+        "data": {
+            "id": "la-loading_display-tips-card-009-text",
+            "text": "Skill effects activate during Live!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-009-title",
+        "data": {
+            "id": "la-loading_display-tips-card-009-title",
+            "text": "Member Skills"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-001-text",
+        "data": {
+            "id": "la-loading_display-tips-character-001-text",
+            "text": "Rank up to earn Materials for unlocking the Holomem Board!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-001-title",
+        "data": {
+            "id": "la-loading_display-tips-character-001-title",
+            "text": "Holomem Rank"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-002-text",
+        "data": {
+            "id": "la-loading_display-tips-character-002-text",
+            "text": "You can strengthen your units by freeing up Nodes!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-002-title",
+        "data": {
+            "id": "la-loading_display-tips-character-002-title",
+            "text": "Holomem Board"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-003-text",
+        "data": {
+            "id": "la-loading_display-tips-character-003-text",
+            "text": "You can change your outfit skill by changing your Outfit!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-003-title",
+        "data": {
+            "id": "la-loading_display-tips-character-003-title",
+            "text": "Outfit Skill"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-exchange-001-text",
+        "data": {
+            "id": "la-loading_display-tips-exchange-001-text",
+            "text": "When you’re out of items, take a trip to NePoLaBo Mart!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-exchange-001-title",
+        "data": {
+            "id": "la-loading_display-tips-exchange-001-title",
+            "text": "Item Exchange"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-exchange-coin-001-text",
+        "data": {
+            "id": "la-loading_display-tips-exchange-coin-001-text",
+            "text": "Convert your boosts into coins at the Mega Sphere Coin Exchange!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-exchange-coin-001-title",
+        "data": {
+            "id": "la-loading_display-tips-exchange-coin-001-title",
+            "text": "Boost Transformation"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-friend-001-text",
+        "data": {
+            "id": "la-loading_display-tips-friend-001-text",
+            "text": "Once you become friends, you can invite them to play multiplayer!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-friend-001-title",
+        "data": {
+            "id": "la-loading_display-tips-friend-001-title",
+            "text": "Friends"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-friend-002-text",
+        "data": {
+            "id": "la-loading_display-tips-friend-002-text",
+            "text": "You can send Friend Requests from your friends' profiles!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-friend-002-title",
+        "data": {
+            "id": "la-loading_display-tips-friend-002-title",
+            "text": "Friend Requests"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-gacha-001-text",
+        "data": {
+            "id": "la-loading_display-tips-gacha-001-text",
+            "text": "Collect Gacha Pts and exchange for members!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-gacha-001-title",
+        "data": {
+            "id": "la-loading_display-tips-gacha-001-title",
+            "text": "Gacha Pts"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-001-text",
+        "data": {
+            "id": "la-loading_display-tips-live-001-text",
+            "text": "There are 4 types of difficulty!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-001-title",
+        "data": {
+            "id": "la-loading_display-tips-live-001-title",
+            "text": "Live Difficulty"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-002-text",
+        "data": {
+            "id": "la-loading_display-tips-live-002-text",
+            "text": "Earn rewards for Live for each song!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-002-title",
+        "data": {
+            "id": "la-loading_display-tips-live-002-title",
+            "text": "Live Completion Rewards"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-003-text",
+        "data": {
+            "id": "la-loading_display-tips-live-003-text",
+            "text": "Songs exchanged with Music Discs can be played at Live!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-003-title",
+        "data": {
+            "id": "la-loading_display-tips-live-003-title",
+            "text": "Adding live music"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-004-text",
+        "data": {
+            "id": "la-loading_display-tips-live-004-text",
+            "text": "You can play the Live automatically by consuming the auto ticket!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-004-title",
+        "data": {
+            "id": "la-loading_display-tips-live-004-title",
+            "text": "Auto Live"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-005-text",
+        "data": {
+            "id": "la-loading_display-tips-live-005-text",
+            "text": "You can play from \"MULTI\"!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-005-title",
+        "data": {
+            "id": "la-loading_display-tips-live-005-title",
+            "text": "Live Multiplayer"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-006-text",
+        "data": {
+            "id": "la-loading_display-tips-live-006-text",
+            "text": "Consume Boost to level up rewards!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-006-title",
+        "data": {
+            "id": "la-loading_display-tips-live-006-title",
+            "text": "Live Boost"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-007-text",
+        "data": {
+            "id": "la-loading_display-tips-live-007-text",
+            "text": "Create and publish Charts, as well as play Charts created by others!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-007-title",
+        "data": {
+            "id": "la-loading_display-tips-live-007-title",
+            "text": "Create Charts"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-001-text",
+            "text": "Consume Boost to level up rewards!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-001-title",
+            "text": "Minigame Boost"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-circuit-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-circuit-001-text",
+            "text": "Use Dashes to avoid obstacles!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-circuit-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-circuit-001-title",
+            "text": "Mega Circuit Hints"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-combo-card-game-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-combo-card-game-001-text",
+            "text": "Pay attention to the same color bonus when making a hand!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-combo-card-game-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-combo-card-game-001-title",
+            "text": "Pokajan! Hints"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-cooking-puzzle-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-cooking-puzzle-001-text",
+            "text": "If an ingredient gets hidden, try pressing the shuffle button!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-cooking-puzzle-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-cooking-puzzle-001-title",
+            "text": "Collect Cooking UP Hints"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-high-low-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-high-low-001-text",
+            "text": "Aim to utilize Double Up to earn a massive amount of coins!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-high-low-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-high-low-001-title",
+            "text": "Card of Greed Hints"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-jump-rope-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-jump-rope-001-text",
+            "text": "When the person spinning the rope changes, the speed and way it is spun will change!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-jump-rope-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-jump-rope-001-title",
+            "text": "Hoppin' Rope Tips"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mission-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mission-001-text",
+            "text": "Complete missions and level up!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mission-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mission-001-title",
+            "text": "Mission Pass"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-001-text",
+        "data": {
+            "id": "la-loading_display-tips-park-001-text",
+            "text": "Earn rewards by ranking up!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-001-title",
+        "data": {
+            "id": "la-loading_display-tips-park-001-title",
+            "text": "Dream Rank"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-002-text",
+        "data": {
+            "id": "la-loading_display-tips-park-002-text",
+            "text": "You can receive it once a day at Holohome!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-002-title",
+        "data": {
+            "id": "la-loading_display-tips-park-002-title",
+            "text": "Gift"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-003-text",
+        "data": {
+            "id": "la-loading_display-tips-park-003-text",
+            "text": "Don’t forget to upgrade to add brand new effects!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-003-title",
+        "data": {
+            "id": "la-loading_display-tips-park-003-title",
+            "text": "Upgrade Facility"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-004-text",
+        "data": {
+            "id": "la-loading_display-tips-park-004-text",
+            "text": "You can take photos freely in the park!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-004-title",
+        "data": {
+            "id": "la-loading_display-tips-park-004-title",
+            "text": "Photo Mode"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-005-text",
+        "data": {
+            "id": "la-loading_display-tips-park-005-text",
+            "text": "Select the facility you want to go to and press \"Move\" to move there instantly!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-005-title",
+        "data": {
+            "id": "la-loading_display-tips-park-005-title",
+            "text": "Map"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-006-text",
+        "data": {
+            "id": "la-loading_display-tips-park-006-text",
+            "text": "You can change the time at Promise Tower!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-006-title",
+        "data": {
+            "id": "la-loading_display-tips-park-006-title",
+            "text": "Time"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-007-text",
+        "data": {
+            "id": "la-loading_display-tips-park-007-text",
+            "text": "Use them to communicate in Multiplayer!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-007-title",
+        "data": {
+            "id": "la-loading_display-tips-park-007-title",
+            "text": "Stickers"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-008-text",
+        "data": {
+            "id": "la-loading_display-tips-park-008-text",
+            "text": "Collect Memories to increase your Units' parameters!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-008-title",
+        "data": {
+            "id": "la-loading_display-tips-park-008-title",
+            "text": "Memory"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-009-text",
+        "data": {
+            "id": "la-loading_display-tips-park-009-text",
+            "text": "You can relive the story at HOLO Cinemas!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-009-title",
+        "data": {
+            "id": "la-loading_display-tips-park-009-title",
+            "text": "Story"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-010-text",
+        "data": {
+            "id": "la-loading_display-tips-park-010-text",
+            "text": "They’re scattered in the different areas, so be on the lookout!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-010-title",
+        "data": {
+            "id": "la-loading_display-tips-park-010-title",
+            "text": "Treasure Chest"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-011-text",
+        "data": {
+            "id": "la-loading_display-tips-park-011-text",
+            "text": "You can check how many there are in the area from the Map!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-011-title",
+        "data": {
+            "id": "la-loading_display-tips-park-011-title",
+            "text": "Treasure Chest Amount"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-profile-001-text",
+        "data": {
+            "id": "la-loading_display-tips-profile-001-text",
+            "text": "You can set earned Titles to your profile!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-profile-001-title",
+        "data": {
+            "id": "la-loading_display-tips-profile-001-title",
+            "text": "Badge"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-001-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-001-text",
+            "text": "Advance the Story by clearing Quests!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-001-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-001-title",
+            "text": "Main Quest"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-002-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-002-text",
+            "text": "Unlock holomems by completing Quests!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-002-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-002-title",
+            "text": "Holomem Quest"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-003-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-003-text",
+            "text": "Complete quests to earn all sorts of rewards!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-003-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-003-title",
+            "text": "Area Quest"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-004-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-004-text",
+            "text": "Daily Quests refresh everyday!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-004-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-004-title",
+            "text": "Daily Quest"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-005-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-005-text",
+            "text": "There are 4 types of Quests!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-005-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-005-title",
+            "text": "Quest Types"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-work-001-text",
+        "data": {
+            "id": "la-loading_display-tips-work-001-text",
+            "text": "Organize your team and participate in activities to earn rewards!"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-work-001-title",
+        "data": {
+            "id": "la-loading_display-tips-work-001-title",
+            "text": "Holowork"
+        }
+    }
+]

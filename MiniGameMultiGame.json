@@ -1,0 +1,68 @@
+[
+    {
+        "mini_game_type": 2,
+        "multi_game_match_type": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_CIRCUIT",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+            "listAssetId": "circuit",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "order": 2
+        }
+    },
+    {
+        "mini_game_type": 4,
+        "multi_game_match_type": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_COMBO_CARD_GAME",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+            "listAssetId": "combocardgame",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "order": 3
+        }
+    },
+    {
+        "mini_game_type": 1,
+        "multi_game_match_type": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+            "listAssetId": "jumprope",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "order": 1
+        }
+    },
+    {
+        "mini_game_type": 1,
+        "multi_game_match_type": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_RANDOM",
+            "listAssetId": "jumprope",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "order": 1
+        }
+    },
+    {
+        "mini_game_type": 2,
+        "multi_game_match_type": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_CIRCUIT",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_RANDOM",
+            "listAssetId": "circuit",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-02",
+            "order": 2
+        }
+    },
+    {
+        "mini_game_type": 4,
+        "multi_game_match_type": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_COMBO_CARD_GAME",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_RANDOM",
+            "listAssetId": "combocardgame",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "order": 3
+        }
+    }
+]

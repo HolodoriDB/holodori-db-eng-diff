@@ -1,0 +1,631 @@
+[
+    {
+        "id": "facility-a02-facilitylighting",
+        "data": {
+            "id": "facility-a02-facilitylighting",
+            "nameLangId": "la-facility-facility-a02-facilitylighting-name",
+            "areaId": "area-a02-game",
+            "order": 999
+        }
+    },
+    {
+        "id": "facility-a01-athletic",
+        "data": {
+            "id": "facility-a01-athletic",
+            "nameLangId": "la-facility-a01-athletic-name",
+            "descriptionLangId": "la-facility-a01-athletic-description",
+            "areaId": "area-a01",
+            "order": 3
+        }
+    },
+    {
+        "id": "facility-a01-balloonstore",
+        "data": {
+            "id": "facility-a01-balloonstore",
+            "nameLangId": "la-facility-a01-balloonstore-name",
+            "descriptionLangId": "la-facility-a01-balloonstore-description",
+            "areaId": "area-a01",
+            "order": 12
+        }
+    },
+    {
+        "id": "facility-a01-candystore",
+        "data": {
+            "id": "facility-a01-candystore",
+            "nameLangId": "la-facility-a01-candystore-name",
+            "descriptionLangId": "la-facility-a01-candystore-description",
+            "areaId": "area-a01",
+            "order": 7
+        }
+    },
+    {
+        "id": "facility-a01-clocktower",
+        "data": {
+            "id": "facility-a01-clocktower",
+            "nameLangId": "la-facility-a01-clocktower-name",
+            "descriptionLangId": "la-facility-a01-clocktower-description",
+            "areaId": "area-a01",
+            "order": 10
+        }
+    },
+    {
+        "id": "facility-a01-exchangebooth",
+        "data": {
+            "id": "facility-a01-exchangebooth",
+            "nameLangId": "la-facility-a01-exchangebooth-name",
+            "descriptionLangId": "la-facility-a01-exchangebooth-description",
+            "areaId": "area-a01",
+            "order": 8
+        }
+    },
+    {
+        "id": "facility-a01-facerock",
+        "data": {
+            "id": "facility-a01-facerock",
+            "nameLangId": "la-facility-a01-facerock-name",
+            "descriptionLangId": "la-facility-a01-facerock-description",
+            "areaId": "area-a01",
+            "order": 11
+        }
+    },
+    {
+        "id": "facility-a01-ferriswheel",
+        "data": {
+            "id": "facility-a01-ferriswheel",
+            "nameLangId": "la-facility-a01-ferriswheel-name",
+            "descriptionLangId": "la-facility-a01-ferriswheel-description",
+            "areaId": "area-a01",
+            "order": 9
+        }
+    },
+    {
+        "id": "facility-a01-house",
+        "data": {
+            "id": "facility-a01-house",
+            "nameLangId": "la-facility-a01-house-name",
+            "descriptionLangId": "la-facility-a01-house-description",
+            "areaId": "area-a01",
+            "order": 2
+        }
+    },
+    {
+        "id": "facility-a01-house-achievement",
+        "data": {
+            "id": "facility-a01-house-achievement",
+            "nameLangId": "la-facility-a01-house-achievement-name",
+            "areaId": "area-a01",
+            "order": 999
+        }
+    },
+    {
+        "id": "facility-a01-livehouse",
+        "data": {
+            "id": "facility-a01-livehouse",
+            "nameLangId": "la-facility-a01-livehouse-name",
+            "descriptionLangId": "la-facility-a01-livehouse-description",
+            "areaId": "area-a01",
+            "order": 14
+        }
+    },
+    {
+        "id": "facility-a01-livestage",
+        "data": {
+            "id": "facility-a01-livestage",
+            "nameLangId": "la-facility-a01-livestage-name",
+            "descriptionLangId": "la-facility-a01-livestage-description",
+            "areaId": "area-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a01-multiplay",
+        "data": {
+            "id": "facility-a01-multiplay",
+            "nameLangId": "la-facility-a01-multiplay-name",
+            "descriptionLangId": "la-facility-a01-multiplay-description",
+            "areaId": "area-a01",
+            "order": 4
+        }
+    },
+    {
+        "id": "facility-a01-penlightstore",
+        "data": {
+            "id": "facility-a01-penlightstore",
+            "nameLangId": "la-facility-a01-penlightstore-name",
+            "descriptionLangId": "la-facility-a01-penlightstore-description",
+            "areaId": "area-a01",
+            "order": 16
+        }
+    },
+    {
+        "id": "facility-a01-prison",
+        "data": {
+            "id": "facility-a01-prison",
+            "nameLangId": "la-facility-a01-prison-name",
+            "descriptionLangId": "la-facility-a01-prison-description",
+            "areaId": "area-a01",
+            "order": 17
+        }
+    },
+    {
+        "id": "facility-a01-restaurant",
+        "data": {
+            "id": "facility-a01-restaurant",
+            "nameLangId": "la-facility-a01-restaurant-name",
+            "descriptionLangId": "la-facility-a01-restaurant-description",
+            "areaId": "area-a01",
+            "order": 18
+        }
+    },
+    {
+        "id": "facility-a01-secretbase",
+        "data": {
+            "id": "facility-a01-secretbase",
+            "nameLangId": "la-facility-a01-secretbase-name",
+            "descriptionLangId": "la-facility-a01-secretbase-description",
+            "areaId": "area-a01",
+            "order": 19
+        }
+    },
+    {
+        "id": "facility-a01-signboard2",
+        "data": {
+            "id": "facility-a01-signboard2",
+            "nameLangId": "la-facility-a01-signboard2-name",
+            "areaId": "area-a01",
+            "order": 21
+        }
+    },
+    {
+        "id": "facility-a01-signboard3",
+        "data": {
+            "id": "facility-a01-signboard3",
+            "nameLangId": "la-facility-a01-signboard3-name",
+            "areaId": "area-a01",
+            "order": 22
+        }
+    },
+    {
+        "id": "facility-a01-station",
+        "data": {
+            "id": "facility-a01-station",
+            "nameLangId": "la-facility-a01-station-name",
+            "descriptionLangId": "la-facility-a01-station-description",
+            "areaId": "area-a01",
+            "order": 6
+        }
+    },
+    {
+        "id": "facility-a01-theater",
+        "data": {
+            "id": "facility-a01-theater",
+            "nameLangId": "la-facility-a01-theater-name",
+            "descriptionLangId": "la-facility-a01-theater-description",
+            "areaId": "area-a01",
+            "order": 5
+        }
+    },
+    {
+        "id": "facility-a02-bartable",
+        "data": {
+            "id": "facility-a02-bartable",
+            "nameLangId": "la-facility-a02-bartable-name",
+            "descriptionLangId": "la-facility-a02-bartable-description",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-blackjack",
+        "data": {
+            "id": "facility-a02-blackjack",
+            "nameLangId": "la-facility-a02-blackjack-name",
+            "descriptionLangId": "la-facility-a02-blackjack-description",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-coinbooth",
+        "data": {
+            "id": "facility-a02-coinbooth",
+            "nameLangId": "la-facility-a02-coinbooth-name",
+            "descriptionLangId": "la-facility-a02-coinbooth-description",
+            "areaId": "area-a02-lobby",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-cranegame",
+        "data": {
+            "id": "facility-a02-cranegame",
+            "nameLangId": "la-facility-a02-cranegame-name",
+            "descriptionLangId": "la-facility-a02-cranegame-description",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-dancegame",
+        "data": {
+            "id": "facility-a02-dancegame",
+            "nameLangId": "la-facility-a02-dancegame-name",
+            "descriptionLangId": "la-facility-a02-dancegame-description",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-fightinggame",
+        "data": {
+            "id": "facility-a02-fightinggame",
+            "nameLangId": "la-facility-a02-fightinggame-name",
+            "descriptionLangId": "la-facility-a02-fightinggame-description",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-highandlow",
+        "data": {
+            "id": "facility-a02-highandlow",
+            "nameLangId": "la-facility-a02-highandlow-name",
+            "descriptionLangId": "la-facility-a02-highandlow-description",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-holocircuit",
+        "data": {
+            "id": "facility-a02-holocircuit",
+            "nameLangId": "la-facility-a02-holocircuit-name",
+            "descriptionLangId": "la-facility-a02-holocircuit-description",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-itemgacha",
+        "data": {
+            "id": "facility-a02-itemgacha",
+            "nameLangId": "la-facility-a02-itemgacha-name",
+            "descriptionLangId": "la-facility-a02-itemgacha-description",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-materialbooth",
+        "data": {
+            "id": "facility-a02-materialbooth",
+            "nameLangId": "la-facility-a02-materialbooth-name",
+            "descriptionLangId": "la-facility-a02-materialbooth-description",
+            "areaId": "area-a02-lobby",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-photobooth",
+        "data": {
+            "id": "facility-a02-photobooth",
+            "nameLangId": "la-facility-a02-photobooth-name",
+            "descriptionLangId": "la-facility-a02-photobooth-description",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-pokertable",
+        "data": {
+            "id": "facility-a02-pokertable",
+            "nameLangId": "la-facility-a02-pokertable-name",
+            "descriptionLangId": "la-facility-a02-pokertable-description",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-racebetting",
+        "data": {
+            "id": "facility-a02-racebetting",
+            "nameLangId": "la-facility-a02-racebetting-name",
+            "descriptionLangId": "la-facility-a02-racebetting-description",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-scratchstore",
+        "data": {
+            "id": "facility-a02-scratchstore",
+            "nameLangId": "la-facility-a02-scratchstore-name",
+            "descriptionLangId": "la-facility-a02-scratchstore-description",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-shootinggame",
+        "data": {
+            "id": "facility-a02-shootinggame",
+            "nameLangId": "la-facility-a02-shootinggame-name",
+            "descriptionLangId": "la-facility-a02-shootinggame-description",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-signboard1",
+        "data": {
+            "id": "facility-a02-signboard1",
+            "nameLangId": "la-facility-a02-signboard1-name",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-signboard2",
+        "data": {
+            "id": "facility-a02-signboard2",
+            "nameLangId": "la-facility-a02-signboard2-name",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-signboard3",
+        "data": {
+            "id": "facility-a02-signboard3",
+            "nameLangId": "la-facility-a02-signboard3-name",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-signboard4",
+        "data": {
+            "id": "facility-a02-signboard4",
+            "nameLangId": "la-facility-a02-signboard4-name",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-slotgame",
+        "data": {
+            "id": "facility-a02-slotgame",
+            "nameLangId": "la-facility-a02-slotgame-name",
+            "descriptionLangId": "la-facility-a02-slotgame-description",
+            "areaId": "area-a02-casino",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-station",
+        "data": {
+            "id": "facility-a02-station",
+            "nameLangId": "la-facility-a02-station-name",
+            "descriptionLangId": "la-facility-a02-station-description",
+            "areaId": "area-a02-lobby",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-fixed_symbol",
+        "data": {
+            "id": "facility-gimmick-fixed_symbol",
+            "nameLangId": "la-facility-gimmick-fixed_symbol-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-random_symbol",
+        "data": {
+            "id": "facility-gimmick-random_symbol",
+            "nameLangId": "la-facility-gimmick-random_symbol-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-spot",
+        "data": {
+            "id": "facility-gimmick-spot",
+            "nameLangId": "la-facility-gimmick-spot-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-treasure",
+        "data": {
+            "id": "facility-gimmick-treasure",
+            "nameLangId": "la-facility-gimmick-treasure-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a01-entrance",
+        "data": {
+            "id": "facility-a01-entrance",
+            "nameLangId": "la-facility-a01-entrance-name",
+            "descriptionLangId": "la-facility-a01-entrance-description",
+            "areaId": "area-a01",
+            "order": 13
+        }
+    },
+    {
+        "id": "facility-a02-dome",
+        "data": {
+            "id": "facility-a02-dome",
+            "nameLangId": "la-facility-a02-dome-name",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-lightingchange",
+        "data": {
+            "id": "facility-a02-lightingchange",
+            "nameLangId": "la-facility-a02-lightingchange-name",
+            "areaId": "area-a02-game",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-entrance",
+        "data": {
+            "id": "facility-a02-entrance",
+            "nameLangId": "la-facility-a02-entrance-name",
+            "areaId": "area-a02-lobby",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a02-entrance-night",
+        "data": {
+            "id": "facility-a02-entrance-night",
+            "nameLangId": "la-facility-a02-entrance-night-name",
+            "areaId": "area-a02-lobby",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a01-memoryboard",
+        "data": {
+            "id": "facility-a01-memoryboard",
+            "nameLangId": "la-facility-a01-memoryboard-name",
+            "descriptionLangId": "la-facility-a01-memoryboard-description",
+            "areaId": "area-a01",
+            "order": 15
+        }
+    },
+    {
+        "id": "facility-a01-square",
+        "data": {
+            "id": "facility-a01-square",
+            "nameLangId": "la-facility-a01-square-name",
+            "descriptionLangId": "la-facility-a01-square-description",
+            "areaId": "area-a01",
+            "order": 23
+        }
+    },
+    {
+        "id": "facility-a01-signboard1",
+        "data": {
+            "id": "facility-a01-signboard1",
+            "nameLangId": "la-facility-a01-signboard1-name",
+            "areaId": "area-a01",
+            "order": 20
+        }
+    },
+    {
+        "id": "facility-a02-clocklever",
+        "data": {
+            "id": "facility-a02-clocklever",
+            "nameLangId": "la-facility-a02-clocklever-name",
+            "descriptionLangId": "la-facility-a02-clocklever-description",
+            "areaId": "area-a02-lobby",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a01-ferriswheelinside1",
+        "data": {
+            "id": "facility-a01-ferriswheelinside1",
+            "nameLangId": "la-facility-a01-ferriswheelinside-name",
+            "descriptionLangId": "la-facility-a01-ferriswheelinside-description",
+            "areaId": "area-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a01-ferriswheelinside2",
+        "data": {
+            "id": "facility-a01-ferriswheelinside2",
+            "nameLangId": "la-facility-a01-ferriswheelinside-name",
+            "descriptionLangId": "la-facility-a01-ferriswheelinside-description",
+            "areaId": "area-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a01-ferriswheelinside3",
+        "data": {
+            "id": "facility-a01-ferriswheelinside3",
+            "nameLangId": "la-facility-a01-ferriswheelinside-name",
+            "descriptionLangId": "la-facility-a01-ferriswheelinside-description",
+            "areaId": "area-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a01-ferriswheelinside4",
+        "data": {
+            "id": "facility-a01-ferriswheelinside4",
+            "nameLangId": "la-facility-a01-ferriswheelinside-name",
+            "descriptionLangId": "la-facility-a01-ferriswheelinside-description",
+            "areaId": "area-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a01-gate2",
+        "data": {
+            "id": "facility-a01-gate2",
+            "nameLangId": "la-facility-a01-gate2-name",
+            "descriptionLangId": "la-facility-a01-gate2-description",
+            "areaId": "area-a01",
+            "order": 23
+        }
+    },
+    {
+        "id": "facility-a01-gate3",
+        "data": {
+            "id": "facility-a01-gate3",
+            "nameLangId": "la-facility-a01-gate3-name",
+            "descriptionLangId": "la-facility-a01-gate3-description",
+            "areaId": "area-a01",
+            "order": 24
+        }
+    },
+    {
+        "id": "facility-a01-gate4",
+        "data": {
+            "id": "facility-a01-gate4",
+            "nameLangId": "la-facility-a01-gate4-name",
+            "descriptionLangId": "la-facility-a01-gate4-description",
+            "areaId": "area-a01",
+            "order": 25
+        }
+    },
+    {
+        "id": "facility-a01-gate5",
+        "data": {
+            "id": "facility-a01-gate5",
+            "nameLangId": "la-facility-a01-gate5-name",
+            "descriptionLangId": "la-facility-a01-gate5-description",
+            "areaId": "area-a01",
+            "order": 26
+        }
+    },
+    {
+        "id": "facility-a01-gate6",
+        "data": {
+            "id": "facility-a01-gate6",
+            "nameLangId": "la-facility-a01-gate6-name",
+            "descriptionLangId": "la-facility-a01-gate6-description",
+            "areaId": "area-a01",
+            "order": 27
+        }
+    },
+    {
+        "id": "facility-a01-gate7",
+        "data": {
+            "id": "facility-a01-gate7",
+            "nameLangId": "la-facility-a01-gate7-name",
+            "descriptionLangId": "la-facility-a01-gate7-description",
+            "areaId": "area-a01",
+            "order": 28
+        }
+    }
+]

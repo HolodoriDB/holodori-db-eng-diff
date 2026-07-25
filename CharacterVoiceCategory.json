@@ -1,0 +1,34 @@
+[
+    {
+        "id": "character_voice_category-live",
+        "data": {
+            "id": "character_voice_category-live",
+            "nameLangId": "la-character_voice_category-live",
+            "order": 3
+        }
+    },
+    {
+        "id": "character_voice_category-member",
+        "data": {
+            "id": "character_voice_category-member",
+            "nameLangId": "la-character_voice_category-member",
+            "order": 2
+        }
+    },
+    {
+        "id": "character_voice_category-other",
+        "data": {
+            "id": "character_voice_category-other",
+            "nameLangId": "la-character_voice_category-other",
+            "order": 4
+        }
+    },
+    {
+        "id": "character_voice_category-system",
+        "data": {
+            "id": "character_voice_category-system",
+            "nameLangId": "la-character_voice_category-system",
+            "order": 1
+        }
+    }
+]

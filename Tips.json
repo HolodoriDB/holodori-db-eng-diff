@@ -1,0 +1,1292 @@
+[
+    {
+        "id": "tips-creative-chart",
+        "data": {
+            "id": "tips-creative-chart",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-creative-chart",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-creative-chart",
+        "data": {
+            "id": "tips-game_screen-creative-chart",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-creative-chart-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_MUSIC_CREATIVE_CHART_CREATE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-achievement",
+        "data": {
+            "id": "tips-achievement",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-achievement-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-card-upgrade-potential",
+        "data": {
+            "id": "tips-card-upgrade-potential",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-card-upgrade-potential-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-character-quest",
+        "data": {
+            "id": "tips-character-quest",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-character-quest-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-character-set",
+        "data": {
+            "id": "tips-character-set",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-character-set-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-circuit",
+        "data": {
+            "id": "tips-circuit",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-circuit-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-combo-card-game",
+        "data": {
+            "id": "tips-combo-card-game",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-combo-card-game-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-cooking-puzzle",
+        "data": {
+            "id": "tips-cooking-puzzle",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-cooking-puzzle-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-exchange-area01",
+        "data": {
+            "id": "tips-exchange-area01",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-exchange-area01-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-exchange-area02-training-item",
+        "data": {
+            "id": "tips-exchange-area02-training-item",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-exchange-area02-training-item-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-exchange-coin-area02",
+        "data": {
+            "id": "tips-exchange-coin-area02",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-exchange-coin-area02-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-achievement_top",
+        "data": {
+            "id": "tips-game_screen-achievement_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-achievement_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_ACHIEVEMENT_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-card_catalog",
+        "data": {
+            "id": "tips-game_screen-card_catalog",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-card_catalog-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_CARD_CATALOG",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-character_top",
+        "data": {
+            "id": "tips-game_screen-character_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-character_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_CHARACTER_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-friend_top",
+        "data": {
+            "id": "tips-game_screen-friend_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-friend_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_FRIEND_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-high_score_rating",
+        "data": {
+            "id": "tips-game_screen-high_score_rating",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-high_score_rating-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_HIGH_SCORE_RATING",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-live_deck_edit",
+        "data": {
+            "id": "tips-game_screen-live_deck_edit",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-live_deck_edit-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_LIVE_DECK_EDIT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-membership_top",
+        "data": {
+            "id": "tips-game_screen-membership_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-membership_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_MEMBERSHIP_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-mission_pass_top",
+        "data": {
+            "id": "tips-game_screen-mission_pass_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-mission_pass_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_MISSION_PASS_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-multi_mini_game_top",
+        "data": {
+            "id": "tips-game_screen-multi_mini_game_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-multi_mini_game_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_MULTI_MINI_GAME_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-multi_rhythm_game_top",
+        "data": {
+            "id": "tips-game_screen-multi_rhythm_game_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-multi_rhythm_game_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_MULTI_RHYTHM_GAME_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-music_shop_selection",
+        "data": {
+            "id": "tips-game_screen-music_shop_selection",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-music_shop_selection-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_MUSIC_SHOP_SELECTION",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-park_change_playable",
+        "data": {
+            "id": "tips-game_screen-park_change_playable",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-park_change_playable-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_PARK_CHANGE_PLAYABLE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-park_poster_booth",
+        "data": {
+            "id": "tips-game_screen-park_poster_booth",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-park_poster_booth-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_PARK_POSTER_BOOTH",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-park_quest_info",
+        "data": {
+            "id": "tips-game_screen-park_quest_info",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-park_quest_info-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_PARK_QUEST_INFO",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-score_ranking",
+        "data": {
+            "id": "tips-game_screen-score_ranking",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-score_ranking-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_SCORE_RANKING",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-shop_top",
+        "data": {
+            "id": "tips-game_screen-shop_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-shop_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_SHOP_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-skill_tree",
+        "data": {
+            "id": "tips-game_screen-skill_tree",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-skill_tree-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_SKILL_TREE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-story_archive_top",
+        "data": {
+            "id": "tips-game_screen-story_archive_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-story_archive_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_STORY_ARCHIVE_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-user_profile_top",
+        "data": {
+            "id": "tips-game_screen-user_profile_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-user_profile_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_USER_PROFILE_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-work_top",
+        "data": {
+            "id": "tips-game_screen-work_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-work_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_WORK_TOP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_deck_evaluation_value_not_reached",
+        "data": {
+            "id": "tips-hint-live_deck_evaluation_value_not_reached",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_deck_evaluation_value_not_reached-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_DECK_EVALUATION_VALUE_NOT_REACHED",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_leader_skill_not_activated",
+        "data": {
+            "id": "tips-hint-live_leader_skill_not_activated",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_leader_skill_not_activated-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_LEADER_SKILL_NOT_ACTIVATED",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_skill_tree_released",
+        "data": {
+            "id": "tips-hint-live_skill_tree_released",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_skill_tree_released-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_SKILL_TREE_RELEASED",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-instant_tips-present-facerock-2",
+        "data": {
+            "id": "tips-instant_tips-present-facerock-2",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-instant_tips-present-facerock-2-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-instant_tips-present-prison-2",
+        "data": {
+            "id": "tips-instant_tips-present-prison-2",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-instant_tips-present-prison-2-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-instant_tips-random_reward-livehouse-2",
+        "data": {
+            "id": "tips-instant_tips-random_reward-livehouse-2",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-instant_tips-random_reward-livehouse-2-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-jump-rope",
+        "data": {
+            "id": "tips-jump-rope",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-jump-rope-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-live",
+        "data": {
+            "id": "tips-live",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-live-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-lottery-area02-scratch",
+        "data": {
+            "id": "tips-lottery-area02-scratch",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-lottery-area02-scratch-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-mission-pass",
+        "data": {
+            "id": "tips-mission-pass",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-mission-pass-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-multi-game",
+        "data": {
+            "id": "tips-multi-game",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-multi-game-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-character-shop-area01-balloon",
+        "data": {
+            "id": "tips-park-character-shop-area01-balloon",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-character-shop-area01-balloon-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-character-shop-area01-candy",
+        "data": {
+            "id": "tips-park-character-shop-area01-candy",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-character-shop-area01-candy-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-character-shop-area01-pen-light",
+        "data": {
+            "id": "tips-park-character-shop-area01-pen-light",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-character-shop-area01-pen-light-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-character-shop-area02-hair-accessory",
+        "data": {
+            "id": "tips-park-character-shop-area02-hair-accessory",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-character-shop-area02-hair-accessory-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-high-low-area02",
+        "data": {
+            "id": "tips-park-high-low-area02",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-high-low-area02-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-lottery-area02-gachapon",
+        "data": {
+            "id": "tips-park-lottery-area02-gachapon",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-lottery-area02-gachapon-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-print-booth-area02",
+        "data": {
+            "id": "tips-park-print-booth-area02",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-print-booth-area02-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-time-period",
+        "data": {
+            "id": "tips-park-time-period",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-time-period-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-poster",
+        "data": {
+            "id": "tips-poster",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-poster-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-present",
+        "data": {
+            "id": "tips-present",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-present-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-random_symbol",
+        "data": {
+            "id": "tips-random_symbol",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-random_symbol-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-retracable-gacha",
+        "data": {
+            "id": "tips-retracable-gacha",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-retracable-gacha-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-rhythm-game",
+        "data": {
+            "id": "tips-rhythm-game",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-rhythm-game-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-skill-tree",
+        "data": {
+            "id": "tips-skill-tree",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-skill-tree-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-story",
+        "data": {
+            "id": "tips-story",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-story-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-work",
+        "data": {
+            "id": "tips-work",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-work-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-quest-daily",
+        "data": {
+            "id": "tips-quest-daily",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-quest-daily-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_active_skill_display",
+        "data": {
+            "id": "tips-hint-live_option_detail_active_skill_display",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_active_skill_display-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_ACTIVE_SKILL_DISPLAY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_brightness_setting",
+        "data": {
+            "id": "tips-hint-live_option_brightness_setting",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_brightness_setting-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_BRIGHTNESS_SETTING",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_card_leveling",
+        "data": {
+            "id": "tips-hint-live_card_leveling",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_card_leveling-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_CARD_LEVELING",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-circuit-quest",
+        "data": {
+            "id": "tips-circuit-quest",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-circuit-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-combo-card-game-quest",
+        "data": {
+            "id": "tips-combo-card-game-quest",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-combo-card-game-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-cooking-puzzle-quest",
+        "data": {
+            "id": "tips-cooking-puzzle-quest",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-cooking-puzzle-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_combo_continuation_display",
+        "data": {
+            "id": "tips-hint-live_option_detail_combo_continuation_display",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_combo_continuation_display-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_COMBO_CONTINUATION_DISPLAY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_fast_slow_display",
+        "data": {
+            "id": "tips-hint-live_option_detail_fast_slow_display",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_fast_slow_display-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_FAST_SLOW_DISPLAY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_fps_sync",
+        "data": {
+            "id": "tips-hint-live_option_detail_fps_sync",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_fps_sync-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_FPS_SYNC",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_key_beam",
+        "data": {
+            "id": "tips-hint-live_option_detail_key_beam",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_key_beam-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_KEY_BEAM",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_leader_skill_display",
+        "data": {
+            "id": "tips-hint-live_option_detail_leader_skill_display",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_leader_skill_display-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_LEADER_SKILL_DISPLAY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_measure_line_display",
+        "data": {
+            "id": "tips-hint-live_option_detail_measure_line_display",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_measure_line_display-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_MEASURE_LINE_DISPLAY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_rhythm_support",
+        "data": {
+            "id": "tips-hint-live_option_detail_rhythm_support",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_rhythm_support-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_RHYTHM_SUPPORT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_screen_fps_setting",
+        "data": {
+            "id": "tips-hint-live_option_detail_screen_fps_setting",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_screen_fps_setting-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SCREEN_FPS_SETTING",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_screen_lock",
+        "data": {
+            "id": "tips-hint-live_option_detail_screen_lock",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_screen_lock-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SCREEN_LOCK",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_simultaneous_press_line",
+        "data": {
+            "id": "tips-hint-live_option_detail_simultaneous_press_line",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_simultaneous_press_line-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SIMULTANEOUS_PRESS_LINE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_skill_effect_above_judgement_text",
+        "data": {
+            "id": "tips-hint-live_option_detail_skill_effect_above_judgement_text",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SKILL_EFFECT_ABOVE_JUDGEMENT_TEXT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_special_skill_background_display",
+        "data": {
+            "id": "tips-hint-live_option_detail_special_skill_background_display",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_special_skill_background_display-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SPECIAL_SKILL_BACKGROUND_DISPLAY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_special_skill_effect_display",
+        "data": {
+            "id": "tips-hint-live_option_detail_special_skill_effect_display",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_special_skill_effect_display-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SPECIAL_SKILL_EFFECT_DISPLAY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_special_skill_illustration_display",
+        "data": {
+            "id": "tips-hint-live_option_detail_special_skill_illustration_display",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_special_skill_illustration_display-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SPECIAL_SKILL_ILLUSTRATION_DISPLAY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_note_speed",
+        "data": {
+            "id": "tips-hint-live_option_note_speed",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_note_speed-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_NOTE_SPEED",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_skin_combo",
+        "data": {
+            "id": "tips-hint-live_option_skin_combo",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_skin_combo-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SKIN_COMBO",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_skin_header",
+        "data": {
+            "id": "tips-hint-live_option_skin_header",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_skin_header-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SKIN_HEADER",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_skin_judgement_text",
+        "data": {
+            "id": "tips-hint-live_option_skin_judgement_text",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_skin_judgement_text-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SKIN_JUDGEMENT_TEXT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_skin_lane",
+        "data": {
+            "id": "tips-hint-live_option_skin_lane",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_skin_lane-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SKIN_LANE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_skin_note",
+        "data": {
+            "id": "tips-hint-live_option_skin_note",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_skin_note-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SKIN_NOTE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_sound_effect",
+        "data": {
+            "id": "tips-hint-live_option_sound_effect",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_sound_effect-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SOUND_EFFECT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_sound_music",
+        "data": {
+            "id": "tips-hint-live_option_sound_music",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_sound_music-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SOUND_MUSIC",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_sound_tap",
+        "data": {
+            "id": "tips-hint-live_option_sound_tap",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_sound_tap-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SOUND_TAP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_sound_voice_sound",
+        "data": {
+            "id": "tips-hint-live_option_sound_voice_sound",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_sound_voice_sound-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SOUND_VOICE_SOUND",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-park_high_low_top",
+        "data": {
+            "id": "tips-game_screen-park_high_low_top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-park_high_low_top-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_PARK_HIGH_LOW",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_mirror_chart",
+        "data": {
+            "id": "tips-hint-live_option_mirror_chart",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_mirror_chart-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_MIRROR_CHART",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_music_mv_setting",
+        "data": {
+            "id": "tips-hint-live_option_music_mv_setting",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_music_mv_setting-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_MUSIC_MV_SETTING_DATA_SAVE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_music_timing_adjustment",
+        "data": {
+            "id": "tips-hint-live_option_music_timing_adjustment",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_music_timing_adjustment-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_MUSIC_TIMING_ADJUSTMENT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_skin_normal_background_customize",
+        "data": {
+            "id": "tips-hint-live_option_skin_normal_background_customize",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_skin_normal_background_customize-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SKIN_NORMAL_BACKGROUND_CUSTOMIZE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_fever_effect_setting",
+        "data": {
+            "id": "tips-hint-live_option_detail_fever_effect_setting",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_fever_effect_setting-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_FEVER_EFFECT_SETTING",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game-event_portal",
+        "data": {
+            "id": "tips-game-event_portal",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game-event_portal-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_EVENT_PORTAL",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_skin_tap_effect_type",
+        "data": {
+            "id": "tips-hint-live_option_skin_tap_effect_type",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_skin_tap_effect_type-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SKIN_TAP_EFFECT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_timing_adjustment",
+        "data": {
+            "id": "tips-hint-live_option_timing_adjustment",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_timing_adjustment-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_JUDGEMENT_TIMING_ADJUSTMENT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-card_detail_skill_tree_connect_effect",
+        "data": {
+            "id": "tips-hint-card_detail_skill_tree_connect_effect",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-card_detail_skill_tree_connect_effect-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_CARD_DETAIL_SKILL_TREE_CONNECT_EFFECT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-character_level_exp",
+        "data": {
+            "id": "tips-hint-character_level_exp",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-character_level_exp-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_CHARACTER_LEVEL_EXP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_background_display_illustration_setting",
+        "data": {
+            "id": "tips-hint-live_option_detail_background_display_illustration_setting",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_background_display_illustration_setting-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_BACKGROUND_DISPLAY_ILLUSTRATION_SETTING",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_background_mode_setting",
+        "data": {
+            "id": "tips-hint-live_option_detail_background_mode_setting",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_background_mode_setting-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_BACKGROUND_MODE_SETTING",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_slideshow_switch_time",
+        "data": {
+            "id": "tips-hint-live_option_detail_slideshow_switch_time",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_slideshow_switch_time-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_SLIDESHOW_SWITCH_TIME",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_tap_vibration",
+        "data": {
+            "id": "tips-hint-live_option_detail_tap_vibration",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_tap_vibration-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_TAP_VIBRATION",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-card_detail_level_limit_break",
+        "data": {
+            "id": "tips-hint-card_detail_level_limit_break",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-card_detail_level_limit_break-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_CARD_DETAIL_LEVEL_LIMIT_BREAK",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-card_detail_level_up",
+        "data": {
+            "id": "tips-hint-card_detail_level_up",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-card_detail_level_up-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_CARD_DETAIL_LEVEL_UP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up",
+        "data": {
+            "id": "tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_CARD_LIST_LIVE_DECK_POWER_PERMIRIAD_UP_BY_LEVEL_UP",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-multi-live",
+        "data": {
+            "id": "tips-multi-live",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-multi-live-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-multi-mini_game",
+        "data": {
+            "id": "tips-multi-mini_game",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-multi-mini_game-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-park-select-area02",
+        "data": {
+            "id": "tips-park-select-area02",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-park-select-area02-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-card_detail_live_skill",
+        "data": {
+            "id": "tips-hint-card_detail_live_skill",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-card_detail_live_skill-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_CARD_DETAIL_LIVE_SKILL",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_live_deck_evaluation",
+        "data": {
+            "id": "tips-hint-live_live_deck_evaluation",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_live_deck_evaluation-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_LIVE_DECK_EVALUATION",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_reward_up_stamina",
+        "data": {
+            "id": "tips-hint-live_reward_up_stamina",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_reward_up_stamina-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_REWARD_UP_STAMINA",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-mini_game_reward_up_stamina",
+        "data": {
+            "id": "tips-hint-mini_game_reward_up_stamina",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-mini_game_reward_up_stamina-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_MINI_GAME_REWARD_UP_STAMINA",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_lane_setting",
+        "data": {
+            "id": "tips-hint-live_option_lane_setting",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_lane_setting-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_LANE_JUDGEMENT_LINE_POSITION",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_lane_top_cut",
+        "data": {
+            "id": "tips-hint-live_option_lane_top_cut",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_lane_top_cut-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_LANE_TOP_CUT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-jump-rope-quest",
+        "data": {
+            "id": "tips-jump-rope-quest",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-jump-rope-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_sound_skill_se",
+        "data": {
+            "id": "tips-hint-live_option_sound_skill_se",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_sound_skill_se-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SOUND_SKILL_SE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_sound_skill_voice",
+        "data": {
+            "id": "tips-hint-live_option_sound_skill_voice",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_sound_skill_voice-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_SOUND_SKILL_VOICE_SOUND",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-account_migration",
+        "data": {
+            "id": "tips-hint-account_migration",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-account_migration-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_ACCOUNT_MIGRATION",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_key_config_lane",
+        "data": {
+            "id": "tips-hint-live_option_key_config_lane",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_key_config_lane-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_KEY_CONFIG_LANE",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_key_config_other",
+        "data": {
+            "id": "tips-hint-live_option_key_config_other",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_key_config_other-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_KEY_CONFIG_OTHER",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_multi_live_cooperation_auto_play_allow",
+        "data": {
+            "id": "tips-hint-live_multi_live_cooperation_auto_play_allow",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_MULTI_LIVE_COOPERATION_AUTO_PLAY_ALLOW",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_lane_bottom_cut",
+        "data": {
+            "id": "tips-hint-live_option_lane_bottom_cut",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_lane_bottom_cut-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_LANE_BOTTOM_CUT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-multi_rhythm_game_lobby",
+        "data": {
+            "id": "tips-game_screen-multi_rhythm_game_lobby",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-multi_rhythm_game_lobby-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_MULTI_RHYTHM_GAME_LOBBY",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-circuit",
+        "data": {
+            "id": "tips-game_screen-circuit",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-circuit-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-combo-card-game",
+        "data": {
+            "id": "tips-game_screen-combo-card-game",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-combo-card-game-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-cooking-puzzle",
+        "data": {
+            "id": "tips-game_screen-cooking-puzzle",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-cooking-puzzle-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-jump-rope-multi",
+        "data": {
+            "id": "tips-game_screen-jump-rope-multi",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-jump-rope-multi-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-jump-rope-top",
+        "data": {
+            "id": "tips-game_screen-jump-rope-top",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-jump-rope-top-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-operation",
+        "data": {
+            "id": "tips-operation",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-operation-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-hint-live_option_detail_tap_effect",
+        "data": {
+            "id": "tips-hint-live_option_detail_tap_effect",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-live_option_detail_tap_effect-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_LIVE_OPTION_DETAIL_TAP_EFFECT",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-music_highest_score_ranking",
+        "data": {
+            "id": "tips-music_highest_score_ranking",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-music_highest_score_ranking",
+            "order": 1
+        }
+    }
+]

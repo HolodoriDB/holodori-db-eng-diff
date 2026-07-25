@@ -1,0 +1,265 @@
+[
+    {
+        "id": "quest_jump_rope-daily-rope-00001-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-00001-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00001-default",
+                "mini_game_npc-chr-00011-default",
+                "mini_game_npc-chr-00023-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-00010-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-00010-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00010-default",
+                "mini_game_npc-chr-00012-default",
+                "mini_game_npc-chr-00015-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-area-a01-02-1-2",
+        "data": {
+            "id": "quest_jump_rope-area-a01-02-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-area-a01-02-1-1",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_JUMP_COUNT",
+            "clearJumpCount": 50,
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-03005-default",
+                "mini_game_npc-chr-04007-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-area-a01-05-1-1",
+        "data": {
+            "id": "quest_jump_rope-area-a01-05-1-1",
+            "jumpRopeId": "jump_rope-quest_jump_rope-area-a01-05-1-1",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-03009-default",
+                "mini_game_npc-chr-00017-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-area-a01-06-1-3",
+        "data": {
+            "id": "quest_jump_rope-area-a01-06-1-3",
+            "jumpRopeId": "jump_rope-quest_jump_rope-area-a01-06-1-3",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_JUMP_COUNT",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00035-default",
+                "mini_game_npc-chr-00036-default",
+                "mini_game_npc-chr-00037-default",
+                "mini_game_npc-chr-00039-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-area-a01-12-1-1",
+        "data": {
+            "id": "quest_jump_rope-area-a01-12-1-1",
+            "jumpRopeId": "jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_JUMP_COUNT",
+            "clearJumpCount": 70,
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00010-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-00012-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-00012-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00012-default",
+                "mini_game_npc-chr-00002-default",
+                "mini_game_npc-chr-00022-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-00019-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-00019-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00019-default",
+                "mini_game_npc-chr-03001-default",
+                "mini_game_npc-chr-06002-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-00021-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-00021-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00021-default",
+                "mini_game_npc-chr-00001-default",
+                "mini_game_npc-chr-00028-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-00022-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-00022-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00022-default",
+                "mini_game_npc-chr-03007-default",
+                "mini_game_npc-chr-04010-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-00023-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-00023-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00023-default",
+                "mini_game_npc-chr-04016-default",
+                "mini_game_npc-chr-04017-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-00031-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-00031-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00031-default",
+                "mini_game_npc-chr-04012-default",
+                "mini_game_npc-chr-00032-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-03001-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-03001-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-03001-default",
+                "mini_game_npc-chr-00034-default",
+                "mini_game_npc-chr-04003-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-03009-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-03009-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-03009-default",
+                "mini_game_npc-chr-00007-default",
+                "mini_game_npc-chr-00037-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-04014-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-04014-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-04014-default",
+                "mini_game_npc-chr-04015-default",
+                "mini_game_npc-chr-03005-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-main-w1-01-03-1-6",
+        "data": {
+            "id": "quest_jump_rope-main-w1-01-03-1-6",
+            "jumpRopeId": "jump_rope-quest_jump_rope-main-w1-01-03-1-6",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_JUMP_COUNT",
+            "clearJumpCount": 10,
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00019-default",
+                "mini_game_npc-chr-00023-default",
+                "mini_game_npc-chr-00021-default",
+                "mini_game_npc-chr-00022-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-main-w1-01-09-1-5",
+        "data": {
+            "id": "quest_jump_rope-main-w1-01-09-1-5",
+            "jumpRopeId": "jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_JUMP_COUNT",
+            "clearJumpCount": 30,
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-03009-default",
+                "mini_game_npc-chr-03007-default",
+                "mini_game_npc-chr-03008-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-daily-rope-06005-1-2",
+        "data": {
+            "id": "quest_jump_rope-daily-rope-06005-1-2",
+            "jumpRopeId": "jump_rope-quest_jump_rope-daily",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-06005-default",
+                "mini_game_npc-chr-00010-default",
+                "mini_game_npc-chr-00026-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-main-w1-01-17-1-7",
+        "data": {
+            "id": "quest_jump_rope-main-w1-01-17-1-7",
+            "jumpRopeId": "jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_SURVIVAL",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-04014-default",
+                "mini_game_npc-chr-04016-default",
+                "mini_game_npc-chr-04017-default"
+            ]
+        }
+    },
+    {
+        "id": "quest_jump_rope-main-w1-01-07-1-3",
+        "data": {
+            "id": "quest_jump_rope-main-w1-01-07-1-3",
+            "jumpRopeId": "jump_rope-quest_jump_rope-main-w1-01-07-1-3",
+            "clearType": "ParkQuestJumpRopeClearType_PARK_QUEST_JUMP_ROPE_CLEAR_TYPE_JUMP_COUNT",
+            "miniGameNpcIds": [
+                "mini_game_npc-chr-00012-default",
+                "mini_game_npc-chr-00011-default",
+                "mini_game_npc-chr-00010-default",
+                "mini_game_npc-chr-00009-default"
+            ]
+        }
+    }
+]

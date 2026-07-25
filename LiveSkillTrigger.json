@@ -1,0 +1,2668 @@
+[
+    {
+        "group_id": "live_skill_trigger-combo_gte-100",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-combo_gte-100",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_COMBO_GTE",
+            "threshold": "100",
+            "descriptionLangId": "la-generated-live_skill_trigger-combo_gte-100.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-combo_gte-40",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-combo_gte-40",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_COMBO_GTE",
+            "threshold": "40",
+            "descriptionLangId": "la-generated-live_skill_trigger-combo_gte-40.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_1-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_1-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "2",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_1-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_1-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "3",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_1-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_1-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "4",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_1-5",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_1-5",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "5",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_1-5.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_2-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_2-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "2",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_2-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_2-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "3",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_2-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_2-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "4",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_2-5",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_2-5",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "5",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_2-5.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_3-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_3-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "2",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_3-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_3-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "3",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_3-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_3-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "4",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_attribute-attribute_3-5",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_attribute-attribute_3-5",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_ATTRIBUTE",
+            "threshold": "5",
+            "cardAttributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_attribute-attribute_3-5.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-advent-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-advent-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-advent-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-advent-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-advent-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-advent-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-advent-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-advent-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-advent-5",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-advent-5",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "5",
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-advent-5.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gamers-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gamers-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gamers-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gamers-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gamers-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gamers-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gamers-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gamers-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gamers-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-5",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_0-5",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "5",
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_0-5.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_1-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_1-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_1-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_1-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_1-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_1-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_1-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_1-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_1-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_2-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_2-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_2-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_2-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_2-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_2-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_2-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_2-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_2-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_3-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_3-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_3-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_3-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_3-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_3-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_3-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_3-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_3-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_4-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_4-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_4-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_4-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_4-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_4-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_4-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_4-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_4-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_5-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_5-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_5-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_5-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_5-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_5-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-gen_5-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-gen_5-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-gen_5-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-holox-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-holox-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-holox-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-holox-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-holox-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-holox-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-holox-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-holox-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-holox-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-5",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-5",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "5",
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-5.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-indonesia-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-indonesia-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-indonesia-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-indonesia-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-indonesia-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-indonesia-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_2-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-indonesia-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-indonesia-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-indonesia-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_3-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-myth-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-myth-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-myth-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-myth-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-myth-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-myth-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-myth-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-myth-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-myth-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-promise-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-promise-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-promise-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-promise-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-promise-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-promise-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-promise-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-promise-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-promise-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-regloss-1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-regloss-1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "1",
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-regloss-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-regloss-2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "2",
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-regloss-3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-regloss-3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "3",
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-regloss-4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-regloss-4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "4",
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_card_character_grouping-grp-regloss-5",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_card_character_grouping-grp-regloss-5",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_CARD_CHARACTER_GROUPING",
+            "threshold": "5",
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_card_character_grouping-grp-regloss-5.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00001",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00001",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00001"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00001.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00002",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00002",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00002"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00002.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00004",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00004",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00004"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00004.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00005",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00005",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00005"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00005.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00006",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00006",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00006"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00006.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00007",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00007",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00007"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00007.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00010",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00010",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00010"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00010.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00011",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00011",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00011"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00011.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00012",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00012",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00012"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00012.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00013",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00013",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00013"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00013.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00014",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00014",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00014"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00014.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00015",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00015",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00015"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00015.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00016",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00016",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00016"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00016.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00017",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00017",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00017"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00017.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00018",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00018",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00018"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00018.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00019",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00019",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00019"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00019.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00021",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00021",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00021"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00021.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00022",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00022",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00022"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00022.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00023",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00023",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00023"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00023.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00024",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00024",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00024"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00024.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00026",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00026",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00026"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00026.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00027",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00027",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00027"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00027.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00028",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00028",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00028"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00028.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00030",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00030",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00030"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00030.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00031",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00031",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00031"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00031.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00032",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00032",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00032"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00032.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00034",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00034",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00034"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00034.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00035",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00035",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00035"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00035.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00036",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00036",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00036"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00036.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00037",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00037",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00037"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00037.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-00039",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-00039",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-00039"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-00039.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03001",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03001",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03001"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03001.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03002",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03002",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03002"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03002.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03003",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03003",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03003"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03003.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03004",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03004",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03004"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03004.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03005",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03005",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03005"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03005.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03006",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03006",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03006"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03006.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03007",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03007",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03007"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03007.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03008",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03008",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03008"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03008.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-03009",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-03009",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-03009"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-03009.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04001",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04001",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04001"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04001.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04002",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04002",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04002"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04002.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04003",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04003",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04003"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04003.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04007",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04007",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04007"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04007.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04010",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04010",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04010"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04010.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04012",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04012",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04012"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04012.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04013",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04013",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04013"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04013.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04014",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04014",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04014"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04014.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04015",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04015",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04015"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04015.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04016",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04016",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04016"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04016.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-04017",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-04017",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-04017"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-04017.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-06001",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-06001",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-06001"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-06001.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-06002",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-06002",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-06002"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-06002.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-06003",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-06003",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-06003"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-06003.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-06004",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-06004",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-06004"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-06004.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character-chr-06005",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character-chr-06005",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER",
+            "characterIds": [
+                "chr-06005"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character-chr-06005.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-advent",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-advent",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-advent.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-gamers",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-gamers",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gamers.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-gen_0",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-gen_0",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_0.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-gen_1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-gen_1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-gen_2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-gen_2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-gen_3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-gen_3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-gen_4",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-gen_4",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_4.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-gen_5",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-gen_5",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-gen_5.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-holox",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-holox",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-holox.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_1",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_1",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia-gen_1",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_1.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_2",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_2",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia-gen_2",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_2.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_3",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_3",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia-gen_3",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia-gen_3.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-indonesia",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-indonesia",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-indonesia.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-myth",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-myth",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-myth.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-promise",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-promise",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-promise.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-deck_leader_character_grouping-grp-regloss",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-deck_leader_character_grouping-grp-regloss",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_DECK_LEADER_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-live_skill_trigger-deck_leader_character_grouping-grp-regloss.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-judgement_type_gte-good",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-judgement_type_gte-good",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_JUDGEMENT_TYPE_GTE",
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_GOOD",
+            "descriptionLangId": "la-generated-live_skill_trigger-judgement_type_gte-good.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-judgement_type_gte-great",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-judgement_type_gte-great",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_JUDGEMENT_TYPE_GTE",
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_GREAT",
+            "descriptionLangId": "la-generated-live_skill_trigger-judgement_type_gte-great.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-judgement_type_gte-perfect",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-judgement_type_gte-perfect",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_JUDGEMENT_TYPE_GTE",
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+            "descriptionLangId": "la-generated-live_skill_trigger-judgement_type_gte-perfect.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-life_gte-1000",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-life_gte-1000",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_LIFE_GTE",
+            "threshold": "1000",
+            "descriptionLangId": "la-generated-live_skill_trigger-life_gte-1000.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-life_gte-600",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-life_gte-600",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_LIFE_GTE",
+            "threshold": "600",
+            "descriptionLangId": "la-generated-live_skill_trigger-life_gte-600.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-life_lte-500",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-life_lte-500",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_LIFE_LTE",
+            "threshold": "500",
+            "descriptionLangId": "la-generated-live_skill_trigger-life_lte-500.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-life_lte-700",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-life_lte-700",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_LIFE_LTE",
+            "threshold": "700",
+            "descriptionLangId": "la-generated-live_skill_trigger-life_lte-700.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-life_lte-950",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-life_lte-950",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_LIFE_LTE",
+            "threshold": "950",
+            "descriptionLangId": "la-generated-live_skill_trigger-life_lte-950.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00001",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00001",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00001"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00001.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00002",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00002",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00002"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00002.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00004",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00004",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00004"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00004.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00005",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00005",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00005"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00005.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00006",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00006",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00006"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00006.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00007",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00007",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00007"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00007.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00010",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00010",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00010"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00010.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00011",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00011",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00011"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00011.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00012",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00012",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00012"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00012.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00013",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00013",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00013"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00013.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00014",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00014",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00014"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00014.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00015",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00015",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00015"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00015.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00016",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00016",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00016"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00016.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00017",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00017",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00017"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00017.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00018",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00018",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00018"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00018.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00019",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00019",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00019"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00019.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00021",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00021",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00021"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00021.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00022",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00022",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00022"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00022.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00023",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00023",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00023"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00023.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00024",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00024",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00024"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00024.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00026",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00026",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00026"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00026.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00027",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00027",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00027"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00027.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00028",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00028",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00028"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00028.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00030",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00030",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00030"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00030.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00031",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00031",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00031"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00031.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00032",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00032",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00032"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00032.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00034",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00034",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00034"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00034.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00035",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00035",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00035"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00035.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00036",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00036",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00036"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00036.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00037",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00037",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00037"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00037.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-00039",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-00039",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-00039"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-00039.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03001",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03001",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03001"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03001.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03002",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03002",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03002"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03002.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03003",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03003",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03003"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03003.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03004",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03004",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03004"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03004.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03005",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03005",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03005"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03005.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03006",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03006",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03006"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03006.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03007",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03007",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03007"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03007.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03008",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03008",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03008"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03008.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-03009",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-03009",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-03009"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-03009.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04001",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04001",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04001"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04001.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04002",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04002",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04002"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04002.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04003",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04003",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04003"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04003.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04007",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04007",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04007"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04007.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04010",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04010",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04010"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04010.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04012",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04012",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04012"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04012.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04013",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04013",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04013"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04013.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04014",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04014",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04014"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04014.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04015",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04015",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04015"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04015.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04016",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04016",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04016"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04016.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-04017",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-04017",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-04017"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-04017.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-06001",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-06001",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-06001"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-06001.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-06002",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-06002",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-06002"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-06002.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-06003",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-06003",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-06003"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-06003.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-06004",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-06004",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-06004"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-06004.1-description"
+        }
+    },
+    {
+        "group_id": "live_skill_trigger-music_character-chr-06005",
+        "number": 1,
+        "data": {
+            "groupId": "live_skill_trigger-music_character-chr-06005",
+            "number": 1,
+            "type": "LiveSkillTriggerType_LIVE_SKILL_TRIGGER_TYPE_MUSIC_CHARACTER",
+            "characterIds": [
+                "chr-06005"
+            ],
+            "descriptionLangId": "la-generated-live_skill_trigger-music_character-chr-06005.1-description"
+        }
+    }
+]

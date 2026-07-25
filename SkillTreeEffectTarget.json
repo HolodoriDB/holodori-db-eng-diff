@@ -1,0 +1,711 @@
+[
+    {
+        "id": "skill_tree_effect_target-all",
+        "data": {
+            "id": "skill_tree_effect_target-all",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_ALL",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-all-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00001",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00001",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00001",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00001-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00002",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00002",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00002",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00002-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00004",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00004",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00004",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00004-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00005",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00005",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00005",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00005-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00006",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00006",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00006",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00006-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00007",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00007",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00007",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00007-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00009",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00009",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00009",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00009-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00010",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00010",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00010",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00010-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00011",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00011",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00011",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00011-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00012",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00012",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00012",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00012-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00013",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00013",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00013",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00013-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00014",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00014",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00014",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00014-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00015",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00015",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00015",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00015-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00016",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00016",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00016",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00016-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00017",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00017",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00017",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00017-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00018",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00018",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00018",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00018-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00019",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00019",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00019",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00019-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00021",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00021",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00021",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00021-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00022",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00022",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00022",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00022-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00023",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00023",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00023",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00023-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00024",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00024",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00024",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00024-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00026",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00026",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00026",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00026-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00027",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00027",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00027",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00027-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00028",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00028",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00028",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00028-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00030",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00030",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00030",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00030-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00031",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00031",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00031",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00031-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00032",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00032",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00032",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00032-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00034",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00034",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00034",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00034-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00035",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00035",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00035",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00035-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00036",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00036",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00036",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00036-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00037",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00037",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00037",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00037-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00038",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00038",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00038",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00038-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-00039",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-00039",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-00039",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-00039-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03001",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03001",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03001",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03001-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03002",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03002",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03002",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03002-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03003",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03003",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03003",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03003-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03004",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03004",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03004",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03004-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03005",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03005",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03005",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03005-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03006",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03006",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03006",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03006-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03007",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03007",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03007",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03007-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03008",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03008",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03008",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03008-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-03009",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-03009",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-03009",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-03009-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04001",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04001",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04001",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04001-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04002",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04002",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04002",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04002-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04003",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04003",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04003",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04003-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04004",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04004",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04004",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04004-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04007",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04007",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04007",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04007-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04009",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04009",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04009",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04009-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04010",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04010",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04010",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04010-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04011",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04011",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04011",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04011-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04012",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04012",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04012",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04012-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04013",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04013",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04013",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04013-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04014",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04014",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04014",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04014-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04015",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04015",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04015",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04015-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04016",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04016",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04016",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04016-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-04017",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-04017",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-04017",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-04017-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-06001",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-06001",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-06001",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-06001-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-06002",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-06002",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-06002",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-06002-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-06003",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-06003",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-06003",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-06003-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-06004",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-06004",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-06004",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-06004-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character-chr-06005",
+        "data": {
+            "id": "skill_tree_effect_target-character-chr-06005",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER",
+            "characterId": "chr-06005",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character-chr-06005-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-advent",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-advent",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-advent",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-advent-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-gamers",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-gamers",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gamers",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-gamers-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-gen_0",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-gen_0",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_0",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_0-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-gen_1",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-gen_1",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_1",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_1-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-gen_2",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-gen_2",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_2",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_2-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-gen_3",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-gen_3",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_3",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_3-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-gen_4",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-gen_4",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_4",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_4-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-gen_5",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-gen_5",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-gen_5",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-gen_5-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-holox",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-holox",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-holox",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-holox-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-indonesia",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-indonesia",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_1",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_1",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia-gen_1",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_2",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_2",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia-gen_2",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_3",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-indonesia-gen_3",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-indonesia-gen_3",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-myth",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-myth",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-myth",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-myth-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-promise",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-promise",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-promise",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-promise-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-character_grouping-grp-regloss",
+        "data": {
+            "id": "skill_tree_effect_target-character_grouping-grp-regloss",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_CHARACTER_GROUPING",
+            "characterGroupingId": "grp-regloss",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-character_grouping-grp-regloss-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect_target-skill_tree_character",
+        "data": {
+            "id": "skill_tree_effect_target-skill_tree_character",
+            "type": "SkillTreeEffectTargetType_SKILL_TREE_EFFECT_TARGET_TYPE_SKILL_TREE_CHARACTER",
+            "descriptionLangId": "la-generated-skill_tree_effect_target-skill_tree_character-description"
+        }
+    }
+]

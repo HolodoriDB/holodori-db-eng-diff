@@ -1,0 +1,37 @@
+[
+    {
+        "id": "preference_capacity_limit-default_002",
+        "data": {
+            "id": "preference_capacity_limit-default_002",
+            "nameLangId": "la-preference_capacity_limit-default_002",
+            "size": 20,
+            "order": 3
+        }
+    },
+    {
+        "id": "preference_capacity_limit-default_003",
+        "data": {
+            "id": "preference_capacity_limit-default_003",
+            "nameLangId": "la-preference_capacity_limit-default_003",
+            "size": 30,
+            "order": 4
+        }
+    },
+    {
+        "id": "preference_capacity_limit-default_none",
+        "data": {
+            "id": "preference_capacity_limit-default_none",
+            "nameLangId": "la-preference_capacity_limit-default_none",
+            "order": 1
+        }
+    },
+    {
+        "id": "preference_capacity_limit-default_001",
+        "data": {
+            "id": "preference_capacity_limit-default_001",
+            "nameLangId": "la-preference_capacity_limit-default_001",
+            "size": 10,
+            "order": 2
+        }
+    }
+]

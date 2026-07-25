@@ -1,0 +1,313 @@
+[
+    {
+        "id": "grp-advent",
+        "data": {
+            "id": "grp-advent",
+            "nameLangId": "la-grp-advent",
+            "descriptionLangId": "la-grp_description-advent",
+            "isRegular": true,
+            "characterIds": [
+                "chr-04013",
+                "chr-04014",
+                "chr-04015",
+                "chr-04016",
+                "chr-04017"
+            ],
+            "assetId": "advent",
+            "color1": "7C7EC9",
+            "color2": "223C87",
+            "order": 15
+        }
+    },
+    {
+        "id": "grp-gamers",
+        "data": {
+            "id": "grp-gamers",
+            "nameLangId": "la-grp-gamers",
+            "descriptionLangId": "la-grp_description-gamers",
+            "isRegular": true,
+            "characterIds": [
+                "chr-00006",
+                "chr-00014",
+                "chr-00016",
+                "chr-00017"
+            ],
+            "assetId": "gamers",
+            "color1": "63B6FF",
+            "color2": "0089FF",
+            "order": 4
+        }
+    },
+    {
+        "id": "grp-gen_0",
+        "data": {
+            "id": "grp-gen_0",
+            "nameLangId": "la-grp-gen_0",
+            "descriptionLangId": "la-grp_description-gen_0",
+            "isRegular": true,
+            "characterIds": [
+                "chr-00001",
+                "chr-00002",
+                "chr-00013",
+                "chr-00015",
+                "chr-00018"
+            ],
+            "assetId": "gen00",
+            "color1": "93C2FF",
+            "color2": "6E92FF",
+            "order": 1
+        }
+    },
+    {
+        "id": "grp-gen_1",
+        "data": {
+            "id": "grp-gen_1",
+            "nameLangId": "la-grp-gen_1",
+            "descriptionLangId": "la-grp_description-gen_1",
+            "isRegular": true,
+            "characterIds": [
+                "chr-00004",
+                "chr-00005",
+                "chr-00006",
+                "chr-00007"
+            ],
+            "assetId": "gen01",
+            "color1": "FF6FC6",
+            "color2": "FF24CC",
+            "order": 2
+        }
+    },
+    {
+        "id": "grp-gen_2",
+        "data": {
+            "id": "grp-gen_2",
+            "nameLangId": "la-grp-gen_2",
+            "descriptionLangId": "la-grp_description-gen_2",
+            "isRegular": true,
+            "characterIds": [
+                "chr-00009",
+                "chr-00010",
+                "chr-00011",
+                "chr-00012"
+            ],
+            "assetId": "gen02",
+            "color1": "225AFF",
+            "color2": "7197FF",
+            "order": 3
+        }
+    },
+    {
+        "id": "grp-gen_3",
+        "data": {
+            "id": "grp-gen_3",
+            "nameLangId": "la-grp-gen_3",
+            "descriptionLangId": "la-grp_description-gen_3",
+            "isRegular": true,
+            "characterIds": [
+                "chr-00019",
+                "chr-00021",
+                "chr-00022",
+                "chr-00023"
+            ],
+            "assetId": "gen03",
+            "color1": "5BC72E",
+            "color2": "C6EE91",
+            "order": 5
+        }
+    },
+    {
+        "id": "grp-gen_4",
+        "data": {
+            "id": "grp-gen_4",
+            "nameLangId": "la-grp-gen_4",
+            "descriptionLangId": "la-grp_description-gen_4",
+            "isRegular": true,
+            "characterIds": [
+                "chr-00024",
+                "chr-00026",
+                "chr-00027",
+                "chr-00028"
+            ],
+            "assetId": "gen04",
+            "color1": "FFB22F",
+            "color2": "FFDA6A",
+            "order": 6
+        }
+    },
+    {
+        "id": "grp-gen_5",
+        "data": {
+            "id": "grp-gen_5",
+            "nameLangId": "la-grp-gen_5",
+            "descriptionLangId": "la-grp_description-gen_5",
+            "isRegular": true,
+            "characterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034"
+            ],
+            "assetId": "gen05",
+            "color1": "FF79AB",
+            "color2": "FFA6C7",
+            "order": 7
+        }
+    },
+    {
+        "id": "grp-holox",
+        "data": {
+            "id": "grp-holox",
+            "nameLangId": "la-grp-holox",
+            "descriptionLangId": "la-grp_description-holox",
+            "isRegular": true,
+            "characterIds": [
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00038",
+                "chr-00039"
+            ],
+            "assetId": "holox",
+            "color1": "BD5BE4",
+            "color2": "8700BD",
+            "order": 8
+        }
+    },
+    {
+        "id": "grp-indonesia",
+        "data": {
+            "id": "grp-indonesia",
+            "nameLangId": "la-grp-indonesia",
+            "descriptionLangId": "la-grp_description-indonesia",
+            "characterIds": [
+                "chr-03001",
+                "chr-03002",
+                "chr-03003",
+                "chr-03004",
+                "chr-03005",
+                "chr-03006",
+                "chr-03007",
+                "chr-03008",
+                "chr-03009"
+            ],
+            "assetId": "id",
+            "color1": "FFFFFF",
+            "color2": "FFFFFF",
+            "order": 9
+        }
+    },
+    {
+        "id": "grp-indonesia-gen_1",
+        "data": {
+            "id": "grp-indonesia-gen_1",
+            "nameLangId": "la-grp-indonesia-gen_1",
+            "descriptionLangId": "la-grp_description-indonesia-gen_1",
+            "isRegular": true,
+            "characterIds": [
+                "chr-03001",
+                "chr-03002",
+                "chr-03003"
+            ],
+            "assetId": "idgen01",
+            "color1": "FF7E06",
+            "color2": "FFAD61",
+            "order": 10
+        }
+    },
+    {
+        "id": "grp-indonesia-gen_2",
+        "data": {
+            "id": "grp-indonesia-gen_2",
+            "nameLangId": "la-grp-indonesia-gen_2",
+            "descriptionLangId": "la-grp_description-indonesia-gen_2",
+            "isRegular": true,
+            "characterIds": [
+                "chr-03004",
+                "chr-03005",
+                "chr-03006"
+            ],
+            "assetId": "idgen02",
+            "color1": "06DA9E",
+            "color2": "72F4D0",
+            "order": 11
+        }
+    },
+    {
+        "id": "grp-indonesia-gen_3",
+        "data": {
+            "id": "grp-indonesia-gen_3",
+            "nameLangId": "la-grp-indonesia-gen_3",
+            "descriptionLangId": "la-grp_description-indonesia-gen_3",
+            "isRegular": true,
+            "characterIds": [
+                "chr-03007",
+                "chr-03008",
+                "chr-03009"
+            ],
+            "assetId": "idgen03",
+            "color1": "07DBE2",
+            "color2": "A7F4F6",
+            "order": 12
+        }
+    },
+    {
+        "id": "grp-myth",
+        "data": {
+            "id": "grp-myth",
+            "nameLangId": "la-grp-myth",
+            "descriptionLangId": "la-grp_description-myth",
+            "isRegular": true,
+            "characterIds": [
+                "chr-04001",
+                "chr-04002",
+                "chr-04003",
+                "chr-04004",
+                "chr-04005"
+            ],
+            "assetId": "myth",
+            "color1": "D6BE78",
+            "color2": "C19D33",
+            "order": 13
+        }
+    },
+    {
+        "id": "grp-promise",
+        "data": {
+            "id": "grp-promise",
+            "nameLangId": "la-grp-promise",
+            "descriptionLangId": "la-grp_description-promise",
+            "isRegular": true,
+            "characterIds": [
+                "chr-04007",
+                "chr-04009",
+                "chr-04010",
+                "chr-04011",
+                "chr-04012"
+            ],
+            "assetId": "promise",
+            "color1": "E6F37F",
+            "color2": "B3C905",
+            "order": 14
+        }
+    },
+    {
+        "id": "grp-regloss",
+        "data": {
+            "id": "grp-regloss",
+            "nameLangId": "la-grp-regloss",
+            "descriptionLangId": "la-grp_description-regloss",
+            "isRegular": true,
+            "characterIds": [
+                "chr-06001",
+                "chr-06002",
+                "chr-06003",
+                "chr-06004",
+                "chr-06005"
+            ],
+            "assetId": "regloss",
+            "color1": "FF5B4C",
+            "color2": "C00003",
+            "order": 16
+        }
+    }
+]

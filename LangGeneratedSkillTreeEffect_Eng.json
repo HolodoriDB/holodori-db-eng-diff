@@ -1,0 +1,842 @@
+[
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always-description",
+            "text": "Grants Performance UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Performance UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+            "text": "Learn a Holomem Skill.\nFor 7s, GOOD or higher becomes PERFECT. Every 20s with a Low Probability chance. "
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_addition-0-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-life_recovery-description",
+            "text": "Learn a Holomem Skill.\nRestores 100 LIFE. Every 20s with a Medium Probability chance. "
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_deck_leader_active_skill_level_up-2-skill_tree_effect_target-all-set_live_leader-live_active_skill-skill_tree-judgement_enhance-description",
+            "text": "Enhance a Holomem Skill.\nFor 10s, GOOD or higher becomes PERFECT. Every 20s with a Medium Probability chance. "
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+            "text": "Grants All Stats UP [value] to Gen 4."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+            "text": "Grants All Stats UP [value] to Gen 4."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+            "text": "Activates when you add [character] to your Holowork lineup.\nCube Drop Rate from Holowork rewards UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up-5-skill_tree_effect_target-all-always-description",
+            "text": "Grants All Stats UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants All Stats UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants All Stats UP [value] to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+            "text": "Grants All Stats UP [value] to Advent."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Performance UP [value] to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Sense UP [value] to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Technique UP [value] to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-10-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants All Stats UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants All Stats UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Performance UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Performance UP [value/10]% to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Sense UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Sense UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Sense UP [value/10]% to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Technique UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Technique UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up_permil_up-50-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Technique UP [value/10]% to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-40-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Score Support Effect of [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+            "text": "Grants a Score Bonus UP [value/10]% when playing a Song by FUWAMOCO."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+            "text": "When playing All Songs, Grants a Score Bonus UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-5-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+            "text": "When playing Solo Songs by [character], Grants a Score Bonus UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-circuit-description",
+            "text": "Rewards obtained from Mega Circuit UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+            "text": "Grants All Stats UP [value] to Gen 5."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+            "text": "Grants All Stats UP [value] to holoX."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+            "text": "Grants All Stats UP [value] to ReGLOSS."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+            "text": "Grants All Stats UP [value] to Advent."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+            "text": "Grants All Stats UP [value] to GAMERS."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up-70-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants All Stats UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+            "text": "Grants All Stats UP [value] to GAMERS."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+            "text": "Grants All Stats UP [value] to Gen 0."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+            "text": "Grants All Stats UP [value] to Gen 1."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-100-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+            "text": "Grants All Stats UP [value] to Gen 3."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+            "text": "Grants All Stats UP [value] to Gen 0."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+            "text": "Grants All Stats UP [value] to Gen 1."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+            "text": "Grants All Stats UP [value] to Gen 2."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+            "text": "Grants All Stats UP [value] to Gen 3."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_4-always-description",
+            "text": "Grants All Stats UP [value] to Gen 4."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+            "text": "Grants All Stats UP [value] to Gen 5."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+            "text": "Grants All Stats UP [value] to holoX."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 1."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 2."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 3."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+            "text": "Grants All Stats UP [value] to Myth."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+            "text": "Grants All Stats UP [value] to Promise."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-150-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+            "text": "Grants All Stats UP [value] to ReGLOSS."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-200-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+            "text": "Grants All Stats UP [value] to Gen 1."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+            "text": "Grants All Stats UP [value] to Gen 2."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 1."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 2."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 3."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+            "text": "Grants All Stats UP [value] to Myth."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-225-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+            "text": "Grants All Stats UP [value] to Promise."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-300-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+            "text": "Grants All Stats UP [value] to GAMERS."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-advent-always-description",
+            "text": "Grants All Stats UP [value] to Advent."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gamers-always-description",
+            "text": "Grants All Stats UP [value] to GAMERS."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_0-always-description",
+            "text": "Grants All Stats UP [value] to Gen 0."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_1-always-description",
+            "text": "Grants All Stats UP [value] to Gen 1."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_3-always-description",
+            "text": "Grants All Stats UP [value] to Gen 3."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-gen_5-always-description",
+            "text": "Grants All Stats UP [value] to Gen 5."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-holox-always-description",
+            "text": "Grants All Stats UP [value] to holoX."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-50-skill_tree_effect_target-character_grouping-grp-regloss-always-description",
+            "text": "Grants All Stats UP [value] to ReGLOSS."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-gen_2-always-description",
+            "text": "Grants All Stats UP [value] to Gen 2."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_1-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 1."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_2-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 2."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-indonesia-gen_3-always-description",
+            "text": "Grants All Stats UP [value] to ID Gen 3."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-myth-always-description",
+            "text": "Grants All Stats UP [value] to Myth."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-all_parameter_up_for_character_grouping-75-skill_tree_effect_target-character_grouping-grp-promise-always-description",
+            "text": "Grants All Stats UP [value] to Promise."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-life_up-50-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants LIFE UP [value]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-20-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Active Skill Activation Rate UP [value/10]% to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-30-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Active Skill Activation Rate UP [value/10]% to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-60-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Active Skill Activation Rate UP [value/10]% to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_cool_time_shorten_permil_up-40-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Active Skill Activation Frequency UP [value/10]% to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+            "text": "When [character] is included as a singer, Grants Score Support Effect of [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-20-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Score Support Effect of [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_active_skill_effect_up_permil_up-30-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Score Support Effect of [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Member EXP UP [value/10]% obtained at Live."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-5-skill_tree_effect_target-all-always-description",
+            "text": "Grants Member EXP UP [value/10]% obtained at Live."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_card_exp_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Member EXP UP [value/10]% obtained at Live."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-200-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+            "text": "Grants Hologold Drop Rate UP [value/10]% at Live."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-item-item-gold-description",
+            "text": "Grants Hologold Drop Rate UP [value/10]% at Live."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_reward_quantity_up_permil_up-50-skill_tree_effect_target-all-set_live_leader-item-item-gold-description",
+            "text": "Grants Hologold Drop Rate UP [value/10]% at Live."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-1-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-all-always-all-description",
+            "text": "When playing All Songs, Grants a Score Bonus UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-10-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+            "text": "When playing Unit Songs featuring [character], Grants a Score Bonus UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-group-always-group-description",
+            "text": "When playing Unit Songs featuring [character], Grants a Score Bonus UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-description",
+            "text": "When playing Solo Songs by [character], Grants a Score Bonus UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-combo_card_game-description",
+            "text": "Rewards obtained from Pokajan! UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-cooking_puzzle-description",
+            "text": "Rewards obtained from Collect Cooking UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-jump_rope-description",
+            "text": "Rewards obtained from Hoppin' Rope UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-100-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Performance UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Performance UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Performance UP [value] to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up-5-skill_tree_effect_target-all-always-description",
+            "text": "Grants Performance UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-performance_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+            "text": "When [character] is included as a singer, Grants Performance UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-10-skill_tree_effect_target-all-always-description",
+            "text": "Grants Sense UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-100-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Sense UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Sense UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Sense UP [value] to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up-5-skill_tree_effect_target-all-always-description",
+            "text": "Grants Sense UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-sense_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+            "text": "When [character] is included as a singer, Grants Sense UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-live_score_bonus_add_permil_up_by_music_skill_tree_character_and_music_singer_type-20-skill_tree_effect_passive_trigger-music_skill_tree_character_and_music_singer_type-solo-always-solo-fuwamoko-description",
+            "text": "Grants a Score Bonus UP [value/10]% when playing a Song by FUWAMOCO."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-10-skill_tree_effect_target-all-always-description",
+            "text": "Grants Technique UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-100-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Technique UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-all-set_live_leader-description",
+            "text": "Grants Technique UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-150-skill_tree_effect_target-skill_tree_character-always-description",
+            "text": "Grants Technique UP [value] to [character]."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up-5-skill_tree_effect_target-all-always-description",
+            "text": "Grants Technique UP [value] to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-technique_up_permil_up-100-skill_tree_effect_target-all-skill_tree_effect_passive_trigger-music_skill_tree_character-set_live_leader-description",
+            "text": "When [character] is included as a singer, Grants Technique UP [value/10]% to All."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-30-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+            "text": "Activates when you add [character] to your holowork lineup.\nGrants Lesson Pt Drop Rate UP [value/10]% at holowork."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-50-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+            "text": "Activates when you add [character] to your holowork lineup.\nGrants Lesson Pt Drop Rate UP [value/10]% at holowork."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-60-skill_tree_effect_target-skill_tree_character-work-item-item-card_level_up-description",
+            "text": "Activates when you add [character] to your holowork lineup.\nGrants Lesson Pt Drop Rate UP [value/10]% at holowork."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-skill_tree_card-1-description",
+            "text": "Activates when you add [character] to your Holowork lineup.\nCube Drop Rate from Holowork rewards UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-80-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+            "text": "Activates when you add [character] to your Holowork lineup.\nTraining Item Drop Rate from holowork rewards UP [value/10]%."
+        }
+    },
+    {
+        "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+        "data": {
+            "id": "la-generated-skill_tree_effect-work_reward_quantity_up_permil_up-40-skill_tree_effect_target-skill_tree_character-work-item-item-card_limit_break-attribute_1-1-description",
+            "text": "Activates when you add [character] to your Holowork lineup.\nTraining Item Drop Rate from holowork rewards UP [value/10]%."
+        }
+    }
+]

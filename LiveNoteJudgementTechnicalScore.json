@@ -1,0 +1,47 @@
+[
+    {
+        "live_note_judgement_type": 1,
+        "data": {
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_MISS"
+        }
+    },
+    {
+        "live_note_judgement_type": 2,
+        "data": {
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_BAD"
+        }
+    },
+    {
+        "live_note_judgement_type": 3,
+        "data": {
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_GOOD"
+        }
+    },
+    {
+        "live_note_judgement_type": 4,
+        "data": {
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_GREAT",
+            "score": "5"
+        }
+    },
+    {
+        "live_note_judgement_type": 5,
+        "data": {
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_PERFECT",
+            "score": "10"
+        }
+    },
+    {
+        "live_note_judgement_type": 6,
+        "data": {
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_PERFECT_PLUS",
+            "score": "11"
+        }
+    },
+    {
+        "live_note_judgement_type": 100,
+        "data": {
+            "liveNoteJudgementType": "LiveNoteJudgementType_LIVE_NOTE_JUDGEMENT_TYPE_AUTO"
+        }
+    }
+]

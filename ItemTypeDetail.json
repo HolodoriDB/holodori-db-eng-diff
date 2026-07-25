@@ -1,0 +1,164 @@
+[
+    {
+        "type": 1,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_CARD_LEVEL_UP",
+            "color": "98E133",
+            "nameLangId": "la-item_type_detail-card_level_up",
+            "iconAssetId": "card"
+        }
+    },
+    {
+        "type": 2,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+            "color": "98E133",
+            "nameLangId": "la-item_type_detail-card_level_limit_break",
+            "iconAssetId": "card"
+        }
+    },
+    {
+        "type": 3,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_CARD_POTENTIAL_UPGRADE",
+            "color": "98E133",
+            "nameLangId": "la-item_type_detail-card_potential_upgrade",
+            "iconAssetId": "card"
+        }
+    },
+    {
+        "type": 4,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_SKILL_TREE",
+            "color": "98E133",
+            "nameLangId": "la-item_type_detail-skill_tree",
+            "iconAssetId": "card"
+        }
+    },
+    {
+        "type": 5,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_GACHA_TICKET",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-gacha_ticket",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 6,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_FACILITY",
+            "color": "FFB028",
+            "nameLangId": "la-item_type_detail-facility",
+            "iconAssetId": "facility"
+        }
+    },
+    {
+        "type": 7,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_EXCHANGE",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-exchange",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 8,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_PARK_CHARACTER_QUEST",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-park_character_quest",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 9,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_LIVE_REWARD_UP_STAMINA_RECOVER",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-live_reward_up_stamina_recover",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 10,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_LIVE_AUTO_PLAY",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-live_auto_play",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 11,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_MINI_GAME_BET_COIN",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-mini_game_bet_coin",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 12,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_CHARACTER_COIN",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-character_coin",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 13,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_MUSIC_RELEASE",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-music_release",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 15,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_GOLD",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-gold",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 16,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_SELECTABLE_REWARD_BOX",
+            "color": "98E133",
+            "nameLangId": "la-item_type_detail-selectable_reward_box",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 17,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_MINI_GAME_REWARD_UP_STAMINA_RECOVER",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-mini_game_reward_up_stamina_recover",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 18,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_QUEST_DELIVERY",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-quest_delivery",
+            "iconAssetId": "other"
+        }
+    },
+    {
+        "type": 999,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_OTHER",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-other",
+            "iconAssetId": "other"
+        }
+    }
+]

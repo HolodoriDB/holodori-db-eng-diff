@@ -1,0 +1,31 @@
+[
+    {
+        "id": "area_group-a01",
+        "data": {
+            "id": "area_group-a01",
+            "worldId": "world-a",
+            "nameLangId": "la-area_group-a01-name",
+            "descriptionLangId": "la-area_group-a01-description",
+            "defaultAreaSelectorId": "area-a01-selector",
+            "assetId": "area-a01",
+            "color": "994608",
+            "order": 1
+        }
+    },
+    {
+        "id": "area_group-a02",
+        "data": {
+            "id": "area_group-a02",
+            "worldId": "world-a",
+            "nameLangId": "la-area_group-a02-name",
+            "descriptionLangId": "la-area_group-a02-description",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-01-1-3",
+            "defaultAreaSelectorId": "area-a02-selector",
+            "assetId": "area-a02",
+            "color": "E2A59A",
+            "fixedDisplayResourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "fixedDisplayResourceId": "item-mini_game_bet_coin",
+            "order": 2
+        }
+    }
+]

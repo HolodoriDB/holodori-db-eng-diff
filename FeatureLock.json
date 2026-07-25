@@ -1,0 +1,380 @@
+[
+    {
+        "tutorial_type": 2,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_EVENT",
+            "titleLangId": "la-feature_lock-event-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "tutorial_type": 3,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_LIVE",
+            "titleLangId": "la-feature_lock-live-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "tutorial_type": 4,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_GACHA",
+            "titleLangId": "la-feature_lock-gacha-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "tutorial_type": 5,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_CARD",
+            "titleLangId": "la-feature_lock-card-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "tutorial_type": 6,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_CHARACTER",
+            "titleLangId": "la-feature_lock-character-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "tutorial_type": 7,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MENU",
+            "titleLangId": "la-feature_lock-menu-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "tutorial_type": 8,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_FRIEND",
+            "titleLangId": "la-feature_lock-friend-title",
+            "descriptionLangId": "la-feature_lock-friend-description",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-04"
+        }
+    },
+    {
+        "tutorial_type": 9,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_ACHIEVEMENT",
+            "titleLangId": "la-feature_lock-achievement-title",
+            "descriptionLangId": "la-feature_lock-achievement-description",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-06"
+        }
+    },
+    {
+        "tutorial_type": 10,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_CUSTOM_PALETTE",
+            "titleLangId": "la-feature_lock-park_notification"
+        }
+    },
+    {
+        "tutorial_type": 11,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MULTI_GAME_INVITATION",
+            "titleLangId": "la-feature_lock-multi_game_invitation-title",
+            "descriptionLangId": "la-feature_lock-multi_game_invitation-description",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-04"
+        }
+    },
+    {
+        "tutorial_type": 12,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_POSTER",
+            "titleLangId": "la-feature_lock-poster-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "tutorial_type": 13,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MULTI_GAME",
+            "titleLangId": "la-feature_lock-multi_game-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04"
+        }
+    },
+    {
+        "tutorial_type": 14,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MISSION_PASS",
+            "titleLangId": "la-feature_lock-mission_pass-title",
+            "descriptionLangId": "la-feature_lock-mission_pass-description",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-05"
+        }
+    },
+    {
+        "tutorial_type": 15,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_SKILL_TREE",
+            "titleLangId": "la-feature_lock-skill_tree-title",
+            "descriptionLangId": "la-feature_lock-skill_tree-description",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-06"
+        }
+    },
+    {
+        "tutorial_type": 16,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_STORY",
+            "titleLangId": "la-feature_lock-story-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-07"
+        }
+    },
+    {
+        "tutorial_type": 17,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_WORK",
+            "titleLangId": "la-feature_lock-work-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
+        "tutorial_type": 18,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_CARD_LEVEL_LIMIT_BREAK",
+            "titleLangId": "la-feature_lock-card_level_limit_break-title",
+            "descriptionLangId": "la-feature_lock-card_level_limit_break-description",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-03"
+        }
+    },
+    {
+        "tutorial_type": 19,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MUSIC_HIGHEST_SCORE_RANKING",
+            "titleLangId": "la-feature_lock-music_highest_score_ranking-title",
+            "descriptionLangId": "la-feature_lock-music_highest_score_ranking-description",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-12"
+        }
+    },
+    {
+        "tutorial_type": 20,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MUSIC_HIGHEST_SCORE_RATING_RANKING",
+            "titleLangId": "la-feature_lock-music_highest_score_rating_ranking-title",
+            "descriptionLangId": "la-feature_lock-music_highest_score_rating_ranking-description",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-12"
+        }
+    },
+    {
+        "tutorial_type": 501,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_EXCHANGE_AREA01",
+            "titleLangId": "la-feature_lock-exchange-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-11"
+        }
+    },
+    {
+        "tutorial_type": 502,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_EXCHANGE_AREA02_TRAINING_ITEM",
+            "titleLangId": "la-tips-exchange-area02-training-item-title",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-12"
+        }
+    },
+    {
+        "tutorial_type": 1001,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_COOKING_PUZZLE",
+            "titleLangId": "la-feature_lock-cooking_puzzle-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-11"
+        }
+    },
+    {
+        "tutorial_type": 1002,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_JUMP_ROPE",
+            "titleLangId": "la-feature_lock-jump_rope-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "tutorial_type": 1003,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_CIRCUIT",
+            "titleLangId": "la-feature_lock-circuit-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-02"
+        }
+    },
+    {
+        "tutorial_type": 1004,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_COMBO_CARD_GAME",
+            "titleLangId": "la-feature_lock-combo_card_game-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08"
+        }
+    },
+    {
+        "tutorial_type": 1101,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MINI_GAME_CONVERT_REWARD_UP_STAMINA_AREA02_BET_COIN",
+            "titleLangId": "la-feature_lock-mini_game_convert_reward_up_stamina_to_bet_coin-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-02"
+        }
+    },
+    {
+        "tutorial_type": 1501,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MULTI_GAME_LIVE",
+            "titleLangId": "la-feature_lock-multi_game_live",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-04"
+        }
+    },
+    {
+        "tutorial_type": 1502,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_MULTI_GAME_MINI_GAME",
+            "titleLangId": "la-feature_lock-park_notification",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-04"
+        }
+    },
+    {
+        "tutorial_type": 2001,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_MAP",
+            "titleLangId": "la-feature_lock-park_map-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01-1-5"
+        }
+    },
+    {
+        "tutorial_type": 2002,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_QUEST",
+            "titleLangId": "la-feature_lock-park_character_quest-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02"
+        }
+    },
+    {
+        "tutorial_type": 2003,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_AREA_QUEST",
+            "titleLangId": "la-feature_lock-park_area_quest-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "tutorial_type": 2004,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_DAILY_QUEST",
+            "titleLangId": "la-feature_lock-park_daily_quest-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-05"
+        }
+    },
+    {
+        "tutorial_type": 2005,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SET",
+            "titleLangId": "la-feature_lock-park_character_set-title",
+            "viewConditionGroupId": "cd-character_get_count-2"
+        }
+    },
+    {
+        "tutorial_type": 2006,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_PHOTO_MODE",
+            "titleLangId": "la-feature_lock-park_photo_mode-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01-1-5"
+        }
+    },
+    {
+        "tutorial_type": 2007,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_EMOTION",
+            "titleLangId": "la-feature_lock-park_emotion-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01-1-5"
+        }
+    },
+    {
+        "tutorial_type": 2008,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_TIME_PERIOD",
+            "titleLangId": "la-feature_lock-park_time_period-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-14"
+        }
+    },
+    {
+        "tutorial_type": 2009,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_NOTICE",
+            "titleLangId": "la-feature_lock-park_notification",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "tutorial_type": 2105,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_QUEST_INVITATION",
+            "titleLangId": "la-feature_lock-park_character_quest_invitation-title",
+            "descriptionLangId": "la-feature_lock-park_character_quest_invitation-description",
+            "unlockConditionGroupId": "cd-character_quest_invitation"
+        }
+    },
+    {
+        "tutorial_type": 10301,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SHOP_AREA01_CANDY",
+            "titleLangId": "la-feature_lock-park_character_shop_candy-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-09"
+        }
+    },
+    {
+        "tutorial_type": 10302,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SHOP_AREA01_BALLOON",
+            "titleLangId": "la-feature_lock-park_character_shop_balloon-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-15"
+        }
+    },
+    {
+        "tutorial_type": 10303,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SHOP_AREA01_PEN_LIGHT",
+            "titleLangId": "la-feature_lock-park_character_shop_pen_light-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-19"
+        }
+    },
+    {
+        "tutorial_type": 10304,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SHOP_AREA02_HAIR_ACCESSORY",
+            "titleLangId": "la-tips-park-character-shop-area02-hair-accessory-title",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-12"
+        }
+    },
+    {
+        "tutorial_type": 10401,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_LOTTERY_AREA02_GACHAPON",
+            "titleLangId": "la-feature_lock-park_lottery_gachapon-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-05-1-3"
+        }
+    },
+    {
+        "tutorial_type": 10402,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_LOTTERY_AREA02_SCRATCH",
+            "titleLangId": "la-feature_lock-park_lottery_scratch-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-09-1-9"
+        }
+    },
+    {
+        "tutorial_type": 10501,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_HIGH_LOW_AREA02",
+            "titleLangId": "la-feature_lock-park_high_low-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-09-1-6"
+        }
+    },
+    {
+        "tutorial_type": 10601,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_PRINT_BOOTH_AREA02",
+            "titleLangId": "la-feature_lock-park_print_booth-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-06"
+        }
+    }
+]

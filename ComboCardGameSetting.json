@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "data": {
+            "id": "1",
+            "maxUserCount": 4,
+            "startChipQuantity": 1000,
+            "discardCardPersonalHoldSeconds": 10,
+            "ronPersonalHoldSeconds": 5,
+            "tsumoPersonalHoldSeconds": 5,
+            "personalHoldSeconds": 20,
+            "sameCardCount": 3,
+            "characterBonusChipQuantity": 90,
+            "deckCharacterGroupingCount": 4,
+            "randomMatchMinUserCount": 1,
+            "privateRoomMinUserCount": 2,
+            "miniGameBetCoinConsumptionGroupId": "combo_card_game-bet-coin-consumption-group",
+            "randomMatchStartTimeLimitSeconds": 30,
+            "warningRemainingCardCount": 10,
+            "multiGameSetupTimeLimitSeconds": 30
+        }
+    }
+]

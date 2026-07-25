@@ -1,0 +1,1239 @@
+[
+    {
+        "group_id": "resource_obtainment_route-item-music_release",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-music_release",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_allmember-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_allmember-1",
+            "number": 1,
+            "descriptionLangId": "la-facility-a01-exchangebooth-name",
+            "facilityId": "facility-a01-exchangebooth",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-12"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_card-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_card-1",
+            "number": 1,
+            "descriptionLangId": "la-facility-a01-exchangebooth-name",
+            "facilityId": "facility-a01-exchangebooth",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-12"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_content-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_content-1",
+            "number": 1,
+            "descriptionLangId": "la-facility-a01-exchangebooth-name",
+            "facilityId": "facility-a01-exchangebooth",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-12"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_leader-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_leader-1",
+            "number": 1,
+            "descriptionLangId": "la-facility-a01-exchangebooth-name",
+            "facilityId": "facility-a01-exchangebooth",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-12"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-stone_total",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-stone_total",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-achievement",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-06"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_allmember-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_allmember-2",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_card-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_card-2",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_content-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_content-2",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_leader-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_leader-2",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_content-2",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_content-2",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_leader-1",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_leader-1",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_leader-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_leader-2",
+            "number": 2,
+            "descriptionLangId": "la-facility-a01-station-name",
+            "facilityId": "facility-a01-station",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gacha_ticket-r5-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gacha_ticket-r5-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-appealtext",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-appealtext",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-card",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-card",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-gacha",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-character",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-character",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-character_quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-02"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-costume",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-costume",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-custom_palette_decoration",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-custom_palette_decoration",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-emblem",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-emblem",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-achievement",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-06"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fan_mark",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fan_mark",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-membership",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-gacha_point",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-gacha_point",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-gacha",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_level_up",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_level_up",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_level_up",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_level_up",
+            "number": 2,
+            "descriptionLangId": "la-facility-a01-station-name",
+            "facilityId": "facility-a01-station",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_1-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_1-1",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_1-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_1-1",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_1-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_1-2",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_1-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_1-2",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_2-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_2-1",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_2-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_2-1",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_2-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_2-2",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_2-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_2-2",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_3-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_3-1",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_3-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_3-1",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_3-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_3-2",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-attribute_3-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-attribute_3-2",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card_limit_break-cmn-sr",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card_limit_break-cmn-sr",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-character_coin",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-character_coin",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-membership",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-event_badge-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-event_badge-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-event",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-event_pt-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-event_pt-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-event",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-exchange-holomedal",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-exchange-holomedal",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-present",
+            "facilityId": "facility-a01-house",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-02"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-000-cmn",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-000-cmn",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-area_quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-001-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-001-1",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-area_quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-001-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-001-2",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-area_quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-002-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-002-1",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-area_quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-002-2",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-002-2",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-area_quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a02-000-cmn",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a02-000-cmn",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a02-001-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a02-001-1",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a02-002-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a02-002-1",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gacha_ticket-cmn-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gacha_ticket-cmn-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gacha_ticket-cmn-10",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gacha_ticket-cmn-10",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gacha_ticket-r5-10",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gacha_ticket-r5-10",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gold",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gold",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-000-cmn",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-000-cmn",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-rope",
+            "facilityId": "facility-a01-athletic",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gold",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gold",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-live",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-live_auto_play",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-live_auto_play",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure",
+            "conditionGroupId": "cd-quest_clear-quest-area-a01-06"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-mini_game_bet_coin",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-mini_game_bet_coin",
+            "number": 1,
+            "descriptionLangId": "la-facility-a02-holocircuit-name",
+            "facilityId": "facility-a02-holocircuit",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-02-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-mini_game_bet_coin",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-mini_game_bet_coin",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-pokertable-name",
+            "facilityId": "facility-a02-pokertable",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-02-07"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-music_release",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-music_release",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-main_quest"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-park_character_quest",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-park_character_quest",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-main_quest"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-shop",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-02",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-02",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-shop",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-03",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-03",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-shop",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-10",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-10",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-achievement",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-06"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-300",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_1-300",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-100",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-100",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-300",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-selectable_reward_box-item-card_limit_break-attribute_2-300",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_allmember-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_allmember-1",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_card-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_card-1",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_card-1",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_card-1",
+            "number": 3,
+            "descriptionLangId": "la-facility-a01-station-name",
+            "facilityId": "facility-a01-station",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_content-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_content-1",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-live_reward_up_stamina_recover",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-live_reward_up_stamina_recover",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-player_level",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-02"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_leader-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_leader-1",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-coinbooth-name",
+            "facilityId": "facility-a02-coinbooth",
+            "conditionGroupId": "cd-facility-a02-coinbooth"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_leader-1",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_leader-1",
+            "number": 3,
+            "descriptionLangId": "la-facility-a01-station-name",
+            "facilityId": "facility-a01-station",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-mini_game_reward_up_stamina_recover",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-mini_game_reward_up_stamina_recover",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-player_level",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-02"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_allmember-1",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_allmember-1",
+            "number": 3,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_allmember-1",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_allmember-1",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_allmember-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_allmember-2",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_card-1",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_card-1",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_card-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_card-2",
+            "number": 2,
+            "descriptionLangId": "la-facility-a01-station-name",
+            "facilityId": "facility-a01-station",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_card-2",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_card-2",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_content-1",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_content-1",
+            "number": 3,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_content-1",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_content-1",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_content-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_content-2",
+            "number": 2,
+            "descriptionLangId": "la-facility-a02-station-name",
+            "facilityId": "facility-a02-station",
+            "conditionGroupId": "cd-facility-a02-station"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-mission_pass_point",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-mission_pass_point",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-mission",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-05"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-music",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-music",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-music_shop",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-music_singer",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-music_singer",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-park_accessory",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-park_accessory",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-park_emotion",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-park_emotion",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-membership",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-player_exp",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-player_exp",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-premium_mission_pass",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-premium_mission_pass",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-shop",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-quest",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-quest",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-sd_costume",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-sd_costume",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-gacha",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-set",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-set",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-stamp",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-stamp",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-membership",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-stone_paid_only",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-stone_paid_only",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-shop",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-wallpaper",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-wallpaper",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-park_character_quest",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-park_character_quest",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-card-potential-upgrade-cmn_point-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-card-potential-upgrade-cmn_point-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-shop",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gacha-cmn_sticker-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gacha-cmn_sticker-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-gacha",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gacha-sp_sticker-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gacha-sp_sticker-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-gacha",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gacha_ticket-r4-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gacha_ticket-r4-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-skill_tree_point",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-skill_tree_point",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-character_level",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-06"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-000-cmn",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-000-cmn",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-cooking",
+            "facilityId": "facility-a01-restaurant",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-11"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-001-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-001-1",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-rope",
+            "facilityId": "facility-a01-athletic",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-001-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-001-2",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-cooking",
+            "facilityId": "facility-a01-restaurant",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-11"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-002-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-002-1",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-rope",
+            "facilityId": "facility-a01-athletic",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a01-002-2",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a01-002-2",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-cooking",
+            "facilityId": "facility-a01-restaurant",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-11"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gold",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gold",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-rope",
+            "facilityId": "facility-a01-athletic",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-gold",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-item-gold",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-cooking",
+            "facilityId": "facility-a01-restaurant",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-11"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-live_auto_play",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-live_auto_play",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-rope",
+            "facilityId": "facility-a01-athletic",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-live_auto_play",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-live_auto_play",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-cooking",
+            "facilityId": "facility-a01-restaurant",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-11"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-live_skin",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-live_skin",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-stone_total",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-stone_total",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-quest",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-poster",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-poster",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-sd_costume_hair_accessory",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-sd_costume_hair_accessory",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_leader-2",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_leader-2",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-treasure",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    }
+]

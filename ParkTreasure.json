@@ -1,0 +1,912 @@
+[
+    {
+        "id": "park_treasure-area-a01-005",
+        "data": {
+            "id": "park_treasure-area-a01-005",
+            "parkTargetMappingId": "target_map-treasure-area-a01-005",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-005",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-006",
+        "data": {
+            "id": "park_treasure-area-a01-006",
+            "parkTargetMappingId": "target_map-treasure-area-a01-006",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-006",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-007",
+        "data": {
+            "id": "park_treasure-area-a01-007",
+            "parkTargetMappingId": "target_map-treasure-area-a01-007",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-007",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-008",
+        "data": {
+            "id": "park_treasure-area-a01-008",
+            "parkTargetMappingId": "target_map-treasure-area-a01-008",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-008",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-009",
+        "data": {
+            "id": "park_treasure-area-a01-009",
+            "parkTargetMappingId": "target_map-treasure-area-a01-009",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-009",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-010",
+        "data": {
+            "id": "park_treasure-area-a01-010",
+            "parkTargetMappingId": "target_map-treasure-area-a01-010",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-010",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-011",
+        "data": {
+            "id": "park_treasure-area-a01-011",
+            "parkTargetMappingId": "target_map-treasure-area-a01-011",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-011",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "7500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-012",
+        "data": {
+            "id": "park_treasure-area-a01-012",
+            "parkTargetMappingId": "target_map-treasure-area-a01-012",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-012",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-013",
+        "data": {
+            "id": "park_treasure-area-a01-013",
+            "parkTargetMappingId": "target_map-treasure-area-a01-013",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-013",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-014",
+        "data": {
+            "id": "park_treasure-area-a01-014",
+            "parkTargetMappingId": "target_map-treasure-area-a01-014",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-014",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-015",
+        "data": {
+            "id": "park_treasure-area-a01-015",
+            "parkTargetMappingId": "target_map-treasure-area-a01-015",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-015",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-016",
+        "data": {
+            "id": "park_treasure-area-a01-016",
+            "parkTargetMappingId": "target_map-treasure-area-a01-016",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-016",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-019",
+        "data": {
+            "id": "park_treasure-area-a01-019",
+            "parkTargetMappingId": "target_map-treasure-area-a01-019",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-019",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-021",
+        "data": {
+            "id": "park_treasure-area-a01-021",
+            "parkTargetMappingId": "target_map-treasure-area-a01-021",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-021",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-exchange-holomedal",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "25000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-022",
+        "data": {
+            "id": "park_treasure-area-a01-022",
+            "parkTargetMappingId": "target_map-treasure-area-a01-022",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-022",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "15000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-023",
+        "data": {
+            "id": "park_treasure-area-a01-023",
+            "parkTargetMappingId": "target_map-treasure-area-a01-023",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-023",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "30000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-024",
+        "data": {
+            "id": "park_treasure-area-a01-024",
+            "parkTargetMappingId": "target_map-treasure-area-a01-024",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-024",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "15000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-025",
+        "data": {
+            "id": "park_treasure-area-a01-025",
+            "parkTargetMappingId": "target_map-treasure-area-a01-025",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-025",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "35000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-026",
+        "data": {
+            "id": "park_treasure-area-a01-026",
+            "parkTargetMappingId": "target_map-treasure-area-a01-026",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-026",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-001",
+        "data": {
+            "id": "park_treasure-area-a02-001",
+            "parkTargetMappingId": "target_map-treasure-area-a02-001",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-001",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "30000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-003",
+        "data": {
+            "id": "park_treasure-area-a02-003",
+            "parkTargetMappingId": "target_map-treasure-area-a02-003",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-003",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "30000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-005",
+        "data": {
+            "id": "park_treasure-area-a02-005",
+            "parkTargetMappingId": "target_map-treasure-area-a02-005",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-005",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_2-100",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "35000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-006",
+        "data": {
+            "id": "park_treasure-area-a02-006",
+            "parkTargetMappingId": "target_map-treasure-area-a02-006",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-006",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "35000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-009",
+        "data": {
+            "id": "park_treasure-area-a02-009",
+            "parkTargetMappingId": "target_map-treasure-area-a02-009",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-009",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "35000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-011",
+        "data": {
+            "id": "park_treasure-area-a02-011",
+            "parkTargetMappingId": "target_map-treasure-area-a02-011",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-011",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_2-100",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "45000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-012",
+        "data": {
+            "id": "park_treasure-area-a02-012",
+            "parkTargetMappingId": "target_map-treasure-area-a02-012",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-012",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "45000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-014",
+        "data": {
+            "id": "park_treasure-area-a02-014",
+            "parkTargetMappingId": "target_map-treasure-area-a02-014",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-014",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "45000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-015",
+        "data": {
+            "id": "park_treasure-area-a02-015",
+            "parkTargetMappingId": "target_map-treasure-area-a02-015",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-015",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "45000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-001",
+        "data": {
+            "id": "park_treasure-area-a01-001",
+            "parkTargetMappingId": "target_map-treasure-area-a01-001",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-001",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "2500"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-002",
+        "data": {
+            "id": "park_treasure-area-a01-002",
+            "parkTargetMappingId": "target_map-treasure-area-a01-002",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-002",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-003",
+        "data": {
+            "id": "park_treasure-area-a01-003",
+            "parkTargetMappingId": "target_map-treasure-area-a01-003",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-003",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-004",
+        "data": {
+            "id": "park_treasure-area-a01-004",
+            "parkTargetMappingId": "target_map-treasure-area-a01-004",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-004",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-017",
+        "data": {
+            "id": "park_treasure-area-a01-017",
+            "parkTargetMappingId": "target_map-treasure-area-a01-017",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-017",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-exchange-holomedal",
+                    "quantity": "2"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-018",
+        "data": {
+            "id": "park_treasure-area-a01-018",
+            "parkTargetMappingId": "target_map-treasure-area-a01-018",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-018",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "15000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a01-020",
+        "data": {
+            "id": "park_treasure-area-a01-020",
+            "parkTargetMappingId": "target_map-treasure-area-a01-020",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a01-020",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-park_character_quest",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-002",
+        "data": {
+            "id": "park_treasure-area-a02-002",
+            "parkTargetMappingId": "target_map-treasure-area-a02-002",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-002",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "30000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-004",
+        "data": {
+            "id": "park_treasure-area-a02-004",
+            "parkTargetMappingId": "target_map-treasure-area-a02-004",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-004",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_1-300",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-007",
+        "data": {
+            "id": "park_treasure-area-a02-007",
+            "parkTargetMappingId": "target_map-treasure-area-a02-007",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-007",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_1-300",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "35000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-008",
+        "data": {
+            "id": "park_treasure-area-a02-008",
+            "parkTargetMappingId": "target_map-treasure-area-a02-008",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-008",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_2-100",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-010",
+        "data": {
+            "id": "park_treasure-area-a02-010",
+            "parkTargetMappingId": "target_map-treasure-area-a02-010",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-010",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_1-300",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "45000"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-013",
+        "data": {
+            "id": "park_treasure-area-a02-013",
+            "parkTargetMappingId": "target_map-treasure-area-a02-013",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-013",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_1-300",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "park_treasure-area-a02-016",
+        "data": {
+            "id": "park_treasure-area-a02-016",
+            "parkTargetMappingId": "target_map-treasure-area-a02-016",
+            "conditionGroupId": "cd-appearance-park_treasure-area-a02-016",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "45000"
+                }
+            ]
+        }
+    }
+]

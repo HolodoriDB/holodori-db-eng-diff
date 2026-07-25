@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "data": {
+            "id": "1",
+            "maxUserCount": 16,
+            "randomMatchMinUserCount": 1,
+            "privateRoomMinUserCount": 2,
+            "miniGameBetCoinConsumptionGroupId": "circuit-bet-coin-consumption-group",
+            "timeLimitSecondsAfterTopRankClear": 30,
+            "firstLapClearThresholdRank": 8,
+            "randomMatchStartTimeLimitSeconds": 30,
+            "multiGameSetupTimeLimitSeconds": 30,
+            "totalFinishTimeLimitSeconds": 600
+        }
+    }
+]

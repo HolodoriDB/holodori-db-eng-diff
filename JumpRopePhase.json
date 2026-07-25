@@ -1,0 +1,55 @@
+[
+    {
+        "phase_type": 1,
+        "data": {
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "nameLangId": "la-jump_rope_phase-phase1",
+            "iconAssetId": "icon-01"
+        }
+    },
+    {
+        "phase_type": 2,
+        "data": {
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "nameLangId": "la-jump_rope_phase-phase2",
+            "iconAssetId": "icon-02"
+        }
+    },
+    {
+        "phase_type": 3,
+        "data": {
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "nameLangId": "la-jump_rope_phase-phase3",
+            "iconAssetId": "icon-03"
+        }
+    },
+    {
+        "phase_type": 4,
+        "data": {
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "nameLangId": "la-jump_rope_phase-phase4",
+            "isRopeEmissionEnabled": true,
+            "iconAssetId": "icon-04"
+        }
+    },
+    {
+        "phase_type": 5,
+        "data": {
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE5",
+            "nameLangId": "la-jump_rope_phase-phase5",
+            "isRopeEmissionEnabled": true,
+            "isSpinnerChangeEnabled": true,
+            "iconAssetId": "icon-05"
+        }
+    },
+    {
+        "phase_type": 6,
+        "data": {
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "nameLangId": "la-jump_rope_phase-phase6",
+            "isRopeEmissionEnabled": true,
+            "isSpinnerChangeEnabled": true,
+            "iconAssetId": "icon-05"
+        }
+    }
+]

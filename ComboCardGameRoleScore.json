@@ -1,0 +1,255 @@
+[
+    {
+        "id": "combo-card_role-score_three_card",
+        "data": {
+            "id": "combo-card_role-score_three_card",
+            "nameLangId": "la-combo-card_role-score_three_card",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_THREE_CARD",
+            "requiredCardQuantity": 3,
+            "score": 120,
+            "sameCategoryScore": 840,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MID"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-advent",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-advent",
+            "nameLangId": "la-grp-advent",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-advent"
+            ],
+            "requiredCardQuantity": 5,
+            "score": 480,
+            "sameCategoryScore": 1800,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MAX"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-gamers",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-gamers",
+            "nameLangId": "la-grp-gamers",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-gamers"
+            ],
+            "requiredCardQuantity": 4,
+            "score": 300,
+            "sameCategoryScore": 840,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MID"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-gen_0",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-gen_0",
+            "nameLangId": "la-grp-gen_0",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-gen_0"
+            ],
+            "requiredCardQuantity": 5,
+            "score": 480,
+            "sameCategoryScore": 1800,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MAX"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-gen_1",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-gen_1",
+            "nameLangId": "la-grp-gen_1",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-gen_1"
+            ],
+            "requiredCardQuantity": 4,
+            "score": 300,
+            "sameCategoryScore": 840,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MID"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-gen_2",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-gen_2",
+            "nameLangId": "la-grp-gen_2",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-gen_2"
+            ],
+            "requiredCardQuantity": 4,
+            "score": 300,
+            "sameCategoryScore": 840,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MID"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-gen_3",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-gen_3",
+            "nameLangId": "la-grp-gen_3",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-gen_3"
+            ],
+            "requiredCardQuantity": 4,
+            "score": 300,
+            "sameCategoryScore": 840,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MID"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-gen_4",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-gen_4",
+            "nameLangId": "la-grp-gen_4",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-gen_4"
+            ],
+            "requiredCardQuantity": 4,
+            "score": 300,
+            "sameCategoryScore": 840,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MID"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-gen_5",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-gen_5",
+            "nameLangId": "la-grp-gen_5",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-gen_5"
+            ],
+            "requiredCardQuantity": 4,
+            "score": 300,
+            "sameCategoryScore": 840,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MID"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-holox",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-holox",
+            "nameLangId": "la-grp-holox",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-holox"
+            ],
+            "requiredCardQuantity": 5,
+            "score": 480,
+            "sameCategoryScore": 1800,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MAX"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-indonesia-gen_1",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-indonesia-gen_1",
+            "nameLangId": "la-grp-indonesia-gen_1",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-indonesia-gen_1"
+            ],
+            "requiredCardQuantity": 3,
+            "score": 180,
+            "sameCategoryScore": 480,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-indonesia-gen_2",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-indonesia-gen_2",
+            "nameLangId": "la-grp-indonesia-gen_2",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-indonesia-gen_2"
+            ],
+            "requiredCardQuantity": 3,
+            "score": 180,
+            "sameCategoryScore": 480,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-indonesia-gen_3",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-indonesia-gen_3",
+            "nameLangId": "la-grp-indonesia-gen_3",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-indonesia-gen_3"
+            ],
+            "requiredCardQuantity": 3,
+            "score": 180,
+            "sameCategoryScore": 480,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-myth",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-myth",
+            "nameLangId": "la-grp-myth",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-myth"
+            ],
+            "requiredCardQuantity": 5,
+            "score": 480,
+            "sameCategoryScore": 1800,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MAX"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-promise",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-promise",
+            "nameLangId": "la-grp-promise",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-promise"
+            ],
+            "requiredCardQuantity": 5,
+            "score": 480,
+            "sameCategoryScore": 1800,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MAX"
+        }
+    },
+    {
+        "id": "combo-card_role-score_same_character_grouping_grp-regloss",
+        "data": {
+            "id": "combo-card_role-score_same_character_grouping_grp-regloss",
+            "nameLangId": "la-grp-regloss",
+            "roleType": "ComboCardGameCardRoleType_COMBO_CARD_GAME_CARD_ROLE_TYPE_SAME_CHARACTER_GROUPING",
+            "characterGroupingIds": [
+                "grp-regloss"
+            ],
+            "requiredCardQuantity": 5,
+            "score": 480,
+            "sameCategoryScore": 1800,
+            "roleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MIN",
+            "sameCategoryRoleEffect": "ComboCardGameCardRoleEffect_COMBO_CARD_GAME_CARD_ROLE_EFFECT_MAX"
+        }
+    }
+]

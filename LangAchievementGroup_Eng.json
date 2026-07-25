@@ -1,0 +1,534 @@
+[
+    {
+        "id": "la-achievement_grp-card",
+        "data": {
+            "id": "la-achievement_grp-card",
+            "text": "Members"
+        }
+    },
+    {
+        "id": "la-achievement_grp-character",
+        "data": {
+            "id": "la-achievement_grp-character",
+            "text": "holomem"
+        }
+    },
+    {
+        "id": "la-achievement_grp-dream_rank",
+        "data": {
+            "id": "la-achievement_grp-dream_rank",
+            "text": "Dream Rank"
+        }
+    },
+    {
+        "id": "la-achievement_grp-gift",
+        "data": {
+            "id": "la-achievement_grp-gift",
+            "text": "Gift"
+        }
+    },
+    {
+        "id": "la-achievement_grp-hidden-mission",
+        "data": {
+            "id": "la-achievement_grp-hidden-mission",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-achievement_grp-item",
+        "data": {
+            "id": "la-achievement_grp-item",
+            "text": "Items"
+        }
+    },
+    {
+        "id": "la-achievement_grp-live_clear",
+        "data": {
+            "id": "la-achievement_grp-live_clear",
+            "text": "Live"
+        }
+    },
+    {
+        "id": "la-achievement_grp-login",
+        "data": {
+            "id": "la-achievement_grp-login",
+            "text": "Log in"
+        }
+    },
+    {
+        "id": "la-achievement_grp-lost_item",
+        "data": {
+            "id": "la-achievement_grp-lost_item",
+            "text": "Treasure Chest"
+        }
+    },
+    {
+        "id": "la-achievement_grp-memory",
+        "data": {
+            "id": "la-achievement_grp-memory",
+            "text": "Memory"
+        }
+    },
+    {
+        "id": "la-achievement_grp-minigame_circuit",
+        "data": {
+            "id": "la-achievement_grp-minigame_circuit",
+            "text": "Mega Circuit"
+        }
+    },
+    {
+        "id": "la-achievement_grp-minigame_cooking",
+        "data": {
+            "id": "la-achievement_grp-minigame_cooking",
+            "text": "Collect Cooking"
+        }
+    },
+    {
+        "id": "la-achievement_grp-minigame_holocard",
+        "data": {
+            "id": "la-achievement_grp-minigame_holocard",
+            "text": "Pokajan!"
+        }
+    },
+    {
+        "id": "la-achievement_grp-minigame_rope",
+        "data": {
+            "id": "la-achievement_grp-minigame_rope",
+            "text": "Hoppin' Rope"
+        }
+    },
+    {
+        "id": "la-achievement_grp-music",
+        "data": {
+            "id": "la-achievement_grp-music",
+            "text": "Songs"
+        }
+    },
+    {
+        "id": "la-achievement_grp-photograph",
+        "data": {
+            "id": "la-achievement_grp-photograph",
+            "text": "Photography"
+        }
+    },
+    {
+        "id": "la-achievement_grp-quest",
+        "data": {
+            "id": "la-achievement_grp-quest",
+            "text": "Quest"
+        }
+    },
+    {
+        "id": "la-achievement_grp-score",
+        "data": {
+            "id": "la-achievement_grp-score",
+            "text": "Score"
+        }
+    },
+    {
+        "id": "la-achievement_grp-stamp",
+        "data": {
+            "id": "la-achievement_grp-stamp",
+            "text": "Stickers"
+        }
+    },
+    {
+        "id": "la-achievement_grp-w1-a01",
+        "data": {
+            "id": "la-achievement_grp-w1-a01",
+            "text": "Harmony Garden"
+        }
+    },
+    {
+        "id": "la-achievement_grp-w1-a02",
+        "data": {
+            "id": "la-achievement_grp-w1-a02",
+            "text": "Mega Sphere"
+        }
+    },
+    {
+        "id": "la-achievement_grp-work",
+        "data": {
+            "id": "la-achievement_grp-work",
+            "text": "Holowork"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00001",
+        "data": {
+            "id": "la-short_name-chr-00001",
+            "text": "Sora"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00002",
+        "data": {
+            "id": "la-short_name-chr-00002",
+            "text": "Robocosan"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00004",
+        "data": {
+            "id": "la-short_name-chr-00004",
+            "text": "Aki"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00005",
+        "data": {
+            "id": "la-short_name-chr-00005",
+            "text": "Haato"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00006",
+        "data": {
+            "id": "la-short_name-chr-00006",
+            "text": "Fubuki"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00007",
+        "data": {
+            "id": "la-short_name-chr-00007",
+            "text": "Matsuri"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00010",
+        "data": {
+            "id": "la-short_name-chr-00010",
+            "text": "Ayame"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00011",
+        "data": {
+            "id": "la-short_name-chr-00011",
+            "text": "Choco"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00012",
+        "data": {
+            "id": "la-short_name-chr-00012",
+            "text": "Subaru"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00013",
+        "data": {
+            "id": "la-short_name-chr-00013",
+            "text": "AZKi"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00014",
+        "data": {
+            "id": "la-short_name-chr-00014",
+            "text": "Mio"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00015",
+        "data": {
+            "id": "la-short_name-chr-00015",
+            "text": "Miko"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00016",
+        "data": {
+            "id": "la-short_name-chr-00016",
+            "text": "Okayu"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00017",
+        "data": {
+            "id": "la-short_name-chr-00017",
+            "text": "Korone"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00018",
+        "data": {
+            "id": "la-short_name-chr-00018",
+            "text": "Suisei"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00019",
+        "data": {
+            "id": "la-short_name-chr-00019",
+            "text": "Pekora"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00021",
+        "data": {
+            "id": "la-short_name-chr-00021",
+            "text": "Flare"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00022",
+        "data": {
+            "id": "la-short_name-chr-00022",
+            "text": "Noel"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00023",
+        "data": {
+            "id": "la-short_name-chr-00023",
+            "text": "Marine"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00026",
+        "data": {
+            "id": "la-short_name-chr-00026",
+            "text": "Watame"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00027",
+        "data": {
+            "id": "la-short_name-chr-00027",
+            "text": "Towa"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00028",
+        "data": {
+            "id": "la-short_name-chr-00028",
+            "text": "Luna"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00030",
+        "data": {
+            "id": "la-short_name-chr-00030",
+            "text": "Lamy"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00031",
+        "data": {
+            "id": "la-short_name-chr-00031",
+            "text": "Nene"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00032",
+        "data": {
+            "id": "la-short_name-chr-00032",
+            "text": "Botan"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00034",
+        "data": {
+            "id": "la-short_name-chr-00034",
+            "text": "Polka"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00035",
+        "data": {
+            "id": "la-short_name-chr-00035",
+            "text": "La+"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00036",
+        "data": {
+            "id": "la-short_name-chr-00036",
+            "text": "Lui"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00037",
+        "data": {
+            "id": "la-short_name-chr-00037",
+            "text": "Koyori"
+        }
+    },
+    {
+        "id": "la-short_name-chr-00039",
+        "data": {
+            "id": "la-short_name-chr-00039",
+            "text": "Iroha"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03001",
+        "data": {
+            "id": "la-short_name-chr-03001",
+            "text": "Risu"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03002",
+        "data": {
+            "id": "la-short_name-chr-03002",
+            "text": "Moona"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03003",
+        "data": {
+            "id": "la-short_name-chr-03003",
+            "text": "Iofi"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03004",
+        "data": {
+            "id": "la-short_name-chr-03004",
+            "text": "Ollie"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03005",
+        "data": {
+            "id": "la-short_name-chr-03005",
+            "text": "Anya"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03006",
+        "data": {
+            "id": "la-short_name-chr-03006",
+            "text": "Reine"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03007",
+        "data": {
+            "id": "la-short_name-chr-03007",
+            "text": "Zeta"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03008",
+        "data": {
+            "id": "la-short_name-chr-03008",
+            "text": "Kaela"
+        }
+    },
+    {
+        "id": "la-short_name-chr-03009",
+        "data": {
+            "id": "la-short_name-chr-03009",
+            "text": "Kobo"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04001",
+        "data": {
+            "id": "la-short_name-chr-04001",
+            "text": "Calliope"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04002",
+        "data": {
+            "id": "la-short_name-chr-04002",
+            "text": "Kiara"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04003",
+        "data": {
+            "id": "la-short_name-chr-04003",
+            "text": "Ina'nis"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04007",
+        "data": {
+            "id": "la-short_name-chr-04007",
+            "text": "IRyS"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04010",
+        "data": {
+            "id": "la-short_name-chr-04010",
+            "text": "Kronii"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04012",
+        "data": {
+            "id": "la-short_name-chr-04012",
+            "text": "Baelz"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04013",
+        "data": {
+            "id": "la-short_name-chr-04013",
+            "text": "Shiori"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04014",
+        "data": {
+            "id": "la-short_name-chr-04014",
+            "text": "Bijou"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04015",
+        "data": {
+            "id": "la-short_name-chr-04015",
+            "text": "Nerissa"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04016",
+        "data": {
+            "id": "la-short_name-chr-04016",
+            "text": "Fuwawa"
+        }
+    },
+    {
+        "id": "la-short_name-chr-04017",
+        "data": {
+            "id": "la-short_name-chr-04017",
+            "text": "Mococo"
+        }
+    },
+    {
+        "id": "la-short_name-chr-06002",
+        "data": {
+            "id": "la-short_name-chr-06002",
+            "text": "Kanade"
+        }
+    },
+    {
+        "id": "la-short_name-chr-06003",
+        "data": {
+            "id": "la-short_name-chr-06003",
+            "text": "Ririka"
+        }
+    },
+    {
+        "id": "la-short_name-chr-06004",
+        "data": {
+            "id": "la-short_name-chr-06004",
+            "text": "Raden"
+        }
+    },
+    {
+        "id": "la-short_name-chr-06005",
+        "data": {
+            "id": "la-short_name-chr-06005",
+            "text": "Hajime"
+        }
+    }
+]

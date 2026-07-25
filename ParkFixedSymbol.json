@@ -1,0 +1,28 @@
+[
+    {
+        "id": "park_fixed_symbol-random_symbol-level_up-01",
+        "data": {
+            "id": "park_fixed_symbol-random_symbol-level_up-01",
+            "parkTargetMappingId": "target_map-fixed_symbol-a01-024",
+            "conditionGroupId": "cd-quest_clear-quest-area-a01-19",
+            "reward": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-exchange-holomedal",
+                "quantity": "1"
+            }
+        }
+    },
+    {
+        "id": "park_fixed_symbol-random_symbol-level_up-02",
+        "data": {
+            "id": "park_fixed_symbol-random_symbol-level_up-02",
+            "parkTargetMappingId": "target_map-fixed_symbol-a01-073",
+            "conditionGroupId": "cd-quest_clear-quest-area-a01-19",
+            "reward": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-live_reward_up_stamina_recover",
+                "quantity": "1"
+            }
+        }
+    }
+]

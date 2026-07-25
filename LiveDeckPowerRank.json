@@ -1,0 +1,122 @@
+[
+    {
+        "type": 4,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_A",
+            "threshold": "150000"
+        }
+    },
+    {
+        "type": 4,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_A",
+            "plus": 1,
+            "threshold": "170000"
+        }
+    },
+    {
+        "type": 3,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_B",
+            "threshold": "100000"
+        }
+    },
+    {
+        "type": 3,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_B",
+            "plus": 1,
+            "threshold": "120000"
+        }
+    },
+    {
+        "type": 2,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_C",
+            "threshold": "50000"
+        }
+    },
+    {
+        "type": 2,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_C",
+            "plus": 1,
+            "threshold": "70000"
+        }
+    },
+    {
+        "type": 1,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_D"
+        }
+    },
+    {
+        "type": 1,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_D",
+            "plus": 1,
+            "threshold": "30000"
+        }
+    },
+    {
+        "type": 5,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "threshold": "200000"
+        }
+    },
+    {
+        "type": 5,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 1,
+            "threshold": "220000"
+        }
+    },
+    {
+        "type": 5,
+        "plus": 2,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 2,
+            "threshold": "270000"
+        }
+    },
+    {
+        "type": 5,
+        "plus": 3,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 3,
+            "threshold": "300000"
+        }
+    },
+    {
+        "type": 5,
+        "plus": 4,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 4,
+            "threshold": "350000"
+        }
+    },
+    {
+        "type": 5,
+        "plus": 5,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 5,
+            "threshold": "400000"
+        }
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "item_type": 1,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_CARD_LEVEL_UP",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 2,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_CARD_LEVEL_LIMIT_BREAK",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 3,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_CARD_POTENTIAL_UPGRADE",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 4,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_SKILL_TREE",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 5,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_GACHA_TICKET",
+            "limit": "99999"
+        }
+    },
+    {
+        "item_type": 6,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_FACILITY",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 7,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_EXCHANGE",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 8,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_PARK_CHARACTER_QUEST",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 9,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_LIVE_REWARD_UP_STAMINA_RECOVER",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 10,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_LIVE_AUTO_PLAY",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 11,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_MINI_GAME_BET_COIN",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 12,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_CHARACTER_COIN",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 13,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_MUSIC_RELEASE",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 15,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_GOLD",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 16,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_SELECTABLE_REWARD_BOX",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 17,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_MINI_GAME_REWARD_UP_STAMINA_RECOVER",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 18,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_QUEST_DELIVERY",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 999,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_OTHER",
+            "limit": "999999999"
+        }
+    },
+    {
+        "item_type": 1000,
+        "data": {
+            "itemType": "ItemType_ITEM_TYPE_MARATHON_EVENT_BADGE",
+            "limit": "999999999"
+        }
+    }
+]

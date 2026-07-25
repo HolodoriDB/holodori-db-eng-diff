@@ -1,0 +1,658 @@
+[
+    {
+        "facility_id": "facility-a01-exchangebooth",
+        "level": 2,
+        "data": {
+            "facilityId": "facility-a01-exchangebooth",
+            "level": 2,
+            "descriptionLangId": "la-facility-a01-exchangebooth-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-1",
+                    "quantity": "100"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-exchangebooth",
+        "level": 3,
+        "data": {
+            "facilityId": "facility-a01-exchangebooth",
+            "level": 3,
+            "descriptionLangId": "la-facility-a01-exchangebooth-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "1500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-2",
+                    "quantity": "200"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-exchangebooth",
+        "level": 4,
+        "data": {
+            "facilityId": "facility-a01-exchangebooth",
+            "level": 4,
+            "descriptionLangId": "la-facility-a01-exchangebooth-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "3000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-2",
+                    "quantity": "1200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-1",
+                    "quantity": "300"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-exchangebooth",
+        "level": 5,
+        "data": {
+            "facilityId": "facility-a01-exchangebooth",
+            "level": 5,
+            "descriptionLangId": "la-facility-a01-exchangebooth-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "6000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-1",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-2",
+                    "quantity": "500"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "level": 2,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "level": 2,
+            "descriptionLangId": "la-facility-a01-station-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-2",
+                    "quantity": "100"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "level": 3,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "level": 3,
+            "descriptionLangId": "la-facility-a01-station-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "1500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-2",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-1",
+                    "quantity": "200"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "level": 4,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "level": 4,
+            "descriptionLangId": "la-facility-a01-station-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "3000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-1",
+                    "quantity": "1200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-2",
+                    "quantity": "300"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "level": 5,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "level": 5,
+            "descriptionLangId": "la-facility-a01-station-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "6000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-2",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-1",
+                    "quantity": "500"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-athletic",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-athletic",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-athletic-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "500"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-candystore",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-candystore",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-candystore-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "60"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-1",
+                    "quantity": "10"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-house-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "10"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-cranegame",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a02-cranegame",
+            "level": 1,
+            "descriptionLangId": "la-facility-a02-cranegame-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-000-cmn",
+                    "quantity": "2"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-dancegame",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a02-dancegame",
+            "level": 1,
+            "descriptionLangId": "la-facility-a02-dancegame-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-000-cmn",
+                    "quantity": "2"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-fightinggame",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a02-fightinggame",
+            "level": 1,
+            "descriptionLangId": "la-facility-a02-fightinggame-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-000-cmn",
+                    "quantity": "2"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-itemgacha",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a02-itemgacha",
+            "level": 1,
+            "descriptionLangId": "la-facility-a02-itemgacha-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-000-cmn",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-photobooth",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a02-photobooth",
+            "level": 1,
+            "descriptionLangId": "la-facility-a02-photobooth-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-000-cmn",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-shootinggame",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a02-shootinggame",
+            "level": 1,
+            "descriptionLangId": "la-facility-a02-shootinggame-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-000-cmn",
+                    "quantity": "2"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-station",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a02-station",
+            "level": 1,
+            "descriptionLangId": "la-facility-a02-station-description",
+            "order": 1
+        }
+    },
+    {
+        "facility_id": "facility-a01-clocktower",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-clocktower",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-clocktower-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-2",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-2",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-exchangebooth",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-exchangebooth",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-exchangebooth-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "70"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-2",
+                    "quantity": "10"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "5000"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-facerock",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-facerock",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-facerock-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-2",
+                    "quantity": "30"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheel",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-ferriswheel",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-ferriswheel-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "80"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-2",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-2",
+                    "quantity": "10"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-memoryboard",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-memoryboard",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-memoryboard-description",
+            "order": 1
+        }
+    },
+    {
+        "facility_id": "facility-a01-multiplay",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-multiplay",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-multiplay-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "1000"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-station-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-1",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-002-1",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a01-theater",
+        "level": 1,
+        "data": {
+            "facilityId": "facility-a01-theater",
+            "level": 1,
+            "descriptionLangId": "la-facility-a01-theater-description",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-000-cmn",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a01-001-1",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "2000"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-station",
+        "level": 2,
+        "data": {
+            "facilityId": "facility-a02-station",
+            "level": 2,
+            "descriptionLangId": "la-facility-a02-station-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-002-1",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-station",
+        "level": 3,
+        "data": {
+            "facilityId": "facility-a02-station",
+            "level": 3,
+            "descriptionLangId": "la-facility-a02-station-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-002-1",
+                    "quantity": "3"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-station",
+        "level": 4,
+        "data": {
+            "facilityId": "facility-a02-station",
+            "level": 4,
+            "descriptionLangId": "la-facility-a02-station-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-002-1",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "facility_id": "facility-a02-station",
+        "level": 5,
+        "data": {
+            "facilityId": "facility-a02-station",
+            "level": 5,
+            "descriptionLangId": "la-facility-a02-station-lvup",
+            "order": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a02-002-1",
+                    "quantity": "10"
+                }
+            ]
+        }
+    }
+]

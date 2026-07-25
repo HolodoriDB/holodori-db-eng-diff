@@ -1,0 +1,41 @@
+[
+    {
+        "id": "park_character_shop-hair_tophat",
+        "data": {
+            "id": "park_character_shop-hair_tophat",
+            "assetId": "hair-tophat",
+            "logoColor": "C22616",
+            "backgroundColor": "7A120C"
+        }
+    },
+    {
+        "id": "park_character_shop-prop_balloon",
+        "data": {
+            "id": "park_character_shop-prop_balloon",
+            "assetId": "prop-balloon",
+            "logoColor": "0E6EFF",
+            "backgroundColor": "56C5F8",
+            "propMotionAssetId": "mot_define_general_chr_drs_balloon-watch-r00_typ000_in_bdy00"
+        }
+    },
+    {
+        "id": "park_character_shop-prop_candy",
+        "data": {
+            "id": "park_character_shop-prop_candy",
+            "assetId": "prop-candy",
+            "logoColor": "FF58A8",
+            "backgroundColor": "FFAAEA",
+            "propMotionAssetId": "mot_define_general_chr_drs_candy-lick-r00_typ000_in_bdy00"
+        }
+    },
+    {
+        "id": "park_character_shop-prop_penlight",
+        "data": {
+            "id": "park_character_shop-prop_penlight",
+            "assetId": "prop-penlight",
+            "logoColor": "42D6FF",
+            "backgroundColor": "4989FF",
+            "propMotionAssetId": "mot_define_general_chr_drs_penlight-shake-r00_typ000_in_bdy00"
+        }
+    }
+]

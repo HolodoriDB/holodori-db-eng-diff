@@ -1,0 +1,66 @@
+[
+    {
+        "id": "gacha_button-common-normal-001-btn_01-gacha_ticket",
+        "data": {
+            "id": "gacha_button-common-normal-001-btn_01-gacha_ticket",
+            "gachaId": "gacha-common-normal-001"
+        }
+    },
+    {
+        "id": "gacha_button-common-normal-001-btn_01-paid_stone-daily",
+        "data": {
+            "id": "gacha_button-common-normal-001-btn_01-paid_stone-daily",
+            "gachaId": "gacha-common-normal-001",
+            "resetIntervalType": "ResetIntervalType_RESET_INTERVAL_TYPE_DAILY"
+        }
+    },
+    {
+        "id": "gacha_button-gacha_common-ticket_r5-001-btn_01-gacha-ticket",
+        "data": {
+            "id": "gacha_button-gacha_common-ticket_r5-001-btn_01-gacha-ticket",
+            "gachaId": "gacha-common-ticket_r5-001"
+        }
+    },
+    {
+        "id": "gacha_button-gacha_fixed-beginner-001-btn_10-paid_stone",
+        "data": {
+            "id": "gacha_button-gacha_fixed-beginner-001-btn_10-paid_stone",
+            "gachaId": "gacha-fixed-beginner-001"
+        }
+    },
+    {
+        "id": "gacha_button-gacha-beginner-select-001-btn_01-stone",
+        "data": {
+            "id": "gacha_button-gacha-beginner-select-001-btn_01-stone",
+            "gachaId": "gacha-beginner-select-001"
+        }
+    },
+    {
+        "id": "gacha_button-gacha-beginner-select-001-btn_10-stone",
+        "data": {
+            "id": "gacha_button-gacha-beginner-select-001-btn_10-stone",
+            "gachaId": "gacha-beginner-select-001"
+        }
+    },
+    {
+        "id": "gacha_button-gacha-common-ticket_r4-001-btn_01-gacha-ticket",
+        "data": {
+            "id": "gacha_button-gacha-common-ticket_r4-001-btn_01-gacha-ticket",
+            "gachaId": "gacha-common-ticket_r4-001"
+        }
+    },
+    {
+        "id": "gacha_button-common-normal-001-btn_01-stone",
+        "data": {
+            "id": "gacha_button-common-normal-001-btn_01-stone",
+            "gachaId": "gacha-common-normal-001"
+        }
+    },
+    {
+        "id": "gacha_button-common-normal-001-btn_10-stone",
+        "data": {
+            "id": "gacha_button-common-normal-001-btn_10-stone",
+            "gachaId": "gacha-common-normal-001"
+        }
+    }
+]

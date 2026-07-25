@@ -1,0 +1,26 @@
+[
+    {
+        "id": "special_story-normal_area-a01-mv",
+        "data": {
+            "id": "special_story-normal_area-a01-mv",
+            "titleLangId": "la-special_story-normal_area-a01-mv",
+            "storyId": "story-special_normal_area-a01-mv",
+            "assetId": "special-001",
+            "assetType": "StoryAssetType_STORY_ASSET_TYPE_MOVIE",
+            "order": 1
+        }
+    },
+    {
+        "id": "special_story-normal_area-a02-mv",
+        "data": {
+            "id": "special_story-normal_area-a02-mv",
+            "titleLangId": "la-special_story-normal_area-a02-mv",
+            "storyId": "story-special_normal_area-a02-mv",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-main-w1-02-01",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-01",
+            "assetId": "special-002",
+            "assetType": "StoryAssetType_STORY_ASSET_TYPE_MOVIE",
+            "order": 3
+        }
+    }
+]

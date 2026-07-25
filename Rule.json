@@ -1,0 +1,323 @@
+[
+    {
+        "type": 2,
+        "country_code": "JP",
+        "store_type": 3,
+        "data": {
+            "type": "RuleType_RULE_TYPE_COMMERCIAL_TRANSACTION",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_STEAM",
+            "langIds": [
+                "la-rule-commercial_transaction-steam"
+            ]
+        }
+    },
+    {
+        "type": 3,
+        "country_code": "JP",
+        "store_type": 2,
+        "data": {
+            "type": "RuleType_RULE_TYPE_CURRENCY_GUIDELINE",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_GOOGLE_PLAY",
+            "langIds": [
+                "la-rule-currency_guideline"
+            ]
+        }
+    },
+    {
+        "type": 3,
+        "country_code": "JP",
+        "store_type": 3,
+        "data": {
+            "type": "RuleType_RULE_TYPE_CURRENCY_GUIDELINE",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_STEAM",
+            "langIds": [
+                "la-rule-currency_guideline"
+            ]
+        }
+    },
+    {
+        "type": 1,
+        "country_code": "JP",
+        "store_type": 1,
+        "data": {
+            "type": "RuleType_RULE_TYPE_FUND_SETTLEMENT",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_APP_STORE",
+            "langIds": [
+                "la-rule-fund_settlement"
+            ]
+        }
+    },
+    {
+        "type": 1,
+        "country_code": "JP",
+        "store_type": 2,
+        "data": {
+            "type": "RuleType_RULE_TYPE_FUND_SETTLEMENT",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_GOOGLE_PLAY",
+            "langIds": [
+                "la-rule-fund_settlement"
+            ]
+        }
+    },
+    {
+        "type": 6,
+        "country_code": "",
+        "store_type": 1,
+        "data": {
+            "type": "RuleType_RULE_TYPE_TALENT_GUIDELINE",
+            "storeType": "StoreType_STORE_TYPE_APP_STORE",
+            "langIds": [
+                "la-rule-talent_guideline"
+            ]
+        }
+    },
+    {
+        "type": 6,
+        "country_code": "",
+        "store_type": 2,
+        "data": {
+            "type": "RuleType_RULE_TYPE_TALENT_GUIDELINE",
+            "storeType": "StoreType_STORE_TYPE_GOOGLE_PLAY",
+            "langIds": [
+                "la-rule-talent_guideline"
+            ]
+        }
+    },
+    {
+        "type": 6,
+        "country_code": "",
+        "store_type": 3,
+        "data": {
+            "type": "RuleType_RULE_TYPE_TALENT_GUIDELINE",
+            "storeType": "StoreType_STORE_TYPE_STEAM",
+            "langIds": [
+                "la-rule-talent_guideline"
+            ]
+        }
+    },
+    {
+        "type": 8,
+        "country_code": "",
+        "store_type": 1,
+        "data": {
+            "type": "RuleType_RULE_TYPE_USER_DATA_EXTERNAL_TRANSMISSION",
+            "storeType": "StoreType_STORE_TYPE_APP_STORE",
+            "langIds": [
+                "la-user_data_external_transmission"
+            ]
+        }
+    },
+    {
+        "type": 8,
+        "country_code": "",
+        "store_type": 2,
+        "data": {
+            "type": "RuleType_RULE_TYPE_USER_DATA_EXTERNAL_TRANSMISSION",
+            "storeType": "StoreType_STORE_TYPE_GOOGLE_PLAY",
+            "langIds": [
+                "la-user_data_external_transmission"
+            ]
+        }
+    },
+    {
+        "type": 8,
+        "country_code": "",
+        "store_type": 3,
+        "data": {
+            "type": "RuleType_RULE_TYPE_USER_DATA_EXTERNAL_TRANSMISSION",
+            "storeType": "StoreType_STORE_TYPE_STEAM",
+            "langIds": [
+                "la-user_data_external_transmission"
+            ]
+        }
+    },
+    {
+        "type": 5,
+        "country_code": "",
+        "store_type": 1,
+        "data": {
+            "type": "RuleType_RULE_TYPE_PRIVACY_POLICY",
+            "storeType": "StoreType_STORE_TYPE_APP_STORE",
+            "langIds": [
+                "la-rule-privacy_policy-01",
+                "la-rule-privacy_policy-02"
+            ]
+        }
+    },
+    {
+        "type": 5,
+        "country_code": "",
+        "store_type": 2,
+        "data": {
+            "type": "RuleType_RULE_TYPE_PRIVACY_POLICY",
+            "storeType": "StoreType_STORE_TYPE_GOOGLE_PLAY",
+            "langIds": [
+                "la-rule-privacy_policy-01",
+                "la-rule-privacy_policy-02"
+            ]
+        }
+    },
+    {
+        "type": 5,
+        "country_code": "",
+        "store_type": 3,
+        "data": {
+            "type": "RuleType_RULE_TYPE_PRIVACY_POLICY",
+            "storeType": "StoreType_STORE_TYPE_STEAM",
+            "langIds": [
+                "la-rule-privacy_policy-01",
+                "la-rule-privacy_policy-02"
+            ]
+        }
+    },
+    {
+        "type": 4,
+        "country_code": "",
+        "store_type": 1,
+        "data": {
+            "type": "RuleType_RULE_TYPE_USAGE_POLICY",
+            "storeType": "StoreType_STORE_TYPE_APP_STORE",
+            "langIds": [
+                "la-rule-usage_policy-01-app_store",
+                "la-rule-usage_policy-02-app_store"
+            ]
+        }
+    },
+    {
+        "type": 4,
+        "country_code": "",
+        "store_type": 2,
+        "data": {
+            "type": "RuleType_RULE_TYPE_USAGE_POLICY",
+            "storeType": "StoreType_STORE_TYPE_GOOGLE_PLAY",
+            "langIds": [
+                "la-rule-usage_policy-01-google_play",
+                "la-rule-usage_policy-02-google_play"
+            ]
+        }
+    },
+    {
+        "type": 4,
+        "country_code": "",
+        "store_type": 3,
+        "data": {
+            "type": "RuleType_RULE_TYPE_USAGE_POLICY",
+            "storeType": "StoreType_STORE_TYPE_STEAM",
+            "langIds": [
+                "la-rule-usage_policy-01-steam",
+                "la-rule-usage_policy-02-steam"
+            ]
+        }
+    },
+    {
+        "type": 7,
+        "country_code": "",
+        "store_type": 1,
+        "data": {
+            "type": "RuleType_RULE_TYPE_COPYRIGHT",
+            "storeType": "StoreType_STORE_TYPE_APP_STORE",
+            "langIds": [
+                "la-rule-copyright-01",
+                "la-rule-copyright-02",
+                "la-rule-copyright-03",
+                "la-rule-copyright-04",
+                "la-rule-copyright-05",
+                "la-rule-copyright-06",
+                "la-rule-copyright-07"
+            ]
+        }
+    },
+    {
+        "type": 7,
+        "country_code": "",
+        "store_type": 2,
+        "data": {
+            "type": "RuleType_RULE_TYPE_COPYRIGHT",
+            "storeType": "StoreType_STORE_TYPE_GOOGLE_PLAY",
+            "langIds": [
+                "la-rule-copyright-01",
+                "la-rule-copyright-02",
+                "la-rule-copyright-03",
+                "la-rule-copyright-04",
+                "la-rule-copyright-05",
+                "la-rule-copyright-06",
+                "la-rule-copyright-07"
+            ]
+        }
+    },
+    {
+        "type": 7,
+        "country_code": "",
+        "store_type": 3,
+        "data": {
+            "type": "RuleType_RULE_TYPE_COPYRIGHT",
+            "storeType": "StoreType_STORE_TYPE_STEAM",
+            "langIds": [
+                "la-rule-copyright-01-steam",
+                "la-rule-copyright-02-steam",
+                "la-rule-copyright-03-steam",
+                "la-rule-copyright-04-steam",
+                "la-rule-copyright-05-steam",
+                "la-rule-copyright-06-steam",
+                "la-rule-copyright-07-steam"
+            ]
+        }
+    },
+    {
+        "type": 2,
+        "country_code": "JP",
+        "store_type": 1,
+        "data": {
+            "type": "RuleType_RULE_TYPE_COMMERCIAL_TRANSACTION",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_APP_STORE",
+            "langIds": [
+                "la-rule-commercial_transaction-app_store"
+            ]
+        }
+    },
+    {
+        "type": 2,
+        "country_code": "JP",
+        "store_type": 2,
+        "data": {
+            "type": "RuleType_RULE_TYPE_COMMERCIAL_TRANSACTION",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_GOOGLE_PLAY",
+            "langIds": [
+                "la-rule-commercial_transaction-google_play"
+            ]
+        }
+    },
+    {
+        "type": 3,
+        "country_code": "JP",
+        "store_type": 1,
+        "data": {
+            "type": "RuleType_RULE_TYPE_CURRENCY_GUIDELINE",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_APP_STORE",
+            "langIds": [
+                "la-rule-currency_guideline"
+            ]
+        }
+    },
+    {
+        "type": 1,
+        "country_code": "JP",
+        "store_type": 3,
+        "data": {
+            "type": "RuleType_RULE_TYPE_FUND_SETTLEMENT",
+            "countryCode": "JP",
+            "storeType": "StoreType_STORE_TYPE_STEAM",
+            "langIds": [
+                "la-rule-fund_settlement"
+            ]
+        }
+    }
+]

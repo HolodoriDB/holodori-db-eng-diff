@@ -1,0 +1,50 @@
+[
+    {
+        "evaluation_rank_type": 2,
+        "data": {
+            "evaluationRankType": "LiveEvaluationRankType_LIVE_EVALUATION_RANK_TYPE_C",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "10"
+                }
+            ]
+        }
+    },
+    {
+        "evaluation_rank_type": 3,
+        "data": {
+            "evaluationRankType": "LiveEvaluationRankType_LIVE_EVALUATION_RANK_TYPE_B",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "evaluation_rank_type": 4,
+        "data": {
+            "evaluationRankType": "LiveEvaluationRankType_LIVE_EVALUATION_RANK_TYPE_A",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "evaluation_rank_type": 5,
+        "data": {
+            "evaluationRankType": "LiveEvaluationRankType_LIVE_EVALUATION_RANK_TYPE_S",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "50"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,740 @@
+[
+    {
+        "mission_type": 1,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CARD_LEVEL_UP_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 2,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CARD_LEVEL_LIMIT_BREAK_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 3,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHARACTER_GET_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_QUEST_INFO"
+        }
+    },
+    {
+        "mission_type": 4,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_LOGIN_COUNT"
+        }
+    },
+    {
+        "mission_type": 6,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_LIVE_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 7,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_LIVE_FULL_COMBO_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 8,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_LIVE_ALL_PERFECT_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 9,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_LIVE_HIGHEST_SCORE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 10,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MULTI_LIVE_PLAY_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MULTI_RHYTHM_GAME_TOP"
+        }
+    },
+    {
+        "mission_type": 11,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MULTI_LIVE_MVP_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MULTI_RHYTHM_GAME_TOP"
+        }
+    },
+    {
+        "mission_type": 12,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_RESOURCE_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 13,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CARD_GET_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_GACHA_TOP"
+        }
+    },
+    {
+        "mission_type": 14,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MISSION_CLEAR_COUNT"
+        }
+    },
+    {
+        "mission_type": 15,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MINI_GAME_PLAY_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+        }
+    },
+    {
+        "mission_type": 17,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_DROP_ITEM_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 18,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_PRESENT_RECEIVE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a01-house"
+        }
+    },
+    {
+        "mission_type": 19,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MUSIC_CREATIVE_CHART_CREATE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_CREATIVE_CHART_CREATE"
+        }
+    },
+    {
+        "mission_type": 20,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MUSIC_CREATIVE_CHART_LIVE_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_CREATIVE_CHART_PLAY"
+        }
+    },
+    {
+        "mission_type": 21,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MULTI_STAMP_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MULTI_MINI_GAME_TOP"
+        }
+    },
+    {
+        "mission_type": 22,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_WORK_START_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_WORK_TOP"
+        }
+    },
+    {
+        "mission_type": 23,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_WORK_FINISH_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_WORK_TOP"
+        }
+    },
+    {
+        "mission_type": 24,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_POSTER_SET_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a01-memoryboard"
+        }
+    },
+    {
+        "mission_type": 26,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_LIVE_STAMINA_CONSUMPTION",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 27,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MINI_GAME_STAMINA_CONSUMPTION",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+        }
+    },
+    {
+        "mission_type": 28,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_EXCHANGE_PURCHASE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a01-exchangebooth"
+        }
+    },
+    {
+        "mission_type": 29,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CARD_LEVEL_LIMIT_BREAK_CARD_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 30,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CARD_UPGRADE_POTENTIAL_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 32,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_JUMP_ROPE_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "JUMP_ROPE"
+        }
+    },
+    {
+        "mission_type": 33,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COOKING_PUZZLE_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COOKING_PUZZLE"
+        }
+    },
+    {
+        "mission_type": 34,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CIRCUIT_TOP_RANK_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CIRCUIT"
+        }
+    },
+    {
+        "mission_type": 35,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_JUMP_ROPE_MAX_CONTINUOUS_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "JUMP_ROPE"
+        }
+    },
+    {
+        "mission_type": 36,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COMBO_CARD_GAME_TOP_RANK_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COMBO_CARD_GAME"
+        }
+    },
+    {
+        "mission_type": 37,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_JUMP_ROPE_MAX_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "JUMP_ROPE"
+        }
+    },
+    {
+        "mission_type": 38,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_JUMP_ROPE_SUCCESS_JUMP_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "JUMP_ROPE"
+        }
+    },
+    {
+        "mission_type": 39,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_JUMP_ROPE_FAILURE_JUMP_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "JUMP_ROPE"
+        }
+    },
+    {
+        "mission_type": 40,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COOKING_PUZZLE_MAX_COMPLETION_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COOKING_PUZZLE"
+        }
+    },
+    {
+        "mission_type": 41,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COOKING_PUZZLE_COMPLETION_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COOKING_PUZZLE"
+        }
+    },
+    {
+        "mission_type": 42,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COOKING_PUZZLE_STOCK_SPACE_OVERFLOW_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COOKING_PUZZLE"
+        }
+    },
+    {
+        "mission_type": 43,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COOKING_PUZZLE_FOODSTUFF_COLLECTING_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COOKING_PUZZLE"
+        }
+    },
+    {
+        "mission_type": 44,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MULTI_LIVE_HIGHEST_SCORE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MULTI_RHYTHM_GAME_TOP"
+        }
+    },
+    {
+        "mission_type": 45,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_LOTTERY_DRAW_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a02-scratchstore"
+        }
+    },
+    {
+        "mission_type": 46,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COOKING_PUZZLE_MAX_COMBO_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COOKING_PUZZLE"
+        }
+    },
+    {
+        "mission_type": 47,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COMBO_CARD_GAME_RONNED_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COMBO_CARD_GAME"
+        }
+    },
+    {
+        "mission_type": 48,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CIRCUIT_FALL_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CIRCUIT"
+        }
+    },
+    {
+        "mission_type": 49,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_HIGH_LOW_REWARD_GET_QUANTITY",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a02-highandlow"
+        }
+    },
+    {
+        "mission_type": 50,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_PHOTO_TAKE_COUNT"
+        }
+    },
+    {
+        "mission_type": 51,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_MINI_GAME_HIGHEST_SCORE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+        }
+    },
+    {
+        "mission_type": 52,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CIRCUIT_CRASH_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CIRCUIT"
+        }
+    },
+    {
+        "mission_type": 53,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CIRCUIT_DAMAGE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CIRCUIT"
+        }
+    },
+    {
+        "mission_type": 54,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_COMBO_CARD_GAME_SAME_CATEGORY_THREE_CARD_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COMBO_CARD_GAME"
+        }
+    },
+    {
+        "mission_type": 55,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_PRINT_BOOTH_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a02-photobooth"
+        }
+    },
+    {
+        "mission_type": 56,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 57,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_WIN_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+        }
+    },
+    {
+        "mission_type": 58,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRICT_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+        }
+    },
+    {
+        "mission_type": 59,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_KEY_USE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+        }
+    },
+    {
+        "mission_type": 60,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_FISHING_FISH_CAUGHT_COUNT"
+        }
+    },
+    {
+        "mission_type": 62,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_SKILL_TREE_RELEASE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CHARACTER_TOP"
+        }
+    },
+    {
+        "mission_type": 63,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_QUEST_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_QUEST_INFO"
+        }
+    },
+    {
+        "mission_type": 64,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_MISSION_ACTION_COUNT"
+        }
+    },
+    {
+        "mission_type": 1000,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_LOGIN_COUNT"
+        }
+    },
+    {
+        "mission_type": 1001,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_LIVE_HIGHEST_SCORE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 1002,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MISSION_CLEAR_COUNT"
+        }
+    },
+    {
+        "mission_type": 1003,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_SKILL_TREE_RELEASE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CHARACTER_TOP"
+        }
+    },
+    {
+        "mission_type": 1004,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CARD_LEVEL",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 1005,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CARD_LEVEL_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 1007,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CARD_LEVEL_LIMIT_BREAK",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 1010,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CARD_UPGRADE_POTENTIAL",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 1011,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CHARACTER_GET_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_QUEST_INFO"
+        }
+    },
+    {
+        "mission_type": 1012,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_PLAYER_LEVEL"
+        }
+    },
+    {
+        "mission_type": 1014,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_LIVE_CLEAR_MUSIC_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 1015,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_LIVE_FULL_COMBO_MUSIC_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 1016,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_LIVE_ALL_PERFECT_MUSIC_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 1017,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_ITEM_HAVING_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_INVENTORY"
+        }
+    },
+    {
+        "mission_type": 1018,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MISSION_PASS_POINT_HAVING_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MISSION_PASS_TOP"
+        }
+    },
+    {
+        "mission_type": 1019,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CARD_GET_UNIQUE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_GACHA_TOP"
+        }
+    },
+    {
+        "mission_type": 1020,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_PARK_QUEST_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_QUEST_INFO"
+        }
+    },
+    {
+        "mission_type": 1021,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MINI_GAME_MAX_SCORE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+        }
+    },
+    {
+        "mission_type": 1022,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_LIVE_DECK_EVALUATION_VALUE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_LIVE_DECK_EDIT"
+        }
+    },
+    {
+        "mission_type": 1025,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_FACILITY_LEVEL_UP_COUNT"
+        }
+    },
+    {
+        "mission_type": 1026,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CHARACTER_LEVEL",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CHARACTER_TOP"
+        }
+    },
+    {
+        "mission_type": 1027,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CHARACTER_LEVEL_SUM",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CHARACTER_TOP"
+        }
+    },
+    {
+        "mission_type": 1028,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CHARACTER_LEVEL_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CHARACTER_TOP"
+        }
+    },
+    {
+        "mission_type": 1029,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_COSTUME_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 1030,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CHARACTER_VOICE_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 1031,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_PARK_EMOTION_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 1032,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_EMBLEM_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 1033,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_STAMP_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 1034,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_POSTER_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 1035,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_ACHIEVEMENT_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_ACHIEVEMENT_TOP"
+        }
+    },
+    {
+        "mission_type": 1036,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_PARK_TREASURE_GET_COUNT"
+        }
+    },
+    {
+        "mission_type": 1037,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CONTINUOUS_LOGIN_COUNT"
+        }
+    },
+    {
+        "mission_type": 1038,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CARD_LEVEL_SUM_BY_CARD_ID",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 1039,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_CARD_LEVEL_SUM_BY_CHARACTER_GROUPING",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CARD_CATALOG"
+        }
+    },
+    {
+        "mission_type": 1040,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MUSIC_RELEASE_COUNT_BY_MUSIC_ID",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SHOP_SELECTION"
+        }
+    },
+    {
+        "mission_type": 1041,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MUSIC_RELEASE_COUNT_BY_CHARACTER_ID",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SHOP_SELECTION"
+        }
+    },
+    {
+        "mission_type": 1042,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_COMBO_CARD_GAME_COMPLETION_ROLE_UNIQUE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "COMBO_CARD_GAME"
+        }
+    },
+    {
+        "mission_type": 1043,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_PARK_TALK_FREE_UNIQUE_COUNT"
+        }
+    },
+    {
+        "mission_type": 1044,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_PARK_FISHING_FISH_UNIQUE_COUNT"
+        }
+    },
+    {
+        "mission_type": 1045,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_SKILL_TREE_MAX_RELEASE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_CHARACTER_TOP"
+        }
+    },
+    {
+        "mission_type": 1046,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MUSIC_HIGHEST_SCORE_RATING",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_HIGHEST_SCORE_RATING"
+        }
+    },
+    {
+        "mission_type": 1047,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_EVENT_TOP"
+        }
+    },
+    {
+        "mission_type": 1048,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MUSIC_HIGHEST_SCORE_RATING_CHARACTER_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_HIGHEST_SCORE_RATING"
+        }
+    },
+    {
+        "mission_type": 1049,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MUSIC_HIGHEST_SCORE_RATING_SUM",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_HIGHEST_SCORE_RATING"
+        }
+    },
+    {
+        "mission_type": 1050,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MARATHON_LIVE_CLEAR_MUSIC_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 2000,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_CONDITION_SATISFY"
+        }
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id": "evening-01",
+        "data": {
+            "id": "evening-01",
+            "timePointFrom": 23,
+            "timePointTo": 30,
+            "type": "ParkTimePeriodType_PARK_TIME_PERIOD_TYPE_EVENING"
+        }
+    },
+    {
+        "id": "night-01",
+        "data": {
+            "id": "night-01",
+            "timePointFrom": 31,
+            "timePointTo": 47,
+            "type": "ParkTimePeriodType_PARK_TIME_PERIOD_TYPE_NIGHT"
+        }
+    },
+    {
+        "id": "noon-01",
+        "data": {
+            "id": "noon-01",
+            "timePointTo": 22,
+            "type": "ParkTimePeriodType_PARK_TIME_PERIOD_TYPE_NOON"
+        }
+    }
+]

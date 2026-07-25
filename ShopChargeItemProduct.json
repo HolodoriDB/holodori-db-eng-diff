@@ -1,0 +1,1658 @@
+[
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.300001",
+        "shop_charge_item_id": "shop_charge_item_consumable-mission_pass-01-0001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.300001",
+            "shopChargeItemId": "shop_charge_item_consumable-mission_pass-01-0001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.300001",
+        "shop_charge_item_id": "shop_charge_item_consumable-mission_pass-01-0001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.300001",
+            "shopChargeItemId": "shop_charge_item_consumable-mission_pass-01-0001"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "300001",
+        "shop_charge_item_id": "shop_charge_item_consumable-mission_pass-01-0001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "300001",
+            "shopChargeItemId": "shop_charge_item_consumable-mission_pass-01-0001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100001",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-01",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100001",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-01"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100001",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-01",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100001",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-01"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "100001",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-01",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "100001",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-01"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100002",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-02",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100002",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-02"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100002",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-02",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100002",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-02"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "100002",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-02",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "100002",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-02"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100003",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-03",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100003",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-03"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100003",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-03",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100003",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-03"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "100003",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-03",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "100003",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-03"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100004",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-04",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100004",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-04"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100004",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-04",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100004",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-04"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "100004",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-04",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "100004",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-04"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100005",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-05",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100005",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-05"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100005",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-05",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100005",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-05"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "100005",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-05",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "100005",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-05"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100006",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-06",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100006",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-06"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.100006",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-06",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.100006",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-06"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "100006",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-normal-06",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "100006",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-normal-06"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.200002",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-01",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.200002",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-01"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.200002",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-01",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.200002",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-01"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "200002",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-01",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "200002",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-01"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.200003",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-02",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.200003",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-02"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.200003",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-02",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.200003",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-02"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "200003",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-02",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "200003",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-02"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.200004",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-03",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.200004",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-03"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.200004",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-03",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.200004",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-03"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "200004",
+        "shop_charge_item_id": "shop_charge_item_consumable-stone-01-sp-release-03",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "200004",
+            "shopChargeItemId": "shop_charge_item_consumable-stone-01-sp-release-03"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.200001",
+        "shop_charge_item_id": "shop_charge_item_subscription-benefit_pass-01-01",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.200001",
+            "shopChargeItemId": "shop_charge_item_subscription-benefit_pass-01-01"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.200001",
+        "shop_charge_item_id": "shop_charge_item_subscription-benefit_pass-01-01",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.200001",
+            "shopChargeItemId": "shop_charge_item_subscription-benefit_pass-01-01"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403002",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03002-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403002",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03002-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403002",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03002-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403002",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03002-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403003",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03003-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403003",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03003-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403003",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03003-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403003",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03003-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400001",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00001-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400001",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00001-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400001",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00001-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400001",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00001-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400002",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00002-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400002",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00002-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400002",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00002-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400002",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00002-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400004",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00004-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400004",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00004-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400004",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00004-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400004",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00004-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400005",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00005-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400005",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00005-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400005",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00005-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400005",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00005-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400006",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00006-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400006",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00006-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400006",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00006-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400006",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00006-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400007",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00007-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400007",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00007-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400007",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00007-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400007",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00007-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400010",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00010-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400010",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00010-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400010",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00010-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400010",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00010-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400011",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00011-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400011",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00011-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400011",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00011-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400011",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00011-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400012",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00012-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400012",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00012-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400012",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00012-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400012",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00012-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400013",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00013-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400013",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00013-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400013",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00013-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400013",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00013-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400014",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00014-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400014",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00014-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400014",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00014-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400014",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00014-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400015",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00015-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400015",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00015-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400015",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00015-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400015",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00015-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400016",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00016-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400016",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00016-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400016",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00016-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400016",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00016-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400017",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00017-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400017",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00017-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400017",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00017-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400017",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00017-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400018",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00018-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400018",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00018-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400018",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00018-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400018",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00018-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400019",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00019-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400019",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00019-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400019",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00019-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400019",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00019-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400021",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00021-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400021",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00021-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400021",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00021-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400021",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00021-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400022",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00022-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400022",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00022-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400022",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00022-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400022",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00022-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400023",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00023-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400023",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00023-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400023",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00023-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400023",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00023-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400026",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00026-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400026",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00026-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400026",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00026-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400026",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00026-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400027",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00027-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400027",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00027-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400027",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00027-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400027",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00027-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400028",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00028-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400028",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00028-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400028",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00028-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400028",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00028-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400030",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00030-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400030",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00030-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400030",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00030-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400030",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00030-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400031",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00031-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400031",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00031-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400031",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00031-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400031",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00031-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400032",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00032-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400032",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00032-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400032",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00032-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400032",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00032-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400034",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00034-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400034",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00034-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400034",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00034-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400034",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00034-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400035",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00035-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400035",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00035-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400035",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00035-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400035",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00035-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400036",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00036-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400036",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00036-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400036",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00036-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400036",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00036-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400037",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00037-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400037",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00037-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400037",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00037-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400037",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00037-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400039",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00039-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400039",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00039-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.400039",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-00039-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.400039",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-00039-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403001",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03001-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403001",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03001-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403001",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03001-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403001",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03001-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403004",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03004-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403004",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03004-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403004",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03004-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403004",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03004-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403005",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03005-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403005",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03005-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403005",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03005-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403005",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03005-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403006",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03006-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403006",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03006-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403006",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03006-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403006",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03006-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403007",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03007-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403007",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03007-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403007",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03007-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403007",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03007-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403008",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03008-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403008",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03008-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403008",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03008-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403008",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03008-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403009",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03009-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403009",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03009-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.403009",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-03009-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.403009",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-03009-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404001",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04001-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404001",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04001-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404001",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04001-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404001",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04001-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404002",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04002-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404002",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04002-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404002",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04002-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404002",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04002-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404003",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04003-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404003",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04003-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404003",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04003-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404003",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04003-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404007",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04007-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404007",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04007-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404007",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04007-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404007",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04007-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404010",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04010-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404010",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04010-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404010",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04010-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404010",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04010-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404012",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04012-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404012",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04012-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404012",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04012-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404012",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04012-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404013",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04013-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404013",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04013-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404013",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04013-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404013",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04013-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404014",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04014-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404014",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04014-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404014",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04014-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404014",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04014-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404015",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04015-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404015",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04015-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.404015",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-04015-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.404015",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-04015-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.406002",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06002-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.406002",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-06002-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.406002",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06002-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.406002",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-06002-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.406003",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06003-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.406003",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-06003-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.406003",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06003-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.406003",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-06003-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.406004",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06004-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.406004",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-06004-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.406004",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06004-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.406004",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-06004-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.406005",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06005-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.406005",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-06005-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.406005",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-06005-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.406005",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-06005-001"
+        }
+    },
+    {
+        "payment_method": 1,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.480001",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-80001-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.480001",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-80001-001"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 3,
+        "product_id": "hololive.dreams.com.sub.480001",
+        "shop_charge_item_id": "shop_charge_item_subscription-membership-01-chr-80001-001",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_SUBSCRIPTION",
+            "productId": "hololive.dreams.com.sub.480001",
+            "shopChargeItemId": "shop_charge_item_subscription-membership-01-chr-80001-001"
+        }
+    }
+]

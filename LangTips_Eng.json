@@ -1,0 +1,912 @@
+[
+    {
+        "id": "la-tips-achievement-title",
+        "data": {
+            "id": "la-tips-achievement-title",
+            "text": "Achievs"
+        }
+    },
+    {
+        "id": "la-tips-card-upgrade-potential-title",
+        "data": {
+            "id": "la-tips-card-upgrade-potential-title",
+            "text": "Train Member"
+        }
+    },
+    {
+        "id": "la-tips-character-quest-title",
+        "data": {
+            "id": "la-tips-character-quest-title",
+            "text": "Holomem Quest"
+        }
+    },
+    {
+        "id": "la-tips-character-set-title",
+        "data": {
+            "id": "la-tips-character-set-title",
+            "text": "Active holomem"
+        }
+    },
+    {
+        "id": "la-tips-circuit-title",
+        "data": {
+            "id": "la-tips-circuit-title",
+            "text": "Mega Circuit"
+        }
+    },
+    {
+        "id": "la-tips-combo-card-game-title",
+        "data": {
+            "id": "la-tips-combo-card-game-title",
+            "text": "Pokajan!"
+        }
+    },
+    {
+        "id": "la-tips-cooking-puzzle-title",
+        "data": {
+            "id": "la-tips-cooking-puzzle-title",
+            "text": "Collect Cooking"
+        }
+    },
+    {
+        "id": "la-tips-creative-chart",
+        "data": {
+            "id": "la-tips-creative-chart",
+            "text": "Create Charts"
+        }
+    },
+    {
+        "id": "la-tips-exchange-area01-title",
+        "data": {
+            "id": "la-tips-exchange-area01-title",
+            "text": "NePoLaBo Mart"
+        }
+    },
+    {
+        "id": "la-tips-exchange-area02-training-item-title",
+        "data": {
+            "id": "la-tips-exchange-area02-training-item-title",
+            "text": "Material Exchange Shop"
+        }
+    },
+    {
+        "id": "la-tips-exchange-coin-area02-title",
+        "data": {
+            "id": "la-tips-exchange-coin-area02-title",
+            "text": "Mega Sphere Coin Exchange"
+        }
+    },
+    {
+        "id": "la-tips-game-event_portal-title",
+        "data": {
+            "id": "la-tips-game-event_portal-title",
+            "text": "Event Portal"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-achievement_top-title",
+        "data": {
+            "id": "la-tips-game_screen-achievement_top-title",
+            "text": "Achievs"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-card_catalog-title",
+        "data": {
+            "id": "la-tips-game_screen-card_catalog-title",
+            "text": "Members"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-character_top-title",
+        "data": {
+            "id": "la-tips-game_screen-character_top-title",
+            "text": "holomem"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-circuit-title",
+        "data": {
+            "id": "la-tips-game_screen-circuit-title",
+            "text": "Mega Circuit"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-combo-card-game-title",
+        "data": {
+            "id": "la-tips-game_screen-combo-card-game-title",
+            "text": "Pokajan!"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-cooking-puzzle-title",
+        "data": {
+            "id": "la-tips-game_screen-cooking-puzzle-title",
+            "text": "Collect Cooking"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-creative-chart-title",
+        "data": {
+            "id": "la-tips-game_screen-creative-chart-title",
+            "text": "Create Charts"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-friend_top-title",
+        "data": {
+            "id": "la-tips-game_screen-friend_top-title",
+            "text": "Friends"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-high_score_rating-title",
+        "data": {
+            "id": "la-tips-game_screen-high_score_rating-title",
+            "text": "Holomem Score Rating"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-multi-title",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-multi-title",
+            "text": "Hoppin' Rope"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-jump-rope-top-title",
+        "data": {
+            "id": "la-tips-game_screen-jump-rope-top-title",
+            "text": "Hoppin' Rope"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-live_deck_edit-title",
+        "data": {
+            "id": "la-tips-game_screen-live_deck_edit-title",
+            "text": "Unit Setup"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-membership_top-title",
+        "data": {
+            "id": "la-tips-game_screen-membership_top-title",
+            "text": "Membership"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-mission_pass_top-title",
+        "data": {
+            "id": "la-tips-game_screen-mission_pass_top-title",
+            "text": "Mission Pass"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_mini_game_top-title",
+        "data": {
+            "id": "la-tips-game_screen-multi_mini_game_top-title",
+            "text": "Multiplayer Minigame"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_lobby-title",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_lobby-title",
+            "text": "Live Together"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-multi_rhythm_game_top-title",
+        "data": {
+            "id": "la-tips-game_screen-multi_rhythm_game_top-title",
+            "text": "Live Together"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-music_shop_selection-title",
+        "data": {
+            "id": "la-tips-game_screen-music_shop_selection-title",
+            "text": "Song Shop"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_change_playable-title",
+        "data": {
+            "id": "la-tips-game_screen-park_change_playable-title",
+            "text": "Change holomem"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_high_low_top-title",
+        "data": {
+            "id": "la-tips-game_screen-park_high_low_top-title",
+            "text": "High & Low"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_poster_booth-title",
+        "data": {
+            "id": "la-tips-game_screen-park_poster_booth-title",
+            "text": "Memory"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park_quest_info-title",
+        "data": {
+            "id": "la-tips-game_screen-park_quest_info-title",
+            "text": "Quest"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-score_ranking-title",
+        "data": {
+            "id": "la-tips-game_screen-score_ranking-title",
+            "text": "Score Ranking"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-shop_top-title",
+        "data": {
+            "id": "la-tips-game_screen-shop_top-title",
+            "text": "Shop"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-skill_tree-title",
+        "data": {
+            "id": "la-tips-game_screen-skill_tree-title",
+            "text": "Holomem Board"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-story_archive_top-title",
+        "data": {
+            "id": "la-tips-game_screen-story_archive_top-title",
+            "text": "Theater"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-user_profile_top-title",
+        "data": {
+            "id": "la-tips-game_screen-user_profile_top-title",
+            "text": "Profile"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-work_top-title",
+        "data": {
+            "id": "la-tips-game_screen-work_top-title",
+            "text": "Holowork"
+        }
+    },
+    {
+        "id": "la-tips-hint-account_migration-title",
+        "data": {
+            "id": "la-tips-hint-account_migration-title",
+            "text": "Account Link"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_level_limit_break-title",
+        "data": {
+            "id": "la-tips-hint-card_detail_level_limit_break-title",
+            "text": "SP Training"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_level_up-title",
+        "data": {
+            "id": "la-tips-hint-card_detail_level_up-title",
+            "text": "Level up"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_live_skill-title",
+        "data": {
+            "id": "la-tips-hint-card_detail_live_skill-title",
+            "text": "Skills"
+        }
+    },
+    {
+        "id": "la-tips-hint-card_detail_skill_tree_connect_effect-title",
+        "data": {
+            "id": "la-tips-hint-card_detail_skill_tree_connect_effect-title",
+            "text": "Connect Bonus"
+        }
+    },
+    {
+        "id": "la-tips-hint-character_level_exp-title",
+        "data": {
+            "id": "la-tips-hint-character_level_exp-title",
+            "text": "Holomem Rank"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_card_leveling-title",
+        "data": {
+            "id": "la-tips-hint-live_card_leveling-title",
+            "text": "Train Members!"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_deck_evaluation_value_not_reached-title",
+        "data": {
+            "id": "la-tips-hint-live_deck_evaluation_value_not_reached-title",
+            "text": "Raise your Unit Score!"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_leader_skill_not_activated-title",
+        "data": {
+            "id": "la-tips-hint-live_leader_skill_not_activated-title",
+            "text": "Use Outfit Skills!"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_live_deck_evaluation-title",
+        "data": {
+            "id": "la-tips-hint-live_live_deck_evaluation-title",
+            "text": "Unit Score"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-title",
+        "data": {
+            "id": "la-tips-hint-live_multi_live_cooperation_auto_play_allow-title",
+            "text": "Allow Auto-Play"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_brightness_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_brightness_setting-title",
+            "text": "Brightness"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_active_skill_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_active_skill_display-title",
+            "text": "Display Active Skill"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_background_display_illustration_setting-title",
+            "text": "Illustration Display Settings"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_background_mode_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_background_mode_setting-title",
+            "text": "Background Mode Settings"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_combo_continuation_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_combo_continuation_display-title",
+            "text": "Combo Streak Display"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fast_slow_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fast_slow_display-title",
+            "text": "SLOW/FAST Display"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fever_effect_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fever_effect_setting-title",
+            "text": "FEVER Performance"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_fps_sync-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_fps_sync-title",
+            "text": "VSync"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_key_beam-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_key_beam-title",
+            "text": "Key Beam"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_leader_skill_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_leader_skill_display-title",
+            "text": "Display Leader Holomem Skills"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_measure_line_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_measure_line_display-title",
+            "text": "Display Notes"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_rhythm_support-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_rhythm_support-title",
+            "text": "Rhythm Support"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_screen_fps_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_screen_fps_setting-title",
+            "text": "FPS"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_screen_lock-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_screen_lock-title",
+            "text": "Screen Lock"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_simultaneous_press_line-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_simultaneous_press_line-title",
+            "text": "Chord Line"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_skill_effect_above_judgement_text-title",
+            "text": "Judgement Skill Effects Text"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_slideshow_switch_time-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_slideshow_switch_time-title",
+            "text": "Slideshow Switch Time"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_background_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_background_display-title",
+            "text": "Display SP Skill Background"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_effect_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_effect_display-title",
+            "text": "Display SP Skill Effect"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_illustration_display-title",
+            "text": "SP Skill Illustration and Live2D"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_tap_effect-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_tap_effect-title",
+            "text": "Tap Effect"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_detail_tap_vibration-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_tap_vibration-title",
+            "text": "Vibration on Tap"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_key_config_lane-title",
+        "data": {
+            "id": "la-tips-hint-live_option_key_config_lane-title",
+            "text": "Configuration (Lane)"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_key_config_other-title",
+        "data": {
+            "id": "la-tips-hint-live_option_key_config_other-title",
+            "text": "Configuration (Other)"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_bottom_cut-title",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_bottom_cut-title",
+            "text": "Crop Bottom"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_setting-title",
+            "text": "Hit Line"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_top_cut-title",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_top_cut-title",
+            "text": "Crop Top"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_mirror_chart-title",
+        "data": {
+            "id": "la-tips-hint-live_option_mirror_chart-title",
+            "text": "Mirror Chart"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_music_mv_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_music_mv_setting-title",
+            "text": "MV Settings (Save Data)"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_music_timing_adjustment-title",
+        "data": {
+            "id": "la-tips-hint-live_option_music_timing_adjustment-title",
+            "text": "Adjust Song Timing"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_note_speed-title",
+        "data": {
+            "id": "la-tips-hint-live_option_note_speed-title",
+            "text": "Note Speed"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_combo-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_combo-title",
+            "text": "Combo Text"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_header-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_header-title",
+            "text": "Header UI"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_judgement_text-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_judgement_text-title",
+            "text": "Judgement Text"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_lane-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_lane-title",
+            "text": "Lane"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_normal_background_customize-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_normal_background_customize-title",
+            "text": "Default Background Customization"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_note-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_note-title",
+            "text": "Note Skin"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_tap_effect_type-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_tap_effect_type-title",
+            "text": "Tap Effect Skin"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_effect-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_effect-title",
+            "text": "SFX Volume"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_music-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_music-title",
+            "text": "Songs"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_skill_se-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_skill_se-title",
+            "text": "Skill SFX"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_skill_voice-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_skill_voice-title",
+            "text": "Skill Voice"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_tap-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_tap-title",
+            "text": "Tap Sound"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_sound_voice_sound-title",
+        "data": {
+            "id": "la-tips-hint-live_option_sound_voice_sound-title",
+            "text": "Voice Volume"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_timing_adjustment-title",
+        "data": {
+            "id": "la-tips-hint-live_option_timing_adjustment-title",
+            "text": "Adjust input lag"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_reward_up_stamina-title",
+        "data": {
+            "id": "la-tips-hint-live_reward_up_stamina-title",
+            "text": "Live Boost"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_skill_tree_released-title",
+        "data": {
+            "id": "la-tips-hint-live_skill_tree_released-title",
+            "text": "Unlock the Holomem Board!"
+        }
+    },
+    {
+        "id": "la-tips-hint-mini_game_reward_up_stamina-title",
+        "data": {
+            "id": "la-tips-hint-mini_game_reward_up_stamina-title",
+            "text": "Minigame Boost"
+        }
+    },
+    {
+        "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-title",
+        "data": {
+            "id": "la-tips-hnt-card_list_live_deck_power_permiriad_up_by_level_up-title",
+            "text": "Member Power-Up Bonus"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-present-facerock-2-title",
+        "data": {
+            "id": "la-tips-instant_tips-present-facerock-2-title",
+            "text": "Presents from Gen 0"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-present-prison-2-title",
+        "data": {
+            "id": "la-tips-instant_tips-present-prison-2-title",
+            "text": "Presents from Advent"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-random_reward-livehouse-2-title",
+        "data": {
+            "id": "la-tips-instant_tips-random_reward-livehouse-2-title",
+            "text": "holomem Hidden Treasure Upgrade"
+        }
+    },
+    {
+        "id": "la-tips-jump-rope-title",
+        "data": {
+            "id": "la-tips-jump-rope-title",
+            "text": "Hoppin' Rope"
+        }
+    },
+    {
+        "id": "la-tips-live-title",
+        "data": {
+            "id": "la-tips-live-title",
+            "text": "Unit"
+        }
+    },
+    {
+        "id": "la-tips-lottery-area02-scratch-title",
+        "data": {
+            "id": "la-tips-lottery-area02-scratch-title",
+            "text": "Lottery Chamachamax"
+        }
+    },
+    {
+        "id": "la-tips-mission-pass-title",
+        "data": {
+            "id": "la-tips-mission-pass-title",
+            "text": "Mission Pass"
+        }
+    },
+    {
+        "id": "la-tips-multi-game-title",
+        "data": {
+            "id": "la-tips-multi-game-title",
+            "text": "Multiplayer"
+        }
+    },
+    {
+        "id": "la-tips-multi-live-title",
+        "data": {
+            "id": "la-tips-multi-live-title",
+            "text": "Live Together"
+        }
+    },
+    {
+        "id": "la-tips-multi-mini_game-title",
+        "data": {
+            "id": "la-tips-multi-mini_game-title",
+            "text": "Multiplayer Minigame"
+        }
+    },
+    {
+        "id": "la-tips-music_highest_score_ranking",
+        "data": {
+            "id": "la-tips-music_highest_score_ranking",
+            "text": "Score Ranking & Holomem Score Rating"
+        }
+    },
+    {
+        "id": "la-tips-operation-title",
+        "data": {
+            "id": "la-tips-operation-title",
+            "text": "Controls Guide"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-balloon-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-balloon-title",
+            "text": "Balloon Shop"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-candy-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-candy-title",
+            "text": "Candy Shop"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area01-pen-light-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area01-pen-light-title",
+            "text": "Penlight Shop"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+            "text": "Silk Hat Shop"
+        }
+    },
+    {
+        "id": "la-tips-park-high-low-area02-title",
+        "data": {
+            "id": "la-tips-park-high-low-area02-title",
+            "text": "Card of Greed"
+        }
+    },
+    {
+        "id": "la-tips-park-lottery-area02-gachapon-title",
+        "data": {
+            "id": "la-tips-park-lottery-area02-gachapon-title",
+            "text": "Capsule Kong"
+        }
+    },
+    {
+        "id": "la-tips-park-print-booth-area02-title",
+        "data": {
+            "id": "la-tips-park-print-booth-area02-title",
+            "text": "Mega Puri"
+        }
+    },
+    {
+        "id": "la-tips-park-select-area02-title",
+        "data": {
+            "id": "la-tips-park-select-area02-title",
+            "text": "Lever"
+        }
+    },
+    {
+        "id": "la-tips-park-time-period-title",
+        "data": {
+            "id": "la-tips-park-time-period-title",
+            "text": "Change Time"
+        }
+    },
+    {
+        "id": "la-tips-poster-title",
+        "data": {
+            "id": "la-tips-poster-title",
+            "text": "Memory"
+        }
+    },
+    {
+        "id": "la-tips-present-title",
+        "data": {
+            "id": "la-tips-present-title",
+            "text": "Presents from holomems"
+        }
+    },
+    {
+        "id": "la-tips-quest-daily-title",
+        "data": {
+            "id": "la-tips-quest-daily-title",
+            "text": "Daily Quests"
+        }
+    },
+    {
+        "id": "la-tips-random_symbol-title",
+        "data": {
+            "id": "la-tips-random_symbol-title",
+            "text": "holomem's Hidden Treasure"
+        }
+    },
+    {
+        "id": "la-tips-retracable-gacha-title",
+        "data": {
+            "id": "la-tips-retracable-gacha-title",
+            "text": "Redraw Gacha"
+        }
+    },
+    {
+        "id": "la-tips-rhythm-game-title",
+        "data": {
+            "id": "la-tips-rhythm-game-title",
+            "text": "Live"
+        }
+    },
+    {
+        "id": "la-tips-skill-tree-title",
+        "data": {
+            "id": "la-tips-skill-tree-title",
+            "text": "Holomem Board"
+        }
+    },
+    {
+        "id": "la-tips-story-title",
+        "data": {
+            "id": "la-tips-story-title",
+            "text": "Theater"
+        }
+    },
+    {
+        "id": "la-tips-work-title",
+        "data": {
+            "id": "la-tips-work-title",
+            "text": "Holowork"
+        }
+    }
+]

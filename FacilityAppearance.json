@@ -1,0 +1,2568 @@
+[
+    {
+        "facility_id": "facility-a01-gate2",
+        "priority": 7,
+        "data": {
+            "facilityId": "facility-a01-gate2",
+            "priority": 7,
+            "assetId": "mdl_env_park_area-a01-facility-gate2-02",
+            "iconAssetIds": [
+                "gate"
+            ],
+            "mapImageAssetId": "area-a01-gate2-00",
+            "miniIconAssetId": "exit",
+            "viewConditionGroupId": "cd-facility-a01-gate2-main-w1-02-clear",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-gate2",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-gate2-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate2",
+        "priority": 8,
+        "data": {
+            "facilityId": "facility-a01-gate2",
+            "priority": 8,
+            "assetId": "mdl_env_park_area-a01-facility-gate2-02-night",
+            "iconAssetIds": [
+                "gate"
+            ],
+            "mapImageAssetId": "area-a01-gate2-00",
+            "miniIconAssetId": "exit",
+            "viewConditionGroupId": "cd-facility-a01-gate2-main-w1-02-clear-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-gate2",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-gate2-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-facilitylighting",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-facilitylighting",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-facilitylighting-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livehouse",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-livehouse",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-livehouse-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-livehouse-01",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-livehouse-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livehouse",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-livehouse",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-livehouse-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-livehouse-01-night",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-livehouse-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livehouse",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-livehouse",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-livehouse-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-livehouse-00",
+            "viewConditionGroupId": "cd-facility-a01-livehouse-01-open",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-livehouse-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livehouse",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-livehouse",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-livehouse-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-livehouse-00",
+            "viewConditionGroupId": "cd-facility-a01-livehouse-01-night-open",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-livehouse-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-penlightstore",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-penlightstore",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-penlightstore-01",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-penlightstore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-penlightstore-01-open",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-penlightstore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-penlightstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-penlightstore",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-penlightstore",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-penlightstore-01-evening",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-penlightstore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-penlightstore-01-evening-open",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-penlightstore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-penlightstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-penlightstore",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-penlightstore",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-penlightstore-01-night",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-penlightstore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-penlightstore-01-night-open",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-penlightstore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-penlightstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-prison",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-prison",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-prison-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-prison-00",
+            "viewConditionGroupId": "cd-facility-a01-prison-01-open",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-prison-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-prison",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-prison",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-prison-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-prison-00",
+            "viewConditionGroupId": "cd-facility-a01-prison-01-night-open",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-prison-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-facilitylighting",
+        "priority": 7,
+        "data": {
+            "facilityId": "facility-a02-facilitylighting",
+            "priority": 7,
+            "assetId": "mdl_env_park_area-a02-facility-facilitylighting-06",
+            "viewConditionGroupId": "cd-facility-a02-photobooth"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate2",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-gate2",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-gate2-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre"
+        }
+    },
+    {
+        "facility_id": "facility-a01-candystore",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-candystore",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-candystore-01",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-candystore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-candystore-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-candystore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-candystore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-candystore",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-candystore",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-candystore-01-evening",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-candystore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-candystore-01-evening",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-candystore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-candystore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-house-01",
+            "iconAssetIds": [
+                "house"
+            ],
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01-lock",
+            "unlockConditionGroupId": "cd-facility-a01-house-01",
+            "labelLangId": "la-label-facility-a01-house",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-clocktower",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-clocktower",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-clocktower-01",
+            "iconAssetIds": [
+                "timeperiod"
+            ],
+            "mapImageAssetId": "area-a01-clocktower-00",
+            "miniIconAssetId": "timeperiod",
+            "viewConditionGroupId": "cd-facility-a01-clocktower-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-clocktower",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-clocktower-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-clocktower",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-clocktower",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-clocktower-01-night",
+            "iconAssetIds": [
+                "timeperiod"
+            ],
+            "mapImageAssetId": "area-a01-clocktower-00",
+            "miniIconAssetId": "timeperiod",
+            "viewConditionGroupId": "cd-facility-a01-clocktower-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-clocktower",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-clocktower-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-entrance",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-entrance",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-entrance-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-entrance-00",
+            "viewConditionGroupId": "cd-facility-a01-entrance-01",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-entrance-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-facerock",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-facerock",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-facerock-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-facerock-00",
+            "viewConditionGroupId": "cd-facility-a01-facerock-01",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-facerock-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate2",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-gate2",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-gate2-01-night",
+            "iconAssetIds": [
+                "gate"
+            ],
+            "mapImageAssetId": "area-a01-gate2-00",
+            "miniIconAssetId": "exit",
+            "viewConditionGroupId": "cd-facility-a01-gate2-night",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-01-1-3",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-gate2",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-gate2-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 10,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 10,
+            "assetId": "mdl_env_park_area-a01-facility-house-01-night",
+            "iconAssetIds": [
+                "house"
+            ],
+            "mapImageAssetId": "area-a01-house-00",
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-house",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 8,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 8,
+            "assetId": "mdl_env_park_area-a01-facility-house-01",
+            "iconAssetIds": [
+                "house"
+            ],
+            "mapImageAssetId": "area-a01-house-00",
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-house",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-bartable",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-bartable",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-bartable-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a02-bartable-00",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-bartable-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-blackjack",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-blackjack",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-blackjack-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a02-blackjack-00",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-blackjack-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-clocklever",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-clocklever",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-clocklever-01",
+            "iconAssetIds": [
+                "timeperiod"
+            ],
+            "mapImageAssetId": "area-a02-clocklever-00",
+            "miniIconAssetId": "timeperiod",
+            "viewConditionGroupId": "cd-facility-a02-clocklever",
+            "unlockConditionGroupId": "cd-facility-a02-clocklever",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-clocklever",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-clocklever-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-coinbooth",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-coinbooth",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-coinbooth-01",
+            "iconAssetIds": [
+                "exchange"
+            ],
+            "mapImageAssetId": "area-a02-coinbooth-00",
+            "miniIconAssetId": "exchange",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-02-1-3",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-coinbooth",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-coinbooth-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-facerock",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-facerock",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-facerock-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-facerock-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-clocktower",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-clocktower",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-clocktower-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-clocktower-prg-01",
+            "labelLangId": "la-label-facility-a01-clocktower"
+        }
+    },
+    {
+        "facility_id": "facility-a01-exchangebooth",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-exchangebooth",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-exchangebooth-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-exchangebooth-prg-01",
+            "labelLangId": "la-label-facility-a01-exchangebooth"
+        }
+    },
+    {
+        "facility_id": "facility-a01-facerock",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-facerock",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-facerock-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-facerock-prg-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-facerock",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-facerock",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-facerock-prg-01-night",
+            "viewConditionGroupId": "cd-facility-a01-facerock-prg-01-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheel",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-ferriswheel",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheel-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-ferriswheel-prg-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-house-pre-01",
+            "labelLangId": "la-label-facility-a01-house"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-house-prg-01-night",
+            "viewConditionGroupId": "cd-facility-a01-house-prg-01-night",
+            "labelLangId": "la-label-facility-a01-house"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-house-prg-02",
+            "viewConditionGroupId": "cd-facility-a01-house-prg-02",
+            "labelLangId": "la-label-facility-a01-house"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livehouse",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-livehouse",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-livehouse-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-livehouse-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 7,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 7,
+            "assetId": "mdl_env_park_area-a01-facility-house-01-night",
+            "iconAssetIds": [
+                "house"
+            ],
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01-night-lock",
+            "unlockConditionGroupId": "cd-facility-a01-house-01-night",
+            "labelLangId": "la-label-facility-a01-house",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-restaurant",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-restaurant",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-restaurant-01",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a01-restaurant-00",
+            "miniIconAssetId": "cookingpuzzle",
+            "viewConditionGroupId": "cd-facility-a01-restaurant-01-named",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-restaurant",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-restaurant-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-restaurant",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-restaurant",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-restaurant-01-evening",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a01-restaurant-00",
+            "miniIconAssetId": "cookingpuzzle",
+            "viewConditionGroupId": "cd-facility-a01-restaurant-01-named-evening",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-restaurant",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-restaurant-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-restaurant",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-restaurant",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-restaurant-01-night",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a01-restaurant-00",
+            "miniIconAssetId": "cookingpuzzle",
+            "viewConditionGroupId": "cd-facility-a01-restaurant-01-named-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-restaurant",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-restaurant-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-restaurant",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-restaurant",
+            "priority": 3,
+            "nameLangId": "la-label-facility-a01-unknown",
+            "assetId": "mdl_env_park_area-a01-facility-restaurant-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-restaurant-01-night",
+            "unlockConditionGroupId": "cd-facility-a01-restaurant-01-named-night",
+            "labelLangId": "la-label-facility-a01-unknown"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 9,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 9,
+            "assetId": "mdl_env_park_area-a01-facility-house-01-evening",
+            "iconAssetIds": [
+                "house"
+            ],
+            "mapImageAssetId": "area-a01-house-00",
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01-evening",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-house",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livestage",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-livestage",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-livestage-00",
+            "iconAssetIds": [
+                "live"
+            ],
+            "mapImageAssetId": "area-a01-livestage-00",
+            "miniIconAssetId": "live",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-livestage",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-livestage-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-facilitylighting",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-facilitylighting",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-facilitylighting-01",
+            "viewConditionGroupId": "cd-facility-a02-itemgacha"
+        }
+    },
+    {
+        "facility_id": "facility-a02-facilitylighting",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-facilitylighting",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-facilitylighting-02",
+            "viewConditionGroupId": "cd-facility-a02-cranegame"
+        }
+    },
+    {
+        "facility_id": "facility-a02-facilitylighting",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a02-facilitylighting",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a02-facility-facilitylighting-03",
+            "viewConditionGroupId": "cd-facility-a02-shootinggame"
+        }
+    },
+    {
+        "facility_id": "facility-a02-facilitylighting",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a02-facilitylighting",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a02-facility-facilitylighting-04",
+            "viewConditionGroupId": "cd-facility-a02-dancegame"
+        }
+    },
+    {
+        "facility_id": "facility-a02-facilitylighting",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a02-facilitylighting",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a02-facility-facilitylighting-05",
+            "viewConditionGroupId": "cd-facility-a02-fightinggame"
+        }
+    },
+    {
+        "facility_id": "facility-a01-athletic",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-athletic",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-athletic-prg-01-night",
+            "viewConditionGroupId": "cd-facility-a01-athletic-prg-01-night",
+            "labelLangId": "la-label-facility-a01-athletic"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate2",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-gate2",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-gate2-pre-01-night",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre-night"
+        }
+    },
+    {
+        "facility_id": "facility-a02-racebetting",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-racebetting",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-racebetting-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-scratchstore",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-scratchstore",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-scratchstore-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-athletic",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-athletic",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-athletic-01",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a01-athletic-00",
+            "miniIconAssetId": "jumprope",
+            "viewConditionGroupId": "cd-facility-a01-athletic-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-athletic",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-athletic-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate4",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-gate4",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-gate4-pre-01-night",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-athletic",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-athletic",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-athletic-01-night",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a01-athletic-00",
+            "miniIconAssetId": "jumprope",
+            "viewConditionGroupId": "cd-facility-a01-athletic-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-athletic",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-athletic-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-balloonstore",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-balloonstore",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-balloonstore-01",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-balloonstore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-balloonstore-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-balloonstore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-balloonstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-balloonstore",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-balloonstore",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-balloonstore-01-evening",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-balloonstore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-balloonstore-01-evening",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-balloonstore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-balloonstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate5",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-gate5",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-gate5-pre-01-night",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 11,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 11,
+            "assetId": "mdl_env_park_area-a01-facility-house-01",
+            "iconAssetIds": [
+                "house"
+            ],
+            "mapImageAssetId": "area-a01-house-00",
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01-achievement",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-house-achievement",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate6",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-gate6",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-gate6-pre-01-night",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate7",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-gate7",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-gate7-pre-01-night",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 12,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 12,
+            "assetId": "mdl_env_park_area-a01-facility-house-01-evening",
+            "iconAssetIds": [
+                "house"
+            ],
+            "mapImageAssetId": "area-a01-house-00",
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01-achievement-evening",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-house-achievement",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 13,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 13,
+            "assetId": "mdl_env_park_area-a01-facility-house-01-night",
+            "iconAssetIds": [
+                "house"
+            ],
+            "mapImageAssetId": "area-a01-house-00",
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01-achievement-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-house-achievement",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-theater",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-theater",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-theater-01",
+            "iconAssetIds": [
+                "story"
+            ],
+            "mapImageAssetId": "area-a01-theater-00",
+            "miniIconAssetId": "story",
+            "viewConditionGroupId": "cd-facility-a01-theater-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-theater",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-theater-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-theater",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-theater",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-theater-01-night",
+            "iconAssetIds": [
+                "story"
+            ],
+            "mapImageAssetId": "area-a01-theater-00",
+            "miniIconAssetId": "story",
+            "viewConditionGroupId": "cd-facility-a01-theater-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-theater",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-theater-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-athletic",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-athletic",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-athletic-pre-01",
+            "labelLangId": "la-label-facility-a01-athletic"
+        }
+    },
+    {
+        "facility_id": "facility-a01-athletic",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-athletic",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-athletic-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-athletic-prg-01",
+            "labelLangId": "la-label-facility-a01-athletic"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house-achievement",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-house-achievement",
+            "priority": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-06"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livestage",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-livestage",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-livestage-00-night",
+            "iconAssetIds": [
+                "live"
+            ],
+            "mapImageAssetId": "area-a01-livestage-00",
+            "miniIconAssetId": "live",
+            "viewConditionGroupId": "cd-park_period-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-livestage",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-livestage-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-cranegame",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-cranegame",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-cranegame-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a02-cranegame-00",
+            "viewConditionGroupId": "cd-facility-a02-cranegame",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-cranegame-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-dancegame",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-dancegame",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-dancegame-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a02-dancegame-00",
+            "viewConditionGroupId": "cd-facility-a02-dancegame",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-dancegame-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-entrance-night",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-entrance-night",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-entrance-night-01",
+            "iconAssetIds": [
+                "gate"
+            ],
+            "mapImageAssetId": "area-a02-entrance-night-00",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-entrance-night-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-multiplay",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-multiplay",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-multiplay-pre-01",
+            "labelLangId": "la-label-facility-a01-multiplay"
+        }
+    },
+    {
+        "facility_id": "facility-a02-entrance",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-entrance",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-entrance-01",
+            "iconAssetIds": [
+                "gate"
+            ],
+            "mapImageAssetId": "area-a02-entrance-00",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-entrance-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-multiplay",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-multiplay",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-multiplay-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-multiplay-prg-01",
+            "labelLangId": "la-label-facility-a01-multiplay"
+        }
+    },
+    {
+        "facility_id": "facility-a01-multiplay",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-multiplay",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-multiplay-prg-01-night",
+            "viewConditionGroupId": "cd-facility-a01-multiplay-prg-01-night",
+            "labelLangId": "la-label-facility-a01-multiplay"
+        }
+    },
+    {
+        "facility_id": "facility-a02-signboard1",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-signboard1",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-signboard1-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-prison",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-prison",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-prison-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-prison-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-signboard2",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-signboard2",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-signboard1-01"
+        }
+    },
+    {
+        "facility_id": "facility-gimmick-fixed_symbol",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-gimmick-fixed_symbol",
+            "priority": 1,
+            "assetId": "mdl_env_park_common-gimmick-fixed-symbol-00"
+        }
+    },
+    {
+        "facility_id": "facility-gimmick-random_symbol",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-gimmick-random_symbol",
+            "priority": 1,
+            "assetId": "mdl_env_park_common-gimmick-random-symbol-00"
+        }
+    },
+    {
+        "facility_id": "facility-gimmick-spot",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-gimmick-spot",
+            "priority": 1,
+            "assetId": "mdl_env_park_common-gimmick-spot-00"
+        }
+    },
+    {
+        "facility_id": "facility-gimmick-treasure",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-gimmick-treasure",
+            "priority": 1,
+            "assetId": "mdl_env_park_common-gimmick-treasurepod-00_pod0"
+        }
+    },
+    {
+        "facility_id": "facility-a02-clocklever",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-clocklever",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-clocklever-01",
+            "unlockConditionGroupId": "cd-facility-a02-clocklever"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-house-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-house-prg-01",
+            "labelLangId": "la-label-facility-a01-house"
+        }
+    },
+    {
+        "facility_id": "facility-a02-dome",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-dome",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-dome-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-dome",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-dome",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-dome-prg-01",
+            "viewConditionGroupId": "cd-facility-a02-breakdown"
+        }
+    },
+    {
+        "facility_id": "facility-a02-dome",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-dome",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-dome-01",
+            "viewConditionGroupId": "cd-area-a02-game-repair"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-secretbase-prg-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-prg-01-night",
+            "viewConditionGroupId": "cd-facility-a01-secretbase-prg-01-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-house",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-house",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-house-01-evening",
+            "iconAssetIds": [
+                "house"
+            ],
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-house-01-evening-lock",
+            "unlockConditionGroupId": "cd-facility-a01-house-01-evening",
+            "labelLangId": "la-label-facility-a01-house",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-house-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate2",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-gate2",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-gate2-01-night",
+            "viewConditionGroupId": "cd-facility-a01-gate2-night_map_hidden",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-01-1-3"
+        }
+    },
+    {
+        "facility_id": "facility-a02-lightingchange",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-lightingchange",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-lightingchange-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-lightingchange",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-lightingchange",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-lightingchange-prg-01",
+            "viewConditionGroupId": "cd-facility-a02-breakdown"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate2",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-gate2",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-gate2-01",
+            "iconAssetIds": [
+                "gate"
+            ],
+            "mapImageAssetId": "area-a01-gate2-00",
+            "miniIconAssetId": "exit",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-01-1-3",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-01-1-3",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-gate2",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-gate2-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside2",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside2",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside2-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside2",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside2",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside2-01-evening",
+            "viewConditionGroupId": "cd-park_period-evening"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-secretbase-00",
+            "viewConditionGroupId": "cd-facility-a01-secretbase-01",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-secretbase-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-secretbase-00",
+            "viewConditionGroupId": "cd-facility-a01-secretbase-01-night",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-secretbase-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside1",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside1",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside1-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside1",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside1",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside1-01-evening",
+            "viewConditionGroupId": "cd-park_period-evening"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside1",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside1",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside1-01-night",
+            "viewConditionGroupId": "cd-park_period-night"
+        }
+    },
+    {
+        "facility_id": "facility-a02-fightinggame",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-fightinggame",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-fightinggame-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a02-fightinggame-00",
+            "viewConditionGroupId": "cd-facility-a02-fightinggame",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-fightinggame-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside2",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside2",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside2-01-night",
+            "viewConditionGroupId": "cd-park_period-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside3",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside3",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside3-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside3",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside3",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside3-01-evening",
+            "viewConditionGroupId": "cd-park_period-evening"
+        }
+    },
+    {
+        "facility_id": "facility-a01-signboard1",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-signboard1",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-signboard1-00",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-signboard-00",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-signboard1-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-highandlow",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-highandlow",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-highandlow-01",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a02-highandlow-00",
+            "miniIconAssetId": "highlow",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-highandlow",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-highandlow-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-signboard1",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-signboard1",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-signboard1-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-signboard-01",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-signboard1-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-signboard1",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-signboard1",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-signboard1-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-signboard-01-night",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-signboard1-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate2",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-gate2",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-gate2-01",
+            "viewConditionGroupId": "cd-facility-a01-gate2_map_hidden",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-01-1-3"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside3",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside3",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside3-01-night",
+            "viewConditionGroupId": "cd-park_period-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside4",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside4",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside4-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside4",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside4",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside4-01-evening",
+            "viewConditionGroupId": "cd-park_period-evening"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheelinside4",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-ferriswheelinside4",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside4-01-night",
+            "viewConditionGroupId": "cd-park_period-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheel",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-ferriswheel",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheel-01",
+            "iconAssetIds": [
+                "printbooth"
+            ],
+            "mapImageAssetId": "area-a01-ferriswheel-00",
+            "miniIconAssetId": "ferriswheel",
+            "viewConditionGroupId": "cd-facility-a01-ferriswheel-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-ferriswheel",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-ferriswheel-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-ferriswheel",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-ferriswheel",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-ferriswheel-01-night",
+            "iconAssetIds": [
+                "printbooth"
+            ],
+            "mapImageAssetId": "area-a01-ferriswheel-00",
+            "miniIconAssetId": "ferriswheel",
+            "viewConditionGroupId": "cd-facility-a01-ferriswheel-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-ferriswheel",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-ferriswheel-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-square",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-square",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-square-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-square-00",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-square-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-holocircuit",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-holocircuit",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-holocircuit-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-station-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-station-prg-01",
+            "labelLangId": "la-label-facility-a01-station"
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-station-prg-01-night",
+            "viewConditionGroupId": "cd-facility-a01-station-prg-01-night",
+            "labelLangId": "la-label-facility-a01-station"
+        }
+    },
+    {
+        "facility_id": "facility-a01-balloonstore",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-balloonstore",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-balloonstore-01-night",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-balloonstore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-balloonstore-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-balloonstore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-balloonstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-candystore",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-candystore",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-candystore-01-night",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a01-candystore-00",
+            "miniIconAssetId": "charactershop",
+            "viewConditionGroupId": "cd-facility-a01-candystore-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-candystore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-candystore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-exchangebooth",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-exchangebooth",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-exchangebooth-01",
+            "iconAssetIds": [
+                "exchange"
+            ],
+            "mapImageAssetId": "area-a01-exchangebooth-00",
+            "miniIconAssetId": "exchange",
+            "viewConditionGroupId": "cd-facility-a01-exchangebooth-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-exchangebooth",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-exchangebooth-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-exchangebooth",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-exchangebooth",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-exchangebooth-01-night",
+            "iconAssetIds": [
+                "exchange"
+            ],
+            "mapImageAssetId": "area-a01-exchangebooth-00",
+            "miniIconAssetId": "exchange",
+            "viewConditionGroupId": "cd-facility-a01-exchangebooth-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-exchangebooth",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-exchangebooth-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-facerock",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-facerock",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-facerock-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-facerock-00",
+            "viewConditionGroupId": "cd-facility-a01-facerock-01-night",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-facerock-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-station-01",
+            "iconAssetIds": [
+                "work"
+            ],
+            "mapImageAssetId": "area-a01-station-00",
+            "miniIconAssetId": "work",
+            "viewConditionGroupId": "cd-facility-a01-station-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-station",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-station-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-holocircuit",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-holocircuit",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-holocircuit-pre-01",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a02-holocircuit-00",
+            "miniIconAssetId": "circuit",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-02",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-holocircuit",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-holocircuit-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-holocircuit",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-holocircuit",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-holocircuit-01",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a02-holocircuit-00",
+            "miniIconAssetId": "circuit",
+            "viewConditionGroupId": "cd-area-a02-game-repair",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-holocircuit",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-holocircuit-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-itemgacha",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-itemgacha",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-itemgacha-01",
+            "iconAssetIds": [
+                "gimick"
+            ],
+            "mapImageAssetId": "area-a02-itemgacha-00",
+            "miniIconAssetId": "lottery",
+            "viewConditionGroupId": "cd-facility-a02-itemgacha",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-itemgacha",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-itemgacha-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-station-prg-02",
+            "viewConditionGroupId": "cd-facility-a01-station-prg-02",
+            "labelLangId": "la-label-facility-a01-station"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate3",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-gate3",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-gate3-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate3",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-gate3",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-gate3-pre-01-night",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate4",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-gate4",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-gate4-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate5",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-gate5",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-gate5-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate6",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-gate6",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-gate6-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre"
+        }
+    },
+    {
+        "facility_id": "facility-a01-gate7",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-gate7",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-gate7-pre-01",
+            "viewConditionGroupId": "cd-facility-a01-gate-pre"
+        }
+    },
+    {
+        "facility_id": "facility-a02-bartable",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-bartable",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-bartable-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-blackjack",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-blackjack",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-blackjack-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-highandlow",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-highandlow",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-highandlow-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-pokertable",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-pokertable",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-pokertable-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-station-01-evening",
+            "iconAssetIds": [
+                "work"
+            ],
+            "mapImageAssetId": "area-a01-station-00",
+            "miniIconAssetId": "work",
+            "viewConditionGroupId": "cd-facility-a01-station-01-evening",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-station",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-station-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-station",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-station",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-station-01-night",
+            "iconAssetIds": [
+                "work"
+            ],
+            "mapImageAssetId": "area-a01-station-00",
+            "miniIconAssetId": "work",
+            "viewConditionGroupId": "cd-facility-a01-station-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-station",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-station-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-theater",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-theater",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-theater-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-theater-prg-01",
+            "labelLangId": "la-label-facility-a01-theater"
+        }
+    },
+    {
+        "facility_id": "facility-a02-cranegame",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-cranegame",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-cranegame-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-cranegame",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-cranegame",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-cranegame-prg-01",
+            "viewConditionGroupId": "cd-facility-a02-breakdown"
+        }
+    },
+    {
+        "facility_id": "facility-a02-dancegame",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-dancegame",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-dancegame-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-dancegame",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-dancegame",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-dancegame-prg-01",
+            "viewConditionGroupId": "cd-facility-a02-breakdown"
+        }
+    },
+    {
+        "facility_id": "facility-a02-fightinggame",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-fightinggame",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-fightinggame-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-fightinggame",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-fightinggame",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-fightinggame-prg-01",
+            "viewConditionGroupId": "cd-facility-a02-breakdown"
+        }
+    },
+    {
+        "facility_id": "facility-a02-itemgacha",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-itemgacha",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-itemgacha-pre-01",
+            "labelLangId": "la-label-facility-a02-itemgacha"
+        }
+    },
+    {
+        "facility_id": "facility-a02-itemgacha",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-itemgacha",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-itemgacha-prg-01",
+            "viewConditionGroupId": "cd-facility-a02-breakdown",
+            "labelLangId": "la-label-facility-a02-itemgacha"
+        }
+    },
+    {
+        "facility_id": "facility-a02-photobooth",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-photobooth",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-photobooth-pre-01",
+            "labelLangId": "la-label-facility-a02-photobooth"
+        }
+    },
+    {
+        "facility_id": "facility-a02-photobooth",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-photobooth",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-photobooth-prg-01",
+            "viewConditionGroupId": "cd-facility-a02-breakdown",
+            "labelLangId": "la-label-facility-a02-photobooth"
+        }
+    },
+    {
+        "facility_id": "facility-a02-shootinggame",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-shootinggame",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-shootinggame-pre-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-memoryboard",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-memoryboard",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-memoryboard-00",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "miniIconAssetId": "posterbooth",
+            "viewConditionGroupId": "cd-facility-a01-memoryboard-00",
+            "labelLangId": "la-label-facility-a01-memoryboard",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-memoryboard-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-memoryboard",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-memoryboard",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-memoryboard-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "miniIconAssetId": "posterbooth",
+            "viewConditionGroupId": "cd-facility-a01-memoryboard-01",
+            "labelLangId": "la-label-facility-a01-memoryboard",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-memoryboard-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-restaurant",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-restaurant",
+            "priority": 1,
+            "nameLangId": "la-label-facility-a01-unknown",
+            "assetId": "mdl_env_park_area-a01-facility-restaurant-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-restaurant-01",
+            "unlockConditionGroupId": "cd-facility-a01-restaurant-01-named",
+            "labelLangId": "la-label-facility-a01-unknown"
+        }
+    },
+    {
+        "facility_id": "facility-a01-restaurant",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-restaurant",
+            "priority": 2,
+            "nameLangId": "la-label-facility-a01-unknown",
+            "assetId": "mdl_env_park_area-a01-facility-restaurant-01-evening",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "miniIconAssetId": "facility",
+            "viewConditionGroupId": "cd-facility-a01-restaurant-01-evening",
+            "unlockConditionGroupId": "cd-facility-a01-restaurant-01-named-evening",
+            "labelLangId": "la-label-facility-a01-unknown"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livestage",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-livestage",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-livestage-01",
+            "iconAssetIds": [
+                "live"
+            ],
+            "mapImageAssetId": "area-a01-livestage-01",
+            "miniIconAssetId": "live",
+            "viewConditionGroupId": "cd-facility-a01-livestage-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-livestage",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-livestage-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-livestage",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-livestage",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-livestage-01-night",
+            "iconAssetIds": [
+                "live"
+            ],
+            "mapImageAssetId": "area-a01-livestage-01",
+            "miniIconAssetId": "live",
+            "viewConditionGroupId": "cd-facility-a01-livestage-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-livestage",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-livestage-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-multiplay",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-multiplay",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-multiplay-01",
+            "iconAssetIds": [
+                "multiplay"
+            ],
+            "mapImageAssetId": "area-a01-multiplay-00",
+            "miniIconAssetId": "multi",
+            "viewConditionGroupId": "cd-facility-a01-multiplay-01",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-multiplay",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-multiplay-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-multiplay",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-multiplay",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-multiplay-01-night",
+            "iconAssetIds": [
+                "multiplay"
+            ],
+            "mapImageAssetId": "area-a01-multiplay-00",
+            "miniIconAssetId": "multi",
+            "viewConditionGroupId": "cd-facility-a01-multiplay-01-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-multiplay",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-multiplay-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-signboard2",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-signboard2",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-signboard2-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-livestage-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-signboard3",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-signboard3",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-signboard3-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-livestage-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-materialbooth",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-materialbooth",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-materialbooth-01",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "mapImageAssetId": "area-a02-materialbooth-00",
+            "miniIconAssetId": "exchange",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-12",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-materialbooth",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-materialbooth-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-photobooth",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-photobooth",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-photobooth-01",
+            "iconAssetIds": [
+                "printbooth"
+            ],
+            "mapImageAssetId": "area-a02-photobooth-00",
+            "miniIconAssetId": "printbooth",
+            "viewConditionGroupId": "cd-facility-a02-photobooth",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-photobooth",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-photobooth-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-pokertable",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-pokertable",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-pokertable-01",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a02-pokertable-00",
+            "miniIconAssetId": "combocardgame",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-pokertable",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-pokertable-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-racebetting",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-racebetting",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-racebetting-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a02-racebetting-00",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-racebetting-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-slotgame",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-slotgame",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-slotgame-01"
+        }
+    },
+    {
+        "facility_id": "facility-a02-scratchstore",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-scratchstore",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-scratchstore-01",
+            "iconAssetIds": [
+                "gimick"
+            ],
+            "mapImageAssetId": "area-a02-scratchstore-00",
+            "miniIconAssetId": "lottery",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-scratchstore",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-scratchstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-shootinggame",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-shootinggame",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-shootinggame-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a02-shootinggame-00",
+            "viewConditionGroupId": "cd-facility-a02-shootinggame",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-shootinggame-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-slotgame",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-slotgame",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-slotgame-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a02-slotgame-00",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-slotgame-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-station",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a02-station",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a02-facility-station-01",
+            "iconAssetIds": [
+                "work"
+            ],
+            "mapImageAssetId": "area-a02-station-00",
+            "miniIconAssetId": "work",
+            "viewConditionGroupId": "cd-facility-a02-station",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a02-station",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a02-station-00"
+        }
+    },
+    {
+        "facility_id": "facility-a02-shootinggame",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-shootinggame",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-shootinggame-prg-01",
+            "viewConditionGroupId": "cd-facility-a02-breakdown"
+        }
+    },
+    {
+        "facility_id": "facility-a02-station",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a02-station",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a02-facility-station-01",
+            "labelLangId": "la-label-facility-a02-station"
+        }
+    },
+    {
+        "facility_id": "facility-a02-station",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a02-station",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a02-facility-station-01",
+            "viewConditionGroupId": "cd-facility-a02-station",
+            "labelLangId": "la-label-facility-a02-station"
+        }
+    },
+    {
+        "facility_id": "facility-a01-penlightstore",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-penlightstore",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-penlightstore-01",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-penlightstore-01",
+            "labelLangId": "la-label-facility-a01-unknown",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-penlightstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-penlightstore",
+        "priority": 2,
+        "data": {
+            "facilityId": "facility-a01-penlightstore",
+            "priority": 2,
+            "assetId": "mdl_env_park_area-a01-facility-penlightstore-01-evening",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-penlightstore-01-evening",
+            "labelLangId": "la-label-facility-a01-unknown",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-penlightstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-penlightstore",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-penlightstore",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-penlightstore-01-night",
+            "iconAssetIds": [
+                "shop"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-penlightstore-01-night",
+            "labelLangId": "la-label-facility-a01-unknown",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-penlightstore-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-prison",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-prison",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-prison-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-prison-01",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-prison-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-prison",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-prison",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-prison-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "viewConditionGroupId": "cd-facility-a01-prison-01-night",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-prison-00"
+        }
+    }
+]

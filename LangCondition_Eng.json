@@ -1,0 +1,534 @@
+[
+    {
+        "id": "la-cd-cook-unlock_normal-description",
+        "data": {
+            "id": "la-cd-cook-unlock_normal-description",
+            "text": "Unlock by beating Collect Cooking on EASY mode."
+        }
+    },
+    {
+        "id": "la-cd-cook-unlock_score_attack-description",
+        "data": {
+            "id": "la-cd-cook-unlock_score_attack-description",
+            "text": "Unlock by completing on NORMAL mode and completing the Area Quest \"Refreshing Walk & Lunch.\""
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
+            "text": "You can unlock this by completing the Mega Circuit \"Blast off, Mega Circuit!\""
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup-description",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup-description",
+            "text": "You can unlock this by completing the Mega Circuit \"Blast off, Mega Circuit!\""
+        }
+    },
+    {
+        "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+        "data": {
+            "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "text": "Unlock by exchanging all items with the same name"
+        }
+    },
+    {
+        "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description",
+        "data": {
+            "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description",
+            "text": "You can unlock this by exchanging all items with the same name."
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-exchangebooth-level-02",
+        "data": {
+            "id": "la-cd-facility-a01-exchangebooth-level-02",
+            "text": "NePoLaBo Mart (Main Store) Facility LV. 2"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-exchangebooth-level-03",
+        "data": {
+            "id": "la-cd-facility-a01-exchangebooth-level-03",
+            "text": "NePoLaBo Mart (Main Store) Facility LV. 3"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-exchangebooth-level-04",
+        "data": {
+            "id": "la-cd-facility-a01-exchangebooth-level-04",
+            "text": "NePoLaBo Mart (Main Store) Facility LV. 4"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-exchangebooth-level-05",
+        "data": {
+            "id": "la-cd-facility-a01-exchangebooth-level-05",
+            "text": "NePoLaBo Mart (Main Store) Facility LV. 5"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-station-level-02",
+        "data": {
+            "id": "la-cd-facility-a01-station-level-02",
+            "text": "Gamers Station Facility Lv. 2"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-station-level-03",
+        "data": {
+            "id": "la-cd-facility-a01-station-level-03",
+            "text": "Gamers Station Facility Lv. 3"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-station-level-04",
+        "data": {
+            "id": "la-cd-facility-a01-station-level-04",
+            "text": "Gamers Station Facility Lv. 4"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-station-level-05",
+        "data": {
+            "id": "la-cd-facility-a01-station-level-05",
+            "text": "Gamers Station Facility Lv. 5"
+        }
+    },
+    {
+        "id": "la-cd-jump_rope-unlock_normal-description",
+        "data": {
+            "id": "la-cd-jump_rope-unlock_normal-description",
+            "text": "You can unlock this by completing Hoppin' Rope on EASY mode."
+        }
+    },
+    {
+        "id": "la-cd-jump_rope-unlock_score_attack-description",
+        "data": {
+            "id": "la-cd-jump_rope-unlock_score_attack-description",
+            "text": "Unlock by beating NORMAL mode and completing Area Quest \"10,000 Jump Goal?\""
+        }
+    },
+    {
+        "id": "la-cd-player_level-10",
+        "data": {
+            "id": "la-cd-player_level-10",
+            "text": "Dream Rank 10 or higher"
+        }
+    },
+    {
+        "id": "la-cd-player_level-15",
+        "data": {
+            "id": "la-cd-player_level-15",
+            "text": "Dream Rank 15 or higher"
+        }
+    },
+    {
+        "id": "la-cd-player_level-20",
+        "data": {
+            "id": "la-cd-player_level-20",
+            "text": "Dream Rank 20 or higher"
+        }
+    },
+    {
+        "id": "la-cd-player_level-25",
+        "data": {
+            "id": "la-cd-player_level-25",
+            "text": "Dream Rank 25 or higher"
+        }
+    },
+    {
+        "id": "la-cd-player_level-30",
+        "data": {
+            "id": "la-cd-player_level-30",
+            "text": "Dream Rank 30 or higher"
+        }
+    },
+    {
+        "id": "la-cd-player_level-35",
+        "data": {
+            "id": "la-cd-player_level-35",
+            "text": "Dream Rank 35 or higher"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-02-1-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-02-1-unlock",
+            "text": "Unlock by completing Hoppin' Rope on NORMAL"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-02-1-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-02-1-unlock-description",
+            "text": "Unlock by completing Hoppin' Rope on NORMAL"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-11-1-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-11-1-unlock",
+            "text": "Complete a specific Quest."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-11-1-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-11-1-unlock-description",
+            "text": "Unlock by completing EP 13."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-14-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-14-unlock",
+            "text": "Wait until night."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-14-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-14-unlock-description",
+            "text": "Time can be changed at Promise Tower."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-16-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-16-unlock",
+            "text": "Wait until evening."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-16-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-16-unlock-description",
+            "text": "Time can be changed at Promise Tower."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-23-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-23-unlock",
+            "text": "Complete a specific Quest."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-23-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-23-unlock-description",
+            "text": "Unlock by completing Main Quest EP 4 at the Mega Sphere."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-24-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-24-unlock",
+            "text": "Complete a specific Quest."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-24-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-24-unlock-description",
+            "text": "Unlock by completing Main Quest EP 24 in Harmony Garden."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-25-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-25-unlock",
+            "text": "Unlock by reaching Dream Rank 32."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-25-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-25-unlock-description",
+            "text": "Play through Quests and Live."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-26-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-26-unlock",
+            "text": "Unlock by reaching Dream Rank 35."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-26-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-26-unlock-description",
+            "text": "Play through Quests and Live."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-27-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-27-unlock",
+            "text": "Unlock by reaching Dream Rank 33."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-27-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-27-unlock-description",
+            "text": "Play through Quests and Live."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-28-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-28-unlock",
+            "text": "Unlock by reaching Dream Rank 35."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-28-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-28-unlock-description",
+            "text": "Play through Quests and Live."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-08-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a02-08-unlock",
+            "text": "Complete a specific Quest."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-08-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a02-08-unlock-description",
+            "text": "Unlock by completing the Area Quest \"Special Twosome\""
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-10-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a02-10-unlock",
+            "text": "Unlock by reaching Dream Rank 34."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-10-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a02-10-unlock-description",
+            "text": "Play through Quests and Live."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-16-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a02-16-unlock",
+            "text": "Unlock by reaching Dream Rank 35."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-16-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a02-16-unlock-description",
+            "text": "Play through Quests and Live."
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-01-03-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-01-03-unlock",
+            "text": "Complete Holomem Quests."
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-01-06-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-01-06-unlock",
+            "text": "Complete a specific Quest."
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-01-12-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-01-12-unlock",
+            "text": "Reach Dream Rank 12."
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-01-24-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-01-24-unlock",
+            "text": "Reach Dream Rank 17."
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-02-09-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-02-09-unlock",
+            "text": "Reach Dream Rank 23."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-105000",
+        "data": {
+            "id": "la-cd-unit_score-105000",
+            "text": "Max Unit Score 105,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-115000",
+        "data": {
+            "id": "la-cd-unit_score-115000",
+            "text": "Max Unit Score 115,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-125000",
+        "data": {
+            "id": "la-cd-unit_score-125000",
+            "text": "Max Unit Score 125,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-130000",
+        "data": {
+            "id": "la-cd-unit_score-130000",
+            "text": "Max Unit Score 130,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-150000",
+        "data": {
+            "id": "la-cd-unit_score-150000",
+            "text": "Max Unit Score 150,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-45000",
+        "data": {
+            "id": "la-cd-unit_score-45000",
+            "text": "Max Unit Score 45,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-60000",
+        "data": {
+            "id": "la-cd-unit_score-60000",
+            "text": "Max Unit Score 60,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-65000",
+        "data": {
+            "id": "la-cd-unit_score-65000",
+            "text": "Max Unit Score 65,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-80000",
+        "data": {
+            "id": "la-cd-unit_score-80000",
+            "text": "Max Unit Score 80,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unit_score-95000",
+        "data": {
+            "id": "la-cd-unit_score-95000",
+            "text": "Max Unit Score 95,000 or higher."
+        }
+    },
+    {
+        "id": "la-cd-unlock-work_slot-2",
+        "data": {
+            "id": "la-cd-unlock-work_slot-2",
+            "text": "Unlock by progressing the Area Quest \"Spirit Cheer.\""
+        }
+    },
+    {
+        "id": "la-cd-unlock-work_slot-2-description",
+        "data": {
+            "id": "la-cd-unlock-work_slot-2-description",
+            "text": "You can unlock this by completing the Area Quest \"Spirit Cheer.\""
+        }
+    },
+    {
+        "id": "la-locktest-cd-quest-area-a01-01",
+        "data": {
+            "id": "la-locktest-cd-quest-area-a01-01",
+            "text": "Complete Main Quest Chapter 3"
+        }
+    },
+    {
+        "id": "la-locktest-cd-quest-area-a01-02",
+        "data": {
+            "id": "la-locktest-cd-quest-area-a01-02",
+            "text": "Complete Main Quest Chapter 3"
+        }
+    },
+    {
+        "id": "la-locktest-cd-quest-area-a01-03",
+        "data": {
+            "id": "la-locktest-cd-quest-area-a01-03",
+            "text": "Complete Main Quest Chapter 6"
+        }
+    },
+    {
+        "id": "la-locktestdesc-cd-quest-area-a01-01",
+        "data": {
+            "id": "la-locktestdesc-cd-quest-area-a01-01",
+            "text": "Unlock by progressing through Main Quests."
+        }
+    },
+    {
+        "id": "la-locktestdesc-cd-quest-area-a01-02",
+        "data": {
+            "id": "la-locktestdesc-cd-quest-area-a01-02",
+            "text": "Unlock by progressing through Main Quests."
+        }
+    },
+    {
+        "id": "la-locktestdesc-cd-quest-area-a01-03",
+        "data": {
+            "id": "la-locktestdesc-cd-quest-area-a01-03",
+            "text": "Unlock by progressing through Main Quests."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-03-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-01-03-unlock-description",
+            "text": "Unlock holomems by completing holomem Quests."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-06-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-01-06-unlock-description",
+            "text": "You can unlock this by completing the Area Quest \"Currently on a Mission.\""
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-01-12-unlock-description",
+            "text": "You can level up your Dream Rank\nby challenging area quests and Holomem Quests."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-24-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-01-24-unlock-description",
+            "text": "You can level up your Dream Rank\nby challenging area quests and Holomem Quests."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-02-09-unlock-description",
+            "text": "You can level up your Dream Rank\nby challenging area quests and Holomem Quests."
+        }
+    }
+]

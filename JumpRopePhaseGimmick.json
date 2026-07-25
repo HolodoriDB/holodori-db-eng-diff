@@ -1,0 +1,1708 @@
+[
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 6,
+        "jump_count_from": 150,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "jumpCountFrom": 150,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1330,
+            "speedUpCoefficientPermilMultiply": 1400,
+            "speedDownCoefficientPermilMultiply": 750,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.800000011920929,
+            "maxSteamDensity": 0.800000011920929,
+            "minFallObjectSize": 4,
+            "maxFallObjectSize": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 6,
+        "jump_count_from": 200,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "jumpCountFrom": 200,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1330,
+            "speedUpCoefficientPermilMultiply": 1400,
+            "speedDownCoefficientPermilMultiply": 750,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 1,
+            "maxSteamDensity": 1,
+            "minFallObjectSize": 4,
+            "maxFallObjectSize": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 6,
+        "jump_count_from": 90,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "jumpCountFrom": 90,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1330,
+            "speedUpCoefficientPermilMultiply": 1400,
+            "speedDownCoefficientPermilMultiply": 750,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.4000000059604645,
+            "maxSteamDensity": 0.4000000059604645,
+            "minFallObjectSize": 3.799999952316284,
+            "maxFallObjectSize": 3.799999952316284
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 3,
+        "jump_count_from": 40,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 40,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.25,
+            "maxSteamDensity": 0.25,
+            "minFallObjectSize": 3.299999952316284,
+            "maxFallObjectSize": 3.299999952316284
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.18000000715255737,
+            "maxSteamDensity": 0.20000000298023224,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+        "phase_type": 2,
+        "jump_count_from": 20,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 20,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.18000000715255737,
+            "maxSteamDensity": 0.20000000298023224,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+        "phase_type": 4,
+        "jump_count_from": 50,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 50,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1300,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 1,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.18000000715255737,
+            "maxSteamDensity": 0.20000000298023224,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3.5
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 2,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.22499999403953552,
+            "maxSteamDensity": 0.24500000476837158,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3.0999999046325684
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.18000000715255737,
+            "maxSteamDensity": 0.20000000298023224,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.20999999344348907,
+            "maxSteamDensity": 0.23000000417232513,
+            "minFallObjectSize": 3.200000047683716,
+            "maxFallObjectSize": 3.4000000953674316
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 667,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+        "phase_type": 2,
+        "jump_count_from": 20,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_easy_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 20,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 667,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+        "phase_type": 3,
+        "jump_count_from": 40,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 40,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1150,
+            "speedUpCoefficientPermilMultiply": 1300,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 10,
+            "gimmickActiveJumpCountMax": 10,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.30000001192092896,
+            "maxSteamDensity": 0.3199999928474426,
+            "minFallObjectSize": 3.4000000953674316,
+            "maxFallObjectSize": 3.5
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+        "phase_type": 3,
+        "jump_count_from": 40,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-challenge_normal_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 40,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 1,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 800,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 667,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 667,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 800,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.20000000298023224,
+            "maxSteamDensity": 0.20000000298023224,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 2,
+        "jump_count_from": 20,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 20,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.20000000298023224,
+            "maxSteamDensity": 0.20000000298023224,
+            "minFallObjectSize": 3.0999999046325684,
+            "maxFallObjectSize": 3.0999999046325684
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.25,
+            "maxSteamDensity": 0.25,
+            "minFallObjectSize": 3.200000047683716,
+            "maxFallObjectSize": 3.200000047683716
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 3,
+        "jump_count_from": 40,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 40,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.25,
+            "maxSteamDensity": 0.25,
+            "minFallObjectSize": 3.299999952316284,
+            "maxFallObjectSize": 3.299999952316284
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 4,
+        "jump_count_from": 50,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 50,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1170,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.30000001192092896,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 3.4000000953674316,
+            "maxFallObjectSize": 3.4000000953674316
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 4,
+        "jump_count_from": 60,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 60,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1170,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.30000001192092896,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 3.5,
+            "maxFallObjectSize": 3.5
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 5,
+        "jump_count_from": 70,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE5",
+            "jumpCountFrom": 70,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1300,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.3499999940395355,
+            "maxSteamDensity": 0.3499999940395355,
+            "minFallObjectSize": 3.5999999046325684,
+            "maxFallObjectSize": 3.5999999046325684
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 5,
+        "jump_count_from": 80,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE5",
+            "jumpCountFrom": 80,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1300,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.3499999940395355,
+            "maxSteamDensity": 0.3499999940395355,
+            "minFallObjectSize": 3.700000047683716,
+            "maxFallObjectSize": 3.700000047683716
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.25,
+            "maxSteamDensity": 0.25,
+            "minFallObjectSize": 3.200000047683716,
+            "maxFallObjectSize": 3.200000047683716
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 4,
+        "jump_count_from": 50,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 50,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1170,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.30000001192092896,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 3.4000000953674316,
+            "maxFallObjectSize": 3.4000000953674316
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 4,
+        "jump_count_from": 60,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 60,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1170,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.30000001192092896,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 3.5,
+            "maxFallObjectSize": 3.5
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 5,
+        "jump_count_from": 70,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE5",
+            "jumpCountFrom": 70,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1300,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.3499999940395355,
+            "maxSteamDensity": 0.3499999940395355,
+            "minFallObjectSize": 3.5999999046325684,
+            "maxFallObjectSize": 3.5999999046325684
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 5,
+        "jump_count_from": 80,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE5",
+            "jumpCountFrom": 80,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1300,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.3499999940395355,
+            "maxSteamDensity": 0.3499999940395355,
+            "minFallObjectSize": 3.700000047683716,
+            "maxFallObjectSize": 3.700000047683716
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+        "phase_type": 2,
+        "jump_count_from": 20,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 20,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.22499999403953552,
+            "maxSteamDensity": 0.24500000476837158,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+        "phase_type": 4,
+        "jump_count_from": 50,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 50,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1300,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 1,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.2800000011920929,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 4,
+            "maxFallObjectSize": 4.5
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+        "phase_type": 2,
+        "jump_count_from": 20,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 20,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 2,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.2800000011920929,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 3.0999999046325684,
+            "maxFallObjectSize": 3.200000047683716
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+        "phase_type": 4,
+        "jump_count_from": 50,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 50,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1300,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 1,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.2800000011920929,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 4,
+            "maxFallObjectSize": 4.5
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.20000000298023224,
+            "maxSteamDensity": 0.20000000298023224,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 2,
+        "jump_count_from": 20,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 20,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.20000000298023224,
+            "maxSteamDensity": 0.20000000298023224,
+            "minFallObjectSize": 3.0999999046325684,
+            "maxFallObjectSize": 3.0999999046325684
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+        "phase_type": 3,
+        "jump_count_from": 40,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-02-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 40,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 1,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+        "phase_type": 3,
+        "jump_count_from": 40,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-05-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 40,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 1,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 667,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+        "phase_type": 2,
+        "jump_count_from": 20,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 20,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+        "phase_type": 3,
+        "jump_count_from": 40,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 40,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.22499999403953552,
+            "maxSteamDensity": 0.24500000476837158,
+            "minFallObjectSize": 3.299999952316284,
+            "maxFallObjectSize": 3.5999999046325684
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+        "phase_type": 4,
+        "jump_count_from": 50,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 50,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1170,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.23999999463558197,
+            "maxSteamDensity": 0.25999999046325684,
+            "minFallObjectSize": 3.4000000953674316,
+            "maxFallObjectSize": 3.799999952316284
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+        "phase_type": 4,
+        "jump_count_from": 60,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE4",
+            "jumpCountFrom": 60,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1170,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.25999999046325684,
+            "maxSteamDensity": 0.2800000011920929,
+            "minFallObjectSize": 3.5,
+            "maxFallObjectSize": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+        "phase_type": 5,
+        "jump_count_from": 70,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE5",
+            "jumpCountFrom": 70,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1300,
+            "speedUpCoefficientPermilMultiply": 1227,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.2800000011920929,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 3.5999999046325684,
+            "maxFallObjectSize": 4.199999809265137
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 2,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 3,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.22499999403953552,
+            "maxSteamDensity": 0.24500000476837158,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+        "phase_type": 3,
+        "jump_count_from": 40,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-daily",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 40,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 1,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 1,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.30000001192092896,
+            "maxSteamDensity": 0.3199999928474426,
+            "minFallObjectSize": 3.5,
+            "maxFallObjectSize": 3.799999952316284
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP"
+            ],
+            "speedCoefficientPermilMultiply": 1150,
+            "speedUpCoefficientPermilMultiply": 1300,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 10,
+            "gimmickActiveJumpCountMax": 10,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.22499999403953552,
+            "maxSteamDensity": 0.24500000476837158,
+            "minFallObjectSize": 3.299999952316284,
+            "maxFallObjectSize": 3.5
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1300,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.25999999046325684,
+            "maxSteamDensity": 0.2800000011920929,
+            "minFallObjectSize": 3,
+            "maxFallObjectSize": 3.0999999046325684
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+        "phase_type": 3,
+        "jump_count_from": 30,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE3",
+            "jumpCountFrom": 30,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1150,
+            "speedUpCoefficientPermilMultiply": 1300,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.2800000011920929,
+            "maxSteamDensity": 0.30000001192092896,
+            "minFallObjectSize": 3.200000047683716,
+            "maxFallObjectSize": 3.299999952316284
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-03-1-6",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-03-1-6",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 667,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 800,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+        "phase_type": 2,
+        "jump_count_from": 10,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-09-1-5",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 10,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE"
+            ],
+            "speedCoefficientPermilMultiply": 1000,
+            "speedUpCoefficientPermilMultiply": 1300,
+            "speedDownCoefficientPermilMultiply": 750,
+            "cautionWaitJumpCountMin": 1,
+            "cautionWaitJumpCountMax": 2,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 3,
+            "gimmickActiveJumpCountMax": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-main-w1-01-17-1-7",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 800,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 1,
+        "jump_count_from": 0,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE1",
+            "speedCoefficientPermilMultiply": 800,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-multi_001",
+        "phase_type": 6,
+        "jump_count_from": 120,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-multi_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "jumpCountFrom": 120,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1330,
+            "speedUpCoefficientPermilMultiply": 1400,
+            "speedDownCoefficientPermilMultiply": 750,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.6000000238418579,
+            "maxSteamDensity": 0.6000000238418579,
+            "minFallObjectSize": 3.9000000953674316,
+            "maxFallObjectSize": 3.9000000953674316
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 6,
+        "jump_count_from": 120,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "jumpCountFrom": 120,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1330,
+            "speedUpCoefficientPermilMultiply": 1400,
+            "speedDownCoefficientPermilMultiply": 750,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.6000000238418579,
+            "maxSteamDensity": 0.6000000238418579,
+            "minFallObjectSize": 3.9000000953674316,
+            "maxFallObjectSize": 3.9000000953674316
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 6,
+        "jump_count_from": 150,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "jumpCountFrom": 150,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1330,
+            "speedUpCoefficientPermilMultiply": 1400,
+            "speedDownCoefficientPermilMultiply": 750,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.800000011920929,
+            "maxSteamDensity": 0.800000011920929,
+            "minFallObjectSize": 4,
+            "maxFallObjectSize": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+        "phase_type": 2,
+        "jump_count_from": 20,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-quest_jump_rope-area-a01-12-1-1",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE2",
+            "jumpCountFrom": 20,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 833,
+            "speedUpCoefficientPermilMultiply": 1200,
+            "speedDownCoefficientPermilMultiply": 600,
+            "cautionActiveJumpCountMin": 1,
+            "cautionActiveJumpCountMax": 2,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 4,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.19499999284744263,
+            "maxSteamDensity": 0.2150000035762787,
+            "minFallObjectSize": 3.0999999046325684,
+            "maxFallObjectSize": 3.200000047683716
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 6,
+        "jump_count_from": 200,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "jumpCountFrom": 200,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1330,
+            "speedUpCoefficientPermilMultiply": 1400,
+            "speedDownCoefficientPermilMultiply": 750,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 1,
+            "maxSteamDensity": 1,
+            "minFallObjectSize": 4,
+            "maxFallObjectSize": 4
+        }
+    },
+    {
+        "group_id": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+        "phase_type": 6,
+        "jump_count_from": 90,
+        "data": {
+            "groupId": "jump_rope_phase_gimmick-jump_rope-score_attack_001",
+            "phaseType": "JumpRopePhaseType_JUMP_ROPE_PHASE_TYPE_PHASE6",
+            "jumpCountFrom": 90,
+            "gimmickTypes": [
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_UP_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_SPEED_DOWN_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_REVERSE_AND_INVISIBLE",
+                "JumpRopeGimmickType_JUMP_ROPE_GIMMICK_TYPE_INVISIBLE"
+            ],
+            "speedCoefficientPermilMultiply": 1330,
+            "speedUpCoefficientPermilMultiply": 1400,
+            "speedDownCoefficientPermilMultiply": 750,
+            "gimmickActiveJumpCountMin": 2,
+            "gimmickActiveJumpCountMax": 5,
+            "invisibleGimmickType": "JumpRopeInvisibleGimmickType_JUMP_ROPE_INVISIBLE_GIMMICK_TYPE_STEAM_AND_FALL",
+            "minSteamDensity": 0.4000000059604645,
+            "maxSteamDensity": 0.4000000059604645,
+            "minFallObjectSize": 3.799999952316284,
+            "maxFallObjectSize": 3.799999952316284
+        }
+    }
+]

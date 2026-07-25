@@ -1,0 +1,770 @@
+[
+    {
+        "id": "park_call-chr-00002_area-a02",
+        "data": {
+            "id": "park_call-chr-00002_area-a02",
+            "characterVoiceId": "cv-park_call_chr-00002_area-02",
+            "areaIds": [
+                "area-a02-game"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00002_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00005_area-a02",
+        "data": {
+            "id": "park_call-chr-00005_area-a02",
+            "characterVoiceId": "cv-park_call_chr-00005_area-02",
+            "areaIds": [
+                "area-a02-casino"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00005_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00006_area-01",
+        "data": {
+            "id": "park_call-chr-00006_area-01",
+            "characterVoiceId": "cv-park_call_chr-00006_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00006_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00016_area-a02",
+        "data": {
+            "id": "park_call-chr-00016_area-a02",
+            "characterVoiceId": "cv-park_call_chr-00016_area-02",
+            "areaIds": [
+                "area-a02-game"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00016_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00017_area-a02",
+        "data": {
+            "id": "park_call-chr-00017_area-a02",
+            "characterVoiceId": "cv-park_call_chr-00017_area-02",
+            "areaIds": [
+                "area-a02-game"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00017_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00019_area-a02",
+        "data": {
+            "id": "park_call-chr-00019_area-a02",
+            "characterVoiceId": "cv-park_call_chr-00019_area-02",
+            "areaIds": [
+                "area-a02-casino"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00019_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00034_area-01",
+        "data": {
+            "id": "park_call-chr-00034_area-01",
+            "characterVoiceId": "cv-park_call_chr-00034_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00034_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00035_area-01",
+        "data": {
+            "id": "park_call-chr-00035_area-01",
+            "characterVoiceId": "cv-park_call_chr-00035_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00035_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00036_area-01",
+        "data": {
+            "id": "park_call-chr-00036_area-01",
+            "characterVoiceId": "cv-park_call_chr-00036_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00036_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00037_area-01",
+        "data": {
+            "id": "park_call-chr-00037_area-01",
+            "characterVoiceId": "cv-park_call_chr-00037_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00037_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00039_area-01",
+        "data": {
+            "id": "park_call-chr-00039_area-01",
+            "characterVoiceId": "cv-park_call_chr-00039_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00039_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03001_area-01",
+        "data": {
+            "id": "park_call-chr-03001_area-01",
+            "characterVoiceId": "cv-park_call_chr-03001_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03001_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03002_area-01",
+        "data": {
+            "id": "park_call-chr-03002_area-01",
+            "characterVoiceId": "cv-park_call_chr-03002_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03002_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03002_area-a02",
+        "data": {
+            "id": "park_call-chr-03002_area-a02",
+            "characterVoiceId": "cv-park_call_chr-03002_area-02",
+            "areaIds": [
+                "area-a02-casino"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03002_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03003_area-01",
+        "data": {
+            "id": "park_call-chr-03003_area-01",
+            "characterVoiceId": "cv-park_call_chr-03003_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03003_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03004_area-01",
+        "data": {
+            "id": "park_call-chr-03004_area-01",
+            "characterVoiceId": "cv-park_call_chr-03004_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03004_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03005_area-01",
+        "data": {
+            "id": "park_call-chr-03005_area-01",
+            "characterVoiceId": "cv-park_call_chr-03005_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03005_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03006_area-01",
+        "data": {
+            "id": "park_call-chr-03006_area-01",
+            "characterVoiceId": "cv-park_call_chr-03006_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03006_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03007_area-01",
+        "data": {
+            "id": "park_call-chr-03007_area-01",
+            "characterVoiceId": "cv-park_call_chr-03007_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03007_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03008_area-01",
+        "data": {
+            "id": "park_call-chr-03008_area-01",
+            "characterVoiceId": "cv-park_call_chr-03008_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03008_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03008_area-a02",
+        "data": {
+            "id": "park_call-chr-03008_area-a02",
+            "characterVoiceId": "cv-park_call_chr-03008_area-02",
+            "areaIds": [
+                "area-a02-game"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03008_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-03009_area-01",
+        "data": {
+            "id": "park_call-chr-03009_area-01",
+            "characterVoiceId": "cv-park_call_chr-03009_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-03009_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04001_area-01",
+        "data": {
+            "id": "park_call-chr-04001_area-01",
+            "characterVoiceId": "cv-park_call_chr-04001_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04001_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04002_area-01",
+        "data": {
+            "id": "park_call-chr-04002_area-01",
+            "characterVoiceId": "cv-park_call_chr-04002_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04002_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04002_area-a02",
+        "data": {
+            "id": "park_call-chr-04002_area-a02",
+            "characterVoiceId": "cv-park_call_chr-04002_area-02",
+            "areaIds": [
+                "area-a02-game"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04002_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04003_area-01",
+        "data": {
+            "id": "park_call-chr-04003_area-01",
+            "characterVoiceId": "cv-park_call_chr-04003_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04003_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04007_area-01",
+        "data": {
+            "id": "park_call-chr-04007_area-01",
+            "characterVoiceId": "cv-park_call_chr-04007_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04007_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04010_area-01",
+        "data": {
+            "id": "park_call-chr-04010_area-01",
+            "characterVoiceId": "cv-park_call_chr-04010_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04010_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04012_area-01",
+        "data": {
+            "id": "park_call-chr-04012_area-01",
+            "characterVoiceId": "cv-park_call_chr-04012_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04012_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04013_area-01",
+        "data": {
+            "id": "park_call-chr-04013_area-01",
+            "characterVoiceId": "cv-park_call_chr-04013_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04013_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04013_area-a02",
+        "data": {
+            "id": "park_call-chr-04013_area-a02",
+            "characterVoiceId": "cv-park_call_chr-04013_area-02",
+            "areaIds": [
+                "area-a02-casino"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04013_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04014_area-01",
+        "data": {
+            "id": "park_call-chr-04014_area-01",
+            "characterVoiceId": "cv-park_call_chr-04014_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04014_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04015_area-01",
+        "data": {
+            "id": "park_call-chr-04015_area-01",
+            "characterVoiceId": "cv-park_call_chr-04015_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04015_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04015_area-a02",
+        "data": {
+            "id": "park_call-chr-04015_area-a02",
+            "characterVoiceId": "cv-park_call_chr-04015_area-02",
+            "areaIds": [
+                "area-a02-casino"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04015_area-02",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04016_area-01",
+        "data": {
+            "id": "park_call-chr-04016_area-01",
+            "characterVoiceId": "cv-park_call_chr-04016_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04016_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-04017_area-01",
+        "data": {
+            "id": "park_call-chr-04017_area-01",
+            "characterVoiceId": "cv-park_call_chr-04017_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-04017_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-06002_area-01",
+        "data": {
+            "id": "park_call-chr-06002_area-01",
+            "characterVoiceId": "cv-park_call_chr-06002_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-06002_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-06003_area-01",
+        "data": {
+            "id": "park_call-chr-06003_area-01",
+            "characterVoiceId": "cv-park_call_chr-06003_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-06003_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-06004_area-01",
+        "data": {
+            "id": "park_call-chr-06004_area-01",
+            "characterVoiceId": "cv-park_call_chr-06004_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-06004_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-06005_area-01",
+        "data": {
+            "id": "park_call-chr-06005_area-01",
+            "characterVoiceId": "cv-park_call_chr-06005_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-06005_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00001_area-01",
+        "data": {
+            "id": "park_call-chr-00001_area-01",
+            "characterVoiceId": "cv-park_call_chr-00001_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00001_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00002_area-01",
+        "data": {
+            "id": "park_call-chr-00002_area-01",
+            "characterVoiceId": "cv-park_call_chr-00002_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00002_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00004_area-01",
+        "data": {
+            "id": "park_call-chr-00004_area-01",
+            "characterVoiceId": "cv-park_call_chr-00004_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00004_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00005_area-01",
+        "data": {
+            "id": "park_call-chr-00005_area-01",
+            "characterVoiceId": "cv-park_call_chr-00005_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00005_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00007_area-01",
+        "data": {
+            "id": "park_call-chr-00007_area-01",
+            "characterVoiceId": "cv-park_call_chr-00007_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00007_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00010_area-01",
+        "data": {
+            "id": "park_call-chr-00010_area-01",
+            "characterVoiceId": "cv-park_call_chr-00010_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00010_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00011_area-01",
+        "data": {
+            "id": "park_call-chr-00011_area-01",
+            "characterVoiceId": "cv-park_call_chr-00011_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00011_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00012_area-01",
+        "data": {
+            "id": "park_call-chr-00012_area-01",
+            "characterVoiceId": "cv-park_call_chr-00012_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00012_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00013_area-01",
+        "data": {
+            "id": "park_call-chr-00013_area-01",
+            "characterVoiceId": "cv-park_call_chr-00013_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00013_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00014_area-01",
+        "data": {
+            "id": "park_call-chr-00014_area-01",
+            "characterVoiceId": "cv-park_call_chr-00014_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00014_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00015_area-01",
+        "data": {
+            "id": "park_call-chr-00015_area-01",
+            "characterVoiceId": "cv-park_call_chr-00015_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00015_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00016_area-01",
+        "data": {
+            "id": "park_call-chr-00016_area-01",
+            "characterVoiceId": "cv-park_call_chr-00016_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00016_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00017_area-01",
+        "data": {
+            "id": "park_call-chr-00017_area-01",
+            "characterVoiceId": "cv-park_call_chr-00017_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00017_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00018_area-01",
+        "data": {
+            "id": "park_call-chr-00018_area-01",
+            "characterVoiceId": "cv-park_call_chr-00018_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00018_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00019_area-01",
+        "data": {
+            "id": "park_call-chr-00019_area-01",
+            "characterVoiceId": "cv-park_call_chr-00019_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00019_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00021_area-01",
+        "data": {
+            "id": "park_call-chr-00021_area-01",
+            "characterVoiceId": "cv-park_call_chr-00021_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00021_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00022_area-01",
+        "data": {
+            "id": "park_call-chr-00022_area-01",
+            "characterVoiceId": "cv-park_call_chr-00022_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00022_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00023_area-01",
+        "data": {
+            "id": "park_call-chr-00023_area-01",
+            "characterVoiceId": "cv-park_call_chr-00023_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00023_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00026_area-01",
+        "data": {
+            "id": "park_call-chr-00026_area-01",
+            "characterVoiceId": "cv-park_call_chr-00026_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00026_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00027_area-01",
+        "data": {
+            "id": "park_call-chr-00027_area-01",
+            "characterVoiceId": "cv-park_call_chr-00027_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00027_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00028_area-01",
+        "data": {
+            "id": "park_call-chr-00028_area-01",
+            "characterVoiceId": "cv-park_call_chr-00028_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00028_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00030_area-01",
+        "data": {
+            "id": "park_call-chr-00030_area-01",
+            "characterVoiceId": "cv-park_call_chr-00030_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00030_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00031_area-01",
+        "data": {
+            "id": "park_call-chr-00031_area-01",
+            "characterVoiceId": "cv-park_call_chr-00031_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00031_area-01",
+            "ratio": 10
+        }
+    },
+    {
+        "id": "park_call-chr-00032_area-01",
+        "data": {
+            "id": "park_call-chr-00032_area-01",
+            "characterVoiceId": "cv-park_call_chr-00032_area-01",
+            "areaIds": [
+                "area-a01"
+            ],
+            "conditionGroupId": "cd-park_call-chr-00032_area-01",
+            "ratio": 10
+        }
+    }
+]

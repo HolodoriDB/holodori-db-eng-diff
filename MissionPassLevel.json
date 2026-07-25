@@ -1,0 +1,1394 @@
+[
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 10,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 10,
+            "isFeature": true,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00001-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00002-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00013-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00015-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00018-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00004-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00005-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00006-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00007-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00010-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00011-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00012-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00014-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00016-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00017-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00019-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00021-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00022-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00023-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00026-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00027-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00028-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00030-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00031-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00032-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00034-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00035-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00036-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00037-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-00039-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03001-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03002-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03003-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03004-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03005-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03006-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03007-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03008-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-03009-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04001-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04002-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04003-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04007-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04010-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04012-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04013-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04014-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04015-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04016-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-04017-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-06002-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-06003-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-06004-acc-002",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_SD_COSTUME_HAIR_ACCESSORY",
+                    "resourceId": "sd_costume_hair_accessory_chr-06005-acc-002",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 29,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 29,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "80000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "240000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 3,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 3,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "30000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 30,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 30,
+            "isFeature": true,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "1000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 1,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 1,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 36,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 36,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "500"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "500"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 37,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 37,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "80000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "240000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 11,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 11,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "30000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 12,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 12,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "250"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "250"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 13,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 13,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 14,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 14,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "250"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "250"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 15,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 15,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "20000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 16,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 16,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "50"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 17,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 17,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "150000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 18,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 18,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "50"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 19,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 19,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "20000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 2,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 2,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "200"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "200"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 20,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 20,
+            "isFeature": true,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "1000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 21,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 21,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "150000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 22,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 22,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 23,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 23,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "20000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 24,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 24,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 25,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 25,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "150000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 26,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 26,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "350"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "350"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 27,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 27,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "40000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "120000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 28,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 28,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "350"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "350"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 31,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 31,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "40000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "120000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 32,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 32,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "350"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "350"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 33,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 33,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "80000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "240000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 34,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 34,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "500"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "500"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 35,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 35,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "40000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "120000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 38,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 38,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "500"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "500"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 39,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 39,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "80000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "240000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 4,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 4,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "200"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "200"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 40,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 40,
+            "isFeature": true,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "1000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 41,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 41,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "110000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "330000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 42,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 42,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "75"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "75"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 43,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 43,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "80000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "240000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 44,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 44,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "75"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "75"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 45,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 45,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "110000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "330000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 46,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 46,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "75"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "75"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 47,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 47,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "80000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "240000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 48,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 48,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "75"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "75"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 49,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 49,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "110000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "330000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 5,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 5,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 51,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 51,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "3000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 6,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 6,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "200"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "200"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 7,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 7,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "30000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 8,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 8,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "250"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "250"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 9,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 9,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "mission_pass_level-mission_pass-0001",
+        "level": 50,
+        "data": {
+            "groupId": "mission_pass_level-mission_pass-0001",
+            "level": 50,
+            "isFeature": true,
+            "normalRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                }
+            ],
+            "premiumRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "1000"
+                }
+            ]
+        }
+    }
+]

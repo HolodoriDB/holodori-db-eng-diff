@@ -1,0 +1,136 @@
+[
+    {
+        "type": 4,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_A",
+            "threshold": "600000",
+            "order": 7
+        }
+    },
+    {
+        "type": 4,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_A",
+            "plus": 1,
+            "threshold": "800000",
+            "order": 8
+        }
+    },
+    {
+        "type": 3,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_B",
+            "threshold": "300000",
+            "order": 5
+        }
+    },
+    {
+        "type": 3,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_B",
+            "plus": 1,
+            "threshold": "450000",
+            "order": 6
+        }
+    },
+    {
+        "type": 2,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_C",
+            "threshold": "150000",
+            "order": 3
+        }
+    },
+    {
+        "type": 2,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_C",
+            "plus": 1,
+            "threshold": "220000",
+            "order": 4
+        }
+    },
+    {
+        "type": 1,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_D",
+            "order": 1
+        }
+    },
+    {
+        "type": 1,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_D",
+            "plus": 1,
+            "threshold": "100000",
+            "order": 2
+        }
+    },
+    {
+        "type": 5,
+        "plus": 0,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "threshold": "1000000",
+            "order": 9
+        }
+    },
+    {
+        "type": 5,
+        "plus": 1,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 1,
+            "threshold": "1200000",
+            "order": 10
+        }
+    },
+    {
+        "type": 5,
+        "plus": 2,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 2,
+            "threshold": "1500000",
+            "order": 11
+        }
+    },
+    {
+        "type": 5,
+        "plus": 3,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 3,
+            "threshold": "2000000",
+            "order": 12
+        }
+    },
+    {
+        "type": 5,
+        "plus": 4,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 4,
+            "threshold": "2500000",
+            "order": 13
+        }
+    },
+    {
+        "type": 5,
+        "plus": 5,
+        "data": {
+            "type": "LiveDeckRankType_LIVE_DECK_RANK_TYPE_S",
+            "plus": 5,
+            "threshold": "3000000",
+            "order": 14
+        }
+    }
+]

@@ -1,0 +1,965 @@
+[
+    {
+        "group_id": "rarity_3-attribute_1",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_3-attribute_1",
+            "levelLimit": 20
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_1",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_3-attribute_1",
+            "limitBreakCount": 1,
+            "levelLimit": 30,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_1",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_3-attribute_1",
+            "limitBreakCount": 2,
+            "levelLimit": 40,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_1",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_3-attribute_1",
+            "limitBreakCount": 3,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "120000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_1",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_3-attribute_1",
+            "limitBreakCount": 4,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "200000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_2",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_3-attribute_2",
+            "levelLimit": 20
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_2",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_3-attribute_2",
+            "limitBreakCount": 1,
+            "levelLimit": 30,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_2",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_3-attribute_2",
+            "limitBreakCount": 2,
+            "levelLimit": 40,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_2",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_3-attribute_2",
+            "limitBreakCount": 3,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "120000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_2",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_3-attribute_2",
+            "limitBreakCount": 4,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "200000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_3",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_3-attribute_3",
+            "levelLimit": 20
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_3",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_3-attribute_3",
+            "limitBreakCount": 1,
+            "levelLimit": 30,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_3",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_3-attribute_3",
+            "limitBreakCount": 2,
+            "levelLimit": 40,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "60000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_3",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_3-attribute_3",
+            "limitBreakCount": 3,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "120000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_3-attribute_3",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_3-attribute_3",
+            "limitBreakCount": 4,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "200000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_1",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_4-attribute_1",
+            "levelLimit": 30
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_1",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_4-attribute_1",
+            "limitBreakCount": 1,
+            "levelLimit": 40,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "35000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_1",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_4-attribute_1",
+            "limitBreakCount": 2,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "105000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_1",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_4-attribute_1",
+            "limitBreakCount": 3,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "210000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_1",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_4-attribute_1",
+            "limitBreakCount": 4,
+            "levelLimit": 70,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "800"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "350000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_2",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_4-attribute_2",
+            "levelLimit": 30
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_2",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_4-attribute_2",
+            "limitBreakCount": 1,
+            "levelLimit": 40,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "35000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_2",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_4-attribute_2",
+            "limitBreakCount": 2,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "105000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_2",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_4-attribute_2",
+            "limitBreakCount": 3,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "210000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_2",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_4-attribute_2",
+            "limitBreakCount": 4,
+            "levelLimit": 70,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "800"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "350000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_3",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_4-attribute_3",
+            "levelLimit": 30
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_3",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_4-attribute_3",
+            "limitBreakCount": 1,
+            "levelLimit": 40,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "35000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_3",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_4-attribute_3",
+            "limitBreakCount": 2,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "105000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_3",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_4-attribute_3",
+            "limitBreakCount": 3,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "210000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_4-attribute_3",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_4-attribute_3",
+            "limitBreakCount": 4,
+            "levelLimit": 70,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "800"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "400"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "350000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_1",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_5-attribute_1",
+            "levelLimit": 40
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_1",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_5-attribute_1",
+            "limitBreakCount": 1,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "75000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_1",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_5-attribute_1",
+            "limitBreakCount": 2,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "225000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_1",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_5-attribute_1",
+            "limitBreakCount": 3,
+            "levelLimit": 70,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "450000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_1",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_5-attribute_1",
+            "limitBreakCount": 4,
+            "levelLimit": 80,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "1200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "750000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_2",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_5-attribute_2",
+            "levelLimit": 40
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_2",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_5-attribute_2",
+            "limitBreakCount": 1,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "75000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_2",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_5-attribute_2",
+            "limitBreakCount": 2,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "225000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_2",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_5-attribute_2",
+            "limitBreakCount": 3,
+            "levelLimit": 70,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "450000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_2",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_5-attribute_2",
+            "limitBreakCount": 4,
+            "levelLimit": 80,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "1200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "750000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_3",
+        "limit_break_count": 0,
+        "data": {
+            "groupId": "rarity_5-attribute_3",
+            "levelLimit": 40
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_3",
+        "limit_break_count": 1,
+        "data": {
+            "groupId": "rarity_5-attribute_3",
+            "limitBreakCount": 1,
+            "levelLimit": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "75000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_3",
+        "limit_break_count": 2,
+        "data": {
+            "groupId": "rarity_5-attribute_3",
+            "limitBreakCount": 2,
+            "levelLimit": 60,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "225000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_3",
+        "limit_break_count": 3,
+        "data": {
+            "groupId": "rarity_5-attribute_3",
+            "limitBreakCount": 3,
+            "levelLimit": 70,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "600"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "450000"
+                }
+            ]
+        }
+    },
+    {
+        "group_id": "rarity_5-attribute_3",
+        "limit_break_count": 4,
+        "data": {
+            "groupId": "rarity_5-attribute_3",
+            "limitBreakCount": 4,
+            "levelLimit": 80,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "1200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "750000"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "music_difficulty_type": 1,
+        "data": {
+            "musicDifficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "2000"
+                }
+            ]
+        }
+    },
+    {
+        "music_difficulty_type": 2,
+        "data": {
+            "musicDifficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "5000"
+                }
+            ]
+        }
+    },
+    {
+        "music_difficulty_type": 3,
+        "data": {
+            "musicDifficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "music_difficulty_type": 4,
+        "data": {
+            "musicDifficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "data": {
+            "id": "1",
+            "miniGameRewardUpStaminaEffectGroupId": "mini_game_reward_up_stamina_effect-cooking_puzzle-01",
+            "stockSpaceQuantity": 7,
+            "foodstuffCollectingIncrementScore": "100",
+            "stockSpaceOverflowDecrementScore": "50",
+            "guideActivationMilliseconds": 5000,
+            "guideLightingDurationMilliseconds": 10000,
+            "guideExpansionRatePermilUp": 200,
+            "tapExpansionRatePermilUp": 200,
+            "rewardUpStaminaConsumptionUnit": 30,
+            "gaugeYellowRemainingTimeRatePermil": 700,
+            "gaugeRedRemainingTimeRatePermil": 400,
+            "alertRemainingTimeSeconds": 10,
+            "scoreAttackResultVoiceThresholdScoreNormal": "5000",
+            "scoreAttackResultVoiceThresholdScoreGood": "7500",
+            "scoreAttackResultVoiceThresholdScoreGreat": "10000"
+        }
+    }
+]

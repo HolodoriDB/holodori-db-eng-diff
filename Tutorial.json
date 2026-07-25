@@ -1,0 +1,614 @@
+[
+    {
+        "type": 21,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_MUSIC_CREATIVE_CHART",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-creative-chart"
+        }
+    },
+    {
+        "type": 1501,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_MULTI_GAME_LIVE",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-multi-live"
+        }
+    },
+    {
+        "type": 9,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_ACHIEVEMENT",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-06",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-achievement"
+        }
+    },
+    {
+        "type": 1001,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_COOKING_PUZZLE",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-11",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-cooking-puzzle"
+        }
+    },
+    {
+        "type": 10,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_CUSTOM_PALETTE",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+            "descriptionLangIds": [
+                "la-tutorial-custom_palette-01",
+                "la-tutorial-custom_palette-02"
+            ]
+        }
+    },
+    {
+        "type": 501,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_EXCHANGE_AREA01",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-12",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-exchange-area01"
+        }
+    },
+    {
+        "type": 1002,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_JUMP_ROPE",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-03",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-jump-rope"
+        }
+    },
+    {
+        "type": 3,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_LIVE",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-01",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+            "descriptionLangIds": [
+                "la-tutorial-live-01-1",
+                "la-tutorial-live-01-2"
+            ]
+        }
+    },
+    {
+        "type": 14,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_MISSION_PASS",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-05",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-mission-pass"
+        }
+    },
+    {
+        "type": 13,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_MULTI_GAME",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-multi-game"
+        }
+    },
+    {
+        "type": 2002,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_QUEST",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+            "descriptionLangIds": [
+                "la-tutorial-park_character_quest-01"
+            ]
+        }
+    },
+    {
+        "type": 2002,
+        "step": 2,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_QUEST",
+            "step": 2,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-character-quest"
+        }
+    },
+    {
+        "type": 2005,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SET",
+            "step": 1,
+            "unlockConditionGroupId": "cd-character_get_count-2",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+            "descriptionLangIds": [
+                "la-tutorial-park_character_set-01"
+            ]
+        }
+    },
+    {
+        "type": 2005,
+        "step": 2,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SET",
+            "step": 2,
+            "unlockConditionGroupId": "cd-character_get_count-2",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-character-set"
+        }
+    },
+    {
+        "type": 2008,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_TIME_PERIOD",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-14",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-time-period"
+        }
+    },
+    {
+        "type": 12,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_POSTER",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-poster"
+        }
+    },
+    {
+        "type": 15,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_SKILL_TREE",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-06",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+            "descriptionLangIds": [
+                "la-tutorial-skill_tree-01-1"
+            ]
+        }
+    },
+    {
+        "type": 16,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_STORY",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-07",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-story"
+        }
+    },
+    {
+        "type": 17,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_WORK",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-08",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-work"
+        }
+    },
+    {
+        "type": 1502,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_MULTI_GAME_MINI_GAME",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-multi-mini_game"
+        }
+    },
+    {
+        "type": 18,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_CARD_LEVEL_LIMIT_BREAK",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-03",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+            "descriptionLangIds": [
+                "la-tutorial-card_level_limit_break-01"
+            ]
+        }
+    },
+    {
+        "type": 18,
+        "step": 2,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_CARD_LEVEL_LIMIT_BREAK",
+            "step": 2,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-03",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-card-upgrade-potential"
+        }
+    },
+    {
+        "type": 1,
+        "step": 10,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 10,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-01-1-4",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-rhythm-game"
+        }
+    },
+    {
+        "type": 1004,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_COMBO_CARD_GAME",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-08-1-5",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-combo-card-game"
+        }
+    },
+    {
+        "type": 502,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_EXCHANGE_AREA02_TRAINING_ITEM",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-12",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-exchange-area02-training-item"
+        }
+    },
+    {
+        "type": 1101,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_MINI_GAME_CONVERT_REWARD_UP_STAMINA_AREA02_BET_COIN",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-02",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-exchange-coin-area02"
+        }
+    },
+    {
+        "type": 1,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 1
+        }
+    },
+    {
+        "type": 1,
+        "step": 6,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 6,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-operation"
+        }
+    },
+    {
+        "type": 1,
+        "step": 2,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 2
+        }
+    },
+    {
+        "type": 1,
+        "step": 11,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 11,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-01-1-5",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+            "descriptionLangIds": [
+                "la-tutorial-game_start-12-1",
+                "la-tutorial-game_start-12-2"
+            ]
+        }
+    },
+    {
+        "type": 15,
+        "step": 2,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_SKILL_TREE",
+            "step": 2,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-06",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-skill-tree"
+        }
+    },
+    {
+        "type": 10302,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SHOP_AREA01_BALLOON",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-15",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-character-shop-area01-balloon"
+        }
+    },
+    {
+        "type": 10301,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SHOP_AREA01_CANDY",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-09",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-character-shop-area01-candy"
+        }
+    },
+    {
+        "type": 10303,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SHOP_AREA01_PEN_LIGHT",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-19",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-character-shop-area01-pen-light"
+        }
+    },
+    {
+        "type": 10304,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_CHARACTER_SHOP_AREA02_HAIR_ACCESSORY",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-12",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-character-shop-area02-hair-accessory"
+        }
+    },
+    {
+        "type": 10501,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_HIGH_LOW_AREA02",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-09-1-6",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-high-low-area02"
+        }
+    },
+    {
+        "type": 10401,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_LOTTERY_AREA02_GACHAPON",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-05-1-3",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-lottery-area02-gachapon"
+        }
+    },
+    {
+        "type": 10402,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_LOTTERY_AREA02_SCRATCH",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-09-1-9",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-lottery-area02-scratch"
+        }
+    },
+    {
+        "type": 10101,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_PRESENT_AREA01",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-present"
+        }
+    },
+    {
+        "type": 10701,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_AREA_SELECT_AREA02",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-08-1-3",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-select-area02"
+        }
+    },
+    {
+        "type": 10201,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_RANDOM_SYMBOL_AREA01",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-area-a01-06",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-random_symbol"
+        }
+    },
+    {
+        "type": 1,
+        "step": 3,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 3,
+            "advAssetId": "adv_main_01_01_00-01"
+        }
+    },
+    {
+        "type": 1,
+        "step": 4,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 4,
+            "advAssetId": "adv_main_01_01_01-01"
+        }
+    },
+    {
+        "type": 1,
+        "step": 5,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 5,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE",
+            "descriptionLangIds": [
+                "la-tutorial-game_start-07"
+            ]
+        }
+    },
+    {
+        "type": 1003,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_CIRCUIT",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-02",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-circuit"
+        }
+    },
+    {
+        "type": 19,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_MUSIC_HIGHEST_SCORE_RANKING",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-12",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-music_highest_score_ranking"
+        }
+    },
+    {
+        "type": 1,
+        "step": 12,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 12,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-01"
+        }
+    },
+    {
+        "type": 2004,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_DAILY_QUEST",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-05",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-quest-daily"
+        }
+    },
+    {
+        "type": 1,
+        "step": 7,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 7,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-01-1-4",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-retracable-gacha"
+        }
+    },
+    {
+        "type": 2102,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_QUEST_CIRCUIT",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-circuit-quest"
+        }
+    },
+    {
+        "type": 2104,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_QUEST_COMBO_CARD_GAME",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-combo-card-game-quest"
+        }
+    },
+    {
+        "type": 2103,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_QUEST_COOKING_PUZZLE",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-cooking-puzzle-quest"
+        }
+    },
+    {
+        "type": 2101,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_QUEST_JUMP_ROPE",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-jump-rope-quest"
+        }
+    },
+    {
+        "type": 1,
+        "step": 8,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 8,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-01-1-4",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-live"
+        }
+    },
+    {
+        "type": 1,
+        "step": 9,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_GAME_START",
+            "step": 9,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-01-01-1-4",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_SYSTEM_MESSAGE"
+        }
+    },
+    {
+        "type": 10601,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_PRINT_BOOTH_AREA02",
+            "step": 1,
+            "unlockConditionGroupId": "cd-facility-a02-photobooth",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-print-booth-area02"
+        }
+    }
+]

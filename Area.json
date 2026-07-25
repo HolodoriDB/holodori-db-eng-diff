@@ -1,0 +1,92 @@
+[
+    {
+        "id": "area-a01-multiplay",
+        "data": {
+            "id": "area-a01-multiplay",
+            "areaSelectorId": "area-a01-multiplay-selector",
+            "priority": 1,
+            "nameLangId": "la-area-a01-multiplay-name",
+            "descriptionLangId": "la-area-a01-multiplay-description",
+            "order": 1
+        }
+    },
+    {
+        "id": "area-a01-restaurant",
+        "data": {
+            "id": "area-a01-restaurant",
+            "areaSelectorId": "area-a01-restaurant-selector",
+            "priority": 1,
+            "nameLangId": "la-area-a01-restaurant-name",
+            "descriptionLangId": "la-area-a01-restaurant-description",
+            "order": 1
+        }
+    },
+    {
+        "id": "area-a01-theater",
+        "data": {
+            "id": "area-a01-theater",
+            "areaSelectorId": "area-a01-theater-selector",
+            "priority": 1,
+            "nameLangId": "la-area-a01-theater-name",
+            "descriptionLangId": "la-area-a01-theater-description",
+            "order": 1
+        }
+    },
+    {
+        "id": "area-a02-lobby",
+        "data": {
+            "id": "area-a02-lobby",
+            "areaSelectorId": "area-a02-selector",
+            "priority": 10,
+            "nameLangId": "la-area-a02-lobby-name",
+            "descriptionLangId": "la-area-a02-lobby-description",
+            "order": 2
+        }
+    },
+    {
+        "id": "area-a01",
+        "data": {
+            "id": "area-a01",
+            "areaSelectorId": "area-a01-selector",
+            "priority": 1,
+            "nameLangId": "la-area_group-a01-name",
+            "descriptionLangId": "la-area-a01-description",
+            "order": 1
+        }
+    },
+    {
+        "id": "area-a02-casino",
+        "data": {
+            "id": "area-a02-casino",
+            "areaSelectorId": "area-a02-play-selector",
+            "priority": 2,
+            "nameLangId": "la-area-a02-casino-name",
+            "descriptionLangId": "la-area-a02-casino-description",
+            "viewConditionGroupId": "cd-park_area_select-area-a02-casino",
+            "order": 4
+        }
+    },
+    {
+        "id": "area-a02-game",
+        "data": {
+            "id": "area-a02-game",
+            "areaSelectorId": "area-a02-play-selector",
+            "priority": 1,
+            "nameLangId": "la-area-a02-game-name",
+            "descriptionLangId": "la-area-a02-game-description",
+            "order": 3
+        }
+    },
+    {
+        "id": "area-a01-house",
+        "data": {
+            "id": "area-a01-house",
+            "areaSelectorId": "area-a01-house-selector",
+            "priority": 1,
+            "nameLangId": "la-area-a01-house-name",
+            "descriptionLangId": "la-area-a01-house-description",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02-1-5",
+            "order": 1
+        }
+    }
+]

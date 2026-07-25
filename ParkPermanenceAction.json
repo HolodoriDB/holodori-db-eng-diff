@@ -1,0 +1,1294 @@
+[
+    {
+        "park_permanence_id": "perm-a01-athletic",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-athletic",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_JUMP_ROPE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-athletic"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-balloonstore",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-balloonstore",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-balloonstore",
+            "parkCharacterShopId": "park_character_shop-prop_balloon"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-candystore",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-candystore",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-candystore",
+            "parkCharacterShopId": "park_character_shop-prop_candy"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-exchangebooth",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-exchangebooth",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_EXCHANGE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-exchangebooth",
+            "exchangeBoothGroupId": "exchange_booth_group-facility-a01-exchangebooth"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-ferriswheel",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-ferriswheel",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_FERRIS_WHEEL",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-ferriswheel",
+            "facilityId": "facility-a01-ferriswheel"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-house-present-fri",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-house-present-fri",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-fri-01"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-house-present-mon",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-house-present-mon",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-mon-01"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-house-present-sat",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-house-present-sat",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-sat-01"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-house-present-sun",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-house-present-sun",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-sun-01"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00015",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00015",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00015",
+            "characterParkQuestId": "quest-chr-00015"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00016",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00016",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00016",
+            "characterParkQuestId": "quest-chr-00016"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00017",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00017",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00017",
+            "characterParkQuestId": "quest-chr-00017"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00018",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00018",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00018",
+            "characterParkQuestId": "quest-chr-00018"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00019",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00019",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00019",
+            "characterParkQuestId": "quest-chr-00019"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00027",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00027",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00027",
+            "characterParkQuestId": "quest-chr-00027"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04002",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04002",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04002",
+            "characterParkQuestId": "quest-chr-04002"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04003",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04003",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04003",
+            "characterParkQuestId": "quest-chr-04003"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04007",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04007",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04007",
+            "characterParkQuestId": "quest-chr-04007"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04010",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04010",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04010",
+            "characterParkQuestId": "quest-chr-04010"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04012",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04012",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04012",
+            "characterParkQuestId": "quest-chr-04012"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04013",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04013",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04013",
+            "characterParkQuestId": "quest-chr-04013"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04014",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04014",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04014",
+            "characterParkQuestId": "quest-chr-04014"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-prison-present",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-prison-present",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-advent"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-theater",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-theater",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_STORY",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-theater"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-coinbooth",
+        "action_number": 2,
+        "data": {
+            "parkPermanenceId": "perm-a02-coinbooth",
+            "actionNumber": 2,
+            "descriptionLangId": "la-perm-a02-coinbooth-description-2",
+            "type": "ParkActionType_PARK_ACTION_TYPE_CONVERT_MINI_GAME_REWARD_UP_STAMINA",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-coinbooth",
+            "miniGameRewardUpStaminaConversionId": "mini_game_reward_up_stamina_conversion-item-mini_game_bet_coin"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-accessorystore",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-accessorystore",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-accessorystore",
+            "parkCharacterShopId": "park_character_shop-hair_tophat"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-coinbooth",
+        "action_number": 3,
+        "data": {
+            "parkPermanenceId": "perm-a02-coinbooth",
+            "actionNumber": 3,
+            "descriptionLangId": "la-perm-a02-coinbooth-description-3",
+            "type": "ParkActionType_PARK_ACTION_TYPE_TALK"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00001",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00001",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00001",
+            "characterParkQuestId": "quest-chr-00001"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00002",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00002",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00002",
+            "characterParkQuestId": "quest-chr-00002"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00004",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00004",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00004",
+            "characterParkQuestId": "quest-chr-00004"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00005",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00005",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00005",
+            "characterParkQuestId": "quest-chr-00005"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00006",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00006",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00006",
+            "characterParkQuestId": "quest-chr-00006"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00007",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00007",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00007",
+            "characterParkQuestId": "quest-chr-00007"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00010",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00010",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00010",
+            "characterParkQuestId": "quest-chr-00010"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00011",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00011",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00011",
+            "characterParkQuestId": "quest-chr-00011"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00012",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00012",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00012",
+            "characterParkQuestId": "quest-chr-00012"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00013",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00013",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00013",
+            "characterParkQuestId": "quest-chr-00013"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00014",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00014",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00014",
+            "characterParkQuestId": "quest-chr-00014"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-highandlow",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-highandlow",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_HIGH_LOW",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-highandlow",
+            "parkHighLowId": "park_high_low-001"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-materialbooth",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-materialbooth",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_EXCHANGE",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-materialbooth",
+            "exchangeBoothGroupId": "exchange_booth_group-facility-a02-exchangebooth2"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-photobooth",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-photobooth",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRINT_BOOTH",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-photobooth"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-scratchstore",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-scratchstore",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_LOTTERY",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-scratchstore",
+            "parkLotteryId": "park_lottery-area_a02-scratchstore"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-station",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-station",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_WORK",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-station"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-coinbooth-pre",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-coinbooth-pre",
+            "actionNumber": 1,
+            "descriptionLangId": "la-perm-a02-coinbooth-description-1",
+            "type": "ParkActionType_PARK_ACTION_TYPE_EXCHANGE",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-coinbooth",
+            "exchangeBoothGroupId": "exchange_booth_group-facility-a02-exchangebooth3"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-coinbooth-pre",
+        "action_number": 2,
+        "data": {
+            "parkPermanenceId": "perm-a02-coinbooth-pre",
+            "actionNumber": 2,
+            "descriptionLangId": "la-perm-a02-coinbooth-description-3",
+            "type": "ParkActionType_PARK_ACTION_TYPE_TALK"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-coinbooth",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-coinbooth",
+            "actionNumber": 1,
+            "descriptionLangId": "la-perm-a02-coinbooth-description-1",
+            "type": "ParkActionType_PARK_ACTION_TYPE_EXCHANGE",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-coinbooth",
+            "exchangeBoothGroupId": "exchange_booth_group-facility-a02-exchangebooth3"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00021",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00021",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00021",
+            "characterParkQuestId": "quest-chr-00021"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00022",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00022",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00022",
+            "characterParkQuestId": "quest-chr-00022"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00023",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00023",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00023",
+            "characterParkQuestId": "quest-chr-00023"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00026",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00026",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00026",
+            "characterParkQuestId": "quest-chr-00026"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00028",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00028",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00028",
+            "characterParkQuestId": "quest-chr-00028"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00030",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00030",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00030",
+            "characterParkQuestId": "quest-chr-00030"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00031",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00031",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00031",
+            "characterParkQuestId": "quest-chr-00031"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00032",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00032",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00032",
+            "characterParkQuestId": "quest-chr-00032"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00034",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00034",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00034",
+            "characterParkQuestId": "quest-chr-00034"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00035",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00035",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00035",
+            "characterParkQuestId": "quest-chr-00035"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00036",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00036",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00036",
+            "characterParkQuestId": "quest-chr-00036"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00037",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00037",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00037",
+            "characterParkQuestId": "quest-chr-00037"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-00039",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-00039",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-00039",
+            "characterParkQuestId": "quest-chr-00039"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03001",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03001",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03001",
+            "characterParkQuestId": "quest-chr-03001"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03002",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03002",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03002",
+            "characterParkQuestId": "quest-chr-03002"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03003",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03003",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03003",
+            "characterParkQuestId": "quest-chr-03003"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03004",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03004",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03004",
+            "characterParkQuestId": "quest-chr-03004"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03005",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03005",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03005",
+            "characterParkQuestId": "quest-chr-03005"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03006",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03006",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03006",
+            "characterParkQuestId": "quest-chr-03006"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03007",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03007",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03007",
+            "characterParkQuestId": "quest-chr-03007"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03008",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03008",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03008",
+            "characterParkQuestId": "quest-chr-03008"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-03009",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-03009",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-03009",
+            "characterParkQuestId": "quest-chr-03009"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04001",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04001",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04001",
+            "characterParkQuestId": "quest-chr-04001"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04015",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04015",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04015",
+            "characterParkQuestId": "quest-chr-04015"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04016",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04016",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04016",
+            "characterParkQuestId": "quest-chr-04016"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-04017",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-04017",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-04017",
+            "characterParkQuestId": "quest-chr-04017"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-06002",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-06002",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-06002",
+            "characterParkQuestId": "quest-chr-06002"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-06003",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-06003",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-06003",
+            "characterParkQuestId": "quest-chr-06003"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-06004",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-06004",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-06004",
+            "characterParkQuestId": "quest-chr-06004"
+        }
+    },
+    {
+        "park_permanence_id": "perm-chr-06005",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-chr-06005",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PARK_CHARACTER_QUEST_START",
+            "beforeParkTalkGroupId": "park_talk-perm-chr-06005",
+            "characterParkQuestId": "quest-chr-06005"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-athletic-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-athletic-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_JUMP_ROPE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-athletic"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-balloonstore-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-balloonstore-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-balloonstore",
+            "parkCharacterShopId": "park_character_shop-prop_balloon"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-candystore-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-candystore-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-candystore",
+            "parkCharacterShopId": "park_character_shop-prop_candy"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-exchangebooth-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-exchangebooth-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_EXCHANGE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-exchangebooth",
+            "exchangeBoothGroupId": "exchange_booth_group-facility-a01-exchangebooth"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-ferriswheel-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-ferriswheel-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_FERRIS_WHEEL",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-ferriswheel",
+            "facilityId": "facility-a01-ferriswheel"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-live-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-live-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_LIVE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-live"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-multiplay-live-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-multiplay-live-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_MULTI_GAME_LIVE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-multiplay-live"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-multiplay-mg-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-multiplay-mg-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_MULTI_GAME_MINI_GAME",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-multiplay-mg"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-penlightstore-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-penlightstore-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-penlightstore",
+            "parkCharacterShopId": "park_character_shop-prop_penlight"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-restaurant-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-restaurant-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_COOKING_PUZZLE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-restaurant"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-station-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-station-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_WORK",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-station"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-theater-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-theater-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_STORY",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-theater"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-coinbooth-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-coinbooth-open",
+            "actionNumber": 1,
+            "descriptionLangId": "la-perm-a02-coinbooth-description-1",
+            "type": "ParkActionType_PARK_ACTION_TYPE_EXCHANGE",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-coinbooth",
+            "exchangeBoothGroupId": "exchange_booth_group-facility-a02-exchangebooth3"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-coinbooth-open",
+        "action_number": 2,
+        "data": {
+            "parkPermanenceId": "perm-a02-coinbooth-open",
+            "actionNumber": 2,
+            "descriptionLangId": "la-perm-a02-coinbooth-description-2",
+            "type": "ParkActionType_PARK_ACTION_TYPE_CONVERT_MINI_GAME_REWARD_UP_STAMINA",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-coinbooth",
+            "miniGameRewardUpStaminaConversionId": "mini_game_reward_up_stamina_conversion-item-mini_game_bet_coin"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-coinbooth-open",
+        "action_number": 3,
+        "data": {
+            "parkPermanenceId": "perm-a02-coinbooth-open",
+            "actionNumber": 3,
+            "descriptionLangId": "la-perm-a02-coinbooth-description-3",
+            "type": "ParkActionType_PARK_ACTION_TYPE_TALK"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-facerock-present-all_character_get",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-facerock-present-all_character_get",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-gen_0-all_character_get"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-facerock-present-default",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-facerock-present-default",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-gen_0-default"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-house-present-thu",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-house-present-thu",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-thu-01"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-house-present-tue",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-house-present-tue",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-tue-01"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-house-present-wed",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-house-present-wed",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRESENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-present",
+            "afterParkTalkGroupId": "park_talk-perm-a01-present-after",
+            "presentRewardGroupId": "rd-park-present-wed-01"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-live",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-live",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_LIVE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-live"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-memoryboard",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-memoryboard",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_POSTER_BOOTH",
+            "facilityId": "facility-a01-memoryboard"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-multiplay-live",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-multiplay-live",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_MULTI_GAME_LIVE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-multiplay-live"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-multiplay-mg",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-multiplay-mg",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_MULTI_GAME_MINI_GAME",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-multiplay-mg"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-penlightstore",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-penlightstore",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-penlightstore",
+            "parkCharacterShopId": "park_character_shop-prop_penlight"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-restaurant",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-restaurant",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_COOKING_PUZZLE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-restaurant"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-station",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-station",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_WORK",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-station"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-accessorystore-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-accessorystore-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-accessorystore",
+            "parkCharacterShopId": "park_character_shop-hair_tophat"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-casino-live-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-casino-live-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_LIVE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-live"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-casino-live",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-casino-live",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_LIVE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-live"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-game-live-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-game-live-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_LIVE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-live"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-game-live",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-game-live",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_LIVE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-live"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-highandlow-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-highandlow-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_HIGH_LOW",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-highandlow",
+            "parkHighLowId": "park_high_low-001"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-multiplay-event-portal-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-multiplay-event-portal-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_EVENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-multiplay-event-portal"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a01-multiplay-event-portal",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-multiplay-event-portal",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_EVENT",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-multiplay-event-portal"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-holocircuit-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-holocircuit-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CIRCUIT",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-holocircuit"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-holocircuit",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-holocircuit",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CIRCUIT",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-holocircuit"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-materialbooth-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-materialbooth-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_EXCHANGE",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-materialbooth",
+            "exchangeBoothGroupId": "exchange_booth_group-facility-a02-exchangebooth2"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-photobooth-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-photobooth-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_PRINT_BOOTH",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-photobooth"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-pokertable-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-pokertable-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_COMBO_CARD_GAME",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-pokertable"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-pokertable",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-pokertable",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_COMBO_CARD_GAME",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-pokertable"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-scratchstore-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-scratchstore-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_LOTTERY",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-scratchstore",
+            "parkLotteryId": "park_lottery-area_a02-scratchstore"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a02-station-open",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a02-station-open",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_WORK",
+            "beforeParkTalkGroupId": "park_talk-perm-a02-station"
+        }
+    }
+]

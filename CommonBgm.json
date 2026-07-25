@@ -1,0 +1,79 @@
+[
+    {
+        "common_bgm_type": 1,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_LIVE_MULTI_MATCHING",
+            "assetId": "bgm_sys_live-multi-matching"
+        }
+    },
+    {
+        "common_bgm_type": 2,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_LIVE_RESULT_NOT_CLEARED",
+            "assetId": "bgm_sys_live-result-failure"
+        }
+    },
+    {
+        "common_bgm_type": 3,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_LIVE_RESULT_CLEARED",
+            "assetId": "bgm_sys_live-result-success"
+        }
+    },
+    {
+        "common_bgm_type": 100,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_MUSIC_CREATIVE_CHART",
+            "assetId": "bgm_sys_live-create"
+        }
+    },
+    {
+        "common_bgm_type": 200,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_MINI_GAME_MULTI_MATCHING",
+            "assetId": "bgm_sys_mg-multi-matching"
+        }
+    },
+    {
+        "common_bgm_type": 201,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_MINI_GAME_RESULT",
+            "assetId": "bgm_sys_mg-result"
+        }
+    },
+    {
+        "common_bgm_type": 300,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_GACHA_DEFAULT",
+            "assetId": "bgm_sys_gacha-default"
+        }
+    },
+    {
+        "common_bgm_type": 400,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_SYSTEM_TUTORIAL",
+            "assetId": "bgm_sys_tutorial"
+        }
+    },
+    {
+        "common_bgm_type": 500,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_SYSTEM_PARK_PRINT_BOOTH",
+            "assetId": "bgm_park_facility_area-a02-game-photobooth"
+        }
+    },
+    {
+        "common_bgm_type": 600,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_SYSTEM_EVENT_PORTAL",
+            "assetId": "bgm_sys_event-portal-default"
+        }
+    },
+    {
+        "common_bgm_type": 601,
+        "data": {
+            "commonBgmType": "CommonBgmType_COMMON_BGM_TYPE_SYSTEM_EVENT_MISSION",
+            "assetId": "bgm_sys_event-portal-default"
+        }
+    }
+]

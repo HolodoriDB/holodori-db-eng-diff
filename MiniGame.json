@@ -1,0 +1,79 @@
+[
+    {
+        "type": 1,
+        "data": {
+            "type": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "nameLangId": "la-mini_game-jump_rope-name",
+            "descriptionLangId": "la-mini_game-jump_rope-description",
+            "titleAssetId": "jumprope",
+            "listAssetId": "jumprope",
+            "parkActionType": "ParkActionType_PARK_ACTION_TYPE_JUMP_ROPE",
+            "consumptionType": "MiniGameConsumptionType_MINI_GAME_CONSUMPTION_TYPE_REWARD_UP_STAMINA",
+            "characterDisplayType": "MiniGameCharacterDisplayType_MINI_GAME_CHARACTER_DISPLAY_TYPE_DISPLAY_3_D",
+            "isMultiGame": true,
+            "rankingViewDescriptionLangId": "la-mini_game-jump_rope-ranking_view_description_lang_id",
+            "rankingScoreTypeLangId": "la-mini_game-jump_rope-ranking_score_type_lang_id",
+            "miniGameTopTipsId": "tips-game_screen-jump-rope-top",
+            "multiGameTopTipsId": "tips-game_screen-jump-rope-multi",
+            "order": 1
+        }
+    },
+    {
+        "type": 2,
+        "data": {
+            "type": "MiniGameType_MINI_GAME_TYPE_CIRCUIT",
+            "nameLangId": "la-mini_game-circuit-name",
+            "descriptionLangId": "la-mini_game-circuit-description",
+            "titleAssetId": "circuit",
+            "listAssetId": "circuit",
+            "parkActionType": "ParkActionType_PARK_ACTION_TYPE_MULTI_GAME_MINI_GAME",
+            "consumptionType": "MiniGameConsumptionType_MINI_GAME_CONSUMPTION_TYPE_BET_COIN",
+            "miniGameRewardUpStaminaConversionId": "mini_game_reward_up_stamina_conversion-item-mini_game_bet_coin",
+            "characterDisplayType": "MiniGameCharacterDisplayType_MINI_GAME_CHARACTER_DISPLAY_TYPE_DISPLAY_3_D",
+            "isMultiGame": true,
+            "rankingViewDescriptionLangId": "la-mini_game-circuit-ranking_view_description_lang_id",
+            "rankingScoreTypeLangId": "la-mini_game-circuit-ranking_score_type_lang_id",
+            "miniGameTopTipsId": "tips-game_screen-circuit",
+            "multiGameTopTipsId": "tips-game_screen-circuit",
+            "order": 3
+        }
+    },
+    {
+        "type": 3,
+        "data": {
+            "type": "MiniGameType_MINI_GAME_TYPE_COOKING_PUZZLE",
+            "nameLangId": "la-mini_game-cooking_puzzle-name",
+            "descriptionLangId": "la-mini_game-cooking_puzzle-description",
+            "titleAssetId": "cookingpuzzle",
+            "listAssetId": "cookingpuzzle",
+            "parkActionType": "ParkActionType_PARK_ACTION_TYPE_COOKING_PUZZLE",
+            "consumptionType": "MiniGameConsumptionType_MINI_GAME_CONSUMPTION_TYPE_REWARD_UP_STAMINA",
+            "characterDisplayType": "MiniGameCharacterDisplayType_MINI_GAME_CHARACTER_DISPLAY_TYPE_DISPLAY_2_D",
+            "rankingViewDescriptionLangId": "la-mini_game-cooking_puzzle-ranking_view_description_lang_id",
+            "rankingScoreTypeLangId": "la-mini_game-cooking_puzzle-ranking_score_type_lang_id",
+            "miniGameTopTipsId": "tips-game_screen-cooking-puzzle",
+            "multiGameTopTipsId": "tips-game_screen-cooking-puzzle",
+            "order": 2
+        }
+    },
+    {
+        "type": 4,
+        "data": {
+            "type": "MiniGameType_MINI_GAME_TYPE_COMBO_CARD_GAME",
+            "nameLangId": "la-mini_game-combo_card_game-name",
+            "descriptionLangId": "la-mini_game-combo_card_game-description",
+            "titleAssetId": "combocardgame",
+            "listAssetId": "combocardgame",
+            "parkActionType": "ParkActionType_PARK_ACTION_TYPE_MULTI_GAME_MINI_GAME",
+            "consumptionType": "MiniGameConsumptionType_MINI_GAME_CONSUMPTION_TYPE_BET_COIN",
+            "miniGameRewardUpStaminaConversionId": "mini_game_reward_up_stamina_conversion-item-mini_game_bet_coin",
+            "characterDisplayType": "MiniGameCharacterDisplayType_MINI_GAME_CHARACTER_DISPLAY_TYPE_DISPLAY_2_D",
+            "isMultiGame": true,
+            "rankingViewDescriptionLangId": "la-mini_game-combo_card_game-ranking_view_description_lang_id",
+            "rankingScoreTypeLangId": "la-mini_game-combo_card_game-ranking_score_type_lang_id",
+            "miniGameTopTipsId": "tips-game_screen-combo-card-game",
+            "multiGameTopTipsId": "tips-game_screen-combo-card-game",
+            "order": 4
+        }
+    }
+]

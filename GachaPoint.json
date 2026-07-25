@@ -1,0 +1,22 @@
+[
+    {
+        "id": "gacha_point-common-001",
+        "data": {
+            "id": "gacha_point-common-001",
+            "nameLangId": "la-gacha_point-common-001",
+            "iconAssetId": "gacha-point-common-001",
+            "exchangeBoothGroupId": "exchange_booth_group-gacha-common-001",
+            "order": 1
+        }
+    },
+    {
+        "id": "gacha_point-beginner-select-001",
+        "data": {
+            "id": "gacha_point-beginner-select-001",
+            "nameLangId": "la-gacha_point-beginner-select-001",
+            "iconAssetId": "gacha-point-common-001",
+            "exchangeBoothGroupId": "exchange_booth_group-gacha-beginner-select-001",
+            "order": 1
+        }
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 1,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 1,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-00",
+            "miniMapAssetId": "map_park_area-a01-area-00"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a02-casino",
+        "area_appearance_priority": 1,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a02-casino",
+            "areaAppearancePriority": 1,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a02-03",
+            "miniMapAssetId": "map_park_area-a02-area-03"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a02-game",
+        "area_appearance_priority": 1,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a02-game",
+            "areaAppearancePriority": 1,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a02-02",
+            "miniMapAssetId": "map_park_area-a02-area-02"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a02-lobby",
+        "area_appearance_priority": 1,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a02-lobby",
+            "areaAppearancePriority": 1,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a02-01",
+            "miniMapAssetId": "map_park_area-a02-area-01"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 2,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 2,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-00",
+            "miniMapAssetId": "map_park_area-a01-area-00",
+            "conditionGroupId": "cd-park_period-evening"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 3,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 3,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-00",
+            "miniMapAssetId": "map_park_area-a01-area-00",
+            "conditionGroupId": "cd-park_period-night"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 4,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 4,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-01",
+            "miniMapAssetId": "map_park_area-a01-area-01",
+            "conditionGroupId": "cd-area-a01-step-2-noon"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 5,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 5,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-01",
+            "miniMapAssetId": "map_park_area-a01-area-01",
+            "conditionGroupId": "cd-area-a01-step-2-evening"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 6,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 6,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-01",
+            "miniMapAssetId": "map_park_area-a01-area-01",
+            "conditionGroupId": "cd-area-a01-step-2-night"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 7,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 7,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-02",
+            "miniMapAssetId": "map_park_area-a01-area-02",
+            "conditionGroupId": "cd-area-a01-step-3-noon"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 8,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 8,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-02",
+            "miniMapAssetId": "map_park_area-a01-area-02",
+            "conditionGroupId": "cd-area-a01-step-3-evening"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a01",
+        "area_appearance_priority": 9,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a01",
+            "areaAppearancePriority": 9,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a01-02",
+            "miniMapAssetId": "map_park_area-a01-area-02",
+            "conditionGroupId": "cd-area-a01-step-3-night"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a02-game",
+        "area_appearance_priority": 2,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a02-game",
+            "areaAppearancePriority": 2,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a02-02",
+            "miniMapAssetId": "map_park_area-a02-area-02",
+            "conditionGroupId": "cd-area-a02-game-repair"
+        }
+    },
+    {
+        "area_appearance_area_id": "area-a02-lobby",
+        "area_appearance_priority": 2,
+        "priority": 1,
+        "data": {
+            "areaAppearanceAreaId": "area-a02-lobby",
+            "areaAppearancePriority": 2,
+            "priority": 1,
+            "mapAssetId": "mdl_map_area-a02-01",
+            "miniMapAssetId": "map_park_area-a02-area-01",
+            "conditionGroupId": "cd-park_area_select-area-a02-casino"
+        }
+    }
+]

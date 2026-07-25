@@ -1,0 +1,38 @@
+[
+    {
+        "id": "prd-dev_is",
+        "data": {
+            "id": "prd-dev_is",
+            "nameLangId": "la-production-dev_is",
+            "assetId": "prd-dev-is",
+            "order": 4
+        }
+    },
+    {
+        "id": "prd-en",
+        "data": {
+            "id": "prd-en",
+            "nameLangId": "la-production-en",
+            "assetId": "prd-en",
+            "order": 3
+        }
+    },
+    {
+        "id": "prd-id",
+        "data": {
+            "id": "prd-id",
+            "nameLangId": "la-production-id",
+            "assetId": "prd-id",
+            "order": 2
+        }
+    },
+    {
+        "id": "prd-jp",
+        "data": {
+            "id": "prd-jp",
+            "nameLangId": "la-production-jp",
+            "assetId": "prd-jp",
+            "order": 1
+        }
+    }
+]
