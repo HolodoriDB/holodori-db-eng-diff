@@ -30,6 +30,11 @@ jobs:
       - name: Install dependencies
         run: npm install --prefix ./action
 
+      - name: Get env variables
+        uses: oNaiPs/secrets-to-env-action@v1
+        with:
+          secrets: ${{ toJSON(secrets) }}
+
       - name: Run actions
         id: run_actions
         uses: ./action
