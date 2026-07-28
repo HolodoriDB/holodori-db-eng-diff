@@ -441,17 +441,6 @@
     },
     {
         "type": 1300,
-        "severity_type": 2,
-        "parameter_type": 103000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
-            "threshold": "100"
-        }
-    },
-    {
-        "type": 1300,
         "severity_type": 1,
         "parameter_type": 103000,
         "data": {

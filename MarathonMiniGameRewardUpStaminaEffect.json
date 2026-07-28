@@ -1,1 +1,83 @@
-[]
+[
+    {
+        "mini_game_type": 3,
+        "consumption_rate": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_COOKING_PUZZLE",
+            "consumptionRate": 1,
+            "marathonScoreProvideCount": 6
+        }
+    },
+    {
+        "mini_game_type": 3,
+        "consumption_rate": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_COOKING_PUZZLE",
+            "consumptionRate": 2,
+            "marathonScoreProvideCount": 11
+        }
+    },
+    {
+        "mini_game_type": 3,
+        "consumption_rate": 3,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_COOKING_PUZZLE",
+            "consumptionRate": 3,
+            "marathonScoreProvideCount": 15
+        }
+    },
+    {
+        "mini_game_type": 1,
+        "consumption_rate": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "consumptionRate": 1,
+            "marathonScoreProvideCount": 6
+        }
+    },
+    {
+        "mini_game_type": 1,
+        "consumption_rate": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "consumptionRate": 2,
+            "marathonScoreProvideCount": 12
+        }
+    },
+    {
+        "mini_game_type": 1,
+        "consumption_rate": 3,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "consumptionRate": 3,
+            "marathonScoreProvideCount": 17
+        }
+    },
+    {
+        "mini_game_type": 1,
+        "consumption_rate": 4,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "consumptionRate": 4,
+            "marathonScoreProvideCount": 22
+        }
+    },
+    {
+        "mini_game_type": 1,
+        "consumption_rate": 5,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "consumptionRate": 5,
+            "marathonScoreProvideCount": 26
+        }
+    },
+    {
+        "mini_game_type": 1,
+        "consumption_rate": 6,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_JUMP_ROPE",
+            "consumptionRate": 6,
+            "marathonScoreProvideCount": 30
+        }
+    }
+]

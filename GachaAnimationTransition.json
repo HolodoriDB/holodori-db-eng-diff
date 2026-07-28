@@ -2397,6 +2397,2233 @@
         }
     },
     {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 202,
+        "animation_number_from": 1,
+        "animation_type_to": 1000,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_END",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 201,
+        "animation_number_from": 1,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 1,
+        "animation_number_from": 1,
+        "animation_type_to": 2,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 2,
+        "animation_number_from": 1,
+        "animation_type_to": 3,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 3,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 202,
+        "animation_number_from": 1,
+        "animation_type_to": 1000,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_END",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 100,
+        "animation_number_from": 2,
+        "animation_type_to": 200,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 200,
+        "animation_number_from": 2,
+        "animation_type_to": 201,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 201,
+        "animation_number_from": 1,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 201,
+        "animation_number_from": 2,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 1,
+        "animation_number_from": 1,
+        "animation_type_to": 2,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 1,
+        "animation_number_from": 2,
+        "animation_type_to": 2,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 2,
+        "animation_number_from": 1,
+        "animation_type_to": 3,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 2,
+        "animation_number_from": 2,
+        "animation_type_to": 3,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 3,
+        "animation_number_from": 2,
+        "animation_type_to": 4,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 4,
+        "animation_number_from": 2,
+        "animation_type_to": 5,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 4,
+        "animation_type_from": 5,
+        "animation_number_from": 2,
+        "animation_type_to": 100,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 202,
+        "animation_number_from": 1,
+        "animation_type_to": 1000,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_END",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 100,
+        "animation_number_from": 2,
+        "animation_type_to": 200,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 100,
+        "animation_number_from": 2,
+        "animation_type_to": 200,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 100,
+        "animation_number_from": 3,
+        "animation_type_to": 200,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 200,
+        "animation_number_from": 2,
+        "animation_type_to": 201,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 200,
+        "animation_number_from": 2,
+        "animation_type_to": 201,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 200,
+        "animation_number_from": 3,
+        "animation_type_to": 201,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 201,
+        "animation_number_from": 1,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 201,
+        "animation_number_from": 2,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 201,
+        "animation_number_from": 3,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 1,
+        "animation_number_from": 1,
+        "animation_type_to": 2,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 1,
+        "animation_number_from": 2,
+        "animation_type_to": 2,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 1,
+        "animation_number_from": 3,
+        "animation_type_to": 2,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 2,
+        "animation_number_from": 1,
+        "animation_type_to": 3,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 2,
+        "animation_number_from": 2,
+        "animation_type_to": 3,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 2,
+        "animation_number_from": 3,
+        "animation_type_to": 3,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 3,
+        "animation_number_from": 2,
+        "animation_type_to": 4,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 3,
+        "animation_number_from": 2,
+        "animation_type_to": 4,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 3,
+        "animation_number_from": 3,
+        "animation_type_to": 4,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 4,
+        "animation_number_from": 2,
+        "animation_type_to": 5,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 4,
+        "animation_number_from": 2,
+        "animation_type_to": 5,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 4,
+        "animation_number_from": 3,
+        "animation_type_to": 5,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 5,
+        "animation_number_from": 2,
+        "animation_type_to": 100,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 5,
+        "animation_number_from": 2,
+        "animation_type_to": 100,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 5,
+        "animation_type_from": 5,
+        "animation_number_from": 3,
+        "animation_type_to": 100,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 300,
+        "animation_number_from": 4,
+        "animation_type_to": 200,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_FREEZE",
+            "animationNumberFrom": 4,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 202,
+        "animation_number_from": 1,
+        "animation_type_to": 1000,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_END",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 300,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_FREEZE",
+            "animationNumberTo": 4,
+            "ratio": 163
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 1,
+        "animation_type_to": 200,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 2,
+        "animation_type_to": 300,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_FREEZE",
+            "animationNumberTo": 4,
+            "ratio": 163
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 2,
+        "animation_type_to": 200,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 2,
+        "animation_type_to": 200,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 2,
+        "animation_type_to": 200,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 3,
+        "animation_type_to": 300,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_FREEZE",
+            "animationNumberTo": 4,
+            "ratio": 163
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 3,
+        "animation_type_to": 200,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 100,
+        "animation_number_from": 3,
+        "animation_type_to": 200,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 101,
+        "animation_number_from": 3,
+        "animation_type_to": 200,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_1",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 1,
+        "animation_type_to": 201,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 2,
+        "animation_type_to": 201,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 2,
+        "animation_type_to": 201,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 2,
+        "animation_type_to": 201,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 3,
+        "animation_type_to": 201,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 3,
+        "animation_type_to": 201,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 200,
+        "animation_number_from": 4,
+        "animation_type_to": 201,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_0",
+            "animationNumberFrom": 4,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 201,
+        "animation_number_from": 1,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 201,
+        "animation_number_from": 2,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 201,
+        "animation_number_from": 3,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 201,
+        "animation_number_from": 4,
+        "animation_type_to": 202,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
+            "animationNumberFrom": 4,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_MONITOR_LIST",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 1,
+        "animation_number_from": 1,
+        "animation_type_to": 2,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 1,
+        "animation_number_from": 2,
+        "animation_type_to": 2,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 1,
+        "animation_number_from": 3,
+        "animation_type_to": 2,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 1,
+        "animation_number_from": 4,
+        "animation_type_to": 2,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_START_TO_STEP_0",
+            "animationNumberFrom": 4,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 2,
+        "animation_number_from": 1,
+        "animation_type_to": 3,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 2,
+        "animation_number_from": 2,
+        "animation_type_to": 3,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 2,
+        "animation_number_from": 3,
+        "animation_type_to": 3,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 2,
+        "animation_number_from": 4,
+        "animation_type_to": 3,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_1",
+            "animationNumberFrom": 4,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 300,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_FREEZE",
+            "animationNumberTo": 4,
+            "ratio": 6
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 1,
+        "animation_type_to": 4,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 2,
+        "animation_type_to": 300,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_FREEZE",
+            "animationNumberTo": 4,
+            "ratio": 14
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 2,
+        "animation_type_to": 4,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 2,
+        "animation_type_to": 4,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 2,
+        "animation_type_to": 4,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 3,
+        "animation_type_to": 300,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_FREEZE",
+            "animationNumberTo": 4,
+            "ratio": 17
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 3,
+        "animation_type_to": 4,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 3,
+        "animation_type_to": 4,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 3,
+        "animation_number_from": 4,
+        "animation_type_to": 4,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_2",
+            "animationNumberFrom": 4,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 1,
+            "ratio": 156
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 1,
+        "animation_type_to": 5,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 2,
+        "animation_type_to": 5,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 2,
+            "ratio": 156
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 2,
+        "animation_type_to": 5,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 2,
+        "animation_type_to": 5,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 3,
+        "animation_type_to": 5,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 3,
+            "ratio": 156
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 3,
+        "animation_type_to": 5,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 4,
+        "animation_number_from": 4,
+        "animation_type_to": 5,
+        "animation_number_to": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_3",
+            "animationNumberFrom": 4,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberTo": 4,
+            "ratio": 10
+        }
+    },
+    {
         "gacha_animation_grouping_id": "gacha_animation_grouping-default-001",
         "animation_rarity": 3,
         "animation_type_from": 202,
@@ -3040,6 +5267,74 @@
             "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_END",
             "animationNumberTo": 1,
             "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 1,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 1,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 100,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 1,
+        "animation_type_to": 101,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 1,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_1",
+            "animationNumberTo": 3,
+            "ratio": 3
         }
     },
     {
@@ -4790,6 +7085,108 @@
             "animationNumberFrom": 1,
             "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_STEP_1",
             "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 2,
+        "animation_type_to": 100,
+        "animation_number_to": 2,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 2,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 2,
+        "animation_type_to": 100,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 2,
+        "animation_type_to": 101,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 2,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_1",
+            "animationNumberTo": 3,
+            "ratio": 3
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 3,
+        "animation_type_to": 100,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_0",
+            "animationNumberTo": 3,
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 3,
+        "animation_type_to": 101,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 3,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_1",
+            "animationNumberTo": 3,
+            "ratio": 3
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-select-001",
+        "animation_rarity": 1000,
+        "animation_type_from": 5,
+        "animation_number_from": 4,
+        "animation_type_to": 101,
+        "animation_number_to": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-select-001",
+            "animationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "animationTypeFrom": "GachaAnimationType_GACHA_ANIMATION_TYPE_VIDEO_STEP_4",
+            "animationNumberFrom": 4,
+            "animationTypeTo": "GachaAnimationType_GACHA_ANIMATION_TYPE_STAGE_START_1",
+            "animationNumberTo": 3,
             "ratio": 10
         }
     }

@@ -1,5 +1,25 @@
 [
     {
+        "id": "item-event_badge-marathon_event-normal-001-chapter-01",
+        "data": {
+            "id": "item-event_badge-marathon_event-normal-001-chapter-01",
+            "nameLangId": "la-item-event_badge-marathon_event-normal-001-chapter-01-name",
+            "descriptionLangId": "la-item-event_badge-marathon_event-normal-001-chapter-01-description",
+            "type": "ItemType_ITEM_TYPE_EXCHANGE",
+            "commonLimitTime": "1786445999000",
+            "assetId": "event-badge-01",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-item-event_badge-marathon_event-normal-001-chapter-01",
+            "order": 5001,
+            "expirationRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
         "id": "item-card-potential-upgrade-cmn",
         "data": {
             "id": "item-card-potential-upgrade-cmn",

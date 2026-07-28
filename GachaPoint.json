@@ -18,5 +18,15 @@
             "exchangeBoothGroupId": "exchange_booth_group-gacha-beginner-select-001",
             "order": 1
         }
+    },
+    {
+        "id": "gacha_point-pickup-260728",
+        "data": {
+            "id": "gacha_point-pickup-260728",
+            "nameLangId": "la-gacha_point-pickup-260728",
+            "iconAssetId": "gacha-point-common-001",
+            "exchangeBoothGroupId": "exchange_booth_group-gacha-pickup-260728",
+            "order": 1
+        }
     }
 ]
