@@ -81,6 +81,24 @@
         }
     },
     {
+        "id": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+        "data": {
+            "id": "mission-event-beginner_mission-increment_mini_game_play_count-circuit",
+            "missionGroupId": "mission_grp-beginner_mission",
+            "nameLangId": "la-mission-event-beginner_mission-increment_mini_game_play_count-circuit-name",
+            "progressConditionGroupId": "cd-always-open",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-24",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_MINI_GAME_PLAY_COUNT",
+            "targetIds1": [
+                "CIRCUIT"
+            ],
+            "navigationTransitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "navigationTransitionId": "CIRCUIT",
+            "order": 170
+        }
+    },
+    {
         "id": "mission-achievement-common-absolute_park_quest_clear_count-area_group-a02-area",
         "data": {
             "id": "mission-achievement-common-absolute_park_quest_clear_count-area_group-a02-area",

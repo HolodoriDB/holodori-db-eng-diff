@@ -10,7 +10,7 @@
             "timeLimitSecondsAfterTopRankClear": 30,
             "firstLapClearThresholdRank": 8,
             "randomMatchStartTimeLimitSeconds": 30,
-            "multiGameSetupTimeLimitSeconds": 30,
+            "multiGameSetupTimeLimitSeconds": 25,
             "totalFinishTimeLimitSeconds": 600
         }
     }

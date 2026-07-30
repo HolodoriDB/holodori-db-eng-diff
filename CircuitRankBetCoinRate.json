@@ -49,10 +49,31 @@
         }
     },
     {
+        "end_rank": 13,
+        "data": {
+            "endRank": 13,
+            "ratePermilMultiply": 900
+        }
+    },
+    {
+        "end_rank": 14,
+        "data": {
+            "endRank": 14,
+            "ratePermilMultiply": 850
+        }
+    },
+    {
+        "end_rank": 15,
+        "data": {
+            "endRank": 15,
+            "ratePermilMultiply": 800
+        }
+    },
+    {
         "end_rank": 16,
         "data": {
             "endRank": 16,
-            "ratePermilMultiply": 500
+            "ratePermilMultiply": 750
         }
     }
 ]

@@ -1,36 +1,6 @@
 [
     {
         "group_id": "park_high_low_hand-001",
-        "type": 5,
-        "data": {
-            "groupId": "park_high_low_hand-001",
-            "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_FLUSH",
-            "nameLangId": "la-park_high_low_hand-001-flush",
-            "rewardQuantityUpPermilMultiply": "7000"
-        }
-    },
-    {
-        "group_id": "park_high_low_hand-001",
-        "type": 7,
-        "data": {
-            "groupId": "park_high_low_hand-001",
-            "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_FOUR_CARD",
-            "nameLangId": "la-park_high_low_hand-001-four_card",
-            "rewardQuantityUpPermilMultiply": "15000"
-        }
-    },
-    {
-        "group_id": "park_high_low_hand-001",
-        "type": 6,
-        "data": {
-            "groupId": "park_high_low_hand-001",
-            "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_FULL_HOUSE",
-            "nameLangId": "la-park_high_low_hand-001-full_house",
-            "rewardQuantityUpPermilMultiply": "8000"
-        }
-    },
-    {
-        "group_id": "park_high_low_hand-001",
         "type": 1,
         "data": {
             "groupId": "park_high_low_hand-001",
@@ -40,12 +10,52 @@
     },
     {
         "group_id": "park_high_low_hand-001",
+        "type": 10,
+        "data": {
+            "groupId": "park_high_low_hand-001",
+            "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_FIVE_CARD",
+            "nameLangId": "la-park_high_low_hand-001-five_card",
+            "rewardQuantityUpPermilMultiply": "140000"
+        }
+    },
+    {
+        "group_id": "park_high_low_hand-001",
+        "type": 5,
+        "data": {
+            "groupId": "park_high_low_hand-001",
+            "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_FLUSH",
+            "nameLangId": "la-park_high_low_hand-001-flush",
+            "rewardQuantityUpPermilMultiply": "14000"
+        }
+    },
+    {
+        "group_id": "park_high_low_hand-001",
+        "type": 7,
+        "data": {
+            "groupId": "park_high_low_hand-001",
+            "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_FOUR_CARD",
+            "nameLangId": "la-park_high_low_hand-001-four_card",
+            "rewardQuantityUpPermilMultiply": "30000"
+        }
+    },
+    {
+        "group_id": "park_high_low_hand-001",
+        "type": 6,
+        "data": {
+            "groupId": "park_high_low_hand-001",
+            "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_FULL_HOUSE",
+            "nameLangId": "la-park_high_low_hand-001-full_house",
+            "rewardQuantityUpPermilMultiply": "16000"
+        }
+    },
+    {
+        "group_id": "park_high_low_hand-001",
         "type": 9,
         "data": {
             "groupId": "park_high_low_hand-001",
             "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_ROYAL_STRAIGHT_FLUSH",
             "nameLangId": "la-park_high_low_hand-001-royal_straight_flush",
-            "rewardQuantityUpPermilMultiply": "100000"
+            "rewardQuantityUpPermilMultiply": "200000"
         }
     },
     {
@@ -55,7 +65,7 @@
             "groupId": "park_high_low_hand-001",
             "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_STRAIGHT",
             "nameLangId": "la-park_high_low_hand-001-straight",
-            "rewardQuantityUpPermilMultiply": "4000"
+            "rewardQuantityUpPermilMultiply": "8000"
         }
     },
     {
@@ -65,7 +75,7 @@
             "groupId": "park_high_low_hand-001",
             "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_STRAIGHT_FLUSH",
             "nameLangId": "la-park_high_low_hand-001-straight_flush",
-            "rewardQuantityUpPermilMultiply": "30000"
+            "rewardQuantityUpPermilMultiply": "60000"
         }
     },
     {
@@ -75,7 +85,7 @@
             "groupId": "park_high_low_hand-001",
             "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_THREE_CARD",
             "nameLangId": "la-park_high_low_hand-001-three_card",
-            "rewardQuantityUpPermilMultiply": "2000"
+            "rewardQuantityUpPermilMultiply": "4000"
         }
     },
     {
@@ -85,17 +95,7 @@
             "groupId": "park_high_low_hand-001",
             "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_TWO_PAIR",
             "nameLangId": "la-park_high_low_hand-001-two_pair",
-            "rewardQuantityUpPermilMultiply": "2000"
-        }
-    },
-    {
-        "group_id": "park_high_low_hand-001",
-        "type": 10,
-        "data": {
-            "groupId": "park_high_low_hand-001",
-            "type": "ParkHighLowHandType_PARK_HIGH_LOW_HAND_TYPE_FIVE_CARD",
-            "nameLangId": "la-park_high_low_hand-001-five_card",
-            "rewardQuantityUpPermilMultiply": "70000"
+            "rewardQuantityUpPermilMultiply": "4000"
         }
     }
 ]
