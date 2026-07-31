@@ -8846,12 +8846,23 @@
     },
     {
         "group_id": "cd-event_mission-beginner_mission-close-not",
+        "number": 17,
+        "data": {
+            "groupId": "cd-event_mission-beginner_mission-close-not",
+            "number": 17,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1785207600000"
+        }
+    },
+    {
+        "group_id": "cd-event_mission-beginner_mission-close-not",
         "number": 16,
         "data": {
             "groupId": "cd-event_mission-beginner_mission-close-not",
             "number": 16,
-            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
-            "startTime": "1785207600000"
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_MISSION_ALL_REWARD_RECEIVED",
+            "resourceId1": "mission-event-beginner_mission-increment_mini_game_play_count-circuit"
         }
     },
     {
@@ -10026,17 +10037,6 @@
         }
     },
     {
-        "group_id": "cd-event_mission-beginner_mission-close-not",
-        "number": 1,
-        "data": {
-            "groupId": "cd-event_mission-beginner_mission-close-not",
-            "number": 1,
-            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
-            "type": "ConditionType_CONDITION_TYPE_MISSION_ALL_REWARD_RECEIVED",
-            "resourceId1": "mission-event-beginner_mission-increment_live_play_count"
-        }
-    },
-    {
         "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-skill_tree_allmember-1-001",
         "number": 1,
         "data": {
@@ -10130,6 +10130,17 @@
             "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-skill_tree_card-2-002",
             "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
             "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-event_mission-beginner_mission-close-not",
+        "number": 1,
+        "data": {
+            "groupId": "cd-event_mission-beginner_mission-close-not",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_MISSION_ALL_REWARD_RECEIVED",
+            "resourceId1": "mission-event-beginner_mission-increment_live_play_count"
         }
     },
     {
