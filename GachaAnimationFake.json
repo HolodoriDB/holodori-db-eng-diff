@@ -152,5 +152,115 @@
             "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
             "ratio": 10
         }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 3,
+        "actual_animation_rarity": 3,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 3,
+        "actual_animation_rarity": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 3,
+        "actual_animation_rarity": 5,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 3,
+        "actual_animation_rarity": 1000,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_3",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 4,
+        "actual_animation_rarity": 4,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 4,
+        "actual_animation_rarity": 5,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 4,
+        "actual_animation_rarity": 1000,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_4",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 5,
+        "actual_animation_rarity": 5,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 5,
+        "actual_animation_rarity": 1000,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "ratio": 10
+        }
+    },
+    {
+        "gacha_animation_grouping_id": "gacha_animation_grouping-normal-001",
+        "fake_animation_rarity": 1000,
+        "actual_animation_rarity": 1000,
+        "data": {
+            "gachaAnimationGroupingId": "gacha_animation_grouping-normal-001",
+            "fakeAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "actualAnimationRarity": "GachaAnimationRarityType_GACHA_ANIMATION_RARITY_TYPE_RARITY_5_PICKUP",
+            "ratio": 30
+        }
     }
 ]

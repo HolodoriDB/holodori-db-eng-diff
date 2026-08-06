@@ -29,6 +29,16 @@
         }
     },
     {
+        "id": "tips-hint-marathon_mission",
+        "data": {
+            "id": "tips-hint-marathon_mission",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-marathon_mission-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_EVENT_MARATHON_NORMAL_PART2",
+            "order": 1
+        }
+    },
+    {
         "id": "tips-achievement",
         "data": {
             "id": "tips-achievement",

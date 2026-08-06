@@ -24,23 +24,23 @@
         }
     },
     {
-        "id": "cooking_puzzle-quest_cooking_puzzle-daily",
-        "data": {
-            "id": "cooking_puzzle-quest_cooking_puzzle-daily",
-            "playType": "CookingPuzzlePlayType_COOKING_PUZZLE_PLAY_TYPE_PARK_QUEST",
-            "limitTimeSeconds": 150,
-            "shuffleCoolTimeMilliseconds": "5000",
-            "cookingPuzzleComboGroupId": "cooking_combo_group_1",
-            "gameStartDisplayClearConditionLangId": "la-cooking_puzzle-game_start_display_clear_condition_lang-score_attack",
-            "order": 9999
-        }
-    },
-    {
         "id": "cooking_puzzle-quest_cooking_puzzle-main-w1-01-11-1-3",
         "data": {
             "id": "cooking_puzzle-quest_cooking_puzzle-main-w1-01-11-1-3",
             "playType": "CookingPuzzlePlayType_COOKING_PUZZLE_PLAY_TYPE_PARK_QUEST",
             "limitTimeSeconds": 120,
+            "shuffleCoolTimeMilliseconds": "5000",
+            "cookingPuzzleComboGroupId": "cooking_combo_group_1",
+            "gameStartDisplayClearConditionLangId": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+            "order": 9999
+        }
+    },
+    {
+        "id": "cooking_puzzle-quest_cooking_puzzle-daily",
+        "data": {
+            "id": "cooking_puzzle-quest_cooking_puzzle-daily",
+            "playType": "CookingPuzzlePlayType_COOKING_PUZZLE_PLAY_TYPE_PARK_QUEST",
+            "limitTimeSeconds": 150,
             "shuffleCoolTimeMilliseconds": "5000",
             "cookingPuzzleComboGroupId": "cooking_combo_group_1",
             "gameStartDisplayClearConditionLangId": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",

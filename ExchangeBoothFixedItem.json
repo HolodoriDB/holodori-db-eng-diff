@@ -248,6 +248,226 @@
         }
     },
     {
+        "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_1-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_1-2",
+            "exchangeBoothId": "exchange_booth-facility-a02-exchangebooth2"
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_2-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_2-2",
+            "exchangeBoothId": "exchange_booth-facility-a02-exchangebooth2"
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_3-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_3-2",
+            "exchangeBoothId": "exchange_booth-facility-a02-exchangebooth2"
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_level_up-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_level_up-001",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 50
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_level_up-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_level_up-002",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 100
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_level_up-003",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_level_up-003",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01"
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_limit_break-cmn-sr-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_limit_break-cmn-sr-001",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_limit_break-cmn-sr-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_limit_break-cmn-sr-002",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 2
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-000-cmn",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-000-cmn",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-001-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-001-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-001-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-001-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-002-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-002-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-002-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-facility-area_a01-002-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-gold-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-gold-001",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 50
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-gold-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-gold-002",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 100
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 20
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_allmember-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_allmember-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 45
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_allmember-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_allmember-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_card-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_card-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 45
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_card-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_card-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_content-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_content-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 45
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_content-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_content-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_leader-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_leader-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 45
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_leader-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-skill_tree_leader-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-poster-marathon_event-normal-002-chapter-01",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-poster-marathon_event-normal-002-chapter-01",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-gacha-pickup-260807-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-gacha-pickup-260807-001",
+            "exchangeBoothId": "exchange_booth-gacha-pickup-260807",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-gacha-pickup-260807-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-gacha-pickup-260807-002",
+            "exchangeBoothId": "exchange_booth-gacha-pickup-260807",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
         "id": "exchange_booth_fixed_item-gacha-common-023",
         "data": {
             "id": "exchange_booth_fixed_item-gacha-common-023",
@@ -324,13 +544,6 @@
         }
     },
     {
-        "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_1-2",
-        "data": {
-            "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_1-2",
-            "exchangeBoothId": "exchange_booth-facility-a02-exchangebooth2"
-        }
-    },
-    {
         "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00005-live_skin-001",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00005-live_skin-001",
@@ -352,20 +565,6 @@
             "id": "exchange_booth_fixed_item-gacha-common-055",
             "exchangeBoothId": "exchange_booth-gacha-common-001",
             "purchaseLimitQuantity": 10
-        }
-    },
-    {
-        "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_2-2",
-        "data": {
-            "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_2-2",
-            "exchangeBoothId": "exchange_booth-facility-a02-exchangebooth2"
-        }
-    },
-    {
-        "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_3-2",
-        "data": {
-            "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_3-2",
-            "exchangeBoothId": "exchange_booth-facility-a02-exchangebooth2"
         }
     },
     {

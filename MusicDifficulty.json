@@ -4320,6 +4320,36 @@
         }
     },
     {
+        "music_id": "m0323",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0323",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "difficultyLevel": 6,
+            "chartAssetId": "chart_m0323_easy"
+        }
+    },
+    {
+        "music_id": "m0323",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0323",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "difficultyLevel": 26,
+            "chartAssetId": "chart_m0323_expert"
+        }
+    },
+    {
+        "music_id": "m0323",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0323",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "difficultyLevel": 18,
+            "chartAssetId": "chart_m0323_hard"
+        }
+    },
+    {
         "music_id": "m0138",
         "difficulty_type": 1,
         "data": {
@@ -4400,6 +4430,26 @@
         }
     },
     {
+        "music_id": "m0323",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0323",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "difficultyLevel": 11,
+            "chartAssetId": "chart_m0323_normal"
+        }
+    },
+    {
+        "music_id": "m0324",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0324",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "difficultyLevel": 4,
+            "chartAssetId": "chart_m0324_easy"
+        }
+    },
+    {
         "music_id": "m0140",
         "difficulty_type": 2,
         "data": {
@@ -4407,6 +4457,26 @@
             "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
             "difficultyLevel": 11,
             "chartAssetId": "chart_m0140_normal"
+        }
+    },
+    {
+        "music_id": "m0324",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0324",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "difficultyLevel": 28,
+            "chartAssetId": "chart_m0324_expert"
+        }
+    },
+    {
+        "music_id": "m0324",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0324",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "difficultyLevel": 21,
+            "chartAssetId": "chart_m0324_hard"
         }
     },
     {
@@ -4430,6 +4500,16 @@
         }
     },
     {
+        "music_id": "m0324",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0324",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "difficultyLevel": 13,
+            "chartAssetId": "chart_m0324_normal"
+        }
+    },
+    {
         "music_id": "m0142",
         "difficulty_type": 4,
         "data": {
@@ -4437,6 +4517,16 @@
             "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
             "difficultyLevel": 25,
             "chartAssetId": "chart_m0142_expert"
+        }
+    },
+    {
+        "music_id": "m0325",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0325",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "difficultyLevel": 5,
+            "chartAssetId": "chart_m0325_easy"
         }
     },
     {
@@ -4457,6 +4547,16 @@
             "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
             "difficultyLevel": 8,
             "chartAssetId": "chart_m0144_easy"
+        }
+    },
+    {
+        "music_id": "m0325",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0325",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "difficultyLevel": 26,
+            "chartAssetId": "chart_m0325_expert"
         }
     },
     {
@@ -4540,6 +4640,16 @@
         }
     },
     {
+        "music_id": "m0325",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0325",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "difficultyLevel": 19,
+            "chartAssetId": "chart_m0325_hard"
+        }
+    },
+    {
         "music_id": "m0146",
         "difficulty_type": 2,
         "data": {
@@ -4567,6 +4677,16 @@
             "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
             "difficultyLevel": 28,
             "chartAssetId": "chart_m0147_expert"
+        }
+    },
+    {
+        "music_id": "m0325",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0325",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "difficultyLevel": 11,
+            "chartAssetId": "chart_m0325_normal"
         }
     },
     {
@@ -4710,6 +4830,16 @@
         }
     },
     {
+        "music_id": "m0346",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0346",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "difficultyLevel": 3,
+            "chartAssetId": "chart_m0346_easy"
+        }
+    },
+    {
         "music_id": "m0153",
         "difficulty_type": 3,
         "data": {
@@ -4717,6 +4847,16 @@
             "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
             "difficultyLevel": 17,
             "chartAssetId": "chart_m0153_hard"
+        }
+    },
+    {
+        "music_id": "m0346",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0346",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "difficultyLevel": 25,
+            "chartAssetId": "chart_m0346_expert"
         }
     },
     {
@@ -4760,6 +4900,26 @@
         }
     },
     {
+        "music_id": "m0346",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0346",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "difficultyLevel": 19,
+            "chartAssetId": "chart_m0346_hard"
+        }
+    },
+    {
+        "music_id": "m0346",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0346",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "difficultyLevel": 11,
+            "chartAssetId": "chart_m0346_normal"
+        }
+    },
+    {
         "music_id": "m0155",
         "difficulty_type": 3,
         "data": {
@@ -4797,6 +4957,26 @@
             "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
             "difficultyLevel": 27,
             "chartAssetId": "chart_m0156_expert"
+        }
+    },
+    {
+        "music_id": "m0347",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0347",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "difficultyLevel": 1,
+            "chartAssetId": "chart_m0347_easy"
+        }
+    },
+    {
+        "music_id": "m0347",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0347",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "difficultyLevel": 26,
+            "chartAssetId": "chart_m0347_expert"
         }
     },
     {
@@ -4887,6 +5067,16 @@
             "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
             "difficultyLevel": 4,
             "chartAssetId": "chart_m0159_easy"
+        }
+    },
+    {
+        "music_id": "m0347",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0347",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "difficultyLevel": 18,
+            "chartAssetId": "chart_m0347_hard"
         }
     },
     {
@@ -4997,6 +5187,16 @@
             "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
             "difficultyLevel": 19,
             "chartAssetId": "chart_m0163_hard"
+        }
+    },
+    {
+        "music_id": "m0347",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0347",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "difficultyLevel": 9,
+            "chartAssetId": "chart_m0347_normal"
         }
     },
     {

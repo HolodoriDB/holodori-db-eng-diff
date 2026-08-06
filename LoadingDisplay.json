@@ -825,18 +825,6 @@
         }
     },
     {
-        "id": "loading_display-tips-mg-cooking-puzzle-001",
-        "data": {
-            "id": "loading_display-tips-mg-cooking-puzzle-001",
-            "type": "LoadingDisplayType_LOADING_DISPLAY_TYPE_TIPS",
-            "titleLangId": "la-loading_display-tips-mg-cooking-puzzle-001-title",
-            "textLangId": "la-loading_display-tips-mg-cooking-puzzle-001-text",
-            "assetId": "img_ui_loading_mg-cooking-puzzle-001",
-            "ratio": 10,
-            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-09"
-        }
-    },
-    {
         "id": "loading_display-tips-mg-high-low-001",
         "data": {
             "id": "loading_display-tips-mg-high-low-001",
@@ -1066,6 +1054,18 @@
             "assetId": "img_ui_loading_work-001",
             "ratio": 10,
             "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
+        "id": "loading_display-tips-mg-cooking-puzzle-001",
+        "data": {
+            "id": "loading_display-tips-mg-cooking-puzzle-001",
+            "type": "LoadingDisplayType_LOADING_DISPLAY_TYPE_TIPS",
+            "titleLangId": "la-loading_display-tips-mg-cooking-puzzle-001-title",
+            "textLangId": "la-loading_display-tips-mg-cooking-puzzle-001-text",
+            "assetId": "img_ui_loading_mg-cooking-puzzle-001",
+            "ratio": 10,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-11"
         }
     }
 ]

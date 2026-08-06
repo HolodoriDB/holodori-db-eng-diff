@@ -1400,6 +1400,49 @@
         }
     },
     {
+        "music_id": "m0323",
+        "number": 1,
+        "data": {
+            "musicId": "m0323",
+            "number": 1,
+            "musicMvCategoryId": "music_mv_category-mv",
+            "mvAssetId": "m0323-mv-01",
+            "nameLangId": "la-music_mv_category-mv",
+            "thumbnailAssetId": "m0323-mv-01",
+            "descriptionLangId": "la-music_mv-m0323-mv-01-description",
+            "order": 1
+        }
+    },
+    {
+        "music_id": "m0323",
+        "number": 2,
+        "data": {
+            "musicId": "m0323",
+            "number": 2,
+            "musicMvCategoryId": "music_mv_category-mv_light",
+            "slideMvAssetId": "m0323-mv-01",
+            "slideMvAssetCount": 20,
+            "nameLangId": "la-music_mv_category-mv_light",
+            "thumbnailAssetId": "m0323-mv-01",
+            "descriptionLangId": "la-music_mv-m0323-mv-01-description",
+            "order": 2
+        }
+    },
+    {
+        "music_id": "m0346",
+        "number": 1,
+        "data": {
+            "musicId": "m0346",
+            "number": 1,
+            "musicMvCategoryId": "music_mv_category-mv",
+            "mvAssetId": "m0346-mv-01",
+            "nameLangId": "la-music_mv_category-mv",
+            "thumbnailAssetId": "m0346-mv-01",
+            "descriptionLangId": "la-music_mv-m0346-mv-01-description",
+            "order": 1
+        }
+    },
+    {
         "music_id": "m0301",
         "number": 1,
         "data": {
@@ -1425,6 +1468,21 @@
             "nameLangId": "la-music_mv_category-mv_light",
             "thumbnailAssetId": "m0301-mv-01",
             "descriptionLangId": "la-music_mv-m0301-mv-01-description",
+            "order": 2
+        }
+    },
+    {
+        "music_id": "m0346",
+        "number": 2,
+        "data": {
+            "musicId": "m0346",
+            "number": 2,
+            "musicMvCategoryId": "music_mv_category-mv_light",
+            "slideMvAssetId": "m0346-mv-01",
+            "slideMvAssetCount": 20,
+            "nameLangId": "la-music_mv_category-mv_light",
+            "thumbnailAssetId": "m0346-mv-01",
+            "descriptionLangId": "la-music_mv-m0346-mv-01-description",
             "order": 2
         }
     },

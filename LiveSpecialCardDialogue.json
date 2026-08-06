@@ -711,6 +711,42 @@
         }
     },
     {
+        "card_id": "card-00015-5-uniq-0067-00",
+        "leader_character_id": "chr-00015",
+        "data": {
+            "cardId": "card-00015-5-uniq-0067-00",
+            "leaderCharacterId": "chr-00015",
+            "liveDialogueVoiceId": "live_dial_voice_card_00015-5-uniq-0067-00_myself"
+        }
+    },
+    {
+        "card_id": "card-00015-5-uniq-0067-00",
+        "leader_character_id": "chr-00018",
+        "data": {
+            "cardId": "card-00015-5-uniq-0067-00",
+            "leaderCharacterId": "chr-00018",
+            "liveDialogueVoiceId": "live_dial_voice_card_00015-5-uniq-0067-00_00018-to-00015"
+        }
+    },
+    {
+        "card_id": "card-00018-5-uniq-0068-00",
+        "leader_character_id": "chr-00015",
+        "data": {
+            "cardId": "card-00018-5-uniq-0068-00",
+            "leaderCharacterId": "chr-00015",
+            "liveDialogueVoiceId": "live_dial_voice_card_00018-5-uniq-0068-00_00015-to-00018"
+        }
+    },
+    {
+        "card_id": "card-00018-5-uniq-0068-00",
+        "leader_character_id": "chr-00018",
+        "data": {
+            "cardId": "card-00018-5-uniq-0068-00",
+            "leaderCharacterId": "chr-00018",
+            "liveDialogueVoiceId": "live_dial_voice_card_00018-5-uniq-0068-00_myself"
+        }
+    },
+    {
         "card_id": "card-00001-5-uniq-0000-00",
         "leader_character_id": "chr-00002",
         "data": {

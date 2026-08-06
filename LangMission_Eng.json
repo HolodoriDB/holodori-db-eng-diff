@@ -10654,6 +10654,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
+            "text": "Unlock {0} holomem(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-absolute_live_clear_music_count",
+            "text": "Complete {0} different types of Lives."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_cooking_puzzle_completion_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_cooking_puzzle_completion_count",
+            "text": "Cook {0} meal(s) in Collect Cooking."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_jump_rope_success_jump_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_jump_rope_success_jump_count",
+            "text": "Win Hoppin' Rope {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_live_play_count",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_mini_game_stamina_consumption",
+            "text": "Use a total of {0} Minigame Boosts."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_mission_clear_count-mission_grp-training_support-260816",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_mission_clear_count-mission_grp-training_support-260816",
+            "text": "Let’s complete all the Missions!"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_multi_live_play_count",
+            "text": "Play a Live Together {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_park_present_receive_count",
+            "text": "Receive presents from holomem {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-260816-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-260816-increment_work_finish_count",
+            "text": "Complete Holowork tasks {0} time(s)."
+        }
+    },
+    {
         "id": "la-mission-hidden-gacha-beginner-select-001",
         "data": {
             "id": "la-mission-hidden-gacha-beginner-select-001",
@@ -10693,6 +10763,13 @@
         "data": {
             "id": "la-mission-marathon_event-live_clear_count",
             "text": "Clear the Event Song {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-live_highest_score",
+        "data": {
+            "id": "la-mission-marathon_event-live_highest_score",
+            "text": "Event Set Piece target score: {0}"
         }
     },
     {
