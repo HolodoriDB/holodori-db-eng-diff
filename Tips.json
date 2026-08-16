@@ -39,6 +39,16 @@
         }
     },
     {
+        "id": "tips-hint-marathon_relay",
+        "data": {
+            "id": "tips-hint-marathon_relay",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-marathon_relay-title",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_EVENT_MARATHON_RELAY",
+            "order": 1
+        }
+    },
+    {
         "id": "tips-achievement",
         "data": {
             "id": "tips-achievement",

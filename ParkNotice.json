@@ -1,13 +1,5 @@
 [
     {
-        "type": 7,
-        "target_id": "",
-        "data": {
-            "type": "ParkNoticeType_PARK_NOTICE_TYPE_ITEM_EXPIRATION_SOON",
-            "order": 17
-        }
-    },
-    {
         "type": 2,
         "target_id": "perm-a01-house-present-fri",
         "data": {
@@ -128,14 +120,6 @@
             "type": "ParkNoticeType_PARK_NOTICE_TYPE_EXCHANGE_RECEIVABLE",
             "targetId": "exchange_booth_group-facility-a02-exchangebooth3",
             "order": 16
-        }
-    },
-    {
-        "type": 10,
-        "target_id": "",
-        "data": {
-            "type": "ParkNoticeType_PARK_NOTICE_TYPE_EVENT_END_TIME_SOON",
-            "order": 19
         }
     },
     {

@@ -10787,10 +10787,24 @@
         }
     },
     {
+        "id": "la-mission-marathon_event-marathon_live_play_count",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_live_play_count",
+            "text": "Play this chapter's Event Set Piece {0} time(s)."
+        }
+    },
+    {
         "id": "la-mission-marathon_event-marathon_score_quantity",
         "data": {
             "id": "la-mission-marathon_event-marathon_score_quantity",
             "text": "Earn {0} Event Pts."
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_score_quantity_chapter",
+            "text": "Earn {0} Event Pts in this chapter."
         }
     },
     {
