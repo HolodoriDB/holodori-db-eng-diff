@@ -1,5 +1,15 @@
 [
     {
+        "park_permanence_id": "perm-a01-chase",
+        "action_number": 1,
+        "data": {
+            "parkPermanenceId": "perm-a01-chase",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_CHASE",
+            "beforeParkTalkGroupId": "park_talk-perm-a01-chase"
+        }
+    },
+    {
         "park_permanence_id": "perm-a01-athletic",
         "action_number": 1,
         "data": {

@@ -49,6 +49,69 @@
         }
     },
     {
+        "id": "la-tips-chase-description-1",
+        "data": {
+            "id": "la-tips-chase-description-1",
+            "text": "You can play Shadowbound Chase at anytime at the <color=#ff3bc8>holoX hideout</color>!"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-2",
+        "data": {
+            "id": "la-tips-chase-description-2",
+            "text": "Rewards are earned based on your score, regardless of whether you win or lose!\n\nYou can even get some <color=#ff3bc8>Harmony Garden Coins</color>!\n\nBe sure to exchange them at the NePoLaBo Mart for some useful items!"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-3",
+        "data": {
+            "id": "la-tips-chase-description-3",
+            "text": "Rankings will show the best scores for both the <color=#ff3bc8>Prank Gang and the Patrol Squad</color>!\n\n* If the Best Scores are identical, the first one will take precedence."
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-1",
+        "data": {
+            "id": "la-tips-chase-quest-description-1",
+            "text": "Shadowbound Chase is a minigame where two teams compete: the <color=#ff3bc8>Prank Gang who runs away</color> and the <color=#ff3bc8>Patrol Team who catches them</color>!"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-2",
+        "data": {
+            "id": "la-tips-chase-quest-description-2",
+            "text": "The Prank Gang wins by escaping the Patrol Squad and <color=#ff3bc8>unlocking 5 facilities!</color>\nTo unlock a facility, you need to use keys found throughout the park.\n\n▼Controls\nPick Up: Tap near a key to pick it up.\n\nUse: While carrying a key, approach a facility and press and hold to use it.\nThe button changes when you approach a facility while carrying a key."
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-3",
+        "data": {
+            "id": "la-tips-chase-quest-description-3",
+            "text": "The Patrol Squad wins by <color=#ff3bc8>catching every member of the Prank Gang!</color>\nApproach a member of the Prank Gang and press Catch to restrain them.\n\nThe Patrol Squad also wins if <color=#ff3bc8>the Prank Gang fails to unlock all 5 facilities before time runs out</color>."
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-4",
+        "data": {
+            "id": "la-tips-chase-quest-description-4",
+            "text": "The Prank Gang can also rescue captured teammates!\n\n<color=#ff3bc8>Press and hold Rescue near a captured teammate</color> to free them!"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-5",
+        "data": {
+            "id": "la-tips-chase-quest-description-5",
+            "text": "The Prank Gang can gain an advantage by disabling Laser Gimmicks!\nIf you disable a Laser Gimmick, <color=#ff3bc8>the number of keys needed to unlock each facility is reduced by 1</color>!\n\nStand on one of the switches in front of it to start the disabling process.\nBut it's faster if <color=#ff3bc8>two players stand on the switches</color>!"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-6",
+        "data": {
+            "id": "la-tips-chase-quest-description-6",
+            "text": "The Patrol Squad has very useful skills!\nEach Patrol Squad player is assigned one at random.\n\n▼Skills\n\nSpeed Up: <color=#ff3bc8>Increases your movement speed</color>.\nRadar: <color=#ff3bc8>Reveals the location of nearby Prank Gang members</color>.\nStealth: <color=#ff3bc8>Makes you semi-transparent, making it harder for the Prank Gang to spot you</color>.\n\nSkills are only active for a limited time.\nAfter using a skill, you can't use it again until its gauge has recharged."
+        }
+    },
+    {
         "id": "la-tips-circuit-description-1",
         "data": {
             "id": "la-tips-circuit-description-1",
@@ -122,7 +185,7 @@
         "id": "la-tips-combo-card-game-quest-description-4",
         "data": {
             "id": "la-tips-combo-card-game-quest-description-4",
-            "text": "<color=#ff3bc8>Even if the other player played their card, you can Pokajan</color>!\n\nHowever, if multiple players Pokajan! at the same time, the person with the strongest hand will earn the coins!\n\nIf there are multiple players with the tying strongest hands, <color=#ff3bc8>priority goes to the nearest in clockwise direction to the player who was Pokajan!’d</color>!"
+            "text": "<color=#ff3bc8>Even if the other player played their card, you can Pokajan!</color>\n\nHowever, if multiple players Pokajan! at the same time, the person with the strongest hand will earn the coins!\n\nIf there are multiple players with the tying strongest hands, <color=#ff3bc8>priority goes to the nearest in clockwise direction to the player who was Pokajan!’d</color>!"
         }
     },
     {
@@ -360,7 +423,7 @@
         "id": "la-tips-game_screen-combo-card-game-description-4",
         "data": {
             "id": "la-tips-game_screen-combo-card-game-description-4",
-            "text": "<color=#ff3bc8>Even if the other player played their card, you can Pokajan</color>!\n\nHowever, if multiple players Pokajan! at the same time, the person with the strongest hand will earn the coins!\n\nIf there are multiple players with the tying strongest hands, <color=#ff3bc8>priority goes to the nearest in clockwise direction to the player who was Pokajan!’d</color>!"
+            "text": "<color=#ff3bc8>Even if the other player played their card, you can Pokajan!</color>\n\nHowever, if multiple players Pokajan! at the same time, the person with the strongest hand will earn the coins!\n\nIf there are multiple players with the tying strongest hands, <color=#ff3bc8>priority goes to the nearest in clockwise direction to the player who was Pokajan!’d</color>!"
         }
     },
     {
@@ -710,7 +773,7 @@
         "id": "la-tips-game_screen-park_high_low_top-description-2",
         "data": {
             "id": "la-tips-game_screen-park_high_low_top-description-2",
-            "text": "In Double Up Chance, guess whether the next card you draw will be higher or lower than the previous one you drew.\n\nIf you succeed at <color=#ff3bc8>Double Up Chance, you get double the Coins</color>!"
+            "text": "In Double Up Chance, guess whether the next card you draw will be HIGHer or LOWer than the previous one you drew.\n\n▼Card Strength (In Descending Order)\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\nIf you succeed at <color=#ff3bc8>Double Up Chance, you get double the Coins</color>!"
         }
     },
     {
@@ -1718,7 +1781,7 @@
         "id": "la-tips-park-high-low-area02-description-2",
         "data": {
             "id": "la-tips-park-high-low-area02-description-2",
-            "text": "In Double Up Chance, guess whether the next card you draw will be higher or lower than the previous one you drew.\n\nIf you succeed at <color=#ff3bc8>Double Up Chance, you get double the Coins</color>!"
+            "text": "In Double Up Chance, guess whether the next card you draw will be HIGHer or LOWer than the previous one you drew.\n\n▼Card Strength (In Descending Order)\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\nIf you succeed at <color=#ff3bc8>Double Up Chance, you get double the Coins</color>!"
         }
     },
     {

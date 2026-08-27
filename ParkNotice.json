@@ -132,20 +132,20 @@
         }
     },
     {
+        "type": 8,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_LOTTERY_SCRATCH_AVAILABLE",
+            "order": 17
+        }
+    },
+    {
         "type": 2,
         "target_id": "perm-a01-facerock-present-default",
         "data": {
             "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_PRESENT_RECEIVABLE",
             "targetId": "perm-a01-facerock-present-default",
-            "order": 12
-        }
-    },
-    {
-        "type": 8,
-        "target_id": "",
-        "data": {
-            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_LOTTERY_SCRATCH_AVAILABLE",
-            "order": 18
+            "order": 13
         }
     }
 ]

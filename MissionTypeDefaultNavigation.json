@@ -386,21 +386,24 @@
         "mission_type": 57,
         "data": {
             "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_WIN_COUNT",
-            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CHASE"
         }
     },
     {
         "mission_type": 58,
         "data": {
             "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRICT_COUNT",
-            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CHASE"
         }
     },
     {
         "mission_type": 59,
         "data": {
             "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_KEY_USE_COUNT",
-            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST"
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CHASE"
         }
     },
     {
@@ -427,6 +430,20 @@
         "mission_type": 64,
         "data": {
             "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_MISSION_ACTION_COUNT"
+        }
+    },
+    {
+        "mission_type": 65,
+        "data": {
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CHASE"
+        }
+    },
+    {
+        "mission_type": 66,
+        "data": {
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "CHASE"
         }
     },
     {

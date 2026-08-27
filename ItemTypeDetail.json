@@ -160,5 +160,14 @@
             "nameLangId": "la-item_type_detail-other",
             "iconAssetId": "other"
         }
+    },
+    {
+        "type": 1000,
+        "data": {
+            "type": "ItemType_ITEM_TYPE_MARATHON_EVENT_BADGE",
+            "color": "28C3FF",
+            "nameLangId": "la-item_type_detail-marathon_event_badge",
+            "iconAssetId": "other"
+        }
     }
 ]

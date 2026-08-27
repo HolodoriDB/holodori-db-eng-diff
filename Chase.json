@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "id": "chase_park_quest_play",
+        "data": {
+            "id": "chase_park_quest_play",
+            "playType": "ChasePlayType_CHASE_PLAY_TYPE_PARK_QUEST",
+            "areaKeyAppearLocationCounts": [
+                20
+            ]
+        }
+    },
+    {
+        "id": "normal",
+        "data": {
+            "id": "normal",
+            "playType": "ChasePlayType_CHASE_PLAY_TYPE_NORMAL",
+            "areaKeyAppearLocationCounts": [
+                20
+            ],
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
+                }
+            ]
+        }
+    }
+]

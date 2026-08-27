@@ -79,5 +79,32 @@
             "consumptionRate": 6,
             "marathonScoreProvideCount": 30
         }
+    },
+    {
+        "mini_game_type": 5,
+        "consumption_rate": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_CHASE",
+            "consumptionRate": 1,
+            "marathonScoreProvideCount": 6
+        }
+    },
+    {
+        "mini_game_type": 5,
+        "consumption_rate": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_CHASE",
+            "consumptionRate": 2,
+            "marathonScoreProvideCount": 11
+        }
+    },
+    {
+        "mini_game_type": 5,
+        "consumption_rate": 3,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_CHASE",
+            "consumptionRate": 3,
+            "marathonScoreProvideCount": 15
+        }
     }
 ]

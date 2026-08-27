@@ -21,6 +21,27 @@
         }
     },
     {
+        "help_category_id": "help_category-faq-live",
+        "number": 6,
+        "data": {
+            "helpCategoryId": "help_category-faq-live",
+            "number": 6,
+            "titleLangId": "la-help_category-faq-live-6-title",
+            "textLangId": "la-help_category-faq-live-6-text"
+        }
+    },
+    {
+        "help_category_id": "help_category-help-game",
+        "number": 7,
+        "data": {
+            "helpCategoryId": "help_category-help-game",
+            "number": 7,
+            "titleLangId": "la-help_category-help-game-7-title",
+            "textLangId": "la-help_category-help-game-7-text",
+            "viewConditionGroupId": "cd-perm-a01-chase"
+        }
+    },
+    {
         "help_category_id": "help_category-help-card",
         "number": 6,
         "data": {
@@ -1126,16 +1147,6 @@
     },
     {
         "help_category_id": "help_category-faq-questions",
-        "number": 2,
-        "data": {
-            "helpCategoryId": "help_category-faq-questions",
-            "number": 2,
-            "titleLangId": "la-help_category-faq-questions-2-title",
-            "textLangId": "la-help_category-faq-questions-2-text"
-        }
-    },
-    {
-        "help_category_id": "help_category-faq-questions",
         "number": 3,
         "data": {
             "helpCategoryId": "help_category-faq-questions",
@@ -1265,6 +1276,15 @@
             "titleLangId": "la-help_category-help-poster-2-title",
             "textLangId": "la-help_category-help-poster-2-text",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "help_category_id": "help_category-faq-questions",
+        "number": 2,
+        "data": {
+            "helpCategoryId": "help_category-faq-questions",
+            "number": 2,
+            "titleLangId": "la-help_category-faq-questions-2-title"
         }
     }
 ]

@@ -240,6 +240,54 @@
         }
     },
     {
+        "group_id": "live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gamers-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gamers-2",
+            "number": 1,
+            "type": "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_PERFORMANCE_UP_PERMIL_UP",
+            "value": "320",
+            "liveSkillEffectTargetId": "live_skill_effect_target-character_grouping-grp-gamers-2",
+            "descriptionLangId": "la-generated-live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-character_grouping-grp-gamers-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gamers-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gamers-2",
+            "number": 1,
+            "type": "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_PERFORMANCE_UP_PERMIL_UP",
+            "value": "430",
+            "liveSkillEffectTargetId": "live_skill_effect_target-character_grouping-grp-gamers-2",
+            "descriptionLangId": "la-generated-live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-character_grouping-grp-gamers-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2",
+            "number": 1,
+            "type": "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_TECHNIQUE_UP_PERMIL_UP",
+            "value": "320",
+            "liveSkillEffectTargetId": "live_skill_effect_target-attribute-attribute_2-2",
+            "descriptionLangId": "la-generated-live_passive_skill_effect-technique_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2.1-description"
+        }
+    },
+    {
+        "group_id": "live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2",
+        "number": 1,
+        "data": {
+            "groupId": "live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2",
+            "number": 1,
+            "type": "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_TECHNIQUE_UP_PERMIL_UP",
+            "value": "430",
+            "liveSkillEffectTargetId": "live_skill_effect_target-attribute-attribute_2-2",
+            "descriptionLangId": "la-generated-live_passive_skill_effect-technique_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2.1-description"
+        }
+    },
+    {
         "group_id": "live_leader_skill_effect-all_parameter_up_permil_up-300-live_skill_effect_target-all",
         "number": 1,
         "data": {

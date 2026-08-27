@@ -1,5 +1,22 @@
 [
     {
+        "id": "quest-area-a01-29",
+        "data": {
+            "id": "quest-area-a01-29",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 29,
+            "titleLangId": "la-quest-area-a01-29-title",
+            "descriptionLangId": "la-quest-area-a01-29-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 900,
+            "areaGroupingId": "area_group-a01",
+            "ratio": 100,
+            "viewConditionGroupId": "cd-quest-area-a01-29-unlock",
+            "unlockConditionGroupId": "cd-quest-area-a01-29-unlock",
+            "order": 900
+        }
+    },
+    {
         "id": "quest-area-a01-20",
         "data": {
             "id": "quest-area-a01-20",

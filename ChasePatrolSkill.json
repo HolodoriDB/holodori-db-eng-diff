@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "skill_type": 1,
+        "data": {
+            "skillType": "ChasePatrolSkillType_CHASE_PATROL_SKILL_TYPE_RADAR",
+            "nameLangId": "la-chase_patrol_skill-radar-name",
+            "descriptionLangId": "la-empty",
+            "effectDurationMillisecond": 5000,
+            "reliefEffectDurationExtensionMillisecond": 20,
+            "coolTimeMillisecond": 30000,
+            "reliefCoolTimeReductionMillisecond": 45,
+            "startCoolTimeProgressRatePermilMultiply": 500,
+            "radarArrowDisplayRange": 20,
+            "radarArrowSwitchRange": 10,
+            "radarIconDisplayRange": 10
+        }
+    },
+    {
+        "skill_type": 2,
+        "data": {
+            "skillType": "ChasePatrolSkillType_CHASE_PATROL_SKILL_TYPE_SPEED_UP",
+            "nameLangId": "la-chase_patrol_skill-speed_up-name",
+            "descriptionLangId": "la-empty",
+            "effectDurationMillisecond": 7000,
+            "reliefEffectDurationExtensionMillisecond": 15,
+            "coolTimeMillisecond": 40000,
+            "reliefCoolTimeReductionMillisecond": 45,
+            "startCoolTimeProgressRatePermilMultiply": 500,
+            "speedUpCoefficientPermilMultiply": 1500
+        }
+    },
+    {
+        "skill_type": 3,
+        "data": {
+            "skillType": "ChasePatrolSkillType_CHASE_PATROL_SKILL_TYPE_STEALTH",
+            "nameLangId": "la-chase_patrol_skill-stealth-name",
+            "descriptionLangId": "la-empty",
+            "effectDurationMillisecond": 15000,
+            "reliefEffectDurationExtensionMillisecond": 20,
+            "coolTimeMillisecond": 35000,
+            "reliefCoolTimeReductionMillisecond": 45,
+            "startCoolTimeProgressRatePermilMultiply": 500,
+            "stealthTransparentRate": 70,
+            "stealthTransparentRateFromOthers": 90
+        }
+    }
+]

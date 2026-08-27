@@ -243,72 +243,6 @@
         }
     },
     {
-        "tips_id": "tips-hint-marathon_nomal",
-        "number": 1,
-        "data": {
-            "tipsId": "tips-hint-marathon_nomal",
-            "number": 1,
-            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
-            "assetId": "img_ui_tips-game-event_normal-001",
-            "descriptionLangId": "la-tips-hint-marathon_nomal-description-1"
-        }
-    },
-    {
-        "tips_id": "tips-hint-marathon_nomal",
-        "number": 2,
-        "data": {
-            "tipsId": "tips-hint-marathon_nomal",
-            "number": 2,
-            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
-            "assetId": "img_ui_tips-game-event_normal-002",
-            "descriptionLangId": "la-tips-hint-marathon_nomal-description-2"
-        }
-    },
-    {
-        "tips_id": "tips-hint-marathon_nomal",
-        "number": 3,
-        "data": {
-            "tipsId": "tips-hint-marathon_nomal",
-            "number": 3,
-            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
-            "assetId": "img_ui_tips-game-event_normal-003",
-            "descriptionLangId": "la-tips-hint-marathon_nomal-description-3"
-        }
-    },
-    {
-        "tips_id": "tips-hint-marathon_nomal",
-        "number": 4,
-        "data": {
-            "tipsId": "tips-hint-marathon_nomal",
-            "number": 4,
-            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
-            "assetId": "img_ui_tips-game-event_normal-004",
-            "descriptionLangId": "la-tips-hint-marathon_nomal-description-4"
-        }
-    },
-    {
-        "tips_id": "tips-hint-marathon_nomal",
-        "number": 5,
-        "data": {
-            "tipsId": "tips-hint-marathon_nomal",
-            "number": 5,
-            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
-            "assetId": "img_ui_tips-game-event_normal-005",
-            "descriptionLangId": "la-tips-hint-marathon_nomal-description-5"
-        }
-    },
-    {
-        "tips_id": "tips-hint-marathon_nomal",
-        "number": 6,
-        "data": {
-            "tipsId": "tips-hint-marathon_nomal",
-            "number": 6,
-            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
-            "assetId": "img_ui_tips-game-event_normal-006",
-            "descriptionLangId": "la-tips-hint-marathon_nomal-description-6"
-        }
-    },
-    {
         "tips_id": "tips-hint-marathon_mission",
         "number": 1,
         "data": {
@@ -438,6 +372,248 @@
             "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
             "assetId": "img_ui_tips-game-event_relay-006",
             "descriptionLangId": "la-tips-hint-marathon_relay-description-6"
+        }
+    },
+    {
+        "tips_id": "tips-chase-quest",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-chase-quest",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-001",
+            "descriptionLangId": "la-tips-chase-quest-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-chase-quest",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-chase-quest",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-002",
+            "descriptionLangId": "la-tips-chase-quest-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-chase-quest",
+        "number": 3,
+        "data": {
+            "tipsId": "tips-chase-quest",
+            "number": 3,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-003",
+            "descriptionLangId": "la-tips-chase-quest-description-3"
+        }
+    },
+    {
+        "tips_id": "tips-chase-quest",
+        "number": 4,
+        "data": {
+            "tipsId": "tips-chase-quest",
+            "number": 4,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-004",
+            "descriptionLangId": "la-tips-chase-quest-description-4"
+        }
+    },
+    {
+        "tips_id": "tips-chase-quest",
+        "number": 5,
+        "data": {
+            "tipsId": "tips-chase-quest",
+            "number": 5,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-005",
+            "descriptionLangId": "la-tips-chase-quest-description-5"
+        }
+    },
+    {
+        "tips_id": "tips-chase-quest",
+        "number": 6,
+        "data": {
+            "tipsId": "tips-chase-quest",
+            "number": 6,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-006",
+            "descriptionLangId": "la-tips-chase-quest-description-6"
+        }
+    },
+    {
+        "tips_id": "tips-chase",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-chase",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-001",
+            "descriptionLangId": "la-tips-chase-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-chase",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-chase",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-003",
+            "descriptionLangId": "la-tips-chase-description-3"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-chase",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-game_screen-chase",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-001",
+            "descriptionLangId": "la-tips-chase-quest-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-chase",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-game_screen-chase",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-002",
+            "descriptionLangId": "la-tips-chase-quest-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-hint-marathon_nomal",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-marathon_nomal",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips-game-event_normal-001-02",
+            "descriptionLangId": "la-tips-hint-marathon_nomal-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-marathon_nomal",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-hint-marathon_nomal",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips-game-event_normal-002-02",
+            "descriptionLangId": "la-tips-hint-marathon_nomal-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-hint-marathon_nomal",
+        "number": 3,
+        "data": {
+            "tipsId": "tips-hint-marathon_nomal",
+            "number": 3,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips-game-event_normal-003-02",
+            "descriptionLangId": "la-tips-hint-marathon_nomal-description-3"
+        }
+    },
+    {
+        "tips_id": "tips-hint-marathon_nomal",
+        "number": 4,
+        "data": {
+            "tipsId": "tips-hint-marathon_nomal",
+            "number": 4,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips-game-event_normal-004-02",
+            "descriptionLangId": "la-tips-hint-marathon_nomal-description-4"
+        }
+    },
+    {
+        "tips_id": "tips-hint-marathon_nomal",
+        "number": 5,
+        "data": {
+            "tipsId": "tips-hint-marathon_nomal",
+            "number": 5,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips-game-event_normal-005-02",
+            "descriptionLangId": "la-tips-hint-marathon_nomal-description-5"
+        }
+    },
+    {
+        "tips_id": "tips-hint-marathon_nomal",
+        "number": 6,
+        "data": {
+            "tipsId": "tips-hint-marathon_nomal",
+            "number": 6,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips-game-event_normal-006-02",
+            "descriptionLangId": "la-tips-hint-marathon_nomal-description-6"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-chase",
+        "number": 3,
+        "data": {
+            "tipsId": "tips-game_screen-chase",
+            "number": 3,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-003",
+            "descriptionLangId": "la-tips-chase-quest-description-3"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-chase",
+        "number": 4,
+        "data": {
+            "tipsId": "tips-game_screen-chase",
+            "number": 4,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-004",
+            "descriptionLangId": "la-tips-chase-quest-description-4"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-chase",
+        "number": 5,
+        "data": {
+            "tipsId": "tips-game_screen-chase",
+            "number": 5,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-005",
+            "descriptionLangId": "la-tips-chase-quest-description-5"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-chase",
+        "number": 6,
+        "data": {
+            "tipsId": "tips-game_screen-chase",
+            "number": 6,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-quest-006",
+            "descriptionLangId": "la-tips-chase-quest-description-6"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-chase",
+        "number": 7,
+        "data": {
+            "tipsId": "tips-game_screen-chase",
+            "number": 7,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-002",
+            "descriptionLangId": "la-tips-chase-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-chase",
+        "number": 8,
+        "data": {
+            "tipsId": "tips-game_screen-chase",
+            "number": 8,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-chase-003",
+            "descriptionLangId": "la-tips-chase-description-3"
         }
     },
     {

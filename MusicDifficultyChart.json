@@ -7921,18 +7921,6 @@
     },
     {
         "music_id": "m0323",
-        "difficulty_type": 4,
-        "data": {
-            "musicId": "m0323",
-            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
-            "fullComboNoteCount": 1101,
-            "maxComboCountRewardThreshold": 900,
-            "chartHash": "129625d57e8a16d3203bf62349316ebf",
-            "normalNoteCount": 540
-        }
-    },
-    {
-        "music_id": "m0323",
         "difficulty_type": 3,
         "data": {
             "musicId": "m0323",
@@ -8433,6 +8421,306 @@
             "maxComboCountRewardThreshold": 300,
             "chartHash": "f65f852a46cf2c0c29a46448a76aa23c",
             "normalNoteCount": 187
+        }
+    },
+    {
+        "music_id": "m0323",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0323",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "fullComboNoteCount": 1101,
+            "maxComboCountRewardThreshold": 900,
+            "chartHash": "23349cec7c427561cbab8793a3a9199d",
+            "normalNoteCount": 540
+        }
+    },
+    {
+        "music_id": "m0338",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0338",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "fullComboNoteCount": 219,
+            "maxComboCountRewardThreshold": 200,
+            "chartHash": "8fc3ed5d7840653e2c393a589c0e9156",
+            "normalNoteCount": 87
+        }
+    },
+    {
+        "music_id": "m0338",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0338",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "fullComboNoteCount": 853,
+            "maxComboCountRewardThreshold": 700,
+            "chartHash": "262f3b50df962d94478c76950108d23a",
+            "normalNoteCount": 367
+        }
+    },
+    {
+        "music_id": "m0338",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0338",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "fullComboNoteCount": 606,
+            "maxComboCountRewardThreshold": 500,
+            "chartHash": "fa8a193ebbe0f65a41d50bb8946a82c7",
+            "normalNoteCount": 244
+        }
+    },
+    {
+        "music_id": "m0338",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0338",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "fullComboNoteCount": 394,
+            "maxComboCountRewardThreshold": 300,
+            "chartHash": "1fa25b632f805dd92eba45e79397b146",
+            "normalNoteCount": 197
+        }
+    },
+    {
+        "music_id": "m0339",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0339",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "fullComboNoteCount": 284,
+            "maxComboCountRewardThreshold": 250,
+            "chartHash": "86cd7bd71dabc29283e3f78b22fc190e",
+            "normalNoteCount": 63
+        }
+    },
+    {
+        "music_id": "m0339",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0339",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "fullComboNoteCount": 1014,
+            "maxComboCountRewardThreshold": 800,
+            "chartHash": "6724066ab1e877f9163da8227c4911fe",
+            "normalNoteCount": 223
+        }
+    },
+    {
+        "music_id": "m0339",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0339",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "fullComboNoteCount": 676,
+            "maxComboCountRewardThreshold": 550,
+            "chartHash": "6ffe352518666fd11889d09853157571",
+            "normalNoteCount": 102
+        }
+    },
+    {
+        "music_id": "m0339",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0339",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "fullComboNoteCount": 463,
+            "maxComboCountRewardThreshold": 350,
+            "chartHash": "2ac7dd11f1e221e6beacd950195ac23e",
+            "normalNoteCount": 78
+        }
+    },
+    {
+        "music_id": "m0340",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0340",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "fullComboNoteCount": 261,
+            "maxComboCountRewardThreshold": 200,
+            "chartHash": "393383ad813ba2ea5d040d0025598f1e",
+            "normalNoteCount": 130
+        }
+    },
+    {
+        "music_id": "m0340",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0340",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "fullComboNoteCount": 1364,
+            "maxComboCountRewardThreshold": 1100,
+            "chartHash": "1e86aef26e4871833187feaff3e2d4bc",
+            "normalNoteCount": 600
+        }
+    },
+    {
+        "music_id": "m0340",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0340",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "fullComboNoteCount": 828,
+            "maxComboCountRewardThreshold": 650,
+            "chartHash": "1e8e1c3abab3b04204b10764be99bb55",
+            "normalNoteCount": 404
+        }
+    },
+    {
+        "music_id": "m0340",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0340",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "fullComboNoteCount": 470,
+            "maxComboCountRewardThreshold": 400,
+            "chartHash": "be339d809dc460c4d465d69ef5c1b5ee",
+            "normalNoteCount": 233
+        }
+    },
+    {
+        "music_id": "m0341",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0341",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "fullComboNoteCount": 258,
+            "maxComboCountRewardThreshold": 200,
+            "chartHash": "6dd075b997fabb034da0a0639f951d3b",
+            "normalNoteCount": 102
+        }
+    },
+    {
+        "music_id": "m0341",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0341",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "fullComboNoteCount": 958,
+            "maxComboCountRewardThreshold": 750,
+            "chartHash": "06db834c1bfdeba2568134625d28c361",
+            "normalNoteCount": 464
+        }
+    },
+    {
+        "music_id": "m0341",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0341",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "fullComboNoteCount": 665,
+            "maxComboCountRewardThreshold": 550,
+            "chartHash": "4fb23edc73e4614de82fc787da720d98",
+            "normalNoteCount": 268
+        }
+    },
+    {
+        "music_id": "m0341",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0341",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "fullComboNoteCount": 461,
+            "maxComboCountRewardThreshold": 350,
+            "chartHash": "eb5a3941153690d597a258ee8d5c7b8c",
+            "normalNoteCount": 154
+        }
+    },
+    {
+        "music_id": "m0342",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0342",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "fullComboNoteCount": 307,
+            "maxComboCountRewardThreshold": 250,
+            "chartHash": "725cfe337f98b74cc74e55158c1a2d12",
+            "normalNoteCount": 171
+        }
+    },
+    {
+        "music_id": "m0342",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0342",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "fullComboNoteCount": 1158,
+            "maxComboCountRewardThreshold": 950,
+            "chartHash": "f6d2a68b3b34adf6de5cb6de9b514347",
+            "normalNoteCount": 658
+        }
+    },
+    {
+        "music_id": "m0342",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0342",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "fullComboNoteCount": 941,
+            "maxComboCountRewardThreshold": 750,
+            "chartHash": "6fd3d73b89a90a388a4d8ee32dbe710e",
+            "normalNoteCount": 535
+        }
+    },
+    {
+        "music_id": "m0342",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0342",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "fullComboNoteCount": 521,
+            "maxComboCountRewardThreshold": 400,
+            "chartHash": "f5a0b75e54edebd4f3916f83a1826474",
+            "normalNoteCount": 277
+        }
+    },
+    {
+        "music_id": "m0359",
+        "difficulty_type": 1,
+        "data": {
+            "musicId": "m0359",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EASY",
+            "fullComboNoteCount": 288,
+            "maxComboCountRewardThreshold": 250,
+            "chartHash": "12e114a5b9a3dc062f904caf2a40dfda",
+            "normalNoteCount": 61
+        }
+    },
+    {
+        "music_id": "m0359",
+        "difficulty_type": 4,
+        "data": {
+            "musicId": "m0359",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_EXPERT",
+            "fullComboNoteCount": 1100,
+            "maxComboCountRewardThreshold": 900,
+            "chartHash": "552603548be5edfd1e30d387385be3d4",
+            "normalNoteCount": 297
+        }
+    },
+    {
+        "music_id": "m0359",
+        "difficulty_type": 3,
+        "data": {
+            "musicId": "m0359",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_HARD",
+            "fullComboNoteCount": 719,
+            "maxComboCountRewardThreshold": 600,
+            "chartHash": "36756a8f29b97d6a91b1ee9c74563cd9",
+            "normalNoteCount": 187
+        }
+    },
+    {
+        "music_id": "m0359",
+        "difficulty_type": 2,
+        "data": {
+            "musicId": "m0359",
+            "difficultyType": "MusicDifficultyType_MUSIC_DIFFICULTY_TYPE_NORMAL",
+            "fullComboNoteCount": 464,
+            "maxComboCountRewardThreshold": 350,
+            "chartHash": "9e453cfa1c749d6e595cb9c99f770817",
+            "normalNoteCount": 118
         }
     },
     {

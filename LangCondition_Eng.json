@@ -14,6 +14,13 @@
         }
     },
     {
+        "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+            "text": "Resets monthly starting in October."
+        }
+    },
+    {
         "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
         "data": {
             "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
@@ -116,6 +123,13 @@
         "data": {
             "id": "la-cd-marathon_event",
             "text": "Complete Main Quest Chapter 1, Episode 4 to unlock."
+        }
+    },
+    {
+        "id": "la-cd-perm-a01-chase",
+        "data": {
+            "id": "la-cd-perm-a01-chase",
+            "text": "Shadowbound Chase"
         }
     },
     {
@@ -298,6 +312,20 @@
         "data": {
             "id": "la-cd-quest-area-a01-28-unlock-description",
             "text": "Play through Quests and Live."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29",
+        "data": {
+            "id": "la-cd-quest-area-a01-29",
+            "text": "Complete Main Quest EP 24 in Harmony Garden to unlock."
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-29-description",
+            "text": "Unlock by completing Main Quest EP 24 in Harmony Garden."
         }
     },
     {
@@ -501,6 +529,13 @@
         "data": {
             "id": "la-locktestdesc-cd-quest-area-a01-03",
             "text": "Unlock by progressing through Main Quests."
+        }
+    },
+    {
+        "id": "la-music_lock_description-m0301",
+        "data": {
+            "id": "la-music_lock_description-m0301",
+            "text": "Unlock requirement: Complete Main Quest Chapter 2"
         }
     },
     {

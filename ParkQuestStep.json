@@ -286,6 +286,47 @@
         }
     },
     {
+        "park_quest_id": "quest-area-a01-29",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a01-29",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a01-29-1-1",
+            "assetId": "facility-a01-secretbase"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a01-29",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a01-29",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a01-29-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a01-secretbase",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin",
+                    "quantity": "1000"
+                }
+            ]
+        }
+    },
+    {
         "park_quest_id": "quest-main-w1-01-20",
         "step_group_number": 1,
         "step": 1,

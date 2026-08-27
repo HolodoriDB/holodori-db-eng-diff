@@ -18619,18 +18619,6 @@
         }
     },
     {
-        "group_id": "park_talk-multi-a01-house-day-chat-1",
-        "simple_adv_character_id": "chr-00001",
-        "number": 4,
-        "data": {
-            "groupId": "park_talk-multi-a01-house-day-chat-1",
-            "simpleAdvCharacterId": "chr-00001",
-            "number": 4,
-            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-1-00001-4",
-            "characterVoiceId": "cv-talk-react_chr-00001_glad-humming-01"
-        }
-    },
-    {
         "group_id": "park_talk-multi-a01-square-day-chat-158",
         "simple_adv_character_id": "chr-04007",
         "number": 4,
@@ -18641,18 +18629,6 @@
             "simpleAdvTextLangId": "la-park_talk-multi-a01-square-day-chat-158-04010-4",
             "simpleAdvMotionAssetId": "mot_define_general_chr_drs_ask01_{personality_type}_in_bdy00",
             "characterVoiceId": "cv-talk-react_chr-04007_shock-comical-02-en"
-        }
-    },
-    {
-        "group_id": "park_talk-multi-a01-station-day-chat-23",
-        "simple_adv_character_id": "chr-00026",
-        "number": 3,
-        "data": {
-            "groupId": "park_talk-multi-a01-station-day-chat-23",
-            "simpleAdvCharacterId": "chr-00026",
-            "number": 3,
-            "simpleAdvTextLangId": "la-park_talk-multi-a01-station-day-chat-23-00026-3",
-            "characterVoiceId": "cv-talk-react_chr-00026_question-normal-02"
         }
     },
     {
@@ -25315,6 +25291,236 @@
         }
     },
     {
+        "group_id": "park_talk-area-a01-29-1-1",
+        "simple_adv_character_id": "",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-29-1-1",
+            "number": 1,
+            "advAssetId": "adv_area_01_01_29-01",
+            "afterTimePoint": 31
+        }
+    },
+    {
+        "group_id": "park_talk-area-a01-29-1-2-after",
+        "simple_adv_character_id": "",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-29-1-2-after",
+            "number": 1,
+            "advAssetId": "adv_area_01_01_29-02",
+            "afterTimePoint": 1
+        }
+    },
+    {
+        "group_id": "park_talk-area-a01-29-1-2",
+        "simple_adv_character_id": "chr-00037",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-29-1-2",
+            "simpleAdvCharacterId": "chr-00037",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a01-29-1-2-chr-00037",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00037_mg-combo-card-start-01"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a01-29-1-2",
+        "simple_adv_character_id": "chr-00039",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-29-1-2",
+            "simpleAdvCharacterId": "chr-00039",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a01-29-1-2-chr-00039",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00039_login-bonus-02"
+        }
+    },
+    {
+        "group_id": "park_talk-multi-a01-house-day-chat-1",
+        "simple_adv_character_id": "chr-00001",
+        "number": 4,
+        "data": {
+            "groupId": "park_talk-multi-a01-house-day-chat-1",
+            "simpleAdvCharacterId": "chr-00001",
+            "number": 4,
+            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-1-00001-4",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_dance00_typ000",
+            "characterVoiceId": "cv-talk-react_chr-00001_glad-humming-01"
+        }
+    },
+    {
+        "group_id": "park_talk-multi-a01-station-day-chat-23",
+        "simple_adv_character_id": "chr-00026",
+        "number": 3,
+        "data": {
+            "groupId": "park_talk-multi-a01-station-day-chat-23",
+            "simpleAdvCharacterId": "chr-00026",
+            "number": 3,
+            "simpleAdvTextLangId": "la-park_talk-multi-a01-station-day-chat-23-00026-3",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_dance00_typ000",
+            "characterVoiceId": "cv-talk-react_chr-00026_question-normal-02"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-00010",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-00010",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-00010",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00010_mg-combo-card-start-01"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-00014",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-00014",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-00014",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00014_login-bonus-01"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-00026",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-00026",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-00026",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00026_short-high-01"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-00035",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-00035",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-00035",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00035_login-bonus-01"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-00036",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-00036",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-00036",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00036_mg-circuit-dash-02"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-00037",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-00037",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-00037",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00037_mg-combo-card-start-01"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-00039",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-00039",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-00039",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-00039_login-bonus-02"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-03003",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-03003",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-03003",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-03003_live-deck-in"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-03006",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-03006",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-03006",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-03006_live-deck-in"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-04001",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-04001",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-04001",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-04001_mg-cooking-greeting-01"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-04014",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-04014",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-04014",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-04014_mg-circuit-dash-01"
+        }
+    },
+    {
+        "group_id": "park_talk-perm-a01-chase",
+        "simple_adv_character_id": "chr-06005",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-perm-a01-chase",
+            "simpleAdvCharacterId": "chr-06005",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-perm-a01-chase-chr-06005",
+            "simpleAdvMotionAssetId": "mot_sequence_general_chr_drs_wavehands00_{personality_type}",
+            "characterVoiceId": "cv-sys_chr-06005_mg-circuit-dash-01"
+        }
+    },
+    {
         "group_id": "park_talk-area-a02-11-1-3",
         "simple_adv_character_id": "chr-00018",
         "number": 1,
@@ -28971,6 +29177,19 @@
         }
     },
     {
+        "group_id": "park_talk-multi-a01-house-day-chat-13",
+        "simple_adv_character_id": "chr-00001",
+        "number": 2,
+        "data": {
+            "groupId": "park_talk-multi-a01-house-day-chat-13",
+            "simpleAdvCharacterId": "chr-00001",
+            "number": 2,
+            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-13-00015-2",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_glad02_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-talk-react_chr-00001_shock-comical-02"
+        }
+    },
+    {
         "group_id": "park_talk-multi-a01-house-day-chat-12",
         "simple_adv_character_id": "chr-00013",
         "number": 3,
@@ -28985,6 +29204,19 @@
         }
     },
     {
+        "group_id": "park_talk-multi-a01-house-day-chat-13",
+        "simple_adv_character_id": "chr-00015",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-multi-a01-house-day-chat-13",
+            "simpleAdvCharacterId": "chr-00015",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-13-00015-1",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_yes00_{personality_type}_in_upb00",
+            "characterVoiceId": "cv-talk-react_chr-00015_sad-small-01"
+        }
+    },
+    {
         "group_id": "park_talk-multi-a01-house-day-chat-12",
         "simple_adv_character_id": "chr-00039",
         "number": 2,
@@ -28996,6 +29228,19 @@
             "simpleAdvMotionAssetId": "mot_define_general_chr_drs_anger02_{personality_type}_in_bdy00",
             "characterVoiceId": "cv-talk-react_chr-00039_advice-small-01",
             "seAssetId": "se_adv_boom-01"
+        }
+    },
+    {
+        "group_id": "park_talk-multi-a01-house-day-chat-13",
+        "simple_adv_character_id": "chr-00015",
+        "number": 3,
+        "data": {
+            "groupId": "park_talk-multi-a01-house-day-chat-13",
+            "simpleAdvCharacterId": "chr-00015",
+            "number": 3,
+            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-13-00015-3",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_happy00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-talk-react_chr-00015_glad-small-02"
         }
     },
     {
@@ -29157,20 +29402,6 @@
     {
         "group_id": "park_talk-multi-a01-house-day-chat-13",
         "simple_adv_character_id": "chr-00001",
-        "number": 2,
-        "data": {
-            "groupId": "park_talk-multi-a01-house-day-chat-13",
-            "simpleAdvCharacterId": "chr-00001",
-            "number": 2,
-            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-13-00015-2",
-            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_glad02_{personality_type}_in_bdy00",
-            "characterVoiceId": "cv-talk-react_chr-00001_shock-comical-02",
-            "seAssetId": "se_adv_pop-01"
-        }
-    },
-    {
-        "group_id": "park_talk-multi-a01-house-day-chat-13",
-        "simple_adv_character_id": "chr-00001",
         "number": 4,
         "data": {
             "groupId": "park_talk-multi-a01-house-day-chat-13",
@@ -29179,34 +29410,6 @@
             "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-13-00015-4",
             "simpleAdvMotionAssetId": "mot_define_general_chr_drs_yes01_{personality_type}_in_upb00",
             "characterVoiceId": "cv-talk-react_chr-00001_laugh-small-01"
-        }
-    },
-    {
-        "group_id": "park_talk-multi-a01-house-day-chat-13",
-        "simple_adv_character_id": "chr-00015",
-        "number": 1,
-        "data": {
-            "groupId": "park_talk-multi-a01-house-day-chat-13",
-            "simpleAdvCharacterId": "chr-00015",
-            "number": 1,
-            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-13-00015-1",
-            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_yes00_{personality_type}_in_upb00",
-            "characterVoiceId": "cv-talk-react_chr-00015_sad-small-01",
-            "seAssetId": "se_adv_sparkle-01"
-        }
-    },
-    {
-        "group_id": "park_talk-multi-a01-house-day-chat-13",
-        "simple_adv_character_id": "chr-00015",
-        "number": 3,
-        "data": {
-            "groupId": "park_talk-multi-a01-house-day-chat-13",
-            "simpleAdvCharacterId": "chr-00015",
-            "number": 3,
-            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-13-00015-3",
-            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_happy00_{personality_type}_in_bdy00",
-            "characterVoiceId": "cv-talk-react_chr-00015_glad-small-02",
-            "seAssetId": "se_adv_blunder-01"
         }
     },
     {
@@ -29608,6 +29811,19 @@
         }
     },
     {
+        "group_id": "park_talk-multi-a01-house-day-chat-17",
+        "simple_adv_character_id": "chr-00015",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-multi-a01-house-day-chat-17",
+            "simpleAdvCharacterId": "chr-00015",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-17-00015-1",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_happy00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-talk-react_chr-00015_address-normal-02"
+        }
+    },
+    {
         "group_id": "park_talk-multi-a01-house-day-chat-15",
         "simple_adv_character_id": "chr-00018",
         "number": 4,
@@ -29658,20 +29874,6 @@
             "simpleAdvMotionAssetId": "mot_define_general_chr_drs_sad00_{personality_type}_in_bdy00",
             "characterVoiceId": "cv-talk-react_chr-00015_question-normal-01",
             "seAssetId": "se_adv_blunder-01"
-        }
-    },
-    {
-        "group_id": "park_talk-multi-a01-house-day-chat-17",
-        "simple_adv_character_id": "chr-00015",
-        "number": 1,
-        "data": {
-            "groupId": "park_talk-multi-a01-house-day-chat-17",
-            "simpleAdvCharacterId": "chr-00015",
-            "number": 1,
-            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-17-00015-1",
-            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_happy00_{personality_type}_in_bdy00",
-            "characterVoiceId": "cv-talk-react_chr-00015_address-normal-02",
-            "seAssetId": "se_adv_ding-01"
         }
     },
     {
@@ -30313,6 +30515,20 @@
         }
     },
     {
+        "group_id": "park_talk-a01-evening-chat-1",
+        "simple_adv_character_id": "chr-00006",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-a01-evening-chat-1",
+            "simpleAdvCharacterId": "chr-00006",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-a01-evening-chat-7-00006",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_phone-hold01_{personality_type}_lp_bdy00",
+            "isBalloon": true,
+            "propAssetId": "mdl_chr_prp_00000-smartphone-0000-00_smartphone"
+        }
+    },
+    {
         "group_id": "park_talk-multi-a01-house-day-chat-5",
         "simple_adv_character_id": "chr-00002",
         "number": 1,
@@ -30585,19 +30801,6 @@
             "simpleAdvTextLangId": "la-park_talk-a01-evening-chat-24-00036",
             "simpleAdvMotionAssetId": "mot_define_general_chr_drs_glad01_{personality_type}_in_bdy00",
             "isBalloon": true
-        }
-    },
-    {
-        "group_id": "park_talk-a01-evening-chat-1",
-        "simple_adv_character_id": "chr-00006",
-        "number": 1,
-        "data": {
-            "groupId": "park_talk-a01-evening-chat-1",
-            "simpleAdvCharacterId": "chr-00006",
-            "number": 1,
-            "simpleAdvTextLangId": "la-park_talk-a01-evening-chat-7-00006",
-            "isBalloon": true,
-            "propAssetId": "mdl_chr_prp_00000-smartphone-0000-00_smartphone"
         }
     },
     {
@@ -30916,6 +31119,19 @@
         }
     },
     {
+        "group_id": "park_talk-multi-a01-house-day-chat-9",
+        "simple_adv_character_id": "chr-00013",
+        "number": 3,
+        "data": {
+            "groupId": "park_talk-multi-a01-house-day-chat-9",
+            "simpleAdvCharacterId": "chr-00013",
+            "number": 3,
+            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-9-00013-3",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_come00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-talk-react_chr-00013_enjoy-big-01"
+        }
+    },
+    {
         "group_id": "park_talk-a01-evening-chat-1",
         "simple_adv_character_id": "chr-06003",
         "number": 1,
@@ -31174,20 +31390,6 @@
             "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-9-00013-1",
             "simpleAdvMotionAssetId": "mot_define_general_chr_drs_ask01_{personality_type}_in_bdy00",
             "characterVoiceId": "cv-talk-react_chr-00013_conjunction-12"
-        }
-    },
-    {
-        "group_id": "park_talk-multi-a01-house-day-chat-9",
-        "simple_adv_character_id": "chr-00013",
-        "number": 3,
-        "data": {
-            "groupId": "park_talk-multi-a01-house-day-chat-9",
-            "simpleAdvCharacterId": "chr-00013",
-            "number": 3,
-            "simpleAdvTextLangId": "la-park_talk-multi-a01-house-day-chat-9-00013-3",
-            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_come00_{personality_type}_in_bdy00",
-            "characterVoiceId": "cv-talk-react_chr-00013_enjoy-big-01",
-            "seAssetId": "se_adv_pop-01"
         }
     },
     {

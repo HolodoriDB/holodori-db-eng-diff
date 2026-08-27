@@ -7,7 +7,7 @@
             "randomMatchMinUserCount": 1,
             "privateRoomMinUserCount": 2,
             "miniGameBetCoinConsumptionGroupId": "circuit-bet-coin-consumption-group",
-            "timeLimitSecondsAfterTopRankClear": 30,
+            "timeLimitSecondsAfterTopRankClear": 300,
             "firstLapClearThresholdRank": 8,
             "randomMatchStartTimeLimitSeconds": 30,
             "multiGameSetupTimeLimitSeconds": 25,

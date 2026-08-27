@@ -190,5 +190,17 @@
             "archiveViewConditionGroupId": "cd-quest_clear-quest-area-02-15",
             "unlockConditionGroupId": "cd-quest_clear-quest-area-02-15"
         }
+    },
+    {
+        "area_story_chapter_id": "area_story_chapter_area-a01",
+        "number": 11,
+        "data": {
+            "areaStoryChapterId": "area_story_chapter_area-a01",
+            "number": 11,
+            "titleLangId": "la-area_story_chapter_area-a01-011",
+            "storyId": "story-area_story_chapter_area-a01_011",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-area-a01-29",
+            "unlockConditionGroupId": "cd-quest_clear-quest-area-a01-29"
+        }
     }
 ]

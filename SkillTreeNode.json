@@ -1,5 +1,26 @@
 [
     {
+        "group_id": "G-024",
+        "number": 1,
+        "data": {
+            "groupId": "G-024",
+            "number": 1,
+            "type": "SkillTreeNodeType_SKILL_TREE_NODE_TYPE_ALL_MEMBER",
+            "grade": 1,
+            "skillTreeEffectId": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-chase",
+            "viewConditionGroupId": "cd-player_level-30",
+            "consumptionSkillTreePointQuantity": 3,
+            "autoSelectionPriority": 1,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "160"
+                }
+            ]
+        }
+    },
+    {
         "group_id": "G-015",
         "number": 1,
         "data": {

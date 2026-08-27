@@ -49,6 +49,33 @@
         }
     },
     {
+        "id": "tips-chase",
+        "data": {
+            "id": "tips-chase",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-chase-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-chase-quest",
+        "data": {
+            "id": "tips-chase-quest",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-chase-quest-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-chase",
+        "data": {
+            "id": "tips-game_screen-chase",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-chase-title",
+            "order": 1
+        }
+    },
+    {
         "id": "tips-achievement",
         "data": {
             "id": "tips-achievement",

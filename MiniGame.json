@@ -75,5 +75,24 @@
             "multiGameTopTipsId": "tips-game_screen-combo-card-game",
             "order": 4
         }
+    },
+    {
+        "type": 5,
+        "data": {
+            "type": "MiniGameType_MINI_GAME_TYPE_CHASE",
+            "nameLangId": "la-mini_game-chase-name",
+            "descriptionLangId": "la-mini_game-chase-description",
+            "titleAssetId": "chase",
+            "listAssetId": "chase",
+            "parkActionType": "ParkActionType_PARK_ACTION_TYPE_MULTI_GAME_MINI_GAME",
+            "consumptionType": "MiniGameConsumptionType_MINI_GAME_CONSUMPTION_TYPE_REWARD_UP_STAMINA",
+            "characterDisplayType": "MiniGameCharacterDisplayType_MINI_GAME_CHARACTER_DISPLAY_TYPE_DISPLAY_3_D",
+            "isMultiGame": true,
+            "rankingViewDescriptionLangId": "la-mini_game-chase_game-ranking_view_description_lang_id",
+            "rankingScoreTypeLangId": "la-mini_game-chase-ranking_score_type_lang_id",
+            "miniGameTopTipsId": "tips-game_screen-chase",
+            "multiGameTopTipsId": "tips-game_screen-chase",
+            "order": 5
+        }
     }
 ]

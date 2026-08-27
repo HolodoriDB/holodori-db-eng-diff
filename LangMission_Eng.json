@@ -9835,6 +9835,48 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_key_use_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_key_use_count-description",
+            "text": "Used {0} keys."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
+            "text": "Disarmed the laser device {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
+            "text": "Got captured {0} times."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-name",
+            "text": "Do you like clingy partners?"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+            "text": "Catched {0} times."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_win_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_win_count-description",
+            "text": "Win {0} times."
+        }
+    },
+    {
         "id": "la-mission-achievement-common-increment_circuit_crash_count-korone-description",
         "data": {
             "id": "la-mission-achievement-common-increment_circuit_crash_count-korone-description",
@@ -10140,6 +10182,13 @@
         "data": {
             "id": "la-mission-achievement-common-increment_login_count-description",
             "text": "Log in for {0} days."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_mini_game_play_count-chase-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_mini_game_play_count-chase-description",
+            "text": "Play {0} times."
         }
     },
     {
@@ -10654,6 +10703,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
+            "text": "Use a Key {0} time(s) in Shadowbound Chase."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
+            "text": "Capture {0} player(s) in Shadowbound Chase."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_win_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_win_count",
+            "text": "Win Shadowbound Chase {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_live_play_count",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_play_count-chase",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_play_count-chase",
+            "text": "Play Shadowbound Chase {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_stamina_consumption",
+            "text": "Use a total of {0} Minigame Boost(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mission_clear_count-event_normal-mission_grp-chase_celebration-260828",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mission_clear_count-event_normal-mission_grp-chase_celebration-260828",
+            "text": "Let’s complete all the Missions!"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_multi_live_play_count",
+            "text": "Play a Live Together {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_park_present_receive_count",
+            "text": "Receive presents from holomem {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
+            "text": "Complete Holowork tasks {0} time(s)."
+        }
+    },
+    {
         "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
         "data": {
             "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -10980,6 +11099,181 @@
         "data": {
             "id": "la-mission-mission_pass-0001-weekly-increment_work_start_count-name",
             "text": "Start Holowork tasks {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_card_level_up_count-name",
+            "text": "Level up a Member {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_drop_item_get_count-name",
+            "text": "Pick up {0} Hidden Treasure(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_live_play_count-name",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_mini_game_play_count-name",
+            "text": "Play a Minigame {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_multi_live_play_count-name",
+            "text": "Play a Live Together {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_park_present_receive_count-name",
+            "text": "Receive presents from holomem {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_park_quest_clear_count-daily-name",
+            "text": "Complete {0} Daily Quest(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_work_start_count-name",
+            "text": "Start a Holowork task {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-exchangebooth-name",
+            "text": "Upgrade the NePoLaBo Mart Facility Lv {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-station-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-station-name",
+            "text": "Upgrade the Gamers Station Facility Lv {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a02-facility-a02-station-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a02-facility-a02-station-name",
+            "text": "Upgrade the Mega Coaster Facility Lv {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_live_clear_music_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_live_clear_music_count-name",
+            "text": "Complete {0} different types of Lives."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-increment_chase_mischief_team_key_use_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-increment_chase_mischief_team_key_use_count-name",
+            "text": "Use a Key {0} time(s) in Shadowbound Chase."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
+            "text": "Capture {0} player(s) in Shadowbound Chase."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_card_level_limit_break_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_card_level_limit_break_count-name",
+            "text": "Train a Member {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_drop_item_get_count-name",
+            "text": "Pick up {0} Hidden Treasure(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+            "text": "Make {0} exchange(s) using Hologold at the NePoLaBo Mart."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_live_play_count-name",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_live_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_live_stamina_consumption-name",
+            "text": "Use a total of {0} Live Boost(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_mini_game_play_count-name",
+            "text": "Play a Minigame {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_mini_game_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_mini_game_stamina_consumption-name",
+            "text": "Use a total of {0} Minigame Boost(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_multi_live_play_count-name",
+            "text": "Play a Live Together {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_music_creative_chart_live_clear_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_music_creative_chart_live_clear_count-name",
+            "text": "Clear a Created Chart Song {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_skill_tree_release_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_skill_tree_release_count-name",
+            "text": "Unlock {0} Holomem Board(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_work_start_count-name",
+            "text": "Start a Holowork task {0} time(s)."
         }
     },
     {

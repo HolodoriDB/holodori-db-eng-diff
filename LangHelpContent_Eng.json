@@ -224,6 +224,20 @@
         }
     },
     {
+        "id": "la-help_category-faq-live-6-text",
+        "data": {
+            "id": "la-help_category-faq-live-6-text",
+            "text": "If multiple Active Skills with the same effect are triggered simultaneously, the skill with the higher effect takes precedence."
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-6-title",
+        "data": {
+            "id": "la-help_category-faq-live-6-title",
+            "text": "If multiple Active Skills with the same effect are triggered, do their effects stack?"
+        }
+    },
+    {
         "id": "la-help_category-faq-others-1-text",
         "data": {
             "id": "la-help_category-faq-others-1-text",
@@ -382,6 +396,20 @@
         "data": {
             "id": "la-help_category-faq-questions-2-text",
             "text": "You can cancel your Membership and HoloPassport subscriptions by following the steps below.\n\n[iOS Devices]\n1. Select your Player Name from [Settings].\n2. Select [Subscription].\n3. Select [hololive Dreams] subscription.\n4. Select [Cancel Subscription] to end subscription.\n\n[AndroidDevices]\n1. Select Player Icon in Google Play Store.\n2. Select [Payments & Subscriptions].\n3. Select [Subscriptions].\n4. Select [hololive Dreams].\n5. Select [Cancel Subscription].\n\n▼Important Notes\n・If you have any concerns about the cancellation procedure, please contact your platform provider.\n・Please note that deleting the app or save data will not cancel your subscription. Please be careful.\n・If you wish to cancel, please do so 3 days (72 hours) before the automatic renewal date.\n* If it’s within 3 days (72 hours) of the automatic renewal, the platform may not be able to cancel the subscription within the deadline.\n・Even if the subscription is canceled during the valid period, you can continue to use the corresponding services until the subcription period ends."
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-text-android",
+        "data": {
+            "id": "la-help_category-faq-questions-2-text-android",
+            "text": "You can cancel your Membership and HoloPassport subscriptions by following the steps below.\n\n1. Select Player Icon in Google Play Store.\n2. Select [Payments & Subscriptions].\n3. Select [Subscriptions].\n4. Select [hololive Dreams].\n5. Select [Cancel Subscription].\n\n▼Important Notes\n・If you have any concerns about the cancellation procedure, please contact your platform provider.\n・Please note that deleting the app or save data will not cancel your subscription. Please be careful.\n・If you wish to cancel, please do so 3 days (72 hours) before the automatic renewal date.\n* If it’s within 3 days (72 hours) of the automatic renewal, the platform may not be able to cancel the subscription within the deadline.\n・Even if the subscription is canceled during the valid period, you can continue to use the corresponding services until the subcription period ends."
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-text-ios",
+        "data": {
+            "id": "la-help_category-faq-questions-2-text-ios",
+            "text": "You can cancel your Membership and HoloPassport subscriptions by following the steps below.\n\n1. Select your Player Name from [Settings].\n2. Select [Subscription].\n3. Select [hololive Dreams] subscription.\n4. Select [Cancel Subscription] to end subscription.\n\n▼Important Notes\n・If you have any concerns about the cancellation procedure, please contact your platform provider.\n・Please note that deleting the app or save data will not cancel your subscription. Please be careful.\n・If you wish to cancel, please do so 3 days (72 hours) before the automatic renewal date.\n* If it’s within 3 days (72 hours) of the automatic renewal, the platform may not be able to cancel the subscription within the deadline.\n・Even if the subscription is canceled during the valid period, you can continue to use the corresponding services until the subcription period ends."
         }
     },
     {
@@ -577,7 +605,7 @@
         "id": "la-help_category-help-card-2-text",
         "data": {
             "id": "la-help_category-help-card-2-text",
-            "text": "Each member possesses three of the following skills.\n\n▼Member skills\n・Special Skill: A powerful skill that can activated once during a Live (order of activation is determined by formation order)\n・Active Skill: A skill that activates randomly during Live at a certain intervals.\n・Passive Skill: A skill that constantly provides an effect if conditions are met.\n\nBloom members to level up skill effects."
+            "text": "Each member possesses three of the following skills.\n\n▼Member skills\n・Special Skill: A powerful skill that can activated once during a Live (order of activation is determined by formation order)\n・Active Skill: A skill that activates randomly during Live at a certain intervals.\n・Passive Skill: A skill that constantly provides an effect if conditions are met.\n\n*If multiple Active Skills with the same effect are triggered simultaneously, the skill with the higher effect takes precedence.\n\nBloom members to level up skill effects."
         }
     },
     {
@@ -1061,6 +1089,20 @@
         "data": {
             "id": "la-help_category-help-game-6-title",
             "text": "Pokajan!"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-7-text",
+        "data": {
+            "id": "la-help_category-help-game-7-text",
+            "text": "Shadowbound Chase is a tag-style minigame where players split into two teams: the Prank Gang and the Patrol Squad.\nThe Prank Gang wins by unlocking the required number of facilities without getting caught by the Patrol Squad. The Patrol Squad wins by preventing the facilities from being unlocked until time runs out, or by catching the opposing team and putting every one of them into custody.\nRewards are earned based on your score, regardless of whether you win or lose.\n\nThis minigame is available only in Multiplayer and supports up to 10 players.\n\nFor more details, select [?] on the title screen and check the How to Play guide."
+        }
+    },
+    {
+        "id": "la-help_category-help-game-7-title",
+        "data": {
+            "id": "la-help_category-help-game-7-title",
+            "text": "About Shadowbound Chase"
         }
     },
     {

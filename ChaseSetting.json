@@ -2,7 +2,40 @@
     {
         "id": "1",
         "data": {
-            "id": "1"
+            "id": "1",
+            "maxUserCount": 10,
+            "randomMatchMinUserCount": 1,
+            "privateRoomMinUserCount": 2,
+            "randomMatchStartTimeLimitSeconds": 30,
+            "multiGameSetupTimeLimitSeconds": 30,
+            "miniGameRewardUpStaminaEffectGroupId": "mini_game_reward_up_stamina_effect-chase-01",
+            "miniGameRewardUpStaminaConsumptionUnit": 30,
+            "limitTimeSeconds": 180,
+            "mischiefTeamUserCount": 7,
+            "mischiefTeamMoveSpeed": 7,
+            "mischiefTeamViewRange": 3,
+            "mischiefTeamRescueMilliseconds": 1333,
+            "mischiefTeamRescueRange": 1,
+            "mischiefTeamRescueInvincibleMilliseconds": 1950,
+            "mischiefTeamMaxKeyCountPerUser": 3,
+            "mischiefTeamKeyUseRange": 1,
+            "mischiefTeamVignetteSize": 1,
+            "patrolTeamUserCount": 3,
+            "patrolTeamMoveSpeed": 6,
+            "patrolTeamOccupyRange": 1,
+            "patrolTeamOccupyMilliseconds": 2000,
+            "patrolTeamViewRange": 2,
+            "patrolTeamFlashlightWidth": 45,
+            "patrolTeamFlashlightLength": 5,
+            "patrolTeamVignetteSize": 1,
+            "stageReleasableFacilityCount": 8,
+            "stageReleaseRequiredFacilityCount": 5,
+            "stageFacilityReleaseRequiredKeyCount": 3,
+            "stageFacilityReleaseMilliseconds": 3500,
+            "stageFacilityReleaseTimePermilDown": 800,
+            "stageLaserGimmickReleaseKeyCount": 10000,
+            "stageLaserGimmickReappearEnabled": true,
+            "stageCameraHeight": -32
         }
     }
 ]

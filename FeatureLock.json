@@ -209,6 +209,14 @@
         }
     },
     {
+        "tutorial_type": 1005,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_CHASE",
+            "titleLangId": "la-feature_lock-chase",
+            "viewConditionGroupId": "cd-perm-a01-chase"
+        }
+    },
+    {
         "tutorial_type": 1101,
         "data": {
             "tutorialType": "TutorialType_TUTORIAL_TYPE_MINI_GAME_CONVERT_REWARD_UP_STAMINA_AREA02_BET_COIN",

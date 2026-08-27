@@ -1176,6 +1176,18 @@
         }
     },
     {
+        "type": 284,
+        "data": {
+            "soundAssetId": "se_sys_anim_430_live_create_dialog_publish"
+        }
+    },
+    {
+        "type": 285,
+        "data": {
+            "soundAssetId": "se_sys_anim_430_live_create_dialog_info"
+        }
+    },
+    {
         "type": 10000,
         "data": {
             "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_ROPE_1",
@@ -1894,6 +1906,188 @@
         "data": {
             "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_HIGH_LOW_DOUBLE_UP_CHANCE",
             "soundAssetId": "se_high_low_double_up_chance"
+        }
+    },
+    {
+        "type": 10500,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_WIN_CONDITION",
+            "soundAssetId": "se_mg_005_pkg-condition"
+        }
+    },
+    {
+        "type": 10502,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_KEY_PICK",
+            "soundAssetId": "se_mg_005_pkg-key-pick"
+        }
+    },
+    {
+        "type": 10503,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_KEY_USE",
+            "soundAssetId": "se_mg_005_pkg-key-use-01"
+        }
+    },
+    {
+        "type": 10504,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_KEY_CONFISCATED",
+            "soundAssetId": "se_mg_005_pkg-key-dropped"
+        }
+    },
+    {
+        "type": 10505,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_FACILITY_RELEASE",
+            "soundAssetId": "se_mg_005_pkg-facility-open"
+        }
+    },
+    {
+        "type": 10506,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_OCCUPIED",
+            "soundAssetId": "se_mg_005_pkg-player-catch"
+        }
+    },
+    {
+        "type": 10507,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_OCCUPIED_SMOKE",
+            "soundAssetId": "se_mg_005_pkg-player-smoke"
+        }
+    },
+    {
+        "type": 10508,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_OCCUPIED_RESTRAINT",
+            "soundAssetId": "se_mg_005_pkg-player-restraint"
+        }
+    },
+    {
+        "type": 10509,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_RESCUE",
+            "soundAssetId": "se_mg_005_pkg-player-rescue"
+        }
+    },
+    {
+        "type": 10510,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_RADAR_ACTIVATE",
+            "soundAssetId": "se_mg_005_pkg-skill-radar-activate"
+        }
+    },
+    {
+        "type": 10511,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_RADAR_ACTIVATING",
+            "soundAssetId": "se_mg_005_pkg-skill-radar-inaction"
+        }
+    },
+    {
+        "type": 10512,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_SPEED_UP_ACTIVATE",
+            "soundAssetId": "se_mg_005_pkg-skill-boost-activate"
+        }
+    },
+    {
+        "type": 10513,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_SPEED_UP_ACTIVATING",
+            "soundAssetId": "se_mg_005_pkg-skill-boost-inaction"
+        }
+    },
+    {
+        "type": 10514,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_PATROL_SKILL_STEALTH_ACTIVATE",
+            "soundAssetId": "se_mg_005_pkg-skill-stealth-activate"
+        }
+    },
+    {
+        "type": 10519,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANNOUNCE",
+            "soundAssetId": "se_mg_005_pkg-announce"
+        }
+    },
+    {
+        "type": 10520,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_FINISH",
+            "soundAssetId": "se_mg_001_pkg-finish"
+        }
+    },
+    {
+        "type": 10521,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_HEART_BEAT",
+            "soundAssetId": "se_mg_005_pkg-heartbeat"
+        }
+    },
+    {
+        "type": 10524,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANIMATION_START",
+            "soundAssetId": "se_mg_005_pkg-anim-start"
+        }
+    },
+    {
+        "type": 10525,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANIMATION_MESSAGE",
+            "soundAssetId": "se_mg_005_pkg-anim-message-on"
+        }
+    },
+    {
+        "type": 10526,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_COUNTDOWN",
+            "soundAssetId": "se_mg_005_pkg-countdown"
+        }
+    },
+    {
+        "type": 10530,
+        "data": {
+            "soundAssetId": "se_mg_005_pkg-player-rescue-middle"
+        }
+    },
+    {
+        "type": 10531,
+        "data": {
+            "soundAssetId": "se_mg_005_pkg-anim-message-off"
+        }
+    },
+    {
+        "type": 10532,
+        "data": {
+            "soundAssetId": "se_mg_005_pkg-key-use-02"
+        }
+    },
+    {
+        "type": 10533,
+        "data": {
+            "soundAssetId": "se_mg_005_pkg-key-use-03"
+        }
+    },
+    {
+        "type": 10534,
+        "data": {
+            "soundAssetId": "se_mg_005_pkg-announce-misthief"
+        }
+    },
+    {
+        "type": 10535,
+        "data": {
+            "soundAssetId": "se_mg_005_pkg-announce-patrol"
+        }
+    },
+    {
+        "type": 10536,
+        "data": {
+            "soundAssetId": "se_mg_005_pkg-countdown-end"
         }
     },
     {

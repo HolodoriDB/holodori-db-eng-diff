@@ -361,6 +361,42 @@
     },
     {
         "payment_method": 1,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.300002",
+        "shop_charge_item_id": "shop_charge_item_consumable-missionpass-260901",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_APPLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.300002",
+            "shopChargeItemId": "shop_charge_item_consumable-missionpass-260901"
+        }
+    },
+    {
+        "payment_method": 2,
+        "shop_charge_item_type": 1,
+        "product_id": "hololive.dreams.com.con.300002",
+        "shop_charge_item_id": "shop_charge_item_consumable-missionpass-260901",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_GOOGLE_IAP",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "hololive.dreams.com.con.300002",
+            "shopChargeItemId": "shop_charge_item_consumable-missionpass-260901"
+        }
+    },
+    {
+        "payment_method": 3,
+        "shop_charge_item_type": 1,
+        "product_id": "300002",
+        "shop_charge_item_id": "shop_charge_item_consumable-missionpass-260901",
+        "data": {
+            "paymentMethod": "PaymentMethod_PAYMENT_METHOD_STEAM_MTX",
+            "shopChargeItemType": "ShopChargeItemType_SHOP_CHARGE_ITEM_TYPE_CONSUMABLE",
+            "productId": "300002",
+            "shopChargeItemId": "shop_charge_item_consumable-missionpass-260901"
+        }
+    },
+    {
+        "payment_method": 1,
         "shop_charge_item_type": 3,
         "product_id": "hololive.dreams.com.sub.200001",
         "shop_charge_item_id": "shop_charge_item_subscription-benefit_pass-01-01",

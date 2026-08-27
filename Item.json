@@ -313,6 +313,39 @@
         }
     },
     {
+        "id": "item-event_badge-marathon_event-normal-003-chapter-01",
+        "data": {
+            "id": "item-event_badge-marathon_event-normal-003-chapter-01",
+            "nameLangId": "la-item-event_badge-marathon_event-normal-003-chapter-01-name",
+            "descriptionLangId": "la-item-event_badge-marathon_event-normal-003-chapter-01-description",
+            "type": "ItemType_ITEM_TYPE_MARATHON_EVENT_BADGE",
+            "commonLimitTime": "1789210799000",
+            "assetId": "event-badge-01",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-item-event_badge-marathon_event-normal-003-chapter-01",
+            "order": 5001,
+            "expirationRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "item-mini-game-chase-coin",
+        "data": {
+            "id": "item-mini-game-chase-coin",
+            "nameLangId": "la-item-mini-game-chase-coin-name",
+            "descriptionLangId": "la-item-mini-game-chase-coin-description",
+            "type": "ItemType_ITEM_TYPE_OTHER",
+            "assetId": "mini-game-chase-coin",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-item-mini-game-chase-coin",
+            "inventoryItemCategoryType": "InventoryItemCategoryType_INVENTORY_ITEM_CATEGORY_TYPE_OTHER",
+            "order": 21
+        }
+    },
+    {
         "id": "item-character_coin-chr-00012",
         "data": {
             "id": "item-character_coin-chr-00012",

@@ -148,5 +148,15 @@
             "textLangId": "la-instant_tips-bet_amount",
             "conditionGroupId": "cd-quest_clear-quest-main-w1-02-10"
         }
+    },
+    {
+        "id": "instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+        "data": {
+            "id": "instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+            "conditionGroupId": "cd-quest_clear-quest-area-a01-29"
+        }
     }
 ]

@@ -1,5 +1,16 @@
 [
     {
+        "id": "achievement_grp-minigame_chase",
+        "data": {
+            "id": "achievement_grp-minigame_chase",
+            "achievementCategoryType": "AchievementCategoryType_ACHIEVEMENT_CATEGORY_TYPE_MINI_GAME",
+            "nameLangId": "la-achievement_grp-minigame_chase",
+            "assetId": "img_achieve_icon_chase",
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_CHASE",
+            "order": 50
+        }
+    },
+    {
         "id": "achievement_grp-chr-00001",
         "data": {
             "id": "achievement_grp-chr-00001",

@@ -1,17 +1,6 @@
 [
     {
         "type": 100,
-        "severity_type": 2,
-        "parameter_type": 1000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
-            "threshold": "30"
-        }
-    },
-    {
-        "type": 100,
         "severity_type": 1,
         "parameter_type": 1000,
         "data": {
@@ -30,17 +19,6 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_JUMP_ROPE_SCORE_TAMPERING_ELAPSED_TIME_COEFFICIENT_PERMIL_MULTIPLY",
             "threshold": "3000"
-        }
-    },
-    {
-        "type": 1,
-        "severity_type": 2,
-        "parameter_type": 1,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
-            "threshold": "30"
         }
     },
     {
@@ -173,6 +151,15 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_SCORE_TAMPERING_SCORE",
             "threshold": "1000000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 2,
+        "parameter_type": 105000,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "10000"
         }
     },
     {
@@ -470,6 +457,98 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_RESULT_TOTAL_COUNT",
             "threshold": "25"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 2,
+        "parameter_type": 105002,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "10000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 2,
+        "parameter_type": 105001,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "5000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 1,
+        "parameter_type": 105000,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "3000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 1,
+        "parameter_type": 105002,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "3000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 1,
+        "parameter_type": 105001,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "3000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 2,
+        "parameter_type": 105003,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "10000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 2,
+        "parameter_type": 105004,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "10000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 1,
+        "parameter_type": 105003,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "5000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 1,
+        "parameter_type": 105004,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "5000"
+        }
+    },
+    {
+        "type": 1200,
+        "severity_type": 2,
+        "parameter_type": 102000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CIRCUIT_PER_AREA_PASS",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CIRCUIT_PER_AREA_PASS_TIME_MILLISECONDS",
+            "threshold": "3000"
         }
     }
 ]

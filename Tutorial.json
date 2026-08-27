@@ -10,6 +10,27 @@
         }
     },
     {
+        "type": 1005,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_CHASE",
+            "step": 1,
+            "unlockConditionGroupId": "cd-perm-a01-chase",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-chase"
+        }
+    },
+    {
+        "type": 2106,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_QUEST_CHASE",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-chase-quest"
+        }
+    },
+    {
         "type": 1501,
         "step": 1,
         "data": {

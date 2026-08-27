@@ -1,5 +1,20 @@
 [
     {
+        "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-chase",
+        "data": {
+            "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-chase",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "miniGameTypes": [
+                "MiniGameType_MINI_GAME_TYPE_CHASE"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-chase-description"
+        }
+    },
+    {
         "id": "skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always",
         "data": {
             "id": "skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always",

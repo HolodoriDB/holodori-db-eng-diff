@@ -61206,6 +61206,35 @@
         }
     },
     {
+        "id": "target_map-a01-chase",
+        "data": {
+            "id": "target_map-a01-chase",
+            "nameLangId": "la-target_map-a01-chase",
+            "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
+            "parkNpcGroupId": "npc_group-perm-a01-chase",
+            "parkPositionId": "park_pos-a01-chase-content_01"
+        }
+    },
+    {
+        "id": "target_map-area-a01-29-1-1",
+        "data": {
+            "id": "target_map-area-a01-29-1-1",
+            "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
+            "parkNpcGroupId": "npc_group-area-a01-29-1-1",
+            "parkPositionId": "park_pos-a01-secretbase-quest_03"
+        }
+    },
+    {
+        "id": "target_map-area-a01-29-1-2",
+        "data": {
+            "id": "target_map-area-a01-29-1-2",
+            "nameLangId": "la-target_map-area-a01-29-1-2",
+            "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
+            "parkNpcGroupId": "npc_group-area-a01-29-1-2",
+            "parkPositionId": "park_pos-a01-secretbase-quest_03"
+        }
+    },
+    {
         "id": "target_map-daily-live-00015-1-2",
         "data": {
             "id": "target_map-daily-live-00015-1-2",

@@ -180,6 +180,26 @@
         }
     },
     {
+        "group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-003-chapter-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-event_badge-marathon_event-normal-003-chapter-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-003-chapter-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-mini-game-chase-coin",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-mini-game-chase-coin",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-chase",
+            "facilityId": "facility-a01-secretbase",
+            "conditionGroupId": "cd-perm-a01-chase"
+        }
+    },
+    {
         "group_id": "resource_obtainment_route-item-skill_tree_content-2",
         "number": 3,
         "data": {

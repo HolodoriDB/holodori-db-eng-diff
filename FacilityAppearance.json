@@ -212,6 +212,98 @@
         }
     },
     {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 3,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 3,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-prg-01",
+            "viewConditionGroupId": "cd-facility-a01-secretbase-prg-01"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 4,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 4,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-prg-01-night",
+            "viewConditionGroupId": "cd-facility-a01-secretbase-prg-01-night"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 5,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 5,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-01",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-secretbase-00",
+            "viewConditionGroupId": "cd-facility-a01-secretbase-01",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-secretbase-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 6,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 6,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-01-night",
+            "iconAssetIds": [
+                "facility"
+            ],
+            "mapImageAssetId": "area-a01-secretbase-00",
+            "viewConditionGroupId": "cd-facility-a01-secretbase-01-night",
+            "isWarpAvailable": true,
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-secretbase-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 7,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 7,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-01",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a01-secretbase-00",
+            "miniIconAssetId": "chase",
+            "viewConditionGroupId": "cd-perm-a01-chase",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-secretbase",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-secretbase-00"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 8,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 8,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-01-night",
+            "iconAssetIds": [
+                "minigame"
+            ],
+            "mapImageAssetId": "area-a01-secretbase-00",
+            "miniIconAssetId": "chase",
+            "viewConditionGroupId": "cd-perm-a01-chase-night",
+            "isWarpAvailable": true,
+            "labelLangId": "la-label-facility-a01-secretbase",
+            "isShowInMap": true,
+            "mapPrefabAssetId": "area-a01-secretbase-00"
+        }
+    },
+    {
         "facility_id": "facility-a01-gate2",
         "priority": 1,
         "data": {
@@ -1235,15 +1327,6 @@
         }
     },
     {
-        "facility_id": "facility-a01-secretbase",
-        "priority": 1,
-        "data": {
-            "facilityId": "facility-a01-secretbase",
-            "priority": 1,
-            "assetId": "mdl_env_park_area-a01-facility-secretbase-pre-01"
-        }
-    },
-    {
         "facility_id": "facility-a01-house",
         "priority": 2,
         "data": {
@@ -1281,26 +1364,6 @@
             "priority": 3,
             "assetId": "mdl_env_park_area-a02-facility-dome-01",
             "viewConditionGroupId": "cd-area-a02-game-repair"
-        }
-    },
-    {
-        "facility_id": "facility-a01-secretbase",
-        "priority": 3,
-        "data": {
-            "facilityId": "facility-a01-secretbase",
-            "priority": 3,
-            "assetId": "mdl_env_park_area-a01-facility-secretbase-prg-01",
-            "viewConditionGroupId": "cd-facility-a01-secretbase-prg-01"
-        }
-    },
-    {
-        "facility_id": "facility-a01-secretbase",
-        "priority": 4,
-        "data": {
-            "facilityId": "facility-a01-secretbase",
-            "priority": 4,
-            "assetId": "mdl_env_park_area-a01-facility-secretbase-prg-01-night",
-            "viewConditionGroupId": "cd-facility-a01-secretbase-prg-01-night"
         }
     },
     {
@@ -1388,40 +1451,6 @@
             "priority": 2,
             "assetId": "mdl_env_park_area-a01-facility-ferriswheelinside2-01-evening",
             "viewConditionGroupId": "cd-park_period-evening"
-        }
-    },
-    {
-        "facility_id": "facility-a01-secretbase",
-        "priority": 5,
-        "data": {
-            "facilityId": "facility-a01-secretbase",
-            "priority": 5,
-            "assetId": "mdl_env_park_area-a01-facility-secretbase-01",
-            "iconAssetIds": [
-                "facility"
-            ],
-            "mapImageAssetId": "area-a01-secretbase-00",
-            "viewConditionGroupId": "cd-facility-a01-secretbase-01",
-            "isWarpAvailable": true,
-            "isShowInMap": true,
-            "mapPrefabAssetId": "area-a01-secretbase-00"
-        }
-    },
-    {
-        "facility_id": "facility-a01-secretbase",
-        "priority": 6,
-        "data": {
-            "facilityId": "facility-a01-secretbase",
-            "priority": 6,
-            "assetId": "mdl_env_park_area-a01-facility-secretbase-01-night",
-            "iconAssetIds": [
-                "facility"
-            ],
-            "mapImageAssetId": "area-a01-secretbase-00",
-            "viewConditionGroupId": "cd-facility-a01-secretbase-01-night",
-            "isWarpAvailable": true,
-            "isShowInMap": true,
-            "mapPrefabAssetId": "area-a01-secretbase-00"
         }
     },
     {
@@ -1572,6 +1601,15 @@
             "assetId": "mdl_env_park_area-a01-facility-gate2-01",
             "viewConditionGroupId": "cd-facility-a01-gate2_map_hidden",
             "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-01-1-3"
+        }
+    },
+    {
+        "facility_id": "facility-a01-secretbase",
+        "priority": 1,
+        "data": {
+            "facilityId": "facility-a01-secretbase",
+            "priority": 1,
+            "assetId": "mdl_env_park_area-a01-facility-secretbase-pre-01"
         }
     },
     {

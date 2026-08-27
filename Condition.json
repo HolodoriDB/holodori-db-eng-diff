@@ -9572,6 +9572,1759 @@
         }
     },
     {
+        "group_id": "cd-banner-birthday-jack",
+        "number": 5,
+        "data": {
+            "groupId": "cd-banner-birthday-jack",
+            "number": 5,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1788015600000",
+            "endTime": "1788101999000"
+        }
+    },
+    {
+        "group_id": "cd-character_get_count-all",
+        "number": 1,
+        "data": {
+            "groupId": "cd-character_get_count-all",
+            "number": 1
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-01",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-01",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00006-5-uniq-0074-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "1"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-02",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-02",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00006-5-uniq-0074-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "2"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-03",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-03",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00006-5-uniq-0074-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "3"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-04",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-04",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00006-5-uniq-0074-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "4"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-05",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00006_00006-5-uniq-0074-00_card-potential-05",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00006-5-uniq-0074-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "5"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-01",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-01",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00014-5-uniq-0075-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "1"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-02",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-02",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00014-5-uniq-0075-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "2"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-03",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-03",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00014-5-uniq-0075-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "3"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-04",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-04",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00014-5-uniq-0075-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "4"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-05",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00014_00014-5-uniq-0075-00_card-potential-05",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00014-5-uniq-0075-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "5"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-01",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-01",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00016-5-uniq-0076-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "1"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-02",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-02",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00016-5-uniq-0076-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "2"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-03",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-03",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00016-5-uniq-0076-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "3"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-04",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-04",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00016-5-uniq-0076-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "4"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-05",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00016_00016-5-uniq-0076-00_card-potential-05",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00016-5-uniq-0076-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "5"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-01",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-01",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00017-5-uniq-0077-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "1"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-02",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-02",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00017-5-uniq-0077-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "2"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-03",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-03",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00017-5-uniq-0077-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "3"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-04",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-04",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00017-5-uniq-0077-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "4"
+        }
+    },
+    {
+        "group_id": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-05",
+        "number": 1,
+        "data": {
+            "groupId": "cd-cv-cmn_chr-00017_00017-5-uniq-0077-00_card-potential-05",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_UPGRADE_POTENTIAL_COUNT",
+            "resourceId1": "card-00017-5-uniq-0077-00",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "5"
+        }
+    },
+    {
+        "group_id": "cd-event_end-marathon_event-normal-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-event_end-marathon_event-normal-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1789210800000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000",
+            "descriptionLangId": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_level_up-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_level_up-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-001-2-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-001-2-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-2-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-2-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-live_auto_play-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-live_auto_play-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001-first_month-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001-first_month-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001-first_month-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001-first_month-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "endTime": "1788206399000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001-view_condition",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_OR",
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-003"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001-view_condition",
+        "number": 2,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001-view_condition",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1790798400000"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_level_up-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_level_up-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_level_up-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_level_up-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_level_up-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_level_up-002"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_limit_break-cmn-sr-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_limit_break-cmn-sr-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_limit_break-cmn-sr-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-gold-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-gold-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-gold-001"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-gold-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-gold-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-gold-002"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_level_up-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_level_up-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_level_up-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_1-2-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_2-2-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-card_limit_break-attribute_3-2-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-001-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-001-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-001-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-live_auto_play-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-live_auto_play-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-live_auto_play-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_allmember-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-skill_tree_content-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_level_up-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_1-2-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_2-2-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-attribute_3-2-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-004",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-004",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-card_limit_break-cmn-sr-004",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-live_auto_play-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_allmember-2-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-1-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-001",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-001",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-001",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-002",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-002",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-002",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-003",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-003",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-skill_tree_content-2-003",
+            "descriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "detailDescriptionLangId": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description"
+        }
+    },
+    {
+        "group_id": "cd-marathon_event-area_02_clear",
+        "number": 1,
+        "data": {
+            "groupId": "cd-marathon_event-area_02_clear",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_PARK_QUEST_CLEAR",
+            "resourceId1": "quest-main-w1-02-12",
+            "descriptionLangId": "la-music_lock_description-m0301"
+        }
+    },
+    {
+        "group_id": "cd-missionpass-260901",
+        "number": 1,
+        "data": {
+            "groupId": "cd-missionpass-260901",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_TERM_DATETIME",
+            "startTime": "1788206400000"
+        }
+    },
+    {
+        "group_id": "cd-obtain-card-00006-5-uniq-0074-00",
+        "number": 1,
+        "data": {
+            "groupId": "cd-obtain-card-00006-5-uniq-0074-00",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_GET",
+            "resourceId1": "card-00006-5-uniq-0074-00"
+        }
+    },
+    {
+        "group_id": "cd-obtain-card-00014-5-uniq-0075-00",
+        "number": 1,
+        "data": {
+            "groupId": "cd-obtain-card-00014-5-uniq-0075-00",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_GET",
+            "resourceId1": "card-00014-5-uniq-0075-00"
+        }
+    },
+    {
+        "group_id": "cd-obtain-card-00016-5-uniq-0076-00",
+        "number": 1,
+        "data": {
+            "groupId": "cd-obtain-card-00016-5-uniq-0076-00",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_GET",
+            "resourceId1": "card-00016-5-uniq-0076-00"
+        }
+    },
+    {
+        "group_id": "cd-obtain-card-00017-5-uniq-0077-00",
+        "number": 1,
+        "data": {
+            "groupId": "cd-obtain-card-00017-5-uniq-0077-00",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CARD_GET",
+            "resourceId1": "card-00017-5-uniq-0077-00"
+        }
+    },
+    {
+        "group_id": "cd-perm-a01-chase-night",
+        "number": 1,
+        "data": {
+            "groupId": "cd-perm-a01-chase-night",
+            "number": 1,
+            "operatorType": "ConditionOperatorType_CONDITION_OPERATOR_TYPE_AND",
+            "type": "ConditionType_CONDITION_TYPE_PARK_QUEST_CLEAR",
+            "resourceId1": "quest-area-a01-29"
+        }
+    },
+    {
+        "group_id": "cd-perm-a01-chase-night",
+        "number": 2,
+        "data": {
+            "groupId": "cd-perm-a01-chase-night",
+            "number": 2,
+            "type": "ConditionType_CONDITION_TYPE_PARK_TIME_PERIOD",
+            "resourceId1": "NIGHT"
+        }
+    },
+    {
+        "group_id": "cd-perm-a01-chase",
+        "number": 1,
+        "data": {
+            "groupId": "cd-perm-a01-chase",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_PARK_QUEST_CLEAR",
+            "resourceId1": "quest-area-a01-29",
+            "descriptionLangId": "la-cd-perm-a01-chase"
+        }
+    },
+    {
+        "group_id": "cd-quest-area-a01-29-unlock",
+        "number": 1,
+        "data": {
+            "groupId": "cd-quest-area-a01-29-unlock",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_PARK_QUEST_CLEAR",
+            "resourceId1": "quest-main-w1-01-24",
+            "descriptionLangId": "la-cd-quest-area-a01-29",
+            "detailDescriptionLangId": "la-cd-quest-area-a01-29-description"
+        }
+    },
+    {
+        "group_id": "cd-quest_clear-quest-area-a01-29",
+        "number": 1,
+        "data": {
+            "groupId": "cd-quest_clear-quest-area-a01-29",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_PARK_QUEST_CLEAR",
+            "resourceId1": "quest-area-a01-29"
+        }
+    },
+    {
         "group_id": "cd-quest_clear-quest-area-01-03",
         "number": 1,
         "data": {
@@ -19825,17 +21578,6 @@
             "resourceId2": "1",
             "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
             "min": "1"
-        }
-    },
-    {
-        "group_id": "cd-character_get_count-all",
-        "number": 1,
-        "data": {
-            "groupId": "cd-character_get_count-all",
-            "number": 1,
-            "type": "ConditionType_CONDITION_TYPE_CHARACTER_GET_COUNT",
-            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
-            "min": "54"
         }
     },
     {

@@ -8105,6 +8105,166 @@
         }
     },
     {
+        "id": "npc_group-area-a01-29-1-1",
+        "number": 0,
+        "park_npc_id": "npc-area-a01-29-1-1-00035",
+        "data": {
+            "id": "npc_group-area-a01-29-1-1",
+            "parkNpcId": "npc-area-a01-29-1-1-00035",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-area-a01-29-1-1",
+        "number": 0,
+        "park_npc_id": "npc-area-a01-29-1-1-00036",
+        "data": {
+            "id": "npc_group-area-a01-29-1-1",
+            "parkNpcId": "npc-area-a01-29-1-1-00036",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-area-a01-29-1-2",
+        "number": 0,
+        "park_npc_id": "npc-area-a01-29-1-2-00037",
+        "data": {
+            "id": "npc_group-area-a01-29-1-2",
+            "parkNpcId": "npc-area-a01-29-1-2-00037",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-area-a01-29-1-2",
+        "number": 0,
+        "park_npc_id": "npc-area-a01-29-1-2-00039",
+        "data": {
+            "id": "npc_group-area-a01-29-1-2",
+            "parkNpcId": "npc-area-a01-29-1-2-00039",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-00010",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-00010",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-00014",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-00014",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-00026",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-00026",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-00035",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-00035",
+            "ratio": 10000
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-00036",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-00036",
+            "ratio": 10000
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-00037",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-00037",
+            "ratio": 10000
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-00039",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-00039",
+            "ratio": 10000
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-03003",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-03003",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-03006",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-03006",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-04001",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-04001",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-04014",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-04014",
+            "ratio": 1
+        }
+    },
+    {
+        "id": "npc_group-perm-a01-chase",
+        "number": 0,
+        "park_npc_id": "npc-perm-a01-chase-06005",
+        "data": {
+            "id": "npc_group-perm-a01-chase",
+            "parkNpcId": "npc-perm-a01-chase-06005",
+            "ratio": 1
+        }
+    },
+    {
         "id": "npc_group-a01-day-chat-24",
         "number": 0,
         "park_npc_id": "npc-a01-day-chat-24-00031",

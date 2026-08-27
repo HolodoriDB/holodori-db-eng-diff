@@ -1,5 +1,29 @@
 [
     {
+        "id": "loading_display-tips-mg-chase-001",
+        "data": {
+            "id": "loading_display-tips-mg-chase-001",
+            "type": "LoadingDisplayType_LOADING_DISPLAY_TYPE_TIPS",
+            "titleLangId": "la-loading_display-tips-mg-chase-001-title",
+            "textLangId": "la-loading_display-tips-mg-chase-001-text",
+            "assetId": "img_ui_loading_mg-chase-001",
+            "ratio": 10,
+            "conditionGroupId": "cd-perm-a01-chase"
+        }
+    },
+    {
+        "id": "loading_display-tips-mg-chase-002",
+        "data": {
+            "id": "loading_display-tips-mg-chase-002",
+            "type": "LoadingDisplayType_LOADING_DISPLAY_TYPE_TIPS",
+            "titleLangId": "la-loading_display-tips-mg-chase-002-title",
+            "textLangId": "la-loading_display-tips-mg-chase-002-text",
+            "assetId": "img_ui_loading_mg-chase-002",
+            "ratio": 10,
+            "conditionGroupId": "cd-perm-a01-chase"
+        }
+    },
+    {
         "id": "loading_display-chr-00037",
         "data": {
             "id": "loading_display-chr-00037",
