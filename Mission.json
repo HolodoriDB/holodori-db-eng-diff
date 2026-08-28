@@ -481,6 +481,7 @@
             "achievementGroupId": "achievement_grp-minigame_chase",
             "descriptionLangId": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
             "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_ACHIEVEMENT",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_LASER_GIMMICK_RELEASE_COUNT",
             "order": 50
         }
     },
@@ -493,6 +494,7 @@
             "unprogressedNameLangId": "la-mission-achievement-unprogressed-name",
             "descriptionLangId": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
             "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_ACHIEVEMENT",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_RESTRAINED_COUNT",
             "order": 60
         }
     },
@@ -503,7 +505,7 @@
             "achievementGroupId": "achievement_grp-minigame_chase",
             "descriptionLangId": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
             "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_ACHIEVEMENT",
-            "type": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRICT_COUNT",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRAINT_COUNT",
             "order": 30
         }
     },
@@ -552,7 +554,7 @@
             "missionGroupId": "mission_grp-chase_celebration-260828",
             "nameLangId": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
             "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
-            "type": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRICT_COUNT",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRAINT_COUNT",
             "order": 3
         }
     },
@@ -1042,7 +1044,7 @@
             "nameLangId": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
             "progressConditionGroupId": "cd-missionpass-260901",
             "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_SEASON",
-            "type": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRICT_COUNT",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRAINT_COUNT",
             "order": 10
         }
     },

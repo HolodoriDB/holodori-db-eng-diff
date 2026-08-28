@@ -393,7 +393,7 @@
     {
         "mission_type": 58,
         "data": {
-            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRICT_COUNT",
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_PATROL_TEAM_RESTRAINT_COUNT",
             "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
             "transitionId": "CHASE"
         }
@@ -435,6 +435,7 @@
     {
         "mission_type": 65,
         "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_RESTRAINED_COUNT",
             "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
             "transitionId": "CHASE"
         }
@@ -442,6 +443,7 @@
     {
         "mission_type": 66,
         "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_LASER_GIMMICK_RELEASE_COUNT",
             "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
             "transitionId": "CHASE"
         }

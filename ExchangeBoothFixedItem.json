@@ -1545,13 +1545,6 @@
         }
     },
     {
-        "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007",
-        "data": {
-            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007",
-            "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth-sell"
-        }
-    },
-    {
         "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_level_up-001",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-003-chapter-01-item-card_level_up-001",
@@ -2195,6 +2188,14 @@
             "id": "exchange_booth_fixed_item-gacha-pickup-260829-004",
             "exchangeBoothId": "exchange_booth-gacha-pickup-260829",
             "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007",
+            "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth-sell",
+            "purchaseLimitQuantity": 200000
         }
     },
     {

@@ -2,19 +2,19 @@
     {
         "score_gte": 100,
         "data": {
-            "1": "100",
-            "1000": [
+            "scoreGte": "100",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -22,19 +22,19 @@
     {
         "score_gte": 200,
         "data": {
-            "1": "200",
-            "1000": [
+            "scoreGte": "200",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -42,19 +42,19 @@
     {
         "score_gte": 300,
         "data": {
-            "1": "300",
-            "1000": [
+            "scoreGte": "300",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -62,19 +62,19 @@
     {
         "score_gte": 400,
         "data": {
-            "1": "400",
-            "1000": [
+            "scoreGte": "400",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -82,19 +82,19 @@
     {
         "score_gte": 500,
         "data": {
-            "1": "500",
-            "1000": [
+            "scoreGte": "500",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -102,19 +102,19 @@
     {
         "score_gte": 600,
         "data": {
-            "1": "600",
-            "1000": [
+            "scoreGte": "600",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -122,19 +122,19 @@
     {
         "score_gte": 700,
         "data": {
-            "1": "700",
-            "1000": [
+            "scoreGte": "700",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -142,19 +142,19 @@
     {
         "score_gte": 800,
         "data": {
-            "1": "800",
-            "1000": [
+            "scoreGte": "800",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -162,19 +162,19 @@
     {
         "score_gte": 900,
         "data": {
-            "1": "900",
-            "1000": [
+            "scoreGte": "900",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -182,19 +182,19 @@
     {
         "score_gte": 1000,
         "data": {
-            "1": "1000",
-            "1000": [
+            "scoreGte": "1000",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -202,19 +202,19 @@
     {
         "score_gte": 1100,
         "data": {
-            "1": "1100",
-            "1000": [
+            "scoreGte": "1100",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -222,19 +222,19 @@
     {
         "score_gte": 1200,
         "data": {
-            "1": "1200",
-            "1000": [
+            "scoreGte": "1200",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -242,19 +242,19 @@
     {
         "score_gte": 1400,
         "data": {
-            "1": "1400",
-            "1000": [
+            "scoreGte": "1400",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -262,19 +262,19 @@
     {
         "score_gte": 1600,
         "data": {
-            "1": "1600",
-            "1000": [
+            "scoreGte": "1600",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -282,19 +282,19 @@
     {
         "score_gte": 1800,
         "data": {
-            "1": "1800",
-            "1000": [
+            "scoreGte": "1800",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }
@@ -302,19 +302,19 @@
     {
         "score_gte": 2000,
         "data": {
-            "1": "2000",
-            "1000": [
+            "scoreGte": "2000",
+            "rewards": [
                 {
-                    "1": "3",
-                    "2": "item-mini-game-chase-coin"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini-game-chase-coin"
                 },
                 {
-                    "1": "3",
-                    "2": "item-live_auto_play"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
                 },
                 {
-                    "1": "3",
-                    "2": "item-gold"
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold"
                 }
             ]
         }

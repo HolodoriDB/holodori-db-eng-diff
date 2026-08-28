@@ -17,7 +17,8 @@
             "miniGameBetCoinConsumptionGroupId": "combo_card_game-bet-coin-consumption-group",
             "randomMatchStartTimeLimitSeconds": 30,
             "warningRemainingCardCount": 10,
-            "multiGameSetupTimeLimitSeconds": 30
+            "multiGameSetupTimeLimitSeconds": 30,
+            "isCheatDetectRedDisconnectUserEnabled": true
         }
     }
 ]

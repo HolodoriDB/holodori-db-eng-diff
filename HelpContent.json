@@ -1284,7 +1284,10 @@
         "data": {
             "helpCategoryId": "help_category-faq-questions",
             "number": 2,
-            "titleLangId": "la-help_category-faq-questions-2-title"
+            "titleLangId": "la-help_category-faq-questions-2-title",
+            "iosTextLangId": "la-help_category-faq-questions-2-text-ios",
+            "androidTextLangId": "la-help_category-faq-questions-2-text-android",
+            "steamTextLangId": "la-help_category-faq-questions-2-text"
         }
     }
 ]

@@ -9587,7 +9587,8 @@
         "number": 1,
         "data": {
             "groupId": "cd-character_get_count-all",
-            "number": 1
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_CHARACTER_ALL_PLAYABLE_GET"
         }
     },
     {
@@ -11322,6 +11323,26 @@
             "number": 1,
             "type": "ConditionType_CONDITION_TYPE_PARK_QUEST_CLEAR",
             "resourceId1": "quest-area-a01-29"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007-view_condition-hidden",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007-view_condition-hidden",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_NEGATIVE_SET",
+            "resourceId1": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007-view_condition"
+        }
+    },
+    {
+        "group_id": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007-view_condition",
+        "number": 1,
+        "data": {
+            "groupId": "cd-exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007-view_condition",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_EXCHANGE_FIXED_ITEM_PURCHASE_ALL",
+            "resourceId1": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-sell-item-gold-007"
         }
     },
     {

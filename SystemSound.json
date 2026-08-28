@@ -1178,12 +1178,14 @@
     {
         "type": 284,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MUSIC_CREATIVE_CHART_PUBLISHED_INFO_DIALOGUE",
             "soundAssetId": "se_sys_anim_430_live_create_dialog_publish"
         }
     },
     {
         "type": 285,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_MUSIC_CREATIVE_CHART_INFO_DIALOGUE",
             "soundAssetId": "se_sys_anim_430_live_create_dialog_info"
         }
     },
@@ -1925,7 +1927,7 @@
     {
         "type": 10503,
         "data": {
-            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_KEY_USE",
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_KEY_USE_1",
             "soundAssetId": "se_mg_005_pkg-key-use-01"
         }
     },
@@ -1967,7 +1969,7 @@
     {
         "type": 10509,
         "data": {
-            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_RESCUE",
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_RESCUE_COMPLETE",
             "soundAssetId": "se_mg_005_pkg-player-rescue"
         }
     },
@@ -2009,7 +2011,7 @@
     {
         "type": 10519,
         "data": {
-            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANNOUNCE",
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANNOUNCE_ALERT",
             "soundAssetId": "se_mg_005_pkg-announce"
         }
     },
@@ -2037,7 +2039,7 @@
     {
         "type": 10525,
         "data": {
-            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANIMATION_MESSAGE",
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANIMATION_MESSAGE_ON",
             "soundAssetId": "se_mg_005_pkg-anim-message-on"
         }
     },
@@ -2051,42 +2053,49 @@
     {
         "type": 10530,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_RESCUE_LOOP",
             "soundAssetId": "se_mg_005_pkg-player-rescue-middle"
         }
     },
     {
         "type": 10531,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANIMATION_MESSAGE_OFF",
             "soundAssetId": "se_mg_005_pkg-anim-message-off"
         }
     },
     {
         "type": 10532,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_KEY_USE_2",
             "soundAssetId": "se_mg_005_pkg-key-use-02"
         }
     },
     {
         "type": 10533,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_KEY_USE_3",
             "soundAssetId": "se_mg_005_pkg-key-use-03"
         }
     },
     {
         "type": 10534,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANNOUNCE_INFO_MISCHIEF_TEAM",
             "soundAssetId": "se_mg_005_pkg-announce-misthief"
         }
     },
     {
         "type": 10535,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_ANNOUNCE_INFO_PATROL_TEAM",
             "soundAssetId": "se_mg_005_pkg-announce-patrol"
         }
     },
     {
         "type": 10536,
         "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_FINISH_COUNTDOWN",
             "soundAssetId": "se_mg_005_pkg-countdown-end"
         }
     },
