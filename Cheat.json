@@ -418,17 +418,6 @@
         }
     },
     {
-        "type": 1300,
-        "severity_type": 1,
-        "parameter_type": 103000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
-            "threshold": "200"
-        }
-    },
-    {
         "type": 1301,
         "severity_type": 2,
         "parameter_type": 103001,
@@ -569,6 +558,84 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_SPEED_UP_SKILL_DURATION_GRACE_MILLISECONDS",
             "threshold": "10000"
+        }
+    },
+    {
+        "type": 1303,
+        "severity_type": 1,
+        "parameter_type": 103005,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "4000"
+        }
+    },
+    {
+        "type": 1303,
+        "severity_type": 1,
+        "parameter_type": 103004,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "20000"
+        }
+    },
+    {
+        "type": 1300,
+        "severity_type": 2,
+        "parameter_type": 103002,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "10"
+        }
+    },
+    {
+        "type": 1300,
+        "severity_type": 2,
+        "parameter_type": 103000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
+            "threshold": "2000"
+        }
+    },
+    {
+        "type": 1300,
+        "severity_type": 1,
+        "parameter_type": 103002,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "10"
+        }
+    },
+    {
+        "type": 1300,
+        "severity_type": 1,
+        "parameter_type": 103000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
+            "threshold": "3000"
+        }
+    },
+    {
+        "type": 1302,
+        "severity_type": 2,
+        "parameter_type": 103003,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "30000"
+        }
+    },
+    {
+        "type": 1302,
+        "severity_type": 1,
+        "parameter_type": 103003,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "25000"
         }
     }
 ]
