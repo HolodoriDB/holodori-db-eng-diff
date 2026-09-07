@@ -1185,6 +1185,85 @@
         }
     },
     {
+        "id": "mission-marathon_event-normal-004-chapter-01-absolute_live_highest_score",
+        "data": {
+            "id": "mission-marathon_event-normal-004-chapter-01-absolute_live_highest_score",
+            "missionGroupId": "mission_grp-marathon_event-normal-004-chapter-01",
+            "nameLangId": "la-mission-marathon_event-live_highest_score",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_ABSOLUTE_LIVE_HIGHEST_SCORE",
+            "targetIds3": [
+                "m0348",
+                "m0344",
+                "m0527"
+            ],
+            "order": 4
+        }
+    },
+    {
+        "id": "mission-marathon_event-normal-004-chapter-01-daily-live_play_count",
+        "data": {
+            "id": "mission-marathon_event-normal-004-chapter-01-daily-live_play_count",
+            "missionGroupId": "mission_grp-marathon_event-normal-004-chapter-01",
+            "nameLangId": "la-mission-marathon_event-live_play_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_DAILY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "order": 6
+        }
+    },
+    {
+        "id": "mission-marathon_event-normal-004-chapter-01-daily-live_stamina_consumption",
+        "data": {
+            "id": "mission-marathon_event-normal-004-chapter-01-daily-live_stamina_consumption",
+            "missionGroupId": "mission_grp-marathon_event-normal-004-chapter-01",
+            "nameLangId": "la-mission-marathon_event-live_stamina_consumption",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_DAILY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_STAMINA_CONSUMPTION",
+            "order": 5
+        }
+    },
+    {
+        "id": "mission-marathon_event-normal-004-chapter-01-live_clear_count",
+        "data": {
+            "id": "mission-marathon_event-normal-004-chapter-01-live_clear_count",
+            "missionGroupId": "mission_grp-marathon_event-normal-004-chapter-01",
+            "nameLangId": "la-mission-marathon_event-live_clear_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_CLEAR_COUNT",
+            "targetIds3": [
+                "m0348",
+                "m0344",
+                "m0527"
+            ],
+            "order": 1
+        }
+    },
+    {
+        "id": "mission-marathon_event-normal-004-chapter-01-live_play_count",
+        "data": {
+            "id": "mission-marathon_event-normal-004-chapter-01-live_play_count",
+            "missionGroupId": "mission_grp-marathon_event-normal-004-chapter-01",
+            "nameLangId": "la-mission-marathon_event-live_play_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "order": 2
+        }
+    },
+    {
+        "id": "mission-marathon_event-normal-004-chapter-01-marathon_score_quantity",
+        "data": {
+            "id": "mission-marathon_event-normal-004-chapter-01-marathon_score_quantity",
+            "missionGroupId": "mission_grp-marathon_event-normal-004-chapter-01",
+            "nameLangId": "la-mission-marathon_event-marathon_score_quantity",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+            "targetIds1": [
+                "marathon_event-normal-004-chapter-01"
+            ],
+            "order": 3
+        }
+    },
+    {
         "id": "mission-event-beginner_mission-increment_multi_live_play_count",
         "data": {
             "id": "mission-event-beginner_mission-increment_multi_live_play_count",

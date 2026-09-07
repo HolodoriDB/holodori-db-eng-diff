@@ -1,13 +1,79 @@
 [
     {
-        "type": 100,
+        "type": 1500,
         "severity_type": 1,
-        "parameter_type": 1000,
+        "parameter_type": 105002,
         "data": {
-            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
-            "threshold": "10"
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_PROHIBITED_AREA_STAY_DURATION_MILLISECONDS",
+            "threshold": "3000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 1,
+        "parameter_type": 105001,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_SPEED_UP_SKILL_DURATION_GRACE_MILLISECONDS",
+            "threshold": "4000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 2,
+        "parameter_type": 105003,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_MISCHIEF_TEAM_SELF_SCORE",
+            "threshold": "7000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 2,
+        "parameter_type": 105004,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
+            "threshold": "7000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 1,
+        "parameter_type": 105003,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_MISCHIEF_TEAM_SELF_SCORE",
+            "threshold": "5000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 1,
+        "parameter_type": 105004,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
+            "threshold": "5000"
+        }
+    },
+    {
+        "type": 1000,
+        "severity_type": 2,
+        "parameter_type": 100000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SINGLE_JUMP_ROPE_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_JUMP_ROPE_SCORE_TAMPERING_ELAPSED_TIME_COEFFICIENT_PERMIL_MULTIPLY",
+            "threshold": "3000"
         }
     },
     {
@@ -18,7 +84,18 @@
             "type": "CheatType_CHEAT_TYPE_SINGLE_JUMP_ROPE_SCORE_TAMPERING",
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_JUMP_ROPE_SCORE_TAMPERING_ELAPSED_TIME_COEFFICIENT_PERMIL_MULTIPLY",
-            "threshold": "3000"
+            "threshold": "2000"
+        }
+    },
+    {
+        "type": 100,
+        "severity_type": 1,
+        "parameter_type": 1000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
+            "threshold": "10"
         }
     },
     {
@@ -440,83 +517,6 @@
         }
     },
     {
-        "type": 1500,
-        "severity_type": 1,
-        "parameter_type": 105000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_ABNORMAL_MOVE_SPEED_DURATION_MILLISECONDS",
-            "threshold": "3000"
-        }
-    },
-    {
-        "type": 1500,
-        "severity_type": 1,
-        "parameter_type": 105002,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_PROHIBITED_AREA_STAY_DURATION_MILLISECONDS",
-            "threshold": "3000"
-        }
-    },
-    {
-        "type": 1500,
-        "severity_type": 1,
-        "parameter_type": 105001,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_SPEED_UP_SKILL_DURATION_GRACE_MILLISECONDS",
-            "threshold": "3000"
-        }
-    },
-    {
-        "type": 1501,
-        "severity_type": 2,
-        "parameter_type": 105003,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_MISCHIEF_TEAM_SELF_SCORE",
-            "threshold": "10000"
-        }
-    },
-    {
-        "type": 1501,
-        "severity_type": 2,
-        "parameter_type": 105004,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
-            "threshold": "10000"
-        }
-    },
-    {
-        "type": 1501,
-        "severity_type": 1,
-        "parameter_type": 105003,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_MISCHIEF_TEAM_SELF_SCORE",
-            "threshold": "5000"
-        }
-    },
-    {
-        "type": 1501,
-        "severity_type": 1,
-        "parameter_type": 105004,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
-            "threshold": "5000"
-        }
-    },
-    {
         "type": 1200,
         "severity_type": 2,
         "parameter_type": 102000,
@@ -525,39 +525,6 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CIRCUIT_PER_AREA_PASS_TIME_MILLISECONDS",
             "threshold": "3000"
-        }
-    },
-    {
-        "type": 1500,
-        "severity_type": 2,
-        "parameter_type": 105000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_ABNORMAL_MOVE_SPEED_DURATION_MILLISECONDS",
-            "threshold": "20000"
-        }
-    },
-    {
-        "type": 1500,
-        "severity_type": 2,
-        "parameter_type": 105002,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_PROHIBITED_AREA_STAY_DURATION_MILLISECONDS",
-            "threshold": "180000"
-        }
-    },
-    {
-        "type": 1500,
-        "severity_type": 2,
-        "parameter_type": 105001,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_SPEED_UP_SKILL_DURATION_GRACE_MILLISECONDS",
-            "threshold": "10000"
         }
     },
     {
@@ -636,6 +603,50 @@
         "data": {
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "threshold": "25000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 2,
+        "parameter_type": 105000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_ABNORMAL_MOVE_SPEED_DURATION_MILLISECONDS",
+            "threshold": "10000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 2,
+        "parameter_type": 105002,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_PROHIBITED_AREA_STAY_DURATION_MILLISECONDS",
+            "threshold": "180000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 2,
+        "parameter_type": 105001,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_SPEED_UP_SKILL_DURATION_GRACE_MILLISECONDS",
+            "threshold": "10000"
+        }
+    },
+    {
+        "type": 1500,
+        "severity_type": 1,
+        "parameter_type": 105000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_PER_ELAPSED_TIME",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_ABNORMAL_MOVE_SPEED_DURATION_MILLISECONDS",
+            "threshold": "4000"
         }
     }
 ]
