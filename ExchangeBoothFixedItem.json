@@ -1376,15 +1376,6 @@
         }
     },
     {
-        "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001",
-        "data": {
-            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001",
-            "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth-facility_item",
-            "purchaseLimitQuantity": 50,
-            "resetIntervalType": "ResetIntervalType_RESET_INTERVAL_TYPE_MONTHLY"
-        }
-    },
-    {
         "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-first_month",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001-first_month",
@@ -2503,6 +2494,32 @@
             "id": "exchange_booth_fixed_item-gacha-pickup-260908-003",
             "exchangeBoothId": "exchange_booth-gacha-pickup-260908",
             "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-1-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-first_time-item-facility-area_a01-002-1-001",
+            "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth-facility_item",
+            "purchaseLimitQuantity": 50
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-001-2-001",
+            "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth-facility_item",
+            "purchaseLimitQuantity": 50,
+            "resetIntervalType": "ResetIntervalType_RESET_INTERVAL_TYPE_MONTHLY"
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-1-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth-facility_item-item-facility-area_a01-002-1-001",
+            "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth-facility_item",
+            "purchaseLimitQuantity": 50,
+            "resetIntervalType": "ResetIntervalType_RESET_INTERVAL_TYPE_MONTHLY"
         }
     },
     {
