@@ -522,22 +522,6 @@
         }
     },
     {
-        "id": "quest-daily-card-00015",
-        "data": {
-            "id": "quest-daily-card-00015",
-            "parkQuestChapterId": "quest_chapter-daily",
-            "number": 1,
-            "titleLangId": "la-quest-daily-title",
-            "descriptionLangId": "la-quest-daily-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_DAILY",
-            "priority": 100,
-            "areaGroupingId": "area_group-a02",
-            "ratio": 100,
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-07",
-            "order": 1
-        }
-    },
-    {
         "id": "quest-daily-card-00018",
         "data": {
             "id": "quest-daily-card-00018",
@@ -618,6 +602,22 @@
         }
     },
     {
+        "id": "quest-daily-card-00015",
+        "data": {
+            "id": "quest-daily-card-00015",
+            "parkQuestChapterId": "quest_chapter-daily",
+            "number": 1,
+            "titleLangId": "la-quest-daily-title",
+            "descriptionLangId": "la-quest-daily-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_DAILY",
+            "priority": 100,
+            "areaGroupingId": "area_group-a02",
+            "ratio": 100,
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
+            "order": 1
+        }
+    },
+    {
         "id": "quest-daily-card-04015",
         "data": {
             "id": "quest-daily-card-04015",
@@ -629,7 +629,7 @@
             "priority": 100,
             "areaGroupingId": "area_group-a02",
             "ratio": 100,
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-07",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
             "order": 3
         }
     },
