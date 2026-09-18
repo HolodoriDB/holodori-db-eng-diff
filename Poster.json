@@ -268,5 +268,41 @@
             "assetId": "event-2609-02-01",
             "priority": 26090800
         }
+    },
+    {
+        "id": "poster-marathon_event-relay-002-chapter-01",
+        "data": {
+            "id": "poster-marathon_event-relay-002-chapter-01",
+            "nameLangId": "la-poster-marathon_event-relay-002-chapter-01",
+            "assetId": "event-2609-03-01",
+            "priority": 26091900
+        }
+    },
+    {
+        "id": "poster-marathon_event-relay-002-chapter-02",
+        "data": {
+            "id": "poster-marathon_event-relay-002-chapter-02",
+            "nameLangId": "la-poster-marathon_event-relay-002-chapter-02",
+            "assetId": "event-2609-03-02",
+            "priority": 26091901
+        }
+    },
+    {
+        "id": "poster-marathon_event-relay-002-chapter-03",
+        "data": {
+            "id": "poster-marathon_event-relay-002-chapter-03",
+            "nameLangId": "la-poster-marathon_event-relay-002-chapter-03",
+            "assetId": "event-2609-03-03",
+            "priority": 26091902
+        }
+    },
+    {
+        "id": "poster-marathon_event-relay-002-chapter-04",
+        "data": {
+            "id": "poster-marathon_event-relay-002-chapter-04",
+            "nameLangId": "la-poster-marathon_event-relay-002-chapter-04",
+            "assetId": "event-2609-03-04",
+            "priority": 26091903
+        }
     }
 ]

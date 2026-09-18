@@ -369,5 +369,32 @@
                 "mot_general_chr_{0}_cos000_doya00_in_bdy00"
             ]
         }
+    },
+    {
+        "id": "missionpass-261001",
+        "data": {
+            "id": "missionpass-261001",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-05",
+            "progressStartTime": "1790539200000",
+            "startTime": "1790798400000",
+            "endTime": "1793476799000",
+            "missionPassLevelGroupId": "mission_pass_level-missionpass-261001",
+            "missionPassPointId": "mission_pass_point-missionpass-261001",
+            "levelUpRequiredPointQuantity": 100,
+            "seasonMissionGroupId": "mission_grp-missionpass-261001-season",
+            "dailyMissionGroupId": "mission_grp-missionpass-261001-daily",
+            "weeklyMissionGroupId": "mission_grp-missionpass-261001-weekly",
+            "dailyMissionPassPointReceiveLimitQuantity": 100,
+            "weeklyMissionPassPointReceiveLimitQuantity": 500,
+            "premiumPromotionSdCostumeHairAccessoryIds": [
+                "sd_costume_hair_accessory_chr-00001-acc-001"
+            ],
+            "premiumPromotionSdCostumeIds": [
+                "sdcos-00001-nrml-0000-00"
+            ],
+            "premiumPromotionMotionAssetIds": [
+                "mot_general_chr_{0}_cos000_doya00_in_bdy00"
+            ]
+        }
     }
 ]

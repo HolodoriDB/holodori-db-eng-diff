@@ -1264,6 +1264,311 @@
         }
     },
     {
+        "id": "mission-marathon_event-relay-002-chapter-01-marathon_live_play_count",
+        "data": {
+            "id": "mission-marathon_event-relay-002-chapter-01-marathon_live_play_count",
+            "missionGroupId": "mission_grp-marathon_event-relay-002-chapter-01",
+            "nameLangId": "la-mission-marathon_event-marathon_live_play_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "targetIds1": [
+                "m0349"
+            ],
+            "order": 3
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-chapter-01-marathon_score_quantity",
+        "data": {
+            "id": "mission-marathon_event-relay-002-chapter-01-marathon_score_quantity",
+            "missionGroupId": "mission_grp-marathon_event-relay-002-chapter-01",
+            "nameLangId": "la-mission-marathon_event-marathon_score_quantity_chapter",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+            "targetIds1": [
+                "marathon_event-relay-002-chapter-01"
+            ],
+            "order": 2
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-chapter-02-marathon_live_play_count",
+        "data": {
+            "id": "mission-marathon_event-relay-002-chapter-02-marathon_live_play_count",
+            "missionGroupId": "mission_grp-marathon_event-relay-002-chapter-02",
+            "nameLangId": "la-mission-marathon_event-marathon_live_play_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "targetIds1": [
+                "m0351"
+            ],
+            "order": 3
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-chapter-02-marathon_score_quantity",
+        "data": {
+            "id": "mission-marathon_event-relay-002-chapter-02-marathon_score_quantity",
+            "missionGroupId": "mission_grp-marathon_event-relay-002-chapter-02",
+            "nameLangId": "la-mission-marathon_event-marathon_score_quantity_chapter",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+            "targetIds1": [
+                "marathon_event-relay-002-chapter-02"
+            ],
+            "order": 2
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-chapter-03-marathon_live_play_count",
+        "data": {
+            "id": "mission-marathon_event-relay-002-chapter-03-marathon_live_play_count",
+            "missionGroupId": "mission_grp-marathon_event-relay-002-chapter-03",
+            "nameLangId": "la-mission-marathon_event-marathon_live_play_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "targetIds1": [
+                "m0350"
+            ],
+            "order": 3
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-chapter-03-marathon_score_quantity",
+        "data": {
+            "id": "mission-marathon_event-relay-002-chapter-03-marathon_score_quantity",
+            "missionGroupId": "mission_grp-marathon_event-relay-002-chapter-03",
+            "nameLangId": "la-mission-marathon_event-marathon_score_quantity_chapter",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+            "targetIds1": [
+                "marathon_event-relay-002-chapter-03"
+            ],
+            "order": 2
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-chapter-04-marathon_live_play_count",
+        "data": {
+            "id": "mission-marathon_event-relay-002-chapter-04-marathon_live_play_count",
+            "missionGroupId": "mission_grp-marathon_event-relay-002-chapter-04",
+            "nameLangId": "la-mission-marathon_event-marathon_live_play_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "targetIds1": [
+                "m0352"
+            ],
+            "order": 3
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-chapter-04-marathon_score_quantity",
+        "data": {
+            "id": "mission-marathon_event-relay-002-chapter-04-marathon_score_quantity",
+            "missionGroupId": "mission_grp-marathon_event-relay-002-chapter-04",
+            "nameLangId": "la-mission-marathon_event-marathon_score_quantity_chapter",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_ABSOLUTE_MARATHON_SCORE",
+            "targetIds1": [
+                "marathon_event-relay-002-chapter-04"
+            ],
+            "order": 2
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-daily-live_play_count",
+        "data": {
+            "id": "mission-marathon_event-relay-002-daily-live_play_count",
+            "missionGroupId": "mission_grp-marathon_event-relay-002",
+            "nameLangId": "la-mission-marathon_event-live_play_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_DAILY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "order": 4
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-daily-live_stamina_consumption",
+        "data": {
+            "id": "mission-marathon_event-relay-002-daily-live_stamina_consumption",
+            "missionGroupId": "mission_grp-marathon_event-relay-002",
+            "nameLangId": "la-mission-marathon_event-live_stamina_consumption",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_DAILY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_STAMINA_CONSUMPTION",
+            "order": 3
+        }
+    },
+    {
+        "id": "mission-marathon_event-relay-002-live_play_count",
+        "data": {
+            "id": "mission-marathon_event-relay-002-live_play_count",
+            "missionGroupId": "mission_grp-marathon_event-relay-002",
+            "nameLangId": "la-mission-marathon_event-live_play_count",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_EVENT_NORMAL",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "order": 1
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-daily-dummy",
+        "data": {
+            "id": "mission-missionpass-261001-daily-dummy",
+            "missionGroupId": "mission_grp-missionpass-261001-daily",
+            "nameLangId": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",
+            "viewConditionGroupId": "cd-missionpass-261001-dummy",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_DAILY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_CARD_LEVEL_UP_COUNT",
+            "order": 10
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-season-dummy",
+        "data": {
+            "id": "mission-missionpass-261001-season-dummy",
+            "missionGroupId": "mission_grp-missionpass-261001-season",
+            "nameLangId": "la-mission-mission_pass-0001-daily-increment_card_level_up_count-name",
+            "viewConditionGroupId": "cd-missionpass-261001-dummy",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_SEASON",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_CARD_LEVEL_UP_COUNT",
+            "order": 10
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_card_level_limit_break_count",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_card_level_limit_break_count",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_CARD_LEVEL_LIMIT_BREAK_COUNT",
+            "order": 70
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_drop_item_get_count",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_drop_item_get_count",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_drop_item_get_count-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_DROP_ITEM_GET_COUNT",
+            "order": 110
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_EXCHANGE_PURCHASE_COUNT",
+            "targetIds1": [
+                "exchange_booth-facility-a01-exchangebooth"
+            ],
+            "order": 100
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_live_play_count",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_live_play_count",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_live_play_count-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_PLAY_COUNT",
+            "order": 10
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_live_stamina_consumption",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_live_stamina_consumption",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_live_stamina_consumption-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_LIVE_STAMINA_CONSUMPTION",
+            "order": 50
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_mini_game_play_count",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_mini_game_play_count",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_mini_game_play_count-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_MINI_GAME_PLAY_COUNT",
+            "order": 40
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_mini_game_stamina_consumption",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_mini_game_stamina_consumption-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_MINI_GAME_STAMINA_CONSUMPTION",
+            "order": 60
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_multi_live_play_count",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_multi_live_play_count",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_multi_live_play_count-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_MULTI_LIVE_PLAY_COUNT",
+            "order": 20
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_music_creative_chart_live_clear_count",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_music_creative_chart_live_clear_count",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_music_creative_chart_live_clear_count-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_MUSIC_CREATIVE_CHART_LIVE_CLEAR_COUNT",
+            "order": 30
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_skill_tree_release_count",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_skill_tree_release_count",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_skill_tree_release_count-name",
+            "progressConditionGroupId": "cd-always-open",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_SKILL_TREE_RELEASE_COUNT",
+            "order": 80
+        }
+    },
+    {
+        "id": "mission-missionpass-261001-weekly-increment_work_start_count",
+        "data": {
+            "id": "mission-missionpass-261001-weekly-increment_work_start_count",
+            "missionGroupId": "mission_grp-missionpass-261001-weekly",
+            "nameLangId": "la-mission-missionpass-261001-weekly-increment_work_start_count-name",
+            "progressConditionGroupId": "cd-always-open",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-08",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_WEEKLY",
+            "type": "MissionType_MISSION_TYPE_INCREMENT_WORK_START_COUNT",
+            "order": 90
+        }
+    },
+    {
         "id": "mission-event-beginner_mission-increment_multi_live_play_count",
         "data": {
             "id": "mission-event-beginner_mission-increment_multi_live_play_count",

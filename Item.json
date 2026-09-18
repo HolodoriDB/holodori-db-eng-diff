@@ -1016,6 +1016,110 @@
         }
     },
     {
+        "id": "item-event_badge-marathon_event-relay-002-all",
+        "data": {
+            "id": "item-event_badge-marathon_event-relay-002-all",
+            "nameLangId": "la-item-event_badge-marathon_event-relay-002-all-name",
+            "descriptionLangId": "la-item-event_badge-marathon_event-relay-002-all-description",
+            "type": "ItemType_ITEM_TYPE_MARATHON_EVENT_BADGE",
+            "commonLimitTime": "1791025199000",
+            "assetId": "event-badge-04",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-item-event_badge-marathon_event-relay-002-all",
+            "order": 5003,
+            "expirationRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "item-event_badge-marathon_event-relay-002-chapter-01",
+        "data": {
+            "id": "item-event_badge-marathon_event-relay-002-chapter-01",
+            "nameLangId": "la-item-event_badge-marathon_event-relay-002-chapter-01-name",
+            "descriptionLangId": "la-item-event_badge-marathon_event-relay-002-chapter-01-description",
+            "type": "ItemType_ITEM_TYPE_MARATHON_EVENT_BADGE",
+            "commonLimitTime": "1791025199000",
+            "assetId": "event-badge-02",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-item-event_badge-marathon_event-relay-002-chapter-01",
+            "thumbnailSubAssetId": "img_chr_icon_mini_00004",
+            "order": 5004,
+            "expirationRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "item-event_badge-marathon_event-relay-002-chapter-02",
+        "data": {
+            "id": "item-event_badge-marathon_event-relay-002-chapter-02",
+            "nameLangId": "la-item-event_badge-marathon_event-relay-002-chapter-02-name",
+            "descriptionLangId": "la-item-event_badge-marathon_event-relay-002-chapter-02-description",
+            "type": "ItemType_ITEM_TYPE_MARATHON_EVENT_BADGE",
+            "commonLimitTime": "1791025199000",
+            "assetId": "event-badge-02",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-item-event_badge-marathon_event-relay-002-chapter-02",
+            "thumbnailSubAssetId": "img_chr_icon_mini_04013",
+            "order": 5005,
+            "expirationRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "item-event_badge-marathon_event-relay-002-chapter-03",
+        "data": {
+            "id": "item-event_badge-marathon_event-relay-002-chapter-03",
+            "nameLangId": "la-item-event_badge-marathon_event-relay-002-chapter-03-name",
+            "descriptionLangId": "la-item-event_badge-marathon_event-relay-002-chapter-03-description",
+            "type": "ItemType_ITEM_TYPE_MARATHON_EVENT_BADGE",
+            "commonLimitTime": "1791025199000",
+            "assetId": "event-badge-02",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-item-event_badge-marathon_event-relay-002-chapter-03",
+            "thumbnailSubAssetId": "img_chr_icon_mini_00035",
+            "order": 5006,
+            "expirationRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "id": "item-event_badge-marathon_event-relay-002-chapter-04",
+        "data": {
+            "id": "item-event_badge-marathon_event-relay-002-chapter-04",
+            "nameLangId": "la-item-event_badge-marathon_event-relay-002-chapter-04-name",
+            "descriptionLangId": "la-item-event_badge-marathon_event-relay-002-chapter-04-description",
+            "type": "ItemType_ITEM_TYPE_MARATHON_EVENT_BADGE",
+            "commonLimitTime": "1791025199000",
+            "assetId": "event-badge-02",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-item-event_badge-marathon_event-relay-002-chapter-04",
+            "thumbnailSubAssetId": "img_chr_icon_mini_03005",
+            "order": 5007,
+            "expirationRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
         "id": "item-card_limit_break-attribute_1-1",
         "data": {
             "id": "item-card_limit_break-attribute_1-1",

@@ -1,5 +1,16 @@
 [
     {
+        "group_id": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-250",
+        "number": 1,
+        "data": {
+            "groupId": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-250",
+            "number": 1,
+            "type": "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+            "value": "250",
+            "descriptionLangId": "la-generated-live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-250.1-description"
+        }
+    },
+    {
         "group_id": "live_active_skill_effect-score_up_permil_up-1000",
         "number": 1,
         "data": {
