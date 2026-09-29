@@ -1,1 +1,92 @@
-[]
+[
+    {
+        "group_id": "park_fishing_fish_icon-0001",
+        "icon_type": 1,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0001",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_NORMAL",
+            "ratio": 50
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0002",
+        "icon_type": 1,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0002",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_NORMAL",
+            "ratio": 80
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0002",
+        "icon_type": 2,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0002",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_SECRET",
+            "ratio": 20
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0003",
+        "icon_type": 1,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0003",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_NORMAL",
+            "ratio": 80
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0003",
+        "icon_type": 3,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0003",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_RARE",
+            "ratio": 20
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0004",
+        "icon_type": 1,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0004",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_NORMAL",
+            "ratio": 80
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0004",
+        "icon_type": 3,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0004",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_RARE",
+            "ratio": 20
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0005",
+        "icon_type": 1,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0005",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_NORMAL",
+            "ratio": 80
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0005",
+        "icon_type": 3,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0005",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_RARE",
+            "ratio": 30
+        }
+    },
+    {
+        "group_id": "park_fishing_fish_icon-0006",
+        "icon_type": 3,
+        "data": {
+            "groupId": "park_fishing_fish_icon-0006",
+            "iconType": "ParkFishingFishIconType_PARK_FISHING_FISH_ICON_TYPE_RARE",
+            "ratio": 100
+        }
+    }
+]

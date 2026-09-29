@@ -158,5 +158,65 @@
             "textLangId": "la-instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
             "conditionGroupId": "cd-quest_clear-quest-area-a01-29"
         }
+    },
+    {
+        "id": "instant_tips-fishingshop",
+        "data": {
+            "id": "instant_tips-fishingshop",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-004-gettable"
+        }
+    },
+    {
+        "id": "instant_tips-fishingshop-2",
+        "data": {
+            "id": "instant_tips-fishingshop-2",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-006-gettable"
+        }
+    },
+    {
+        "id": "instant_tips-fishingshop-3",
+        "data": {
+            "id": "instant_tips-fishingshop-3",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-008-gettable"
+        }
+    },
+    {
+        "id": "instant_tips-park_fishing_rod_upgrade",
+        "data": {
+            "id": "instant_tips-park_fishing_rod_upgrade",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-park_fishing_rod_upgrade_lv2",
+            "conditionGroupId": "cd-park_fishing_rod-02"
+        }
+    },
+    {
+        "id": "instant_tips-park_fishing_rod_upgrade-2",
+        "data": {
+            "id": "instant_tips-park_fishing_rod_upgrade-2",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-park_fishing_rod_upgrade_lv3",
+            "conditionGroupId": "cd-park_fishing_rod-03"
+        }
+    },
+    {
+        "id": "instant_tips-park_fishing_rod_upgrade-3",
+        "data": {
+            "id": "instant_tips-park_fishing_rod_upgrade-3",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-instant_tips-park_fishing_rod_upgrade_lv4",
+            "conditionGroupId": "cd-park_fishing_rod-04"
+        }
     }
 ]

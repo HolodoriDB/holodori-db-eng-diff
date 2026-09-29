@@ -232,5 +232,92 @@
             "assetId": "env_3d_park_area-a02-area-01-noon",
             "bgmAssetId": "bgm_park_area_area-a02-area-01"
         }
+    },
+    {
+        "area_id": "area-a03",
+        "priority": 1,
+        "data": {
+            "areaId": "area-a03",
+            "priority": 1,
+            "assetId": "env_3d_park_area-a03-area-00-noon",
+            "bgmAssetId": "bgm_park_area_area-a03-area-03_in_pkg-main"
+        }
+    },
+    {
+        "area_id": "area-a03",
+        "priority": 2,
+        "data": {
+            "areaId": "area-a03",
+            "priority": 2,
+            "assetId": "env_3d_park_area-a03-area-00-night",
+            "bgmAssetId": "bgm_park_area_area-a03-area-03_in_pkg-main",
+            "conditionGroupId": "cd-park_area_select-area-a03-step-1-night"
+        }
+    },
+    {
+        "area_id": "area-a03",
+        "priority": 3,
+        "data": {
+            "areaId": "area-a03",
+            "priority": 3,
+            "assetId": "env_3d_park_area-a03-area-00-noon",
+            "bgmAssetId": "bgm_park_area_area-a03-area-03_in_pkg-main",
+            "conditionGroupId": "cd-park_area_select-area-a03-step-2-noon"
+        }
+    },
+    {
+        "area_id": "area-a03",
+        "priority": 4,
+        "data": {
+            "areaId": "area-a03",
+            "priority": 4,
+            "assetId": "env_3d_park_area-a03-area-00-night",
+            "bgmAssetId": "bgm_park_area_area-a03-area-03_in_pkg-main",
+            "conditionGroupId": "cd-park_area_select-area-a03-step-2-night"
+        }
+    },
+    {
+        "area_id": "area-a03",
+        "priority": 5,
+        "data": {
+            "areaId": "area-a03",
+            "priority": 5,
+            "assetId": "env_3d_park_area-a03-area-00-noon",
+            "bgmAssetId": "bgm_park_area_area-a03-area-03_in_pkg-main",
+            "conditionGroupId": "cd-park_area_select-area-a03-step-3-noon"
+        }
+    },
+    {
+        "area_id": "area-a03",
+        "priority": 6,
+        "data": {
+            "areaId": "area-a03",
+            "priority": 6,
+            "assetId": "env_3d_park_area-a03-area-00-night",
+            "bgmAssetId": "bgm_park_area_area-a03-area-03_in_pkg-main",
+            "conditionGroupId": "cd-park_area_select-area-a03-step-3-night"
+        }
+    },
+    {
+        "area_id": "area-a03",
+        "priority": 7,
+        "data": {
+            "areaId": "area-a03",
+            "priority": 7,
+            "assetId": "env_3d_park_area-a03-area-01-noon",
+            "bgmAssetId": "bgm_park_area_area-a03-area-03_in_pkg-main",
+            "conditionGroupId": "cd-park_area_select-area-a03-step-4-noon"
+        }
+    },
+    {
+        "area_id": "area-a03",
+        "priority": 8,
+        "data": {
+            "areaId": "area-a03",
+            "priority": 8,
+            "assetId": "env_3d_park_area-a03-area-01-night",
+            "bgmAssetId": "bgm_park_area_area-a03-area-03_in_pkg-main",
+            "conditionGroupId": "cd-park_area_select-area-a03-step-4-night"
+        }
     }
 ]

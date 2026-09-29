@@ -142,5 +142,14 @@
             "descriptionLangId": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-description",
             "assetId": "function-unlock"
         }
+    },
+    {
+        "id": "appeal_text-function_appeal-a03_station-level_up",
+        "data": {
+            "id": "appeal_text-function_appeal-a03_station-level_up",
+            "textLangId": "la-appeal_text-function_appeal-a03_station-level_up-name",
+            "descriptionLangId": "la-appeal_text-function_appeal-a03_station-level_up-description",
+            "assetId": "facility-level-up"
+        }
     }
 ]

@@ -86,5 +86,27 @@
             "viewConditionGroupId": "cd-perm-a01-chase",
             "order": 4
         }
+    },
+    {
+        "mini_game_type": 6,
+        "multi_game_match_type": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SPLASH_BALL",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+            "listAssetId": "splashball",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "order": 5
+        }
+    },
+    {
+        "mini_game_type": 6,
+        "multi_game_match_type": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SPLASH_BALL",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_RANDOM",
+            "listAssetId": "splashball",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-08",
+            "order": 5
+        }
     }
 ]

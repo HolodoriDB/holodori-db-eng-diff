@@ -147,5 +147,39 @@
             "targetId": "perm-a01-facerock-present-default",
             "order": 13
         }
+    },
+    {
+        "type": 10,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_EVENT_END_TIME_SOON",
+            "order": 19
+        }
+    },
+    {
+        "type": 7,
+        "target_id": "",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_ITEM_EXPIRATION_SOON",
+            "order": 18
+        }
+    },
+    {
+        "type": 11,
+        "target_id": "perm-a03-fishingshop-open-rod",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_FISHING_ROD_LEVEL_UPABLE",
+            "targetId": "perm-a03-fishingshop-open-rod",
+            "order": 21
+        }
+    },
+    {
+        "type": 11,
+        "target_id": "perm-a03-fishingshop-rod",
+        "data": {
+            "type": "ParkNoticeType_PARK_NOTICE_TYPE_PARK_FISHING_ROD_LEVEL_UPABLE",
+            "targetId": "perm-a03-fishingshop-rod",
+            "order": 20
+        }
     }
 ]

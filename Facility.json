@@ -9,6 +9,413 @@
         }
     },
     {
+        "id": "facility-a03-boat",
+        "data": {
+            "id": "facility-a03-boat",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-boatshop",
+        "data": {
+            "id": "facility-a03-boatshop",
+            "nameLangId": "la-facility-a03-boatshop-name",
+            "descriptionLangId": "la-facility-a03-boatshop-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-buoy",
+        "data": {
+            "id": "facility-a03-buoy",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-entrance",
+        "data": {
+            "id": "facility-a03-entrance",
+            "nameLangId": "la-facility-a03-entrance-name",
+            "descriptionLangId": "la-facility-a03-entrance-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-fishingpond1",
+        "data": {
+            "id": "facility-a03-fishingpond1",
+            "nameLangId": "la-facility-a03-fishingpond1-name",
+            "descriptionLangId": "la-facility-a03-fishingpond1-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-fishingpond2",
+        "data": {
+            "id": "facility-a03-fishingpond2",
+            "nameLangId": "la-facility-a03-fishingpond2-name",
+            "descriptionLangId": "la-facility-a03-fishingpond2-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-fishingpond3",
+        "data": {
+            "id": "facility-a03-fishingpond3",
+            "nameLangId": "la-facility-a03-fishingpond3-name",
+            "descriptionLangId": "la-facility-a03-fishingpond3-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-fishingshop",
+        "data": {
+            "id": "facility-a03-fishingshop",
+            "nameLangId": "la-facility-a03-fishingshop-name",
+            "descriptionLangId": "la-facility-a03-fishingshop-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-glamping",
+        "data": {
+            "id": "facility-a03-glamping",
+            "nameLangId": "la-facility-a03-glamping-name",
+            "descriptionLangId": "la-facility-a03-glamping-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandlarge1",
+        "data": {
+            "id": "facility-a03-islandlarge1",
+            "nameLangId": "la-facility-a03-islandlarge1-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandlarge2",
+        "data": {
+            "id": "facility-a03-islandlarge2",
+            "nameLangId": "la-facility-a03-islandlarge2-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandmiddle1",
+        "data": {
+            "id": "facility-a03-islandmiddle1",
+            "nameLangId": "la-facility-a03-islandmiddle1-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandmiddle2",
+        "data": {
+            "id": "facility-a03-islandmiddle2",
+            "nameLangId": "la-facility-a03-islandmiddle2-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandmiddle3",
+        "data": {
+            "id": "facility-a03-islandmiddle3",
+            "nameLangId": "la-facility-a03-islandmiddle3-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandsmall1",
+        "data": {
+            "id": "facility-a03-islandsmall1",
+            "nameLangId": "la-facility-a03-islandsmall1-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandsmall2",
+        "data": {
+            "id": "facility-a03-islandsmall2",
+            "nameLangId": "la-facility-a03-islandsmall2-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandsmall3",
+        "data": {
+            "id": "facility-a03-islandsmall3",
+            "nameLangId": "la-facility-a03-islandsmall3-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-islandsmall4",
+        "data": {
+            "id": "facility-a03-islandsmall4",
+            "nameLangId": "la-facility-a03-islandsmall4-name",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-livestage",
+        "data": {
+            "id": "facility-a03-livestage",
+            "nameLangId": "la-facility-a03-livestage-name",
+            "descriptionLangId": "la-facility-a03-livestage-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-pier",
+        "data": {
+            "id": "facility-a03-pier",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-resortshop",
+        "data": {
+            "id": "facility-a03-resortshop",
+            "nameLangId": "la-facility-a03-resortshop-name",
+            "descriptionLangId": "la-facility-a03-resortshop-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-seaarea1",
+        "data": {
+            "id": "facility-a03-seaarea1",
+            "nameLangId": "la-facility-a03-name",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-seaarea2",
+        "data": {
+            "id": "facility-a03-seaarea2",
+            "nameLangId": "la-facility-a03-name",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-seaarea3",
+        "data": {
+            "id": "facility-a03-seaarea3",
+            "nameLangId": "la-facility-a03-name",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-signboard1",
+        "data": {
+            "id": "facility-a03-signboard1",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-signboard2",
+        "data": {
+            "id": "facility-a03-signboard2",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-signboard3",
+        "data": {
+            "id": "facility-a03-signboard3",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-signboard4",
+        "data": {
+            "id": "facility-a03-signboard4",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-signboardlight",
+        "data": {
+            "id": "facility-a03-signboardlight",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-signboardlightsea",
+        "data": {
+            "id": "facility-a03-signboardlightsea",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-stadium",
+        "data": {
+            "id": "facility-a03-stadium",
+            "nameLangId": "la-facility-a03-stadium-name",
+            "descriptionLangId": "la-facility-a03-stadium-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-station",
+        "data": {
+            "id": "facility-a03-station",
+            "nameLangId": "la-facility-a03-station-name",
+            "descriptionLangId": "la-facility-a03-station-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-watergun",
+        "data": {
+            "id": "facility-a03-watergun",
+            "nameLangId": "la-facility-a03-watergun-name",
+            "descriptionLangId": "la-facility-a03-watergun-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-a03-whale",
+        "data": {
+            "id": "facility-a03-whale",
+            "nameLangId": "la-facility-a03-whale-name",
+            "descriptionLangId": "la-facility-a03-whale-description",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-fixed_sea-symbol-00",
+        "data": {
+            "id": "facility-gimmick-fixed_sea-symbol-00",
+            "nameLangId": "la-facility-gimmick-fixed_symbol-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-fixed_sea-symbol-01",
+        "data": {
+            "id": "facility-gimmick-fixed_sea-symbol-01",
+            "nameLangId": "la-facility-gimmick-fixed_symbol-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-fixed_symbol-01",
+        "data": {
+            "id": "facility-gimmick-fixed_symbol-01",
+            "nameLangId": "la-facility-gimmick-fixed_symbol-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-random_sea-symbol-00",
+        "data": {
+            "id": "facility-gimmick-random_sea-symbol-00",
+            "nameLangId": "la-facility-gimmick-random_symbol-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-random_sea-symbol-01",
+        "data": {
+            "id": "facility-gimmick-random_sea-symbol-01",
+            "nameLangId": "la-facility-gimmick-random_symbol-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-random_symbol-01",
+        "data": {
+            "id": "facility-gimmick-random_symbol-01",
+            "nameLangId": "la-facility-gimmick-random_symbol-name",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-spot-seaarea",
+        "data": {
+            "id": "facility-gimmick-spot-seaarea",
+            "nameLangId": "la-empty",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-treasurepod-00-pod0",
+        "data": {
+            "id": "facility-gimmick-treasurepod-00-pod0",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
+        "id": "facility-gimmick-treasurepod-01-pod0",
+        "data": {
+            "id": "facility-gimmick-treasurepod-01-pod0",
+            "nameLangId": "la-empty",
+            "descriptionLangId": "la-empty",
+            "areaId": "area-a03",
+            "order": 1
+        }
+    },
+    {
         "id": "facility-a01-athletic",
         "data": {
             "id": "facility-a01-athletic",

@@ -463,28 +463,6 @@
         }
     },
     {
-        "tips_id": "tips-hint-marathon_mission",
-        "number": 5,
-        "data": {
-            "tipsId": "tips-hint-marathon_mission",
-            "number": 5,
-            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
-            "assetId": "img_ui_tips-game-event_mission-005-02",
-            "descriptionLangId": "la-tips-hint-marathon_mission-description-5"
-        }
-    },
-    {
-        "tips_id": "tips-hint-marathon_mission",
-        "number": 6,
-        "data": {
-            "tipsId": "tips-hint-marathon_mission",
-            "number": 6,
-            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
-            "assetId": "img_ui_tips-game-event_mission-006-02",
-            "descriptionLangId": "la-tips-hint-marathon_mission-description-6"
-        }
-    },
-    {
         "tips_id": "tips-hint-marathon_relay",
         "number": 1,
         "data": {
@@ -551,6 +529,28 @@
         }
     },
     {
+        "tips_id": "tips-hint-marathon_mission",
+        "number": 5,
+        "data": {
+            "tipsId": "tips-hint-marathon_mission",
+            "number": 5,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips-game-event_mission-005-03",
+            "descriptionLangId": "la-tips-hint-marathon_mission-description-5"
+        }
+    },
+    {
+        "tips_id": "tips-hint-marathon_mission",
+        "number": 6,
+        "data": {
+            "tipsId": "tips-hint-marathon_mission",
+            "number": 6,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips-game-event_mission-006-03",
+            "descriptionLangId": "la-tips-hint-marathon_mission-description-6"
+        }
+    },
+    {
         "tips_id": "tips-game_screen-chase",
         "number": 3,
         "data": {
@@ -614,6 +614,446 @@
             "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
             "assetId": "img_ui_tips_mg-chase-003",
             "descriptionLangId": "la-tips-chase-description-3"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-park-fishing-fish-list-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-game_screen-park-fishing-fish-list-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-fish-list-area03-001",
+            "descriptionLangId": "la-tips-game_screen-park-fishing-fish-list-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-park-fishing-fish-list-area03",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-game_screen-park-fishing-fish-list-area03",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-fish-list-area03-002",
+            "descriptionLangId": "la-tips-game_screen-park-fishing-fish-list-area03-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-park-fishing-rod-level",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-game_screen-park-fishing-rod-level",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-rod-level-001",
+            "descriptionLangId": "la-tips-game_screen-park-fishing-rod-level-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-park-fishing-top-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-game_screen-park-fishing-top-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-area03-001",
+            "descriptionLangId": "la-tips-game_screen-park-fishing-top-area03-1"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-park-fishing-top-area03",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-game_screen-park-fishing-top-area03",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-area03-002",
+            "descriptionLangId": "la-tips-game_screen-park-fishing-top-area03-2"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-park-time-period-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-game_screen-park-time-period-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-time-period-area03-001",
+            "descriptionLangId": "la-tips-game_screen-park-time-period-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-splash_ball",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-game_screen-splash_ball",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-001",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-splash_ball",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-game_screen-splash_ball",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-002",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-splash_ball",
+        "number": 3,
+        "data": {
+            "tipsId": "tips-game_screen-splash_ball",
+            "number": 3,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-003",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-3"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-splash_ball",
+        "number": 4,
+        "data": {
+            "tipsId": "tips-game_screen-splash_ball",
+            "number": 4,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-004",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-4"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-splash_ball",
+        "number": 5,
+        "data": {
+            "tipsId": "tips-game_screen-splash_ball",
+            "number": 5,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-005",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-5"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-splash_ball",
+        "number": 6,
+        "data": {
+            "tipsId": "tips-game_screen-splash_ball",
+            "number": 6,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-002",
+            "descriptionLangId": "la-tips-splash_ball-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-game_screen-splash_ball",
+        "number": 7,
+        "data": {
+            "tipsId": "tips-game_screen-splash_ball",
+            "number": 7,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-003",
+            "descriptionLangId": "la-tips-splash_ball-description-3"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_detail_special_skill_timing_display",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_detail_special_skill_timing_display",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_detail_special_skill_timing_display-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_judgement_display_setting",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_judgement_display_setting",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_judgement_display_settingdescription-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_judgement_display_type",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_judgement_display_type",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_judgement_display_typedescription-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_judgement_position",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_judgement_position",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_judgement_positiondescription-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_judgement_timing_position",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_judgement_timing_position",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_judgement_timing_positiondescription-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_lane_split",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_lane_split",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_lane_split-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_lane_width_setting",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_lane_width_setting",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_lane_width_setting-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_low_life_warning_effect",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_low_life_warning_effect",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_low_life_warning_effectdescription-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_note_height_pct_setting",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_note_height_pct_setting",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_note_height_pct_setting-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_note_width_pct_setting",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_note_width_pct_setting",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_note_width_pct_setting-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-hint-live_option_skin_penlight",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-hint-live_option_skin_penlight",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_NONE",
+            "descriptionLangId": "la-tips-hint-live_option_skin_penlight-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-park-boat-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-park-boat-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-boat-area03",
+            "descriptionLangId": "la-tips-park-boat-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-park-boat-level-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-park-boat-level-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-area03-boat-level-001",
+            "descriptionLangId": "la-tips-park-boat-area03-level-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-park-fishing-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-park-fishing-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-area03-unlock-001",
+            "descriptionLangId": "la-tips-park-fishing-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-park-fishing-fish-list-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-park-fishing-fish-list-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-fish-list-area03-001",
+            "descriptionLangId": "la-tips-park-fishing-fish-list-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-park-fishing-fish-list-area03",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-park-fishing-fish-list-area03",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-fish-list-area03-002",
+            "descriptionLangId": "la-tips-park-fishing-fish-list-area03-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-park-fishing-rod-level-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-park-fishing-rod-level-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-rod-level-001",
+            "descriptionLangId": "la-tips-park-fishing-rod-level-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-park-fishing-rod-level-up-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-park-fishing-rod-level-up-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-rod-level-001",
+            "descriptionLangId": "la-tips-park-fishing-rod-level-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-park-fishing-top-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-park-fishing-top-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-area03-001",
+            "descriptionLangId": "la-tips-park-fishing-top-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-park-fishing-top-area03",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-park-fishing-top-area03",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishing-area03-002",
+            "descriptionLangId": "la-tips-park-fishing-top-area03-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-park-fishingshop-area03",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-park-fishingshop-area03",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_park-fishingshop-001",
+            "descriptionLangId": "la-tips-park-fishingshop-area03-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-splash_ball-quest",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-splash_ball-quest",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-001",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-splash_ball-quest",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-splash_ball-quest",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-002",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-2"
+        }
+    },
+    {
+        "tips_id": "tips-splash_ball-quest",
+        "number": 3,
+        "data": {
+            "tipsId": "tips-splash_ball-quest",
+            "number": 3,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-003",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-3"
+        }
+    },
+    {
+        "tips_id": "tips-splash_ball-quest",
+        "number": 4,
+        "data": {
+            "tipsId": "tips-splash_ball-quest",
+            "number": 4,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-004",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-4"
+        }
+    },
+    {
+        "tips_id": "tips-splash_ball-quest",
+        "number": 5,
+        "data": {
+            "tipsId": "tips-splash_ball-quest",
+            "number": 5,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-quest-005",
+            "descriptionLangId": "la-tips-splash_ball-quest-description-5"
+        }
+    },
+    {
+        "tips_id": "tips-splash_ball",
+        "number": 1,
+        "data": {
+            "tipsId": "tips-splash_ball",
+            "number": 1,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-001",
+            "descriptionLangId": "la-tips-splash_ball-description-1"
+        }
+    },
+    {
+        "tips_id": "tips-splash_ball",
+        "number": 2,
+        "data": {
+            "tipsId": "tips-splash_ball",
+            "number": 2,
+            "assetType": "TipsAssetType_TIPS_ASSET_TYPE_IMAGE",
+            "assetId": "img_ui_tips_mg-splash_ball-003",
+            "descriptionLangId": "la-tips-splash_ball-description-3"
         }
     },
     {

@@ -42,6 +42,49 @@
         }
     },
     {
+        "help_category_id": "help_category-help-game",
+        "number": 8,
+        "data": {
+            "helpCategoryId": "help_category-help-game",
+            "number": 8,
+            "titleLangId": "la-help_category-help-game-8-title",
+            "textLangId": "la-help_category-help-game-8-text",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-08"
+        }
+    },
+    {
+        "help_category_id": "help_category-help-option",
+        "number": 3,
+        "data": {
+            "helpCategoryId": "help_category-help-option",
+            "number": 3,
+            "titleLangId": "la-help_category-help-option-3-title",
+            "textLangId": "la-help_category-help-option-3-text"
+        }
+    },
+    {
+        "help_category_id": "help_category-help-park",
+        "number": 14,
+        "data": {
+            "helpCategoryId": "help_category-help-park",
+            "number": 14,
+            "titleLangId": "la-help_category-help-park-14-title",
+            "textLangId": "la-help_category-help-park-14-text",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-02-2"
+        }
+    },
+    {
+        "help_category_id": "help_category-help-park",
+        "number": 15,
+        "data": {
+            "helpCategoryId": "help_category-help-park",
+            "number": 15,
+            "titleLangId": "la-help_category-help-park-15-title",
+            "textLangId": "la-help_category-help-park-15-text",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-03-3"
+        }
+    },
+    {
         "help_category_id": "help_category-help-card",
         "number": 6,
         "data": {

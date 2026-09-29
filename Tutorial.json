@@ -31,6 +31,102 @@
         }
     },
     {
+        "type": 10902,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_BOAT_AREA03_LEVEL_UP",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-03-05-2",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-boat-level-area03"
+        }
+    },
+    {
+        "type": 10901,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_BOAT_AREA03_UNLOCK",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-03-02-1",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-boat-area03"
+        }
+    },
+    {
+        "type": 10804,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_EXCHANGE_BOOTH",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-03-03-6",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-fishingshop-area03"
+        }
+    },
+    {
+        "type": 10803,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_FISH_BOOK",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-fishing-fish-list-area03"
+        }
+    },
+    {
+        "type": 10805,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_ROD_LEVEL_UP",
+            "step": 1,
+            "unlockConditionGroupId": "cd-park_fishing_rod-02",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-fishing-rod-level-area03"
+        }
+    },
+    {
+        "type": 10802,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_TOP",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-fishing-top-area03"
+        }
+    },
+    {
+        "type": 10801,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_UNLOCK",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-03-03-5",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-park-fishing-area03"
+        }
+    },
+    {
+        "type": 2107,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_PARK_QUEST_SPLASH_BALL",
+            "step": 1,
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-splash_ball-quest"
+        }
+    },
+    {
+        "type": 1006,
+        "step": 1,
+        "data": {
+            "type": "TutorialType_TUTORIAL_TYPE_SPLASH_BALL",
+            "step": 1,
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-03-08",
+            "navigationType": "TutorialNavigationType_TUTORIAL_NAVIGATION_TYPE_TIPS",
+            "tipsId": "tips-splash_ball"
+        }
+    },
+    {
         "type": 1501,
         "step": 1,
         "data": {

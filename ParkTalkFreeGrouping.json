@@ -1,5 +1,55 @@
 [
     {
+        "group_id": "park_talk_free_grp-a03-all-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-all-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-02"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-boatshop-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-boatshop-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-boatshop"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 20,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-entrance-b-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-entrance-b-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-01"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-entrance-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-entrance-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-01"
+        }
+    },
+    {
         "group_id": "park_talk_free_grp-a01-athletic-day-chat-1",
         "area_id": "area-a01",
         "data": {
@@ -17,6 +67,106 @@
             "areaId": "area-a01",
             "ratio": 100,
             "conditionGroupId": "cd-quest_clear-quest-main-w1-01-03"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-fishingpond1-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-fishingpond1-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-fishingpond1"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-fishingpond2-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-fishingpond2-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-fishingpond2"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-fishingpond3-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-fishingpond3-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-fishingpond3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-fishingshop-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-fishingshop-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-fishingshop"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-glamping-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-glamping-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-glamping"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandlarge1-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandlarge1-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandlarge2-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandlarge2-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandmiddle1-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandmiddle1-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond1"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandmiddle2-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandmiddle2-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandmiddle3-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandmiddle3-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond3"
         }
     },
     {
@@ -486,6 +636,26 @@
         }
     },
     {
+        "group_id": "park_talk_free_grp-a01-secretbase-day-chat-1",
+        "area_id": "area-a01",
+        "data": {
+            "groupId": "park_talk_free_grp-a01-secretbase-day-chat-1",
+            "areaId": "area-a01",
+            "ratio": 150,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-05"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a01-station-day-chat-1",
+        "area_id": "area-a01",
+        "data": {
+            "groupId": "park_talk_free_grp-a01-station-day-chat-1",
+            "areaId": "area-a01",
+            "ratio": 170,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
         "group_id": "park_talk_free_grp-a01-free_npc_13-day-step_4-1",
         "area_id": "area-a01",
         "data": {
@@ -576,16 +746,6 @@
         }
     },
     {
-        "group_id": "park_talk_free_grp-a01-secretbase-day-chat-1",
-        "area_id": "area-a01",
-        "data": {
-            "groupId": "park_talk_free_grp-a01-secretbase-day-chat-1",
-            "areaId": "area-a01",
-            "ratio": 100,
-            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-05"
-        }
-    },
-    {
         "group_id": "park_talk_free_grp-a01-square-day-gimmick_1-1",
         "area_id": "area-a01",
         "data": {
@@ -604,16 +764,6 @@
             "ratio": 100,
             "isForcePick": true,
             "conditionGroupId": "cd-quest_clear-quest-main-w1-01-01-nega"
-        }
-    },
-    {
-        "group_id": "park_talk_free_grp-a01-station-day-chat-1",
-        "area_id": "area-a01",
-        "data": {
-            "groupId": "park_talk_free_grp-a01-station-day-chat-1",
-            "areaId": "area-a01",
-            "ratio": 100,
-            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
         }
     },
     {
@@ -924,6 +1074,323 @@
             "areaId": "area-a02-lobby",
             "ratio": 100,
             "conditionGroupId": "cd-quest_clear-quest-main-w1-01-24"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandsmall1-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandsmall1-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond1"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandsmall2-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandsmall2-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond1"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandsmall3-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandsmall3-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond2"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-islandsmall4-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-islandsmall4-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 10,
+            "conditionGroupId": "cd-facility-a03-fishingpond2"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-livestage-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-livestage-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-livestage"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-resortshop-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-resortshop-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-resortshop"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea1-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea1-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 20,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-02"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea2-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea2-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 20,
+            "conditionGroupId": "cd-facility-a03-seaarea2"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-1-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-1-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "isForcePick": true,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-10-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-10-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-11-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-11-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-12-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-12-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "isForcePick": true,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-13-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-13-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-14-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-14-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "isForcePick": true,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-15-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-15-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "isForcePick": true,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-16-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-16-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-17-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-17-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-2-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-2-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-3-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-3-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-4-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-4-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "isForcePick": true,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-5-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-5-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-6-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-6-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-7-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-7-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-8-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-8-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-9-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-9-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "isForcePick": true,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-seaarea3-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-seaarea3-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 20,
+            "conditionGroupId": "cd-facility-a03-seaarea3"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-stadium-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-stadium-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-stadium"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-stadium-day-step_1-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-stadium-day-step_1-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "isForcePick": true,
+            "conditionGroupId": "cd-facility-a03-stadium-prg-talk_free"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-station-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-station-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-station"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-watergun-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-watergun-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-watergun"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a03-whale-day-chat-1",
+        "area_id": "area-a03",
+        "data": {
+            "groupId": "park_talk_free_grp-a03-whale-day-chat-1",
+            "areaId": "area-a03",
+            "ratio": 100,
+            "conditionGroupId": "cd-facility-a03-whale"
         }
     },
     {
@@ -1328,26 +1795,6 @@
         }
     },
     {
-        "group_id": "park_talk_free_grp-a01-house-day-chat-1",
-        "area_id": "area-a01",
-        "data": {
-            "groupId": "park_talk_free_grp-a01-house-day-chat-1",
-            "areaId": "area-a01",
-            "ratio": 100,
-            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-02"
-        }
-    },
-    {
-        "group_id": "park_talk_free_grp-a01-house-day-gimmick_1-1",
-        "area_id": "area-a01",
-        "data": {
-            "groupId": "park_talk_free_grp-a01-house-day-gimmick_1-1",
-            "areaId": "area-a01",
-            "ratio": 100,
-            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-24"
-        }
-    },
-    {
         "group_id": "park_talk_free_grp-a01-house-evening-chat-1",
         "area_id": "area-a01",
         "data": {
@@ -1426,6 +1873,26 @@
             "areaId": "area-a01-restaurant",
             "ratio": 100,
             "conditionGroupId": "cd-quest_clear-quest-main-w1-01-11-1-2"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a01-house-day-chat-1",
+        "area_id": "area-a01",
+        "data": {
+            "groupId": "park_talk_free_grp-a01-house-day-chat-1",
+            "areaId": "area-a01",
+            "ratio": 150,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-02"
+        }
+    },
+    {
+        "group_id": "park_talk_free_grp-a01-house-day-gimmick_1-1",
+        "area_id": "area-a01",
+        "data": {
+            "groupId": "park_talk_free_grp-a01-house-day-gimmick_1-1",
+            "areaId": "area-a01",
+            "ratio": 150,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-01-24"
         }
     },
     {

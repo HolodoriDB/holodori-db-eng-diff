@@ -52,8 +52,15 @@
         "data": {
             "id": "area-a02-play-selector",
             "areaGroupingId": "area_group-a02",
-            "isMapVisible": true,
-            "isUserSelectable": true
+            "isMapVisible": true
+        }
+    },
+    {
+        "id": "area-a03-selector",
+        "data": {
+            "id": "area-a03-selector",
+            "areaGroupingId": "area_group-a03",
+            "isMapVisible": true
         }
     }
 ]

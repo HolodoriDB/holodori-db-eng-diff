@@ -254,6 +254,150 @@
         }
     },
     {
+        "group_id": "resource_obtainment_route-fishingbait-001",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-001",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-none"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-002",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-002",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-002-gettable"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-002",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-002",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-splash_ball",
+            "facilityId": "facility-a03-stadium",
+            "conditionGroupId": "cd-facility-a03-stadium"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-002",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-002",
+            "number": 3,
+            "descriptionLangId": "la-facility-a03-station-name",
+            "facilityId": "facility-a03-station",
+            "conditionGroupId": "cd-facility-a03-station-level-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-002",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-002",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-003",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-003",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-003-gettable"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-003",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-003",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-splash_ball",
+            "facilityId": "facility-a03-stadium",
+            "conditionGroupId": "cd-facility-a03-stadium"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-003",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-003",
+            "number": 3,
+            "descriptionLangId": "la-facility-a03-station-name",
+            "facilityId": "facility-a03-station",
+            "conditionGroupId": "cd-facility-a03-station-level-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-003",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-003",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-004",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-004",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-004-gettable"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-004",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-004",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-splash_ball",
+            "facilityId": "facility-a03-stadium",
+            "conditionGroupId": "cd-facility-a03-stadium"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-004",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-004",
+            "number": 3,
+            "descriptionLangId": "la-facility-a03-station-name",
+            "facilityId": "facility-a03-station",
+            "conditionGroupId": "cd-facility-a03-station-level-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-004",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-004",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-004",
+        "number": 5,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-004",
+            "number": 5,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
         "group_id": "resource_obtainment_route-item-skill_tree_content-2",
         "number": 3,
         "data": {
@@ -282,6 +426,328 @@
             "descriptionLangId": "la-facility-a01-station-name",
             "facilityId": "facility-a01-station",
             "conditionGroupId": "cd-quest_clear-quest-main-w1-01-08"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-005",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-005",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-005-gettable"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-005",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-005",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-splash_ball",
+            "facilityId": "facility-a03-stadium",
+            "conditionGroupId": "cd-facility-a03-stadium"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-005",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-005",
+            "number": 3,
+            "descriptionLangId": "la-facility-a03-station-name",
+            "facilityId": "facility-a03-station",
+            "conditionGroupId": "cd-facility-a03-station-level-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-005",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-005",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-005",
+        "number": 5,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-005",
+            "number": 5,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-006",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-006",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-006-gettable"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-006",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-006",
+            "number": 2,
+            "descriptionLangId": "la-facility-a03-station-name",
+            "facilityId": "facility-a03-station",
+            "conditionGroupId": "cd-facility-a03-station-level-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-006",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-006",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-006",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-006",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-007",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-007",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-007-gettable"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-007",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-007",
+            "number": 2,
+            "descriptionLangId": "la-facility-a03-station-name",
+            "facilityId": "facility-a03-station",
+            "conditionGroupId": "cd-facility-a03-station-level-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-007",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-007",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-007",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-007",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-008",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-008",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-park_fishing_bait-008-gettable"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-008",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-008",
+            "number": 2,
+            "descriptionLangId": "la-facility-a03-station-name",
+            "facilityId": "facility-a03-station",
+            "conditionGroupId": "cd-facility-a03-station-level-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-008",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-008",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-008",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-008",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingcoin",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingcoin",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-fishingpond1",
+            "facilityId": "facility-a03-fishingpond1",
+            "conditionGroupId": "cd-facility-a03-fishingpond1"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingcoin",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingcoin",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-fishingpond2",
+            "facilityId": "facility-a03-fishingpond2",
+            "conditionGroupId": "cd-facility-a03-fishingpond2"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingcoin",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingcoin",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-fishingpond3",
+            "facilityId": "facility-a03-fishingpond3",
+            "conditionGroupId": "cd-facility-a03-fishingpond3"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingrod",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingrod",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-park_fishing_rod"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-001-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-001-1",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-resortshop-name",
+            "facilityId": "facility-a03-resortshop",
+            "conditionGroupId": "cd-facility-a03-resortshop"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-001-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-001-1",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-quest"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-001-1",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-001-1",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-002-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-002-1",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-resortshop-name",
+            "facilityId": "facility-a03-resortshop",
+            "conditionGroupId": "cd-facility-a03-resortshop"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-002-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-002-1",
+            "number": 2,
+            "descriptionLangId": "la-resource_obtainment_route-quest"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-002-1",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-002-1",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-003-1",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-003-1",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-splash_ball",
+            "facilityId": "facility-a03-stadium",
+            "conditionGroupId": "cd-facility-a03-stadium"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-003-1",
+        "number": 2,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-003-1",
+            "number": 2,
+            "descriptionLangId": "la-facility-a03-resortshop-name",
+            "facilityId": "facility-a03-resortshop",
+            "conditionGroupId": "cd-facility-a03-resortshop"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-003-1",
+        "number": 3,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-003-1",
+            "number": 3,
+            "descriptionLangId": "la-resource_obtainment_route-quest"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-facility-area_a03-003-1",
+        "number": 4,
+        "data": {
+            "groupId": "resource_obtainment_route-item-facility-area_a03-003-1",
+            "number": 4,
+            "descriptionLangId": "la-resource_obtainment_route-hidden_treasure"
         }
     },
     {

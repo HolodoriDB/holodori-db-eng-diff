@@ -24,6 +24,42 @@
         }
     },
     {
+        "id": "loading_display-tips-boat-001",
+        "data": {
+            "id": "loading_display-tips-boat-001",
+            "type": "LoadingDisplayType_LOADING_DISPLAY_TYPE_TIPS",
+            "titleLangId": "la-loading_display-tips-boat-001-title",
+            "textLangId": "la-loading_display-tips-boat-001-text",
+            "assetId": "img_ui_loading_boat-001",
+            "ratio": 10,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-02-2"
+        }
+    },
+    {
+        "id": "loading_display-tips-fishing-001",
+        "data": {
+            "id": "loading_display-tips-fishing-001",
+            "type": "LoadingDisplayType_LOADING_DISPLAY_TYPE_TIPS",
+            "titleLangId": "la-loading_display-tips-fishing-001-title",
+            "textLangId": "la-loading_display-tips-fishing-001-text",
+            "assetId": "img_ui_loading_fishing-001",
+            "ratio": 10,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-03-3"
+        }
+    },
+    {
+        "id": "loading_display-tips-mg-splash_ball-001",
+        "data": {
+            "id": "loading_display-tips-mg-splash_ball-001",
+            "type": "LoadingDisplayType_LOADING_DISPLAY_TYPE_TIPS",
+            "titleLangId": "la-loading_display-tips-mg-splash_ball-001",
+            "textLangId": "la-loading_display-tips-mg-splash_ball-001-text",
+            "assetId": "img_ui_loading_mg-splash_ball-001",
+            "ratio": 10,
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-08"
+        }
+    },
+    {
         "id": "loading_display-chr-00037",
         "data": {
             "id": "loading_display-chr-00037",

@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "id": "la-splash_ball-game_playing_display_clear_condition-normal",
+        "data": {
+            "id": "la-splash_ball-game_playing_display_clear_condition-normal",
+            "text": "Try to get the ball into the opponent's goal! Win with {0} points!"
+        }
+    },
+    {
+        "id": "la-splash_ball-game_playing_display_clear_condition-quest",
+        "data": {
+            "id": "la-splash_ball-game_playing_display_clear_condition-quest",
+            "text": "Play to the end to clear the game! Victory with {0} points!"
+        }
+    },
+    {
+        "id": "la-splash_ball-game_start_display_clear_condition-normal",
+        "data": {
+            "id": "la-splash_ball-game_start_display_clear_condition-normal",
+            "text": "Try to get the ball into the opponent's goal!"
+        }
+    },
+    {
+        "id": "la-splash_ball-game_start_display_clear_condition-quest",
+        "data": {
+            "id": "la-splash_ball-game_start_display_clear_condition-quest",
+            "text": "Try to get the ball into the opponent's goal!"
+        }
+    }
+]

@@ -1,1 +1,122 @@
-[]
+[
+    {
+        "group_id": "ball_group-normal",
+        "number": 1,
+        "data": {
+            "groupId": "ball_group-normal",
+            "number": 1,
+            "ballType": "SplashBallBallType_SPLASH_BALL_BALL_TYPE_NORMAL",
+            "size": 15,
+            "mass": 1700,
+            "bounceCoefficientPermilMultiply": 1000,
+            "goalPoint": "1",
+            "appearanceProbabilityRatio": 110,
+            "dashForceCoefficientPermilMultiply": 1000
+        }
+    },
+    {
+        "group_id": "ball_group-normal",
+        "number": 2,
+        "data": {
+            "groupId": "ball_group-normal",
+            "number": 2,
+            "ballType": "SplashBallBallType_SPLASH_BALL_BALL_TYPE_BONUS",
+            "size": 15,
+            "mass": 2000,
+            "bounceCoefficientPermilMultiply": 1000,
+            "goalPoint": "5",
+            "appearanceProbabilityRatio": 25,
+            "dashForceCoefficientPermilMultiply": 1000
+        }
+    },
+    {
+        "group_id": "ball_group-normal",
+        "number": 3,
+        "data": {
+            "groupId": "ball_group-normal",
+            "number": 3,
+            "ballType": "SplashBallBallType_SPLASH_BALL_BALL_TYPE_LIGHT",
+            "size": 15,
+            "mass": 1200,
+            "bounceCoefficientPermilMultiply": 1000,
+            "goalPoint": "1",
+            "appearanceProbabilityRatio": 35,
+            "dashForceCoefficientPermilMultiply": 1000
+        }
+    },
+    {
+        "group_id": "ball_group-normal",
+        "number": 4,
+        "data": {
+            "groupId": "ball_group-normal",
+            "number": 4,
+            "ballType": "SplashBallBallType_SPLASH_BALL_BALL_TYPE_HEAVY",
+            "size": 15,
+            "mass": 2500,
+            "bounceCoefficientPermilMultiply": 700,
+            "goalPoint": "3",
+            "appearanceProbabilityRatio": 30,
+            "dashForceCoefficientPermilMultiply": 300
+        }
+    },
+    {
+        "group_id": "ball_group-quest",
+        "number": 1,
+        "data": {
+            "groupId": "ball_group-quest",
+            "number": 1,
+            "ballType": "SplashBallBallType_SPLASH_BALL_BALL_TYPE_NORMAL",
+            "size": 15,
+            "mass": 1700,
+            "bounceCoefficientPermilMultiply": 1000,
+            "goalPoint": "1",
+            "appearanceProbabilityRatio": 110,
+            "dashForceCoefficientPermilMultiply": 1000
+        }
+    },
+    {
+        "group_id": "ball_group-quest",
+        "number": 2,
+        "data": {
+            "groupId": "ball_group-quest",
+            "number": 2,
+            "ballType": "SplashBallBallType_SPLASH_BALL_BALL_TYPE_BONUS",
+            "size": 15,
+            "mass": 2000,
+            "bounceCoefficientPermilMultiply": 1000,
+            "goalPoint": "5",
+            "appearanceProbabilityRatio": 25,
+            "dashForceCoefficientPermilMultiply": 1000
+        }
+    },
+    {
+        "group_id": "ball_group-quest",
+        "number": 3,
+        "data": {
+            "groupId": "ball_group-quest",
+            "number": 3,
+            "ballType": "SplashBallBallType_SPLASH_BALL_BALL_TYPE_LIGHT",
+            "size": 15,
+            "mass": 1200,
+            "bounceCoefficientPermilMultiply": 1000,
+            "goalPoint": "1",
+            "appearanceProbabilityRatio": 35,
+            "dashForceCoefficientPermilMultiply": 1000
+        }
+    },
+    {
+        "group_id": "ball_group-quest",
+        "number": 4,
+        "data": {
+            "groupId": "ball_group-quest",
+            "number": 4,
+            "ballType": "SplashBallBallType_SPLASH_BALL_BALL_TYPE_HEAVY",
+            "size": 15,
+            "mass": 2500,
+            "bounceCoefficientPermilMultiply": 700,
+            "goalPoint": "3",
+            "appearanceProbabilityRatio": 30,
+            "dashForceCoefficientPermilMultiply": 300
+        }
+    }
+]

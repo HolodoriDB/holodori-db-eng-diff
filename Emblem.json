@@ -6512,96 +6512,6 @@
         }
     },
     {
-        "id": "emblem-mini_game-combo_card_game-03",
-        "data": {
-            "id": "emblem-mini_game-combo_card_game-03",
-            "nameLangId": "la-emblem-mini_game-combo_card_game-03",
-            "assetId": "s_mini-game-combo-card-game-03",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072336
-        }
-    },
-    {
-        "id": "emblem-mini_game-cooking_puzzle-01",
-        "data": {
-            "id": "emblem-mini_game-cooking_puzzle-01",
-            "nameLangId": "la-emblem-mini_game-cooking_puzzle-01",
-            "assetId": "s_mini-game-cooking-puzzle-01",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072328
-        }
-    },
-    {
-        "id": "emblem-mini_game-cooking_puzzle-02",
-        "data": {
-            "id": "emblem-mini_game-cooking_puzzle-02",
-            "nameLangId": "la-emblem-mini_game-cooking_puzzle-02",
-            "assetId": "s_mini-game-cooking-puzzle-02",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072329
-        }
-    },
-    {
-        "id": "emblem-mini_game-cooking_puzzle-03",
-        "data": {
-            "id": "emblem-mini_game-cooking_puzzle-03",
-            "nameLangId": "la-emblem-mini_game-cooking_puzzle-03",
-            "assetId": "s_mini-game-cooking-puzzle-03",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072330
-        }
-    },
-    {
-        "id": "emblem-mini_game-jump_rope-01",
-        "data": {
-            "id": "emblem-mini_game-jump_rope-01",
-            "nameLangId": "la-emblem-mini_game-jump_rope-01",
-            "assetId": "s_mini-game-jump-rope-01",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072325
-        }
-    },
-    {
-        "id": "emblem-mini_game-jump_rope-02",
-        "data": {
-            "id": "emblem-mini_game-jump_rope-02",
-            "nameLangId": "la-emblem-mini_game-jump_rope-02",
-            "assetId": "s_mini-game-jump-rope-02",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072326
-        }
-    },
-    {
-        "id": "emblem-mini_game-jump_rope-03",
-        "data": {
-            "id": "emblem-mini_game-jump_rope-03",
-            "nameLangId": "la-emblem-mini_game-jump_rope-03",
-            "assetId": "s_mini-game-jump-rope-03",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072327
-        }
-    },
-    {
-        "id": "emblem-park-area_a01-01",
-        "data": {
-            "id": "emblem-park-area_a01-01",
-            "nameLangId": "la-emblem-park-area_a01-01",
-            "assetId": "s_park-area-a01-01",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072303
-        }
-    },
-    {
-        "id": "emblem-park-area_a02-01",
-        "data": {
-            "id": "emblem-park-area_a02-01",
-            "nameLangId": "la-emblem-park-area_a02-01",
-            "assetId": "s_park-area-a02-01",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072304
-        }
-    },
-    {
         "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-02-m0332-dream",
         "data": {
             "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-relay-001-chapter-02-m0332-dream",
@@ -6699,6 +6609,16 @@
             "assetId": "m_event-relay-001-chapter-03-m0335-silver",
             "size": "EmblemSize_EMBLEM_SIZE_M",
             "order": 226081722
+        }
+    },
+    {
+        "id": "emblem-mini_game-combo_card_game-03",
+        "data": {
+            "id": "emblem-mini_game-combo_card_game-03",
+            "nameLangId": "la-emblem-mini_game-combo_card_game-03",
+            "assetId": "s_mini-game-combo-card-game-03",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000012
         }
     },
     {
@@ -6889,36 +6809,6 @@
             "assetId": "m_event-normal-003-chapter-01-silver",
             "size": "EmblemSize_EMBLEM_SIZE_M",
             "order": 226082900
-        }
-    },
-    {
-        "id": "emblem-mini_game-chase-01",
-        "data": {
-            "id": "emblem-mini_game-chase-01",
-            "nameLangId": "la-emblem-mini_game-chase-01",
-            "assetId": "s_mini-game-chase-01",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072337
-        }
-    },
-    {
-        "id": "emblem-mini_game-chase-02",
-        "data": {
-            "id": "emblem-mini_game-chase-02",
-            "nameLangId": "la-emblem-mini_game-chase-02",
-            "assetId": "s_mini-game-chase-02",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072338
-        }
-    },
-    {
-        "id": "emblem-mini_game-chase-03",
-        "data": {
-            "id": "emblem-mini_game-chase-03",
-            "nameLangId": "la-emblem-mini_game-chase-03",
-            "assetId": "s_mini-game-chase-03",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072339
         }
     },
     {
@@ -7219,46 +7109,6 @@
             "assetId": "m_event-normal-003-chapter-01-m0342-silver",
             "size": "EmblemSize_EMBLEM_SIZE_M",
             "order": 226082901
-        }
-    },
-    {
-        "id": "emblem-chr-character_level_sum-01",
-        "data": {
-            "id": "emblem-chr-character_level_sum-01",
-            "nameLangId": "la-emblem-chr-character_level_sum-01",
-            "assetId": "m_chr-character-level-sum-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072318
-        }
-    },
-    {
-        "id": "emblem-chr-character_level_sum-02",
-        "data": {
-            "id": "emblem-chr-character_level_sum-02",
-            "nameLangId": "la-emblem-chr-character_level_sum-02",
-            "assetId": "m_chr-character-level-sum-02",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072319
-        }
-    },
-    {
-        "id": "emblem-chr-character_level_sum-03",
-        "data": {
-            "id": "emblem-chr-character_level_sum-03",
-            "nameLangId": "la-emblem-chr-character_level_sum-03",
-            "assetId": "m_chr-character-level-sum-03",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072320
-        }
-    },
-    {
-        "id": "emblem-chr-character_level_sum-04",
-        "data": {
-            "id": "emblem-chr-character_level_sum-04",
-            "nameLangId": "la-emblem-chr-character_level_sum-04",
-            "assetId": "m_chr-character-level-sum-04",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072321
         }
     },
     {
@@ -8322,206 +8172,6 @@
         }
     },
     {
-        "id": "emblem-cmn-coin_get-01",
-        "data": {
-            "id": "emblem-cmn-coin_get-01",
-            "nameLangId": "la-emblem-cmn-coin_get-01",
-            "assetId": "s_cmn-coin-get-01",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072314
-        }
-    },
-    {
-        "id": "emblem-cmn-player_level-01",
-        "data": {
-            "id": "emblem-cmn-player_level-01",
-            "nameLangId": "la-emblem-cmn-player_level-01",
-            "assetId": "m_cmn-player-level-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072301
-        }
-    },
-    {
-        "id": "emblem-cmn-player_level-02",
-        "data": {
-            "id": "emblem-cmn-player_level-02",
-            "nameLangId": "la-emblem-cmn-player_level-02",
-            "assetId": "m_cmn-player-level-02",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072302
-        }
-    },
-    {
-        "id": "emblem-live-clear_count-01",
-        "data": {
-            "id": "emblem-live-clear_count-01",
-            "nameLangId": "la-emblem-live-clear_count-01",
-            "assetId": "m_live-clear-count-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072305
-        }
-    },
-    {
-        "id": "emblem-live-clear_count-02",
-        "data": {
-            "id": "emblem-live-clear_count-02",
-            "nameLangId": "la-emblem-live-clear_count-02",
-            "assetId": "m_live-clear-count-02",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072306
-        }
-    },
-    {
-        "id": "emblem-live-clear_count-03",
-        "data": {
-            "id": "emblem-live-clear_count-03",
-            "nameLangId": "la-emblem-live-clear_count-03",
-            "assetId": "m_live-clear-count-03",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072307
-        }
-    },
-    {
-        "id": "emblem-live-deck_score-01",
-        "data": {
-            "id": "emblem-live-deck_score-01",
-            "nameLangId": "la-emblem-live-deck_score-01",
-            "assetId": "m_live-deck-score-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072316
-        }
-    },
-    {
-        "id": "emblem-live-deck_score-02",
-        "data": {
-            "id": "emblem-live-deck_score-02",
-            "nameLangId": "la-emblem-live-deck_score-02",
-            "assetId": "m_live-deck-score-02",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072317
-        }
-    },
-    {
-        "id": "emblem-live-highest_score_rating_sum-01",
-        "data": {
-            "id": "emblem-live-highest_score_rating_sum-01",
-            "nameLangId": "la-emblem-live-highest_score_rating_sum-01",
-            "assetId": "m_live-highest-score-rating-sum-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072322
-        }
-    },
-    {
-        "id": "emblem-live-highest_score_rating_sum-02",
-        "data": {
-            "id": "emblem-live-highest_score_rating_sum-02",
-            "nameLangId": "la-emblem-live-highest_score_rating_sum-02",
-            "assetId": "m_live-highest-score-rating-sum-02",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072323
-        }
-    },
-    {
-        "id": "emblem-live-highest_score_rating_sum-03",
-        "data": {
-            "id": "emblem-live-highest_score_rating_sum-03",
-            "nameLangId": "la-emblem-live-highest_score_rating_sum-03",
-            "assetId": "m_live-highest-score-rating-sum-03",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072324
-        }
-    },
-    {
-        "id": "emblem-live-music_all_perfect_count-01",
-        "data": {
-            "id": "emblem-live-music_all_perfect_count-01",
-            "nameLangId": "la-emblem-live-music_all_perfect_count-01",
-            "assetId": "m_live-music-all-perfect-count-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072310
-        }
-    },
-    {
-        "id": "emblem-live-music_clear_count-01",
-        "data": {
-            "id": "emblem-live-music_clear_count-01",
-            "nameLangId": "la-emblem-live-music_clear_count-01",
-            "assetId": "m_live-music-clear-count-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072308
-        }
-    },
-    {
-        "id": "emblem-live-music_full_combo_count-01",
-        "data": {
-            "id": "emblem-live-music_full_combo_count-01",
-            "nameLangId": "la-emblem-live-music_full_combo_count-01",
-            "assetId": "m_live-music-full-combo-count-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072309
-        }
-    },
-    {
-        "id": "emblem-live-mvp_count-01",
-        "data": {
-            "id": "emblem-live-mvp_count-01",
-            "nameLangId": "la-emblem-live-mvp_count-01",
-            "assetId": "m_live-mvp-count-01",
-            "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072315
-        }
-    },
-    {
-        "id": "emblem-mini_game-circuit-01",
-        "data": {
-            "id": "emblem-mini_game-circuit-01",
-            "nameLangId": "la-emblem-mini_game-circuit-01",
-            "assetId": "s_mini-game-circuit-01",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072331
-        }
-    },
-    {
-        "id": "emblem-mini_game-circuit-02",
-        "data": {
-            "id": "emblem-mini_game-circuit-02",
-            "nameLangId": "la-emblem-mini_game-circuit-02",
-            "assetId": "s_mini-game-circuit-02",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072332
-        }
-    },
-    {
-        "id": "emblem-mini_game-circuit-03",
-        "data": {
-            "id": "emblem-mini_game-circuit-03",
-            "nameLangId": "la-emblem-mini_game-circuit-03",
-            "assetId": "s_mini-game-circuit-03",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072333
-        }
-    },
-    {
-        "id": "emblem-mini_game-combo_card_game-01",
-        "data": {
-            "id": "emblem-mini_game-combo_card_game-01",
-            "nameLangId": "la-emblem-mini_game-combo_card_game-01",
-            "assetId": "s_mini-game-combo-card-game-01",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072334
-        }
-    },
-    {
-        "id": "emblem-mini_game-combo_card_game-02",
-        "data": {
-            "id": "emblem-mini_game-combo_card_game-02",
-            "nameLangId": "la-emblem-mini_game-combo_card_game-02",
-            "assetId": "s_mini-game-combo-card-game-02",
-            "size": "EmblemSize_EMBLEM_SIZE_S",
-            "order": 126072335
-        }
-    },
-    {
         "id": "emblem-birthday-chr-00032-260908",
         "data": {
             "id": "emblem-birthday-chr-00032-260908",
@@ -8709,6 +8359,16 @@
             "assetId": "m_event-normal-004-chapter-01-m0527-platinum",
             "size": "EmblemSize_EMBLEM_SIZE_M",
             "order": 226090803
+        }
+    },
+    {
+        "id": "emblem-cmn-coin_get-01",
+        "data": {
+            "id": "emblem-cmn-coin_get-01",
+            "nameLangId": "la-emblem-cmn-coin_get-01",
+            "assetId": "s_cmn-coin-get-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 101000001
         }
     },
     {
@@ -9262,6 +8922,726 @@
         }
     },
     {
+        "id": "emblem-birthday-chr-00006-261005",
+        "data": {
+            "id": "emblem-birthday-chr-00006-261005",
+            "nameLangId": "la-emblem-birthday-chr-00006-261005",
+            "assetId": "m_birthday-chr-00006-261005",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 726100500
+        }
+    },
+    {
+        "id": "emblem-birthday-chr-00017-261001",
+        "data": {
+            "id": "emblem-birthday-chr-00017-261001",
+            "nameLangId": "la-emblem-birthday-chr-00017-261001",
+            "assetId": "m_birthday-chr-00017-261001",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 726100100
+        }
+    },
+    {
+        "id": "emblem-chr-character_level_sum-01",
+        "data": {
+            "id": "emblem-chr-character_level_sum-01",
+            "nameLangId": "la-emblem-chr-character_level_sum-01",
+            "assetId": "m_chr-character-level-sum-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 113000001
+        }
+    },
+    {
+        "id": "emblem-chr-character_level_sum-02",
+        "data": {
+            "id": "emblem-chr-character_level_sum-02",
+            "nameLangId": "la-emblem-chr-character_level_sum-02",
+            "assetId": "m_chr-character-level-sum-02",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 113000002
+        }
+    },
+    {
+        "id": "emblem-chr-character_level_sum-03",
+        "data": {
+            "id": "emblem-chr-character_level_sum-03",
+            "nameLangId": "la-emblem-chr-character_level_sum-03",
+            "assetId": "m_chr-character-level-sum-03",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 113000003
+        }
+    },
+    {
+        "id": "emblem-chr-character_level_sum-04",
+        "data": {
+            "id": "emblem-chr-character_level_sum-04",
+            "nameLangId": "la-emblem-chr-character_level_sum-04",
+            "assetId": "m_chr-character-level-sum-04",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 113000004
+        }
+    },
+    {
+        "id": "emblem-cmn-player_level-01",
+        "data": {
+            "id": "emblem-cmn-player_level-01",
+            "nameLangId": "la-emblem-cmn-player_level-01",
+            "assetId": "m_cmn-player-level-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 103000001
+        }
+    },
+    {
+        "id": "emblem-cmn-player_level-02",
+        "data": {
+            "id": "emblem-cmn-player_level-02",
+            "nameLangId": "la-emblem-cmn-player_level-02",
+            "assetId": "m_cmn-player-level-02",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 103000002
+        }
+    },
+    {
+        "id": "emblem-live-clear_count-01",
+        "data": {
+            "id": "emblem-live-clear_count-01",
+            "nameLangId": "la-emblem-live-clear_count-01",
+            "assetId": "m_live-clear-count-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 104000001
+        }
+    },
+    {
+        "id": "emblem-live-clear_count-02",
+        "data": {
+            "id": "emblem-live-clear_count-02",
+            "nameLangId": "la-emblem-live-clear_count-02",
+            "assetId": "m_live-clear-count-02",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 104000002
+        }
+    },
+    {
+        "id": "emblem-live-clear_count-03",
+        "data": {
+            "id": "emblem-live-clear_count-03",
+            "nameLangId": "la-emblem-live-clear_count-03",
+            "assetId": "m_live-clear-count-03",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 104000003
+        }
+    },
+    {
+        "id": "emblem-live-deck_score-01",
+        "data": {
+            "id": "emblem-live-deck_score-01",
+            "nameLangId": "la-emblem-live-deck_score-01",
+            "assetId": "m_live-deck-score-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 112000001
+        }
+    },
+    {
+        "id": "emblem-live-deck_score-02",
+        "data": {
+            "id": "emblem-live-deck_score-02",
+            "nameLangId": "la-emblem-live-deck_score-02",
+            "assetId": "m_live-deck-score-02",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 112000002
+        }
+    },
+    {
+        "id": "emblem-live-highest_score_rating_sum-01",
+        "data": {
+            "id": "emblem-live-highest_score_rating_sum-01",
+            "nameLangId": "la-emblem-live-highest_score_rating_sum-01",
+            "assetId": "m_live-highest-score-rating-sum-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 114000001
+        }
+    },
+    {
+        "id": "emblem-live-highest_score_rating_sum-02",
+        "data": {
+            "id": "emblem-live-highest_score_rating_sum-02",
+            "nameLangId": "la-emblem-live-highest_score_rating_sum-02",
+            "assetId": "m_live-highest-score-rating-sum-02",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 114000002
+        }
+    },
+    {
+        "id": "emblem-live-highest_score_rating_sum-03",
+        "data": {
+            "id": "emblem-live-highest_score_rating_sum-03",
+            "nameLangId": "la-emblem-live-highest_score_rating_sum-03",
+            "assetId": "m_live-highest-score-rating-sum-03",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 114000003
+        }
+    },
+    {
+        "id": "emblem-live-music_all_perfect_count-01",
+        "data": {
+            "id": "emblem-live-music_all_perfect_count-01",
+            "nameLangId": "la-emblem-live-music_all_perfect_count-01",
+            "assetId": "m_live-music-all-perfect-count-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 107000001
+        }
+    },
+    {
+        "id": "emblem-live-music_clear_count-01",
+        "data": {
+            "id": "emblem-live-music_clear_count-01",
+            "nameLangId": "la-emblem-live-music_clear_count-01",
+            "assetId": "m_live-music-clear-count-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 105000001
+        }
+    },
+    {
+        "id": "emblem-live-music_full_combo_count-01",
+        "data": {
+            "id": "emblem-live-music_full_combo_count-01",
+            "nameLangId": "la-emblem-live-music_full_combo_count-01",
+            "assetId": "m_live-music-full-combo-count-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 106000001
+        }
+    },
+    {
+        "id": "emblem-live-mvp_count-01",
+        "data": {
+            "id": "emblem-live-mvp_count-01",
+            "nameLangId": "la-emblem-live-mvp_count-01",
+            "assetId": "m_live-mvp-count-01",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 111000001
+        }
+    },
+    {
+        "id": "emblem-mini_game-chase-01",
+        "data": {
+            "id": "emblem-mini_game-chase-01",
+            "nameLangId": "la-emblem-mini_game-chase-01",
+            "assetId": "s_mini-game-chase-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000013
+        }
+    },
+    {
+        "id": "emblem-mini_game-chase-02",
+        "data": {
+            "id": "emblem-mini_game-chase-02",
+            "nameLangId": "la-emblem-mini_game-chase-02",
+            "assetId": "s_mini-game-chase-02",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000014
+        }
+    },
+    {
+        "id": "emblem-mini_game-chase-03",
+        "data": {
+            "id": "emblem-mini_game-chase-03",
+            "nameLangId": "la-emblem-mini_game-chase-03",
+            "assetId": "s_mini-game-chase-03",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000015
+        }
+    },
+    {
+        "id": "emblem-mini_game-circuit-01",
+        "data": {
+            "id": "emblem-mini_game-circuit-01",
+            "nameLangId": "la-emblem-mini_game-circuit-01",
+            "assetId": "s_mini-game-circuit-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000007
+        }
+    },
+    {
+        "id": "emblem-mini_game-circuit-02",
+        "data": {
+            "id": "emblem-mini_game-circuit-02",
+            "nameLangId": "la-emblem-mini_game-circuit-02",
+            "assetId": "s_mini-game-circuit-02",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000008
+        }
+    },
+    {
+        "id": "emblem-mini_game-circuit-03",
+        "data": {
+            "id": "emblem-mini_game-circuit-03",
+            "nameLangId": "la-emblem-mini_game-circuit-03",
+            "assetId": "s_mini-game-circuit-03",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000009
+        }
+    },
+    {
+        "id": "emblem-mini_game-combo_card_game-01",
+        "data": {
+            "id": "emblem-mini_game-combo_card_game-01",
+            "nameLangId": "la-emblem-mini_game-combo_card_game-01",
+            "assetId": "s_mini-game-combo-card-game-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000010
+        }
+    },
+    {
+        "id": "emblem-mini_game-combo_card_game-02",
+        "data": {
+            "id": "emblem-mini_game-combo_card_game-02",
+            "nameLangId": "la-emblem-mini_game-combo_card_game-02",
+            "assetId": "s_mini-game-combo-card-game-02",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000011
+        }
+    },
+    {
+        "id": "emblem-mini_game-cooking_puzzle-01",
+        "data": {
+            "id": "emblem-mini_game-cooking_puzzle-01",
+            "nameLangId": "la-emblem-mini_game-cooking_puzzle-01",
+            "assetId": "s_mini-game-cooking-puzzle-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000004
+        }
+    },
+    {
+        "id": "emblem-mini_game-cooking_puzzle-02",
+        "data": {
+            "id": "emblem-mini_game-cooking_puzzle-02",
+            "nameLangId": "la-emblem-mini_game-cooking_puzzle-02",
+            "assetId": "s_mini-game-cooking-puzzle-02",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000005
+        }
+    },
+    {
+        "id": "emblem-mini_game-cooking_puzzle-03",
+        "data": {
+            "id": "emblem-mini_game-cooking_puzzle-03",
+            "nameLangId": "la-emblem-mini_game-cooking_puzzle-03",
+            "assetId": "s_mini-game-cooking-puzzle-03",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000006
+        }
+    },
+    {
+        "id": "emblem-mini_game-jump_rope-01",
+        "data": {
+            "id": "emblem-mini_game-jump_rope-01",
+            "nameLangId": "la-emblem-mini_game-jump_rope-01",
+            "assetId": "s_mini-game-jump-rope-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000001
+        }
+    },
+    {
+        "id": "emblem-mini_game-jump_rope-02",
+        "data": {
+            "id": "emblem-mini_game-jump_rope-02",
+            "nameLangId": "la-emblem-mini_game-jump_rope-02",
+            "assetId": "s_mini-game-jump-rope-02",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000002
+        }
+    },
+    {
+        "id": "emblem-mini_game-jump_rope-03",
+        "data": {
+            "id": "emblem-mini_game-jump_rope-03",
+            "nameLangId": "la-emblem-mini_game-jump_rope-03",
+            "assetId": "s_mini-game-jump-rope-03",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000003
+        }
+    },
+    {
+        "id": "emblem-mini_game-splash_ball-01",
+        "data": {
+            "id": "emblem-mini_game-splash_ball-01",
+            "nameLangId": "la-emblem-mini_game-splash_ball-01",
+            "assetId": "s_mini-game-splashball-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000016
+        }
+    },
+    {
+        "id": "emblem-mini_game-splash_ball-02",
+        "data": {
+            "id": "emblem-mini_game-splash_ball-02",
+            "nameLangId": "la-emblem-mini_game-splash_ball-02",
+            "assetId": "s_mini-game-splashball-02",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000017
+        }
+    },
+    {
+        "id": "emblem-mini_game-splash_ball-03",
+        "data": {
+            "id": "emblem-mini_game-splash_ball-03",
+            "nameLangId": "la-emblem-mini_game-splash_ball-03",
+            "assetId": "s_mini-game-splashball-03",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 102000018
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-bronze",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-bronze",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-bronze",
+            "assetId": "m_event-normal-005-chapter-01-m0357-bronze",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092904
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-diamond",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-diamond",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-diamond",
+            "assetId": "m_event-normal-005-chapter-01-m0357-diamond",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092904
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-dream",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-dream",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-dream",
+            "assetId": "m_event-normal-005-chapter-01-m0357-dream",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092904
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-gold",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-gold",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-gold",
+            "assetId": "m_event-normal-005-chapter-01-m0357-gold",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092904
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-platinum",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-platinum",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-platinum",
+            "assetId": "m_event-normal-005-chapter-01-m0357-platinum",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092904
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-silver",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-silver",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0357-silver",
+            "assetId": "m_event-normal-005-chapter-01-m0357-silver",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092904
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-bronze",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-bronze",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-bronze",
+            "assetId": "m_event-normal-005-chapter-01-m0358-bronze",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092903
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-diamond",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-diamond",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-diamond",
+            "assetId": "m_event-normal-005-chapter-01-m0358-diamond",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092903
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-dream",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-dream",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-dream",
+            "assetId": "m_event-normal-005-chapter-01-m0358-dream",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092903
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-gold",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-gold",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-gold",
+            "assetId": "m_event-normal-005-chapter-01-m0358-gold",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092903
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-platinum",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-platinum",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-platinum",
+            "assetId": "m_event-normal-005-chapter-01-m0358-platinum",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092903
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-silver",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-silver",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0358-silver",
+            "assetId": "m_event-normal-005-chapter-01-m0358-silver",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092903
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-bronze",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-bronze",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-bronze",
+            "assetId": "m_event-normal-005-chapter-01-m0413-bronze",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092902
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-diamond",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-diamond",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-diamond",
+            "assetId": "m_event-normal-005-chapter-01-m0413-diamond",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092902
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-dream",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-dream",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-dream",
+            "assetId": "m_event-normal-005-chapter-01-m0413-dream",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092902
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-gold",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-gold",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-gold",
+            "assetId": "m_event-normal-005-chapter-01-m0413-gold",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092902
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-platinum",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-platinum",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-platinum",
+            "assetId": "m_event-normal-005-chapter-01-m0413-platinum",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092902
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-silver",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-silver",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0413-silver",
+            "assetId": "m_event-normal-005-chapter-01-m0413-silver",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092902
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-bronze",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-bronze",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-bronze",
+            "assetId": "m_event-normal-005-chapter-01-m0548-bronze",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092901
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-diamond",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-diamond",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-diamond",
+            "assetId": "m_event-normal-005-chapter-01-m0548-diamond",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092901
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-dream",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-dream",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-dream",
+            "assetId": "m_event-normal-005-chapter-01-m0548-dream",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092901
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-gold",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-gold",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-gold",
+            "assetId": "m_event-normal-005-chapter-01-m0548-gold",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092901
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-platinum",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-platinum",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-platinum",
+            "assetId": "m_event-normal-005-chapter-01-m0548-platinum",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092901
+        }
+    },
+    {
+        "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-silver",
+        "data": {
+            "id": "emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-silver",
+            "nameLangId": "la-emblem-music_highest_score_ranking_rank_reward-marathon_event-normal-005-chapter-01-m0548-silver",
+            "assetId": "m_event-normal-005-chapter-01-m0548-silver",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092901
+        }
+    },
+    {
+        "id": "emblem-park-area-a03-fishing-01",
+        "data": {
+            "id": "emblem-park-area-a03-fishing-01",
+            "nameLangId": "la-emblem-park-area-a03-fishing-01",
+            "assetId": "s_park-area-a03-fishing-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 101500001
+        }
+    },
+    {
+        "id": "emblem-park-area-a03-fishing-02",
+        "data": {
+            "id": "emblem-park-area-a03-fishing-02",
+            "nameLangId": "la-emblem-park-area-a03-fishing-02",
+            "assetId": "s_park-area-a03-fishing-02",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 101500002
+        }
+    },
+    {
+        "id": "emblem-park-area_a01-01",
+        "data": {
+            "id": "emblem-park-area_a01-01",
+            "nameLangId": "la-emblem-park-area_a01-01",
+            "assetId": "s_park-area-a01-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 100100001
+        }
+    },
+    {
+        "id": "emblem-park-area_a02-01",
+        "data": {
+            "id": "emblem-park-area_a02-01",
+            "nameLangId": "la-emblem-park-area_a02-01",
+            "assetId": "s_park-area-a02-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 100100002
+        }
+    },
+    {
+        "id": "emblem-park-area_a03-01",
+        "data": {
+            "id": "emblem-park-area_a03-01",
+            "nameLangId": "la-emblem-park-area_a03-01",
+            "assetId": "s_park-area-a03-01",
+            "size": "EmblemSize_EMBLEM_SIZE_S",
+            "order": 100100003
+        }
+    },
+    {
+        "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-bronze",
+        "data": {
+            "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-bronze",
+            "nameLangId": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-bronze",
+            "assetId": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-bronze",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092900
+        }
+    },
+    {
+        "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-diamond",
+        "data": {
+            "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-diamond",
+            "nameLangId": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-diamond",
+            "assetId": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-diamond",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092900
+        }
+    },
+    {
+        "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-dream",
+        "data": {
+            "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-dream",
+            "nameLangId": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-dream",
+            "assetId": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-dream",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092900
+        }
+    },
+    {
+        "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-gold",
+        "data": {
+            "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-gold",
+            "nameLangId": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-gold",
+            "assetId": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-gold",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092900
+        }
+    },
+    {
+        "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-platinum",
+        "data": {
+            "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-platinum",
+            "nameLangId": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-platinum",
+            "assetId": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-platinum",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092900
+        }
+    },
+    {
+        "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-silver",
+        "data": {
+            "id": "emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-silver",
+            "nameLangId": "la-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-silver",
+            "assetId": "m_event-emblem-total_music_highest_score_reward-marathon_event-normal-005-chapter-01-silver",
+            "size": "EmblemSize_EMBLEM_SIZE_M",
+            "order": 226092900
+        }
+    },
+    {
         "id": "emblem-chr-best_score_rating_00001-1000",
         "data": {
             "id": "emblem-chr-best_score_rating_00001-1000",
@@ -9488,7 +9868,7 @@
             "nameLangId": "la-emblem-live-music_ex_all-perfect-count-01",
             "assetId": "m_live-music-ex-all-perfect-count-01",
             "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072313
+            "order": 110000001
         }
     },
     {
@@ -9498,7 +9878,7 @@
             "nameLangId": "la-emblem-live-music_ex_clear-count-01",
             "assetId": "m_live-music-ex-clear-count-01",
             "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072311
+            "order": 108000001
         }
     },
     {
@@ -9508,7 +9888,7 @@
             "nameLangId": "la-emblem-live-music_ex_full-combo-count-01",
             "assetId": "m_live-music-ex-full-combo-count-01",
             "size": "EmblemSize_EMBLEM_SIZE_M",
-            "order": 126072312
+            "order": 109000001
         }
     }
 ]

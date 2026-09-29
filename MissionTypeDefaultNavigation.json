@@ -409,7 +409,9 @@
     {
         "mission_type": 60,
         "data": {
-            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_FISHING_FISH_CAUGHT_COUNT"
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_FISHING_FISH_CAUGHT_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a03-fishingpond1"
         }
     },
     {
@@ -446,6 +448,54 @@
             "missionType": "MissionType_MISSION_TYPE_INCREMENT_CHASE_MISCHIEF_TEAM_LASER_GIMMICK_RELEASE_COUNT",
             "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
             "transitionId": "CHASE"
+        }
+    },
+    {
+        "mission_type": 67,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_SPLASH_BALL_WIN_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SPLASH_BALL"
+        }
+    },
+    {
+        "mission_type": 68,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_SPLASH_BALL_GOAL_SCORE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SPLASH_BALL"
+        }
+    },
+    {
+        "mission_type": 69,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_SPLASH_BALL_DEFENSE_SCORE",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SPLASH_BALL"
+        }
+    },
+    {
+        "mission_type": 70,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_SPLASH_BALL_COLD_LOSE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SPLASH_BALL"
+        }
+    },
+    {
+        "mission_type": 71,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_SPLASH_BALL_GOAL_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SPLASH_BALL"
+        }
+    },
+    {
+        "mission_type": 72,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_PARK_FISHING_FISH_FAILED_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a03-fishingpond1"
         }
     },
     {
@@ -705,7 +755,9 @@
     {
         "mission_type": 1044,
         "data": {
-            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_PARK_FISHING_FISH_UNIQUE_COUNT"
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_PARK_FISHING_FISH_UNIQUE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_FACILITY",
+            "transitionId": "facility-a03-fishingpond1"
         }
     },
     {

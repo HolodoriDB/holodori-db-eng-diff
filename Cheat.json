@@ -110,6 +110,150 @@
         }
     },
     {
+        "type": 1303,
+        "severity_type": 2,
+        "parameter_type": 103005,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "2500"
+        }
+    },
+    {
+        "type": 1303,
+        "severity_type": 2,
+        "parameter_type": 103004,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "25000"
+        }
+    },
+    {
+        "type": 1303,
+        "severity_type": 1,
+        "parameter_type": 103005,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "2500"
+        }
+    },
+    {
+        "type": 1300,
+        "severity_type": 2,
+        "parameter_type": 103000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
+            "threshold": "1500"
+        }
+    },
+    {
+        "type": 1300,
+        "severity_type": 1,
+        "parameter_type": 103000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
+            "threshold": "2000"
+        }
+    },
+    {
+        "type": 1301,
+        "severity_type": 2,
+        "parameter_type": 103001,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_RESULT",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_RESULT_TOTAL_COUNT",
+            "threshold": "40"
+        }
+    },
+    {
+        "type": 1301,
+        "severity_type": 1,
+        "parameter_type": 103001,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_RESULT",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_RESULT_TOTAL_COUNT",
+            "threshold": "30"
+        }
+    },
+    {
+        "type": 1302,
+        "severity_type": 2,
+        "parameter_type": 103003,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "40000"
+        }
+    },
+    {
+        "type": 1302,
+        "severity_type": 1,
+        "parameter_type": 103003,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "32000"
+        }
+    },
+    {
+        "type": 100,
+        "severity_type": 2,
+        "parameter_type": 1001,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_COUNT",
+            "threshold": "5"
+        }
+    },
+    {
+        "type": 100,
+        "severity_type": 2,
+        "parameter_type": 1002,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_RETENTION_HOUR",
+            "threshold": "168"
+        }
+    },
+    {
+        "type": 100,
+        "severity_type": 2,
+        "parameter_type": 1000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
+            "threshold": "30"
+        }
+    },
+    {
+        "type": 100,
+        "severity_type": 1,
+        "parameter_type": 1001,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_COUNT",
+            "threshold": "1"
+        }
+    },
+    {
+        "type": 100,
+        "severity_type": 1,
+        "parameter_type": 1002,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_RETENTION_HOUR",
+            "threshold": "1"
+        }
+    },
+    {
         "type": 100,
         "severity_type": 1,
         "parameter_type": 1000,
@@ -118,6 +262,61 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
             "threshold": "10"
+        }
+    },
+    {
+        "type": 10100,
+        "severity_type": 1,
+        "parameter_type": 201000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_PARK_FISHING_CLEAR_TIME_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_PARK_FISHING_CLEAR_TIME_TAMPERING_COEFFICIENT_PERMIL_MULTIPLY",
+            "threshold": "1100"
+        }
+    },
+    {
+        "type": 1,
+        "severity_type": 2,
+        "parameter_type": 2,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_COUNT",
+            "threshold": "5"
+        }
+    },
+    {
+        "type": 1,
+        "severity_type": 2,
+        "parameter_type": 3,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_RETENTION_HOUR",
+            "threshold": "168"
+        }
+    },
+    {
+        "type": 1,
+        "severity_type": 2,
+        "parameter_type": 1,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_GRACE_SECOND",
+            "threshold": "30"
+        }
+    },
+    {
+        "type": 1,
+        "severity_type": 1,
+        "parameter_type": 2,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_COUNT",
+            "threshold": "1"
         }
     },
     {
@@ -195,6 +394,17 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_CONTINUOUS_ALL_PERFECT_MUSIC_DIFFICULTY_LEVEL",
             "threshold": "28"
+        }
+    },
+    {
+        "type": 1,
+        "severity_type": 1,
+        "parameter_type": 3,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SINGLE_LIVE_FINISH_BEFORE_MUSIC_TIME_LENGTH_DETECT_RETENTION_HOUR",
+            "threshold": "1"
         }
     },
     {
@@ -517,28 +727,6 @@
         }
     },
     {
-        "type": 1301,
-        "severity_type": 2,
-        "parameter_type": 103001,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_RESULT",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_RESULT_TOTAL_COUNT",
-            "threshold": "30"
-        }
-    },
-    {
-        "type": 1301,
-        "severity_type": 1,
-        "parameter_type": 103001,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_RESULT",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_RESULT_TOTAL_COUNT",
-            "threshold": "25"
-        }
-    },
-    {
         "type": 1200,
         "severity_type": 2,
         "parameter_type": 102000,
@@ -547,15 +735,6 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CIRCUIT_PER_AREA_PASS_TIME_MILLISECONDS",
             "threshold": "3000"
-        }
-    },
-    {
-        "type": 1303,
-        "severity_type": 1,
-        "parameter_type": 103005,
-        "data": {
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "threshold": "4000"
         }
     },
     {
@@ -579,52 +758,12 @@
     },
     {
         "type": 1300,
-        "severity_type": 2,
-        "parameter_type": 103000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
-            "threshold": "2000"
-        }
-    },
-    {
-        "type": 1300,
         "severity_type": 1,
         "parameter_type": 103002,
         "data": {
             "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "threshold": "10"
-        }
-    },
-    {
-        "type": 1300,
-        "severity_type": 1,
-        "parameter_type": 103000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
-            "threshold": "3000"
-        }
-    },
-    {
-        "type": 1302,
-        "severity_type": 2,
-        "parameter_type": 103003,
-        "data": {
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "threshold": "30000"
-        }
-    },
-    {
-        "type": 1302,
-        "severity_type": 1,
-        "parameter_type": 103003,
-        "data": {
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "threshold": "25000"
         }
     },
     {
@@ -647,6 +786,50 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_ABNORMAL_MOVE_SPEED_DURATION_MILLISECONDS",
             "threshold": "4000"
+        }
+    },
+    {
+        "type": 1600,
+        "severity_type": 1,
+        "parameter_type": 106003,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_COUNT",
+            "threshold": "3"
+        }
+    },
+    {
+        "type": 1600,
+        "severity_type": 1,
+        "parameter_type": 106002,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_MAX_PERMIL",
+            "threshold": "50000"
+        }
+    },
+    {
+        "type": 1600,
+        "severity_type": 1,
+        "parameter_type": 106001,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_COUNT",
+            "threshold": "3"
+        }
+    },
+    {
+        "type": 1600,
+        "severity_type": 1,
+        "parameter_type": 106000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_DISTANCE_PERMIL",
+            "threshold": "10000"
         }
     }
 ]

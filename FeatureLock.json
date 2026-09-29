@@ -217,6 +217,14 @@
         }
     },
     {
+        "tutorial_type": 1006,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_SPLASH_BALL",
+            "titleLangId": "la-feature_lock-splash_ball",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-08"
+        }
+    },
+    {
         "tutorial_type": 1101,
         "data": {
             "tutorialType": "TutorialType_TUTORIAL_TYPE_MINI_GAME_CONVERT_REWARD_UP_STAMINA_AREA02_BET_COIN",
@@ -383,6 +391,46 @@
             "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_PRINT_BOOTH_AREA02",
             "titleLangId": "la-feature_lock-park_print_booth-title",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-06"
+        }
+    },
+    {
+        "tutorial_type": 10801,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_UNLOCK",
+            "titleLangId": "la-feature_lock-park_fishing-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-03-5"
+        }
+    },
+    {
+        "tutorial_type": 10805,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_ROD_LEVEL_UP",
+            "titleLangId": "la-feature_lock-park_fishing-rod-level-up",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-05"
+        }
+    },
+    {
+        "tutorial_type": 10806,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_SEA_AREA_2",
+            "titleLangId": "la-feature_lock-park_area03_sea_area2-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-05"
+        }
+    },
+    {
+        "tutorial_type": 10807,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_FISHING_AREA03_SEA_AREA_3",
+            "titleLangId": "la-feature_lock-park_area03_sea_area3-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-10"
+        }
+    },
+    {
+        "tutorial_type": 10901,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_BOAT_AREA03_UNLOCK",
+            "titleLangId": "la-feature_lock-park_boat-title",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-02-1"
         }
     }
 ]

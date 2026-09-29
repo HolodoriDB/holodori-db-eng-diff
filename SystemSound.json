@@ -1190,6 +1190,76 @@
         }
     },
     {
+        "type": 286,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_FISHING_LEVEL_UP",
+            "soundAssetId": "se_sys_anim_200_park_boat_fishingrod_levelup"
+        }
+    },
+    {
+        "type": 287,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_UI_PARK_FISHING_LEVEL_UP",
+            "soundAssetId": "se_sys_anim_200_park_boat_fishingrod_levelup_UI"
+        }
+    },
+    {
+        "type": 288,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_BOOK_IN",
+            "soundAssetId": "se_sys_anim_902_picture_book_in"
+        }
+    },
+    {
+        "type": 289,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_BOOK_OUT",
+            "soundAssetId": "se_sys_anim_902_picture_book_out"
+        }
+    },
+    {
+        "type": 290,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_BOOK_EXP_GAUGE_CHECK",
+            "soundAssetId": "se_sys_anim_902_picture_book_check"
+        }
+    },
+    {
+        "type": 291,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_BOOK_EXP_GAUGE_PROGRESS",
+            "soundAssetId": "se_sys_anim_902_picture_book_progress"
+        }
+    },
+    {
+        "type": 292,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_BOOK_REGISTER",
+            "soundAssetId": "se_sys_anim_902_picture_book_register"
+        }
+    },
+    {
+        "type": 293,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_REWARD_COIN",
+            "soundAssetId": "se_sys_anim_902_reward_coin"
+        }
+    },
+    {
+        "type": 294,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_TIME_PERIOD_CHANGE_TRANSITION_SELECT",
+            "soundAssetId": "se_sys_anim_200_park_time_shift_select"
+        }
+    },
+    {
+        "type": 295,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_PARK_TIME_PERIOD_CHANGE_TRANSITION_JINGLE",
+            "soundAssetId": "se_sys_anim_200_park_time_shift_jingle"
+        }
+    },
+    {
         "type": 10000,
         "data": {
             "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_ROPE_1",
@@ -2097,6 +2167,370 @@
         "data": {
             "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_CHASE_FINISH_COUNTDOWN",
             "soundAssetId": "se_mg_005_pkg-countdown-end"
+        }
+    },
+    {
+        "type": 10600,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_FISH_IN_METER_GAUGE_LOOP",
+            "soundAssetId": "se_mg_902_pkg-mater-ingauge"
+        }
+    },
+    {
+        "type": 10601,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_REEL_PUSH_LOOP",
+            "soundAssetId": "se_mg_902_pkg-reel-push-loop"
+        }
+    },
+    {
+        "type": 10602,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_REEL_RELEASE_LOOP",
+            "soundAssetId": "se_mg_902_pkg-reel-release-loop"
+        }
+    },
+    {
+        "type": 10603,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_SUCCESS",
+            "soundAssetId": "se_mg_902_pkg-fishing-success"
+        }
+    },
+    {
+        "type": 10604,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_FAILURE",
+            "soundAssetId": "se_mg_902_pkg-fishing-failure"
+        }
+    },
+    {
+        "type": 10605,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_ROD_PULL",
+            "soundAssetId": "se_mg_902_pkg-pull-fishingrod"
+        }
+    },
+    {
+        "type": 10606,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_FISH_PECK",
+            "soundAssetId": "se_mg_902_pkg-peck-fish"
+        }
+    },
+    {
+        "type": 10607,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_FISH_CATCH",
+            "soundAssetId": "se_mg_902_pkg-catch-fish"
+        }
+    },
+    {
+        "type": 10608,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_FLOAT_WATER_LANDING",
+            "soundAssetId": "se_mg_902_pkg-fishingfloat-waterlanding"
+        }
+    },
+    {
+        "type": 10609,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_CASTING_1",
+            "soundAssetId": "se_mg_902_pkg-fishing-casting-1"
+        }
+    },
+    {
+        "type": 10610,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_CASTING_2",
+            "soundAssetId": "se_mg_902_pkg-fishing-casting-2"
+        }
+    },
+    {
+        "type": 10611,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_BEFORE_CAUGHT_ZOOM",
+            "soundAssetId": "se_mg_902_pkg-fishing-before-caught-zoom"
+        }
+    },
+    {
+        "type": 10612,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_FISH_SHADOW_RARE",
+            "soundAssetId": "se_mg_902_pkg-fishing-fish-shadow-rare"
+        }
+    },
+    {
+        "type": 10613,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_GAUGE_LOOP",
+            "soundAssetId": "se_mg_902_pkg-fishing-gauge-loop"
+        }
+    },
+    {
+        "type": 10614,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_GAUGE_IN",
+            "soundAssetId": "se_mg_902_pkg-fishing-gauge-in"
+        }
+    },
+    {
+        "type": 10615,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_GAUGE_OUT",
+            "soundAssetId": "se_mg_902_pkg-fishing-gauge-out"
+        }
+    },
+    {
+        "type": 10616,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_RESULT_NORMAL",
+            "soundAssetId": "se_mg_902_pkg-fishing-result-normal"
+        }
+    },
+    {
+        "type": 10617,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_RESULT_RARE",
+            "soundAssetId": "se_mg_902_pkg-fishing-result-rare"
+        }
+    },
+    {
+        "type": 10618,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_RESULT_OUT",
+            "soundAssetId": "se_mg_902_pkg-fishing-result-out"
+        }
+    },
+    {
+        "type": 10619,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_FISH_HIT_IN",
+            "soundAssetId": "se_mg_902_pkg-fishing-fish-hit-in"
+        }
+    },
+    {
+        "type": 10620,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_UI_ANIMATION_IN",
+            "soundAssetId": "se_mg_902_pkg-fishing-anim-in"
+        }
+    },
+    {
+        "type": 10621,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_UI_ANIMATION_OUT",
+            "soundAssetId": "se_mg_902_pkg-fishing-anim-out"
+        }
+    },
+    {
+        "type": 10700,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BOAT_BURNER",
+            "soundAssetId": "se_mg_006_pkg-boat-burner"
+        }
+    },
+    {
+        "type": 10701,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BOAT_BUBBLE",
+            "soundAssetId": "se_mg_006_pkg-boat-bubble"
+        }
+    },
+    {
+        "type": 10702,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BOAT_SPLASH",
+            "soundAssetId": "se_mg_006_pkg-boat-splash"
+        }
+    },
+    {
+        "type": 10703,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BOAT_LANDING_WATER",
+            "soundAssetId": "se_mg_006_pkg-boat-landing-water"
+        }
+    },
+    {
+        "type": 10704,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BOAT_JUMP",
+            "soundAssetId": "se_mg_006_pkg-boat-jump"
+        }
+    },
+    {
+        "type": 10705,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BOAT_ACCELERATE",
+            "soundAssetId": "se_mg_006_pkg-boat-accelerate"
+        }
+    },
+    {
+        "type": 10706,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BOAT_ACCELERATE_WHOOSH",
+            "soundAssetId": "se_mg_006_pkg-boat-whoosh"
+        }
+    },
+    {
+        "type": 10707,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_ACCELERATE_BUTTON",
+            "soundAssetId": "se_mg_006_pkg-accelerate_button"
+        }
+    },
+    {
+        "type": 10708,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_SELF_NORMAL",
+            "soundAssetId": "se_mg_006_pkg-goal-normal"
+        }
+    },
+    {
+        "type": 10709,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_SELF_LIGHT",
+            "soundAssetId": "se_mg_006_pkg-goal-light"
+        }
+    },
+    {
+        "type": 10710,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_SELF_BLACK",
+            "soundAssetId": "se_mg_006_pkg-goal-black"
+        }
+    },
+    {
+        "type": 10711,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_SELF_GOLD",
+            "soundAssetId": "se_mg_006_pkg-goal-gold"
+        }
+    },
+    {
+        "type": 10712,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_SELF_OWNGOAL",
+            "soundAssetId": "se_mg_006_pkg-goal-owngoal"
+        }
+    },
+    {
+        "type": 10713,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_ANNOUNCE_NORMAL",
+            "soundAssetId": "se_mg_006_pkg-announce-normal"
+        }
+    },
+    {
+        "type": 10714,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_ANNOUNCE_LIGHT",
+            "soundAssetId": "se_mg_006_pkg-announce-light"
+        }
+    },
+    {
+        "type": 10715,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_ANNOUNCE_BLACK",
+            "soundAssetId": "se_mg_006_pkg-announce-black"
+        }
+    },
+    {
+        "type": 10716,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_ANNOUNCE_GOLD",
+            "soundAssetId": "se_mg_006_pkg-announce-gold"
+        }
+    },
+    {
+        "type": 10717,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOAL_ANNOUNCE_SAVE",
+            "soundAssetId": "se_mg_006_pkg-announce-save"
+        }
+    },
+    {
+        "type": 10718,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_TEAM_DECISION_SELF",
+            "soundAssetId": "se_mg_006_pkg-team-decision"
+        }
+    },
+    {
+        "type": 10719,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_TEAM_DECISION_ALL",
+            "soundAssetId": "se_mg_006_pkg-team-all-decision"
+        }
+    },
+    {
+        "type": 10720,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_START_COUNTDOWN",
+            "soundAssetId": "se_mg_006_pkg-opening-count"
+        }
+    },
+    {
+        "type": 10721,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_START",
+            "soundAssetId": "se_mg_006_pkg-start"
+        }
+    },
+    {
+        "type": 10722,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_START_WIN_CONDITION",
+            "soundAssetId": "se_mg_006_pkg-rule"
+        }
+    },
+    {
+        "type": 10723,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_COUNTDOWN",
+            "soundAssetId": "se_mg_006_pkg-countdown"
+        }
+    },
+    {
+        "type": 10724,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_REMAINING_TIME_ANNOUNCE",
+            "soundAssetId": "se_mg_006_pkg-announce-30s"
+        }
+    },
+    {
+        "type": 10725,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_FINISH",
+            "soundAssetId": "se_mg_006_pkg-finish"
+        }
+    },
+    {
+        "type": 10726,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_FEVER_TIME_NOTICE",
+            "soundAssetId": "se_mg_006_pkg-notice-many-spawn"
+        }
+    },
+    {
+        "type": 10728,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_GOLD_BALL_OMEN",
+            "soundAssetId": "se_mg_006_pkg-ball-gold-omen"
+        }
+    },
+    {
+        "type": 10729,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BALL_SPAWN",
+            "soundAssetId": "se_mg_006_pkg-ball-appearance"
+        }
+    },
+    {
+        "type": 10730,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_MAP_SCALE_DOWN",
+            "soundAssetId": "se_mg_006_pkg-map-down-scale"
         }
     },
     {

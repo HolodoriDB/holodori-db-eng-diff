@@ -49,10 +49,10 @@
             "stageKeyReappearMilliseconds": 5000,
             "stageLaserGimmickReleaseMilliseconds": 10000,
             "stageLaserGimmickMaxAppearCount": 1,
-            "stageCameraHeight": 24,
-            "stageCameraAngle": -32,
             "stageKeyUseIconRemainingKeyCountThreshold": 3,
-            "resultVoiceThresholdScoreWinBig": "2000"
+            "resultVoiceThresholdScoreWinBig": "2000",
+            "isCheatDetectDgsRedJudgementEnabled": true,
+            "isCheatDetectRedDisconnectUserEnabled": true
         }
     }
 ]

@@ -167,6 +167,149 @@
         }
     },
     {
+        "id": "quest_live-area-a03-02-1-2",
+        "data": {
+            "id": "quest_live-area-a03-02-1-2",
+            "musicId": "m0010",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE",
+            "clearScore": "1100000",
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1130000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1000000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "770000"
+        }
+    },
+    {
+        "id": "quest_live-area-a03-10-1-2",
+        "data": {
+            "id": "quest_live-area-a03-10-1-2",
+            "musicId": "m0116",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE",
+            "clearScore": "1250000",
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1285000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1135000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "875000"
+        }
+    },
+    {
+        "id": "quest_live-area-a03-15-1-2",
+        "data": {
+            "id": "quest_live-area-a03-15-1-2",
+            "musicId": "m0354",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE",
+            "clearScore": "1500000",
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1545000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1365000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1050000"
+        }
+    },
+    {
+        "id": "quest_live-daily-live-a03-00023-1-2",
+        "data": {
+            "id": "quest_live-daily-live-a03-00023-1-2",
+            "musicId": "m0090",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE"
+        }
+    },
+    {
+        "id": "quest_live-daily-live-a03-00030-1-2",
+        "data": {
+            "id": "quest_live-daily-live-a03-00030-1-2",
+            "musicId": "m0040",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE"
+        }
+    },
+    {
+        "id": "quest_live-daily-live-a03-00034-1-2",
+        "data": {
+            "id": "quest_live-daily-live-a03-00034-1-2",
+            "musicId": "m0042",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE"
+        }
+    },
+    {
+        "id": "quest_live-daily-live-a03-00037-1-2",
+        "data": {
+            "id": "quest_live-daily-live-a03-00037-1-2",
+            "musicId": "m0044",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE"
+        }
+    },
+    {
+        "id": "quest_live-daily-live-a03-03009-1-2",
+        "data": {
+            "id": "quest_live-daily-live-a03-03009-1-2",
+            "musicId": "m0062",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE"
+        }
+    },
+    {
+        "id": "quest_live-daily-live-a03-04012-1-2",
+        "data": {
+            "id": "quest_live-daily-live-a03-04012-1-2",
+            "musicId": "m0121",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE"
+        }
+    },
+    {
+        "id": "quest_live-daily-live-a03-06003-1-2",
+        "data": {
+            "id": "quest_live-daily-live-a03-06003-1-2",
+            "musicId": "m0069",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE"
+        }
+    },
+    {
+        "id": "quest_live-main-w1-03-02-1-1",
+        "data": {
+            "id": "quest_live-main-w1-03-02-1-1",
+            "musicId": "m0002",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE",
+            "clearScore": "720000",
+            "liveDeckEvaluationValueBenchmarkThresholdS": "740000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "655000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "500000"
+        }
+    },
+    {
+        "id": "quest_live-main-w1-03-06-1-4",
+        "data": {
+            "id": "quest_live-main-w1-03-06-1-4",
+            "musicId": "m0121",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE",
+            "clearScore": "840000",
+            "liveSkinGroupId": "live_skin_group-area-a03",
+            "liveDeckEvaluationValueBenchmarkThresholdS": "865000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "760000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "585000"
+        }
+    },
+    {
+        "id": "quest_live-main-w1-03-10-1-7",
+        "data": {
+            "id": "quest_live-main-w1-03-10-1-7",
+            "musicId": "m0137",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE",
+            "clearScore": "1030000",
+            "liveSkinGroupId": "live_skin_group-area-a03",
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1060000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "935000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "720000"
+        }
+    },
+    {
+        "id": "quest_live-main-w1-03-15-1-4",
+        "data": {
+            "id": "quest_live-main-w1-03-15-1-4",
+            "musicId": "m0354",
+            "deckType": "ParkQuestLiveDeckType_PARK_QUEST_LIVE_DECK_TYPE_FREE",
+            "clearScore": "1200000",
+            "liveSkinGroupId": "live_skin_group-area-a03",
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1235000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1090000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "840000"
+        }
+    },
+    {
         "id": "quest_live-daily-live-03006-1-2",
         "data": {
             "id": "quest_live-daily-live-03006-1-2",

@@ -1,5 +1,180 @@
 [
     {
+        "id": "asset_embedding_text-facility-a03-boatshop",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-boatshop",
+            "langId": "la-asset_embedding_text-facility-a03-boatshop"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-entrance",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-entrance",
+            "langId": "la-asset_embedding_text-facility-a03-entrance"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-fishingpond1",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-fishingpond1",
+            "langId": "la-asset_embedding_text-facility-a03-fishingpond1"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-fishingpond2",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-fishingpond2",
+            "langId": "la-asset_embedding_text-facility-a03-fishingpond2"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-fishingpond3",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-fishingpond3",
+            "langId": "la-asset_embedding_text-facility-a03-fishingpond3"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-fishingshop",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-fishingshop",
+            "langId": "la-asset_embedding_text-facility-a03-fishingshop"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-glamping",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-glamping",
+            "langId": "la-asset_embedding_text-facility-a03-glamping"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-livestage",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-livestage",
+            "langId": "la-asset_embedding_text-facility-a03-livestage"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-resortshop",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-resortshop",
+            "langId": "la-asset_embedding_text-facility-a03-resortshop"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-stadium",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-stadium",
+            "langId": "la-asset_embedding_text-facility-a03-stadium"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-station",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-station",
+            "langId": "la-asset_embedding_text-facility-a03-station"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-watergun",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-watergun",
+            "langId": "la-asset_embedding_text-facility-a03-watergun"
+        }
+    },
+    {
+        "id": "asset_embedding_text-facility-a03-whale",
+        "data": {
+            "id": "asset_embedding_text-facility-a03-whale",
+            "langId": "la-asset_embedding_text-facility-a03-whale"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-facility-a03-fishingpond2-00",
+        "data": {
+            "id": "asset_embedding_text-park_action-facility-a03-fishingpond2-00",
+            "langId": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-00"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-facility-a03-fishingpond2-01",
+        "data": {
+            "id": "asset_embedding_text-park_action-facility-a03-fishingpond2-01",
+            "langId": "la-asset_embedding_text-park_action-facility-a03-fishingpond2-01"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-facility-a03-fishingpond3-00",
+        "data": {
+            "id": "asset_embedding_text-park_action-facility-a03-fishingpond3-00",
+            "langId": "la-asset_embedding_text-park_action-facility-a03-fishingpond3-00"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-facility-a03-glamping-00",
+        "data": {
+            "id": "asset_embedding_text-park_action-facility-a03-glamping-00",
+            "langId": "la-asset_embedding_text-park_action-facility-a03-glamping-00"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-facility-a03-glamping-01",
+        "data": {
+            "id": "asset_embedding_text-park_action-facility-a03-glamping-01",
+            "langId": "la-asset_embedding_text-park_action-facility-a03-glamping-01"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-park_action-cmn-board",
+        "data": {
+            "id": "asset_embedding_text-park_action-park_action-cmn-board",
+            "langId": "la-asset_embedding_text-park_action-park_action-cmn-board"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-park_action-cmn-hangout",
+        "data": {
+            "id": "asset_embedding_text-park_action-park_action-cmn-hangout",
+            "langId": "la-asset_embedding_text-park_action-park_action-cmn-hangout"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-park_action-cmn-knock",
+        "data": {
+            "id": "asset_embedding_text-park_action-park_action-cmn-knock",
+            "langId": "la-asset_embedding_text-park_action-park_action-cmn-knock"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-park_action-cmn-land",
+        "data": {
+            "id": "asset_embedding_text-park_action-park_action-cmn-land",
+            "langId": "la-asset_embedding_text-park_action-park_action-cmn-land"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-park_action-cmn-look",
+        "data": {
+            "id": "asset_embedding_text-park_action-park_action-cmn-look",
+            "langId": "la-asset_embedding_text-park_action-park_action-cmn-look"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-park_action-cmn-pose",
+        "data": {
+            "id": "asset_embedding_text-park_action-park_action-cmn-pose",
+            "langId": "la-asset_embedding_text-park_action-park_action-cmn-pose"
+        }
+    },
+    {
+        "id": "asset_embedding_text-park_action-park_action-cmn-sandpile",
+        "data": {
+            "id": "asset_embedding_text-park_action-park_action-cmn-sandpile",
+            "langId": "la-asset_embedding_text-park_action-park_action-cmn-sandpile"
+        }
+    },
+    {
         "id": "asset_embedding_text-facility-a01-athletic",
         "data": {
             "id": "asset_embedding_text-facility-a01-athletic",

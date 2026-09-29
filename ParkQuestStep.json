@@ -327,6 +327,381 @@
         }
     },
     {
+        "park_quest_id": "quest-area-a03-01",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-01",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-01-1-1",
+            "assetId": "facility-a03-fishingpond1"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-01",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-01",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-01-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-01",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-01",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-01-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-001-1",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-02",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-02",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-02-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-02",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-02",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-02-1-2",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-02",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-02",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-02-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-entrance",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-002-1",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "40000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-03",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-03",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-03-1-1",
+            "assetId": "facility-a03-fishingshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-03",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-03",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-03-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-03",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-03",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-03-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-001-1",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-04",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-04",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-04-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-04",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-04",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-04-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-04",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-04",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-04-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond2",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-002-1",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-05",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-05",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-05-1-1",
+            "assetId": "facility-a03-fishingpond2"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-05",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-05",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-05-1-2",
+            "assetId": "facility-a03-fishingpond2"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-05",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-05",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-05-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond2",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-001-1",
+                    "quantity": "15"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-06",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-06",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-06-1-1",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-06",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-06",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-06-1-2",
+            "assetId": "facility-a03-stadium"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-06",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-06",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-06-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-entrance",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-003-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "40000"
+                }
+            ]
+        }
+    },
+    {
         "park_quest_id": "quest-main-w1-01-20",
         "step_group_number": 1,
         "step": 1,
@@ -467,6 +842,594 @@
         }
     },
     {
+        "park_quest_id": "quest-area-a03-07",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-07",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-07-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-07",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-07",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-07-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-07",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-07",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-07-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-entrance",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-002-1",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "40000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-08",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-08",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-08-1-1",
+            "assetId": "facility-a03-station"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-08",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-08",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-08-1-2",
+            "assetId": "facility-a03-station"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-08",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-08",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-08-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-station",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_APPEAL_TEXT",
+                    "resourceId": "appeal_text-function_appeal-a03_station-level_up",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-09",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-09",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-09-1-1",
+            "assetId": "facility-a03-fishingpond2"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-09",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-09",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-09-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-09",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-09",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-09-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond2",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-003-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "40000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-10",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-10",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-10-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-10",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-10",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-10-1-2",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-10",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-10",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-10-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-002-1",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-11",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-11",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-11-1-1",
+            "assetId": "facility-a03-fishingpond3"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-11",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-11",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-11-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-11",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-11",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-11-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond3",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-003-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-001-1",
+                    "quantity": "25"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-12",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-12",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-12-1-1",
+            "assetId": "facility-a03-glamping"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-12",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-12",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-12-1-2",
+            "assetId": "facility-a03-glamping"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-12",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-12",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-12-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-glamping",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "40000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-13",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-13",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-13-1-1",
+            "assetId": "facility-a03-resortshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-13",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-13",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-13-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-13",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-13",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-13-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-14",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-14",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-14-1-1",
+            "assetId": "facility-a03-fishingpond3"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-14",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-14",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-14-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-14",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-14",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-14-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond3",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-15",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-15",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-15-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-15",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-15",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-15-1-2",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-15",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-15",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-15-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-16",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-16",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-16-1-1",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-16",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-16",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-16-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
         "park_quest_id": "quest-main-w1-01-14",
         "step_group_number": 1,
         "step": 6,
@@ -512,6 +1475,559 @@
         }
     },
     {
+        "park_quest_id": "quest-area-a03-16",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-area-a03-16",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-area-a03-16-1-3",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-003-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-17",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-17",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-17-1-1",
+            "assetId": "facility-a03-station"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-17",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-17",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-17-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-station",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_APPEAL_TEXT",
+                    "resourceId": "appeal_text-function_appeal-a03_station-level_up",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-18",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-18",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-18-1-1",
+            "assetId": "facility-a03-station"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-18",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-18",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-18-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-station",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_APPEAL_TEXT",
+                    "resourceId": "appeal_text-function_appeal-a03_station-level_up",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-19",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-19",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-area-a03-19-1-1",
+            "assetId": "facility-a03-station"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-19",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-area-a03-19",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-area-a03-19-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-station",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "2500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_APPEAL_TEXT",
+                    "resourceId": "appeal_text-function_appeal-a03_station-level_up",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00023",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00023",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00023-1-1",
+            "assetId": "facility-a03-fishingpond3"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00023",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00023",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00023-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00023",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00023",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00023-1-3",
+            "assetId": "facility-a03-fishingpond3",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00030",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00030",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00030-1-1",
+            "assetId": "facility-a03-fishingshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00030",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00030",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00030-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00030",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00030",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00030-1-3",
+            "assetId": "facility-a03-fishingpond3",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00034",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00034",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00034-1-1",
+            "assetId": "facility-a03-fishingpond1"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00034",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00034",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00034-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00034",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00034",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00034-1-3",
+            "assetId": "facility-a03-fishingpond1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00037",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00037",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00037-1-1",
+            "assetId": "facility-a03-fishingpond2"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00037",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00037",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00037-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-00037",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-00037",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-00037-1-3",
+            "assetId": "facility-a03-fishingpond2",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-03009",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-03009",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-03009-1-1",
+            "assetId": "facility-a03-glamping"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-03009",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-03009",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-03009-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-03009",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-03009",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-03009-1-3",
+            "assetId": "facility-a03-fishingpond1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-04012",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-04012",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-04012-1-1",
+            "assetId": "facility-a03-fishingpond3"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-04012",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-04012",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-04012-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-04012",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-04012",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-04012-1-3",
+            "assetId": "facility-a03-fishingpond3",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-06003",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-06003",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-06003-1-1",
+            "assetId": "facility-a03-fishingpond2"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-06003",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-06003",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-06003-1-2",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-fishing_coin-a03-06003",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-daily-fishing_coin-a03-06003",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-daily-fishing_coin-a03-06003-1-3",
+            "assetId": "facility-a03-fishingpond2",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-00023",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-00023",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-live-a03-00023-1-1",
+            "assetId": "facility-a03-resortshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-00023",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-00023",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-live-a03-00023-1-2",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-00030",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-00030",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-live-a03-00030-1-1",
+            "assetId": "facility-a03-watergun"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-00030",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-00030",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-live-a03-00030-1-2",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-00034",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-00034",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-live-a03-00034-1-1",
+            "assetId": "facility-a03-station"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-00034",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-00034",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-live-a03-00034-1-2",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-00037",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-00037",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-live-a03-00037-1-1",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
         "park_quest_id": "quest-main-w1-02-05",
         "step_group_number": 1,
         "step": 12,
@@ -545,6 +2061,1356 @@
                     "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
                     "resourceId": "item-gold",
                     "quantity": "25000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-00037",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-00037",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-live-a03-00037-1-2",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-03009",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-03009",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-live-a03-03009-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-03009",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-03009",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-live-a03-03009-1-2",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-04012",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-04012",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-live-a03-04012-1-1",
+            "assetId": "facility-a03-boatshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-04012",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-04012",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-live-a03-04012-1-2",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-06003",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-06003",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-daily-live-a03-06003-1-1",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-daily-live-a03-06003",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-daily-live-a03-06003",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-daily-live-a03-06003-1-2",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-01",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-01",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-01-1-1",
+            "assetId": "facility-a01-house-inside"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-01",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-01",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-01-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-entrance",
+            "assetId": "facility-a01-gate3",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-02",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-02",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-02-1-1",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_CHAPTER_OPENING",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-02",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-02",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-02-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-general-1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-facility-area_a03-001-1",
+                    "quantity": "15"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-3",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-fishingpond1",
+            "assetId": "facility-a03-fishingpond1-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-4",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 5,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 5,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-5",
+            "assetId": "facility-a03-fishingpond1"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 6,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 6,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-6",
+            "assetId": "facility-a03-fishingshop-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 7,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 7,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-7",
+            "assetId": "facility-a03-fishingshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 8,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 8,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-8",
+            "assetId": "facility-a03-fishingpond1"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-03",
+        "step_group_number": 1,
+        "step": 9,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-03",
+            "stepGroupNumber": 1,
+            "step": 9,
+            "descriptionLangId": "la-quest-main-w1-03-03-1-9",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-04",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-04",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-04-1-1",
+            "assetId": "facility-a03-resortshop-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-04",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-04",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-04-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-resortshop",
+            "assetId": "facility-a03-resortshop-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-04",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-04",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-04-1-3",
+            "assetId": "facility-a03-resortshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-04",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-04",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-04-1-4",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-resortshop",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-05",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-05",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-05-1-1",
+            "assetId": "facility-a03-resortshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-05",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-05",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-05-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-boatshop",
+            "assetId": "facility-a03-boatshop-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-05",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-05",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-05-1-3",
+            "assetId": "facility-a03-boatshop"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-05",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-05",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-05-1-4",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "transitionAdvAssetId": "adv_cutscene_01_03_05-01",
+            "assetId": "facility-a03-general-2",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-06",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-06",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-06-1-1",
+            "assetId": "facility-a03-general-2"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-06",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-06",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-06-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-06",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-06",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-06-1-3",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-livestage",
+            "assetId": "facility-a03-livestage-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-06",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-06",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-06-1-4",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-07",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-07",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-07-1-1",
+            "assetId": "facility-a03-fishingpond1"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-07",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-07",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-07-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-fishingpond2",
+            "assetId": "facility-a03-fishingpond2-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-07",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-07",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-07-1-3",
+            "assetId": "facility-a03-fishingpond2"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-07",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-07",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-07-1-4",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond2",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-08",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-08",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-08-1-1",
+            "assetId": "facility-a03-fishingpond2"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-08",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-08",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-08-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-08",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-08",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-08-1-3",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-stadium",
+            "assetId": "facility-a03-stadium-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-08",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-08",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-08-1-4",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-stadium",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-09",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-09",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-09-1-1",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-09",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-09",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-09-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-station",
+            "assetId": "facility-a03-station-prg",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 10,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 10,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-10",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-boatshop",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-fishingpond1"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-3",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-4",
+            "assetId": "facility-a03-fishingpond1"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 5,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 5,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-5",
+            "assetId": "mission"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 6,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 6,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-6",
+            "assetId": "facility-a03-fishingpond2"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 7,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 7,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-7",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 8,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 8,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-8",
+            "assetId": "facility-a03-stadium"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-10",
+        "step_group_number": 1,
+        "step": 9,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-10",
+            "stepGroupNumber": 1,
+            "step": 9,
+            "descriptionLangId": "la-quest-main-w1-03-10-1-9",
+            "assetId": "facility-a01-house-inside"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-11",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-11",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-11-1-1",
+            "transitionAdvAssetId": "adv_cutscene_01_03_10-01",
+            "assetId": "facility-a03-general-2"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-11",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-11",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-11-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-whale-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-11",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-11",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-11-1-3",
+            "assetId": "facility-a03-stadium"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-11",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-11",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-11-1-4",
+            "assetId": "facility-a03-stadium"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-11",
+        "step_group_number": 1,
+        "step": 5,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-11",
+            "stepGroupNumber": 1,
+            "step": 5,
+            "descriptionLangId": "la-quest-main-w1-03-11-1-5",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-11",
+        "step_group_number": 1,
+        "step": 6,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-11",
+            "stepGroupNumber": 1,
+            "step": 6,
+            "descriptionLangId": "la-quest-main-w1-03-11-1-6",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-whale",
+            "assetId": "facility-a03-whale",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-12",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-12",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-12-1-1",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-12",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-12",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-12-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-general-2"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-12",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-12",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-12-1-3",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-fishingpond3",
+            "assetId": "facility-a03-fishingpond3-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-12",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-12",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-12-1-4",
+            "assetId": "facility-a03-fishingpond3"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-12",
+        "step_group_number": 1,
+        "step": 5,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-12",
+            "stepGroupNumber": 1,
+            "step": 5,
+            "descriptionLangId": "la-quest-main-w1-03-12-1-5",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-fishingpond3",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-13",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-13",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-13-1-1",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-13",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-13",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-13-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-watergun",
+            "assetId": "facility-a03-watergun-prg",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-14",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-14",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-14-1-1",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-14",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-14",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-14-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-14",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-14",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-14-1-3",
+            "afterAdvAreaId": "area-a03",
+            "afterAdvFacilityId": "facility-a03-glamping",
+            "assetId": "facility-a03-glamping-prg"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-14",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-14",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-14-1-4",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_ENDING",
+            "assetId": "facility-a03-glamping",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "50"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "50"
+                }
+            ]
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-15",
+        "step_group_number": 1,
+        "step": 1,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-15",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "descriptionLangId": "la-quest-main-w1-03-15-1-1",
+            "transitionAdvAssetId": "adv_cutscene_01_03_15-01",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-15",
+        "step_group_number": 1,
+        "step": 2,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-15",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "descriptionLangId": "la-quest-main-w1-03-15-1-2",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_OPENING",
+            "assetId": "facility-a03-entrance"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-15",
+        "step_group_number": 1,
+        "step": 3,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-15",
+            "stepGroupNumber": 1,
+            "step": 3,
+            "descriptionLangId": "la-quest-main-w1-03-15-1-3",
+            "assetId": "facility-a03-livestage"
+        }
+    },
+    {
+        "park_quest_id": "quest-main-w1-03-15",
+        "step_group_number": 1,
+        "step": 4,
+        "data": {
+            "parkQuestId": "quest-main-w1-03-15",
+            "stepGroupNumber": 1,
+            "step": 4,
+            "descriptionLangId": "la-quest-main-w1-03-15-1-4",
+            "transitionType": "ParkQuestStepTransitionType_PARK_QUEST_STEP_TRANSITION_TYPE_CHAPTER_ENDING",
+            "assetId": "facility-a03-livestage",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_PLAYER_EXP",
+                    "quantity": "5000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "150"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_LIVE_SKIN",
+                    "resourceId": "live_skin-background-default_03",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_MUSIC",
+                    "resourceId": "m0354",
+                    "quantity": "1"
                 }
             ]
         }

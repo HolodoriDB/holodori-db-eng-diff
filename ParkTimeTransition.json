@@ -1,0 +1,91 @@
+[
+    {
+        "area_grouping_id": "area_group-a03",
+        "time_point": 0,
+        "data": {
+            "areaGroupingId": "area_group-a03",
+            "nameLangId": "la-park_time_transition-area_group-a03-night-003-name",
+            "assetId": "night-003",
+            "mainColor": "9A93FF",
+            "subColor": "C7C4FF",
+            "iconAssetId": "night-001",
+            "iconNameLangId": "la-park_time_transition-area_group-a03-night-003-description",
+            "order": 6
+        }
+    },
+    {
+        "area_grouping_id": "area_group-a03",
+        "time_point": 12,
+        "data": {
+            "areaGroupingId": "area_group-a03",
+            "timePoint": 12,
+            "nameLangId": "la-park_time_transition-area_group-a03-noon-002-name",
+            "assetId": "noon-002",
+            "mainColor": "FFB31C",
+            "subColor": "FFD582",
+            "iconAssetId": "noon-001",
+            "iconNameLangId": "la-park_time_transition-area_group-a03-noon-002-description",
+            "order": 2
+        }
+    },
+    {
+        "area_grouping_id": "area_group-a03",
+        "time_point": 24,
+        "data": {
+            "areaGroupingId": "area_group-a03",
+            "timePoint": 24,
+            "nameLangId": "la-park_time_transition-area_group-a03-noon-003-name",
+            "assetId": "noon-003",
+            "mainColor": "FFB31C",
+            "subColor": "FFD582",
+            "iconAssetId": "noon-001",
+            "iconNameLangId": "la-park_time_transition-area_group-a03-noon-003-description",
+            "order": 3
+        }
+    },
+    {
+        "area_grouping_id": "area_group-a03",
+        "time_point": 29,
+        "data": {
+            "areaGroupingId": "area_group-a03",
+            "timePoint": 29,
+            "nameLangId": "la-park_time_transition-area_group-a03-night-001-name",
+            "assetId": "night-001",
+            "mainColor": "9A93FF",
+            "subColor": "C7C4FF",
+            "iconAssetId": "night-001",
+            "iconNameLangId": "la-park_time_transition-area_group-a03-night-001-description",
+            "order": 4
+        }
+    },
+    {
+        "area_grouping_id": "area_group-a03",
+        "time_point": 38,
+        "data": {
+            "areaGroupingId": "area_group-a03",
+            "timePoint": 38,
+            "nameLangId": "la-park_time_transition-area_group-a03-night-002-name",
+            "assetId": "night-002",
+            "mainColor": "9A93FF",
+            "subColor": "C7C4FF",
+            "iconAssetId": "night-001",
+            "iconNameLangId": "la-park_time_transition-area_group-a03-night-002-description",
+            "order": 5
+        }
+    },
+    {
+        "area_grouping_id": "area_group-a03",
+        "time_point": 6,
+        "data": {
+            "areaGroupingId": "area_group-a03",
+            "timePoint": 6,
+            "nameLangId": "la-park_time_transition-area_group-a03-noon-001-name",
+            "assetId": "noon-001",
+            "mainColor": "FFB31C",
+            "subColor": "FFD582",
+            "iconAssetId": "noon-001",
+            "iconNameLangId": "la-park_time_transition-area_group-a03-noon-001-description",
+            "order": 1
+        }
+    }
+]

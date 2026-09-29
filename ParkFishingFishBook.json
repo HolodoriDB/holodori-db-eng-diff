@@ -1,0 +1,23 @@
+[
+    {
+        "area_sea_type": 1,
+        "data": {
+            "areaSeaType": "AreaSeaType_AREA_SEA_TYPE_SEA_1",
+            "viewConditionGroupId": "cd-facility-a03-fishingpond1"
+        }
+    },
+    {
+        "area_sea_type": 2,
+        "data": {
+            "areaSeaType": "AreaSeaType_AREA_SEA_TYPE_SEA_2",
+            "viewConditionGroupId": "cd-facility-a03-fishingpond2"
+        }
+    },
+    {
+        "area_sea_type": 3,
+        "data": {
+            "areaSeaType": "AreaSeaType_AREA_SEA_TYPE_SEA_3",
+            "viewConditionGroupId": "cd-facility-a03-fishingpond3"
+        }
+    }
+]

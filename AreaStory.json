@@ -202,5 +202,77 @@
             "archiveViewConditionGroupId": "cd-quest_clear-quest-area-a01-29",
             "unlockConditionGroupId": "cd-quest_clear-quest-area-a01-29"
         }
+    },
+    {
+        "area_story_chapter_id": "area_story_chapter_area-a03",
+        "number": 1,
+        "data": {
+            "areaStoryChapterId": "area_story_chapter_area-a03",
+            "number": 1,
+            "titleLangId": "la-area_story_chapter_area-a03-001",
+            "storyId": "story-area_story_chapter_area-a03_001",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-area-a03-01",
+            "unlockConditionGroupId": "cd-quest_clear-quest-area-a03-01"
+        }
+    },
+    {
+        "area_story_chapter_id": "area_story_chapter_area-a03",
+        "number": 2,
+        "data": {
+            "areaStoryChapterId": "area_story_chapter_area-a03",
+            "number": 2,
+            "titleLangId": "la-area_story_chapter_area-a03-002",
+            "storyId": "story-area_story_chapter_area-a03_002",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-area-a03-03",
+            "unlockConditionGroupId": "cd-quest_clear-quest-area-a03-03"
+        }
+    },
+    {
+        "area_story_chapter_id": "area_story_chapter_area-a03",
+        "number": 3,
+        "data": {
+            "areaStoryChapterId": "area_story_chapter_area-a03",
+            "number": 3,
+            "titleLangId": "la-area_story_chapter_area-a03-003",
+            "storyId": "story-area_story_chapter_area-a03_003",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-area-a03-04",
+            "unlockConditionGroupId": "cd-quest_clear-quest-area-a03-04"
+        }
+    },
+    {
+        "area_story_chapter_id": "area_story_chapter_area-a03",
+        "number": 4,
+        "data": {
+            "areaStoryChapterId": "area_story_chapter_area-a03",
+            "number": 4,
+            "titleLangId": "la-area_story_chapter_area-a03-004",
+            "storyId": "story-area_story_chapter_area-a03_004",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-area-a03-10",
+            "unlockConditionGroupId": "cd-quest_clear-quest-area-a03-10"
+        }
+    },
+    {
+        "area_story_chapter_id": "area_story_chapter_area-a03",
+        "number": 5,
+        "data": {
+            "areaStoryChapterId": "area_story_chapter_area-a03",
+            "number": 5,
+            "titleLangId": "la-area_story_chapter_area-a03-005",
+            "storyId": "story-area_story_chapter_area-a03_005",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-area-a03-13",
+            "unlockConditionGroupId": "cd-quest_clear-quest-area-a03-13"
+        }
+    },
+    {
+        "area_story_chapter_id": "area_story_chapter_area-a03",
+        "number": 6,
+        "data": {
+            "areaStoryChapterId": "area_story_chapter_area-a03",
+            "number": 6,
+            "titleLangId": "la-area_story_chapter_area-a03-006",
+            "storyId": "story-area_story_chapter_area-a03_006",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-area-a03-14",
+            "unlockConditionGroupId": "cd-quest_clear-quest-area-a03-14"
+        }
     }
 ]

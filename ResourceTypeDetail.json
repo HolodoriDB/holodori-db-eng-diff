@@ -271,6 +271,19 @@
         }
     },
     {
+        "type": 23,
+        "data": {
+            "type": "ResourceType_RESOURCE_TYPE_PARK_FISHING_BAIT",
+            "color": "28C3FF",
+            "nameLangId": "la-resource_type_detail-fishingbait-name",
+            "iconAssetId": "other",
+            "descriptionLangId": "la-resource_type_detail-fishingbait-name",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-002",
+            "backgroundColor": "28C3FF",
+            "backgroundPatternType": "ResourceBackgroundPatternType_RESOURCE_BACKGROUND_PATTERN_TYPE_PATTERN3"
+        }
+    },
+    {
         "type": 25,
         "data": {
             "type": "ResourceType_RESOURCE_TYPE_APPEAL_TEXT",

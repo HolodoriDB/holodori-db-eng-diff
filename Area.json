@@ -88,5 +88,16 @@
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02-1-5",
             "order": 1
         }
+    },
+    {
+        "id": "area-a03",
+        "data": {
+            "id": "area-a03",
+            "areaSelectorId": "area-a03-selector",
+            "priority": 1,
+            "nameLangId": "la-area_group-a03-name",
+            "descriptionLangId": "la-area-a03-description",
+            "order": 5
+        }
     }
 ]

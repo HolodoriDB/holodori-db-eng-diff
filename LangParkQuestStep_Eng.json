@@ -931,6 +931,384 @@
         }
     },
     {
+        "id": "la-quest-area-a03-01-1-1",
+        "data": {
+            "id": "la-quest-area-a03-01-1-1",
+            "text": "Victory is in the air! Join {character} who is fishing at Fish Blue."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-01-1-2",
+        "data": {
+            "id": "la-quest-area-a03-01-1-2",
+            "text": "Keep watching the water surface and catch a ★2 or higher fish."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-01-1-3",
+        "data": {
+            "id": "la-quest-area-a03-01-1-3",
+            "text": "How was the response? Check your catch with {character} at Fish Blue."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-1",
+        "data": {
+            "id": "la-quest-area-a03-02-1-1",
+            "text": "Their BGM is the sound of the waves. Talk to Marine and Lamy at the beach."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-2",
+        "data": {
+            "id": "la-quest-area-a03-02-1-2",
+            "text": "Seize the sea breeze and make the Live practice a success."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-3",
+        "data": {
+            "id": "la-quest-area-a03-02-1-3",
+            "text": "The effort etched into the blue sea. Talk to Marine and Lamy at the beach."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-1",
+        "data": {
+            "id": "la-quest-area-a03-03-1-1",
+            "text": "Big investment for a big catch? Talk to {character} at Bae’s Bits & Bobs."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-2",
+        "data": {
+            "id": "la-quest-area-a03-03-1-2",
+            "text": "Aim big and hone your fishing skills! Collect 1000 Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-3",
+        "data": {
+            "id": "la-quest-area-a03-03-1-3",
+            "text": "Skills of a true fisherman! Talk to excited {character} at Fish Blue."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-1",
+        "data": {
+            "id": "la-quest-area-a03-04-1-1",
+            "text": "You hear laughter. Talk to {character} who is in a good mood at the beach."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-2",
+        "data": {
+            "id": "la-quest-area-a03-04-1-2",
+            "text": "In pursuit of unknown shadows. Use your cast and collect 15 types of fish."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-3",
+        "data": {
+            "id": "la-quest-area-a03-04-1-3",
+            "text": "What is inside your bucket? Ask {character} at Lamy’s Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-1",
+        "data": {
+            "id": "la-quest-area-a03-05-1-1",
+            "text": "Talk to Kobo and La+ who are looking around at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-2",
+        "data": {
+            "id": "la-quest-area-a03-05-1-2",
+            "text": "Find the fishing rod at the Entrance and deliver it to {character}."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-3",
+        "data": {
+            "id": "la-quest-area-a03-05-1-3",
+            "text": "Rod found, case closed! Go to La+ and Kobo at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-1",
+        "data": {
+            "id": "la-quest-area-a03-06-1-1",
+            "text": "Sora and Polka seem to be singing at the Live Stage. Follow their voices."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-2",
+        "data": {
+            "id": "la-quest-area-a03-06-1-2",
+            "text": "Talk to {character} at Splash Stadium and play Splash Ball."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-3",
+        "data": {
+            "id": "la-quest-area-a03-06-1-3",
+            "text": "Talk to Sora and Polka who are cooling down from the heated battle."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-1",
+        "data": {
+            "id": "la-quest-area-a03-07-1-1",
+            "text": "A beach shining with smiles. Check on Ina'nis and Kronii who are chatting."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-2",
+        "data": {
+            "id": "la-quest-area-a03-07-1-2",
+            "text": "Step up to new heights. Unlock 150 Holomem Boards."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-3",
+        "data": {
+            "id": "la-quest-area-a03-07-1-3",
+            "text": "Ina'nis and Kronii are playing on the beach. Join in the fun!"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-1",
+        "data": {
+            "id": "la-quest-area-a03-08-1-1",
+            "text": "The sound of waves is your BGM. Join Marine on the Princess Marine Ship."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-2",
+        "data": {
+            "id": "la-quest-area-a03-08-1-2",
+            "text": "Cool investment! Talk to {character} and polish up Princess Marine Ship."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-3",
+        "data": {
+            "id": "la-quest-area-a03-08-1-3",
+            "text": "Renewed ship! Talk to Koyori and Marine who've just finished remodeling."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-1",
+        "data": {
+            "id": "la-quest-area-a03-09-1-1",
+            "text": "Prevent an empty haul disaster! Join Lamy & Miko at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-2",
+        "data": {
+            "id": "la-quest-area-a03-09-1-2",
+            "text": "A \"reel\" battle! Catch a ★4 or higher fish using your fishing skills."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-3",
+        "data": {
+            "id": "la-quest-area-a03-09-1-3",
+            "text": "Pro fisher! Ask Lamy and Miko about their catch at Lamy’s Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-1",
+        "data": {
+            "id": "la-quest-area-a03-10-1-1",
+            "text": "Splashes and laughter! Talk to {character} who is playing on the beach."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-2",
+        "data": {
+            "id": "la-quest-area-a03-10-1-2",
+            "text": "Glistening Water-Stage! Harmonize with {character} at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-3",
+        "data": {
+            "id": "la-quest-area-a03-10-1-3",
+            "text": "Did the dancing dry your clothes? Talk to {character} at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-1",
+        "data": {
+            "id": "la-quest-area-a03-11-1-1",
+            "text": "A massive shadow in the water?! Talk to Aki and Ayame at Bokoboko Beacon."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-2",
+        "data": {
+            "id": "la-quest-area-a03-11-1-2",
+            "text": "Don’t miss the moment! Concentrate and catch a ★5 fish!"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-3",
+        "data": {
+            "id": "la-quest-area-a03-11-1-3",
+            "text": "Aki and Ayame are beaming from a good haul. Join them at Bokoboko Beacon."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-1",
+        "data": {
+            "id": "la-quest-area-a03-12-1-1",
+            "text": "An unexpected twist?! Hurry to Polka and Luna at POPOPO Happy Camp."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-2",
+        "data": {
+            "id": "la-quest-area-a03-12-1-2",
+            "text": "A floating round shadow. Look for the washed up beach ball at Upao Heaven."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-3",
+        "data": {
+            "id": "la-quest-area-a03-12-1-3",
+            "text": "Beach ball rescued! Talk to Polka and Luna at POPOPO Happy Camp."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-1",
+        "data": {
+            "id": "la-quest-area-a03-13-1-1",
+            "text": "Searching for moonlit romance. Join {character} at Ichijou VIP Lounge."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-2",
+        "data": {
+            "id": "la-quest-area-a03-13-1-2",
+            "text": "A fateful encounter lit by moonlight. Aim for fish that appear at night."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-3",
+        "data": {
+            "id": "la-quest-area-a03-13-1-3",
+            "text": "{character} is excited about Fish Blue at night. Ask about her thoughts."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-1",
+        "data": {
+            "id": "la-quest-area-a03-14-1-1",
+            "text": "Float-watching is a lovely pastime. Talk to {character} at Bokoboko Beacon."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-2",
+        "data": {
+            "id": "la-quest-area-a03-14-1-2",
+            "text": "Mark of a fisherman! Catch unknown fish and get 60 types for the index!"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-3",
+        "data": {
+            "id": "la-quest-area-a03-14-1-3",
+            "text": "Target reached?! Share the joy with {character} at Bokoboko Beacon."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-1",
+        "data": {
+            "id": "la-quest-area-a03-15-1-1",
+            "text": "Soothing waves? Talk to Koyori and Hajime who are relaxing on the beach."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-2",
+        "data": {
+            "id": "la-quest-area-a03-15-1-2",
+            "text": "Sync up for the main event! Train with {character} at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-3",
+        "data": {
+            "id": "la-quest-area-a03-15-1-3",
+            "text": "Smiles and pleasant sweat! Ask Koyori and Hajime about their thoughts."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-1",
+        "data": {
+            "id": "la-quest-area-a03-16-1-1",
+            "text": "Want to give the best performance?! Join Baelz and Kobo at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-2",
+        "data": {
+            "id": "la-quest-area-a03-16-1-2",
+            "text": "Evoke your talent! Train 1 Member up to Stage 4."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-3",
+        "data": {
+            "id": "la-quest-area-a03-16-1-3",
+            "text": "Hurry to Baelz and Kobo who are making the Stage shine even brighter."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-17-1-1",
+        "data": {
+            "id": "la-quest-area-a03-17-1-1",
+            "text": "Room for improvement? Talk to {character} on the Princess Marine Ship."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-17-1-2",
+        "data": {
+            "id": "la-quest-area-a03-17-1-2",
+            "text": "A dream come true! Talk to {character} to upgrade the Princess Marine Ship!"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-18-1-1",
+        "data": {
+            "id": "la-quest-area-a03-18-1-1",
+            "text": "Get exciting, new, genius ideas from {character} on Princess Marine Ship."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-18-1-2",
+        "data": {
+            "id": "la-quest-area-a03-18-1-2",
+            "text": "To a special seat! Upgrade the Princess Marine Ship with {character}."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-19-1-1",
+        "data": {
+            "id": "la-quest-area-a03-19-1-1",
+            "text": "Colorful exquisite drinks. Join {character} on the Princess Marine Ship."
+        }
+    },
+    {
+        "id": "la-quest-area-a03-19-1-2",
+        "data": {
+            "id": "la-quest-area-a03-19-1-2",
+            "text": "More luxury! Upgrade the Princess Marine Ship together with {character}."
+        }
+    },
+    {
         "id": "la-quest-chr-00001-1-1",
         "data": {
             "id": "la-quest-chr-00001-1-1",
@@ -2919,6 +3297,153 @@
         }
     },
     {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-1",
+            "text": "{character} will be fishing at Bokoboko Beacon. Go check on her."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-2",
+            "text": "Go for victory! Catch fish and earn Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-3",
+            "text": "The winner! Talk to {character}, proclaiming her victory."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-1",
+            "text": "Talk to {character} who has a new fishing rod at Bae’s Bits & Bobs."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-2",
+            "text": "So how does the new fishing rod feel? Catch fish and earn Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-3",
+            "text": "This new fishing rod is amazing! Talk to {character} who seems content."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-1",
+            "text": "{character}’s fishing rod is not moving at all. Talk to her at Fish Blue."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-2",
+            "text": "We are getting serious! Catch fish and earn Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-3",
+            "text": "A great catch! Talk to a grinning {character}."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-1",
+            "text": "Zero haul? Go check on a deflated {character} at Lamy’s Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-2",
+            "text": "Believing in myself! Catch fish and earn Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-3",
+            "text": "Everything going as planned? Talk to a smiling {character}."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-1",
+            "text": "A deep sleeper at POPOPO Happy Camp. Talk to groggy {character}."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-2",
+            "text": "Go all in and fish! Catch fish and earn Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-3",
+            "text": "Some prodigy level skill? Talk to {character} who is in a good mood."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-1",
+            "text": "Getting excited it seems. Talk to {character} at Bokoboko Beacon."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-2",
+            "text": "The rat's lure's big catch! Catch fish and earn Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-3",
+            "text": "This is the skill of a fishing queen! Talk to an euphoric {character}."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-1",
+            "text": "{character} seems cold. Talk to her at Lamy’s Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-2",
+            "text": "A fire that melts the snow? Catch fish and earn Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-3",
+            "text": "Time for a victory cry! Talk to {character} who is pumped up!"
+        }
+    },
+    {
         "id": "la-quest-daily-group-04016-1-1",
         "data": {
             "id": "la-quest-daily-group-04016-1-1",
@@ -3714,6 +4239,104 @@
         "data": {
             "id": "la-quest-daily-live-06005-1-2",
             "text": "So much to try! Have a lesson with {character} at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00023-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00023-1-1",
+            "text": "{character} seems to be relaxing at Ichijou VIP Lounge. Talk to her."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00023-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00023-1-2",
+            "text": "Made it in time? Practice with {character} at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00030-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00030-1-1",
+            "text": "{character} is at Upao Heaven thinking about a Live. Go there."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00030-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00030-1-2",
+            "text": "What's the result? Practice with {character} who's headed for the Stage."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00034-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00034-1-1",
+            "text": "A stream was live on the Princess Marine Ship. Talk to {character}."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00034-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00034-1-2",
+            "text": "Practice with {character} who is excitedly preparing on the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00037-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00037-1-1",
+            "text": "{character} seems to be practicing at the Live Stage. Go check on her."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00037-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00037-1-2",
+            "text": "Talk to {character}, raring to get started with a brainy practice."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-03009-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-03009-1-1",
+            "text": "A smiley {character} is rubbing her tummy. Go check on her."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-03009-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-03009-1-2",
+            "text": "Snack power to the max! Practice with {character} at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-04012-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-04012-1-1",
+            "text": "{character} is maintaining her boat at Koyo Lab Oceanic Branch. Join her."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-04012-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-04012-1-2",
+            "text": "Follow {character} to the Stage on the shiny new boat and begin practice."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-06003-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-06003-1-1",
+            "text": "{character} is on fire! Go and see her at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-06003-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-06003-1-2",
+            "text": "Master those difficult steps! Start practice with {character}."
         }
     },
     {
@@ -5373,6 +5996,468 @@
         "data": {
             "id": "la-quest-main-w1-02-12-1-5",
             "text": "Feeling the music? Put on a great Live for everyone at Casino Area."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-01-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-01-1-1",
+            "text": "You can hear laughter. Join everyone at the bustling holo Home."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-01-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-01-1-2",
+            "text": "Sea breeze is in the air! Go check out the new area."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-02-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-02-1-1",
+            "text": "Have fun while waiting! Make some beautiful sounds until the boat arrives!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-02-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-02-1-2",
+            "text": "What awaits on the open sea? Jump onto a boat and sail for the unknown."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-1",
+            "text": "An unexpected situation?! Talk to a confused {character} at the Entrance."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-2",
+            "text": "Hope rises from the sea! Talk to {character} at the Entrance."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-3",
+            "text": "The possibility of a big catch is thrilling! Complete Fish Blue."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-4",
+            "text": "All attention on the float! Catch a fish and show off your skills!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-5",
+            "text": "Fish caught! Talk to {character}."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-6",
+            "text": "Put up the best storefront! Finish up work on Bae’s Bits & Bobs."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-7",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-7",
+            "text": "The fish will bite right away! Get the best bait at Bae’s Bits & Bobs."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-8",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-8",
+            "text": "More and more bites! Use the new bait and catch 3 fish at Fish Blue!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-9",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-9",
+            "text": "Fish caught! Talk to {character}."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-1",
+            "text": "Hammer away! Talk to {character} who is working hard on the construction."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-2",
+            "text": "The epitome of rest! Finish Ichijou VIP Lounge and celebrate with a toast!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-3",
+            "text": "Exchange the finest pieces at Ichijou VIP Lounge."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-4",
+            "text": "Talk to {character} who is loitering elegantly(?) at Ichijou VIP Lounge."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-1",
+            "text": "Join the lively conversation. Talk to {character} at Ichijou VIP Lounge."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-2",
+            "text": "Cutting edge! Complete Koyo Lab Oceanic Branch and start researching."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-3",
+            "text": "Full Gear, activate! Remodel a boat at Koyo Lab Oceanic Branch."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-4",
+            "text": "To unknown seas! Sail the oceans with your new boat."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-1",
+            "text": "Cut through the wind and onto new lands. Set sail for unknown waters!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-2",
+            "text": "So many ideas! Talk to {character} at the Entrance and join the meeting!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-3",
+            "text": "Talk to {character} who is brainstorming at the Stage construction site."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-4",
+            "text": "Talk to {character} at the Live Stage about your first awesome practice!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-1",
+            "text": "Is cleaning the facility going well? Talk to {character} at Fish Blue."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-2",
+            "text": "One step from the ideal spot! Hurry and finish Lamy's Snow Dome!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-3",
+            "text": "Skillfully catch 3 fish at Lamy's Snow Dome!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-4",
+            "text": "The fishing contest is ending! Talk to {character} at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-1",
+            "text": "The fishing contest is over! Talk to {character} at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-2",
+            "text": "Could it be a sport game? Follow the sound of a ball to the Entrance."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-3",
+            "text": "The dream venue is about to be born! Complete Splash Stadium!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-4",
+            "text": "A new chapter begins! Join {character} waiting at the finished Stadium."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-09-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-09-1-1",
+            "text": "It seems everyone’s at the Entrance. Talk to {character}."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-09-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-09-1-2",
+            "text": "Maritime friendship! Complete Princess Marine Ship!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-1",
+            "text": "The announcement stream starts soon! Talk to {character} at the Entrance."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-10",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-10",
+            "text": "Upgrade your boat! Join {character} at Koyo Lab Oceanic Branch."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-2",
+            "text": "The heated battle of fishermen! Go to {character} at Fish Blue."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-3",
+            "text": "Show off the results of your practice! Catch 3 fish and aim for the top!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-4",
+            "text": "The tournament continues. Talk to a determined {character} at Fish Blue."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-5",
+            "text": "A single cast breaks the silence. Catch a ★2 or higher fish."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-6",
+            "text": "Next, talk to {character} at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-7",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-7",
+            "text": "Share your passion! Do a Live for the announcement stream!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-8",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-8",
+            "text": "Hurry! Talk to {character} who is getting ready at Splash Stadium."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-9",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-9",
+            "text": "A BIG surprise-guest?! Let the whale be. Talk to {character} at holo Home."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-1",
+            "text": "Take your new boat for a spin! Full speed ahead across unknown waters!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-2",
+            "text": "Infiltrating the whale’s hideout! Peek into the cove and see what's there!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-3",
+            "text": "Make the cove squeaky clean! Head to Splash Stadium to discuss."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-4",
+            "text": "A visit from a gigantic neighbor?! Talk to {character} at Splash Stadium."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-5",
+            "text": "Cleanup mission ready! Talk to {character} who is waiting at the Entrance."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-6",
+            "text": "The before and after of destiny! Go check on the cove."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-1",
+            "text": "It seems everyone’s at the Entrance. Talk to {character}."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-2",
+            "text": "The best showdown! Talk to {character} in the sea as excitement lingers."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-3",
+            "text": "Completion is near! Talk to {character} at Bokoboko Beacon."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-4",
+            "text": "Don't miss even a single tug! Catch 3 fish at Bokoboko Beacon!"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-5",
+            "text": "Who will be victorious? Talk to {character} at Bokoboko Beacon."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-13-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-13-1-1",
+            "text": "Something's happening at the Live Stage. Talk to an excited {character}."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-13-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-13-1-2",
+            "text": "To the sacred land! Talk to {character} at Upao Heaven."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-1",
+            "text": "Talk to {character} practicing for the announcement Live on stage."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-2",
+            "text": "Time to set sail! Join {character} at the Entrance and don’t be late."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-3",
+            "text": "Go for your dream! Do final checks with {character} at POPOPO Happy Camp."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-4",
+            "text": "All done! Enjoy a delicious BBQ with {character} at POPOPO Happy Camp."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-1",
+            "text": "Enjoy the unveiling with everyone! Talk to {character} at the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-2",
+            "text": "It's time for the unveiling! Join nervous {character} at the Entrance."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-3",
+            "text": "The venue is filled to the brim! Head to the Live Stage."
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-4",
+            "text": "The unveiling Live has begun! Make it a success with everyone!"
         }
     }
 ]

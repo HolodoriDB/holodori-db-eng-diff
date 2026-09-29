@@ -1,5 +1,25 @@
 [
     {
+        "id": "quest_chapter-area-a03",
+        "data": {
+            "id": "quest_chapter-area-a03",
+            "titleLangId": "la-quest_chapter-area-a03",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-12",
+            "assetId": "area_group-a03",
+            "order": 3
+        }
+    },
+    {
+        "id": "quest_chapter-main-w1-03",
+        "data": {
+            "id": "quest_chapter-main-w1-03",
+            "titleLangId": "la-quest_chapter-main-w1-03",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-12",
+            "assetId": "area_group-a03",
+            "order": 3
+        }
+    },
+    {
         "id": "quest_chapter-area-a01",
         "data": {
             "id": "quest_chapter-area-a01",

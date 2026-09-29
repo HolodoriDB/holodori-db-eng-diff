@@ -1,1 +1,99 @@
-[]
+[
+    {
+        "id": "park_fishing_bait-001",
+        "data": {
+            "id": "park_fishing_bait-001",
+            "nameLangId": "la-park_fishing_bait-001-name",
+            "descriptionLangId": "la-park_fishing_bait-001-description",
+            "assetId": "img_fishing_bait_thumb_bait-001",
+            "isUnlimited": true,
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-001",
+            "viewConditionGroupId": "cd-park_fishing_bait-001-gettable",
+            "order": 1
+        }
+    },
+    {
+        "id": "park_fishing_bait-002",
+        "data": {
+            "id": "park_fishing_bait-002",
+            "nameLangId": "la-park_fishing_bait-002-name",
+            "descriptionLangId": "la-park_fishing_bait-002-description",
+            "assetId": "img_fishing_bait_thumb_bait-002",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-002",
+            "viewConditionGroupId": "cd-park_fishing_bait-002-gettable",
+            "order": 2
+        }
+    },
+    {
+        "id": "park_fishing_bait-003",
+        "data": {
+            "id": "park_fishing_bait-003",
+            "nameLangId": "la-park_fishing_bait-003-name",
+            "descriptionLangId": "la-park_fishing_bait-003-description",
+            "assetId": "img_fishing_bait_thumb_bait-003",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-003",
+            "viewConditionGroupId": "cd-park_fishing_bait-003-gettable",
+            "order": 3
+        }
+    },
+    {
+        "id": "park_fishing_bait-004",
+        "data": {
+            "id": "park_fishing_bait-004",
+            "nameLangId": "la-park_fishing_bait-004-name",
+            "descriptionLangId": "la-park_fishing_bait-004-description",
+            "assetId": "img_fishing_bait_thumb_bait-004",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-004",
+            "viewConditionGroupId": "cd-park_fishing_bait-004-gettable",
+            "order": 4
+        }
+    },
+    {
+        "id": "park_fishing_bait-005",
+        "data": {
+            "id": "park_fishing_bait-005",
+            "nameLangId": "la-park_fishing_bait-005-name",
+            "descriptionLangId": "la-park_fishing_bait-005-description",
+            "assetId": "img_fishing_bait_thumb_bait-005",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-005",
+            "viewConditionGroupId": "cd-park_fishing_bait-005-gettable",
+            "order": 5
+        }
+    },
+    {
+        "id": "park_fishing_bait-006",
+        "data": {
+            "id": "park_fishing_bait-006",
+            "nameLangId": "la-park_fishing_bait-006-name",
+            "descriptionLangId": "la-park_fishing_bait-006-description",
+            "assetId": "img_fishing_bait_thumb_bait-006",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-006",
+            "viewConditionGroupId": "cd-park_fishing_bait-006-gettable",
+            "order": 6
+        }
+    },
+    {
+        "id": "park_fishing_bait-007",
+        "data": {
+            "id": "park_fishing_bait-007",
+            "nameLangId": "la-park_fishing_bait-007-name",
+            "descriptionLangId": "la-park_fishing_bait-007-description",
+            "assetId": "img_fishing_bait_thumb_bait-007",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-007",
+            "viewConditionGroupId": "cd-park_fishing_bait-007-gettable",
+            "order": 7
+        }
+    },
+    {
+        "id": "park_fishing_bait-008",
+        "data": {
+            "id": "park_fishing_bait-008",
+            "nameLangId": "la-park_fishing_bait-008-name",
+            "descriptionLangId": "la-park_fishing_bait-008-description",
+            "assetId": "img_fishing_bait_thumb_bait-008",
+            "resourceObtainmentRouteGroupId": "resource_obtainment_route-fishingbait-008",
+            "viewConditionGroupId": "cd-park_fishing_bait-008-gettable",
+            "order": 8
+        }
+    }
+]

@@ -484,6 +484,94 @@
         }
     },
     {
+        "live_passive_skill_id": "live_passive_skill-card-00023-5-uniq-0085-00",
+        "level": 1,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-00023-5-uniq-0085-00",
+            "level": 1,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_2-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_2-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-00023-5-uniq-0085-00.1-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-00023-5-uniq-0085-00",
+        "level": 2,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-00023-5-uniq-0085-00",
+            "level": 2,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_2-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-attribute-attribute_2-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-00023-5-uniq-0085-00.2-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-00037-5-uniq-0086-00",
+        "level": 1,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-00037-5-uniq-0086-00",
+            "level": 1,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_3-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-attribute-attribute_3-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-00037-5-uniq-0086-00.1-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-00037-5-uniq-0086-00",
+        "level": 2,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-00037-5-uniq-0086-00",
+            "level": 2,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_3-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-attribute-attribute_3-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-00037-5-uniq-0086-00.2-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-03009-5-uniq-0088-00",
+        "level": 1,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-03009-5-uniq-0088-00",
+            "level": 1,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_1-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-03009-5-uniq-0088-00.1-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-03009-5-uniq-0088-00",
+        "level": 2,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-03009-5-uniq-0088-00",
+            "level": 2,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_1-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-attribute-attribute_1-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-03009-5-uniq-0088-00.2-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-04012-5-uniq-0087-00",
+        "level": 1,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-04012-5-uniq-0087-00",
+            "level": 1,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_character_grouping-grp-promise-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-all_parameter_up_permil_up-250-live_skill_effect_target-self",
+            "descriptionLangId": "la-generated-live_passive_skill-card-04012-5-uniq-0087-00.1-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-04012-5-uniq-0087-00",
+        "level": 2,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-04012-5-uniq-0087-00",
+            "level": 2,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_character_grouping-grp-promise-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-all_parameter_up_permil_up-330-live_skill_effect_target-self",
+            "descriptionLangId": "la-generated-live_passive_skill-card-04012-5-uniq-0087-00.2-description"
+        }
+    },
+    {
         "live_passive_skill_id": "live_passive_skill-card-00002-3-nrml-0001-00",
         "level": 1,
         "data": {

@@ -749,6 +749,48 @@
         }
     },
     {
+        "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-1",
+            "text": "You will get <color=#ff3bc8>Soda Pop Coins</color> when you catch any fish.\n\nThe amount increases depending on the weight and rarity!"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-2",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-fish-list-area03-description-2",
+            "text": "You can check information about the fish you've caught in the Fish Guide!\n\nThe more different types of fish you catch, the more rewards you'll receive!"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-rod-level-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-rod-level-description-1",
+            "text": "Use Hologold at Bae’s Bits & Bobs to upgrade your Fishing Rod!\n\n<color=#ff3bc8>Upgrading your rod makes it easier to catch fish</color>!"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-top-area03-1",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-top-area03-1",
+            "text": "Choose the bait and let’s start fishing!\n\n<color=#ff3bc8>You can catch different fish depending on the bait, time of day, and spot</color>."
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-top-area03-2",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-top-area03-2",
+            "text": "When a fish bites, tap the screen to start the Minigame!\n\n<color=#ff3bc8>Hold or tap the reel button to match the bar's position with the fish, and fill up the gauge!</color>\n\nWhen the gauge is full, you can catch the fish!"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-time-period-area03-description-1",
+        "data": {
+            "id": "la-tips-game_screen-park-time-period-area03-description-1",
+            "text": "You can change the time at the POPOPO Happy Camp!\n\n<color=#ff3bc8>The fish that you can catch change depending on the time of day</color>!\n\nYou can check the times that each fish appears in the <color=#ff3bc8>Fish Guide</color>!"
+        }
+    },
+    {
         "id": "la-tips-game_screen-park_change_playable-description-1",
         "data": {
             "id": "la-tips-game_screen-park_change_playable-description-1",
@@ -1162,6 +1204,13 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_detail_special_skill_timing_display-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_timing_display-description-1",
+            "text": "You can set to display SP SKills when activated to be Lines or Icons."
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
         "data": {
             "id": "la-tips-hint-live_option_detail_tap_effect-description-1",
@@ -1173,6 +1222,34 @@
         "data": {
             "id": "la-tips-hint-live_option_detail_tap_vibration-description-1",
             "text": "You can adjust the intensity of the device's tap vibration."
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_display_settingdescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_display_settingdescription-1",
+            "text": "You can select which Judgement result to display.\nScores that rank higher than the set target will not be displayed.\nYou can also view undisplayed scores on the Results Screen."
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_display_typedescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_display_typedescription-1",
+            "text": "You can choose whether to display the Judgement in the center or on the lane where where it was scored.\nIf you select “By Lane,” you can choose the number of lanes to display the Judgement result from 2, 3, 4, 5, 6, or 12."
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_positiondescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_positiondescription-1",
+            "text": "You can adjust the position of the Judgement result display.\nIncrease this number to move display higher on the screen; decreasing it will lower it."
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_timing_positiondescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_timing_positiondescription-1",
+            "text": "You can set whether SLOW/FAST will appear at the top or bottom."
         }
     },
     {
@@ -1204,10 +1281,31 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_lane_split-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_split-description-1",
+            "text": "You can adjust the number of gridlines displayed on the lanes."
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_lane_top_cut-description-1",
         "data": {
             "id": "la-tips-hint-live_option_lane_top_cut-description-1",
             "text": "You can adjust the start position of Notes by cutting off the top of the lane.\n\nNote duration time is recorded in milliseconds, from when it appears until it reaches the Hit Line.\n\nIf the top of the lane has been cut, this refers to the time it takes to reach the Hit Line from the cut point.\nIf the bottom of the lane has been cut above the Hit Line, the time taken to reach the cut will be displayed."
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_width_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_width_setting-description-1",
+            "text": "You can adjust the width of the lanes.\nThe higher the number, the wider the lanes.\nThe wider you make the lanes, the higher the chance of overlapping with UI elements."
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_low_life_warning_effectdescription-1",
+        "data": {
+            "id": "la-tips-hint-live_option_low_life_warning_effectdescription-1",
+            "text": "You can turn the flashing red effect ON/OFF when your health drops below a certain level."
         }
     },
     {
@@ -1232,10 +1330,24 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_note_height_pct_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_note_height_pct_setting-description-1",
+            "text": "You can adjust the height of the Notes.\nThe higher the number, the taller the Notes."
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_note_speed-description-1",
         "data": {
             "id": "la-tips-hint-live_option_note_speed-description-1",
             "text": "You can adjust the speed of the notes travel.\n\nYou can adjust increments of 0.1 & 0.5 of the left and right buttons.\nYou can adjust the to a 2nd decimal place by tapping the numbers.\n\nThe note display time indicates the time (in milliseconds) that a note is shown on the screen.\nThis value changes when you adjust the note speed for the top or bottom lane."
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_note_width_pct_setting-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_note_width_pct_setting-description-1",
+            "text": "You can adjust the width of the Notes.\nThe higher the number, the wider the Notes."
         }
     },
     {
@@ -1278,6 +1390,13 @@
         "data": {
             "id": "la-tips-hint-live_option_skin_note-description-1",
             "text": "You can change the design of Notes."
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_penlight-description-1",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_penlight-description-1",
+            "text": "When you select the default background, you can change the penlight color, which varies depending on the holomen leader.\n\"Original Colors\" are the colors used in the game, while \"Live Colors\" are the penlight colors used at events such as hololive fes."
         }
     },
     {
@@ -1382,14 +1501,14 @@
         "id": "la-tips-hint-marathon_mission-description-5",
         "data": {
             "id": "la-tips-hint-marathon_mission-description-5",
-            "text": "Use <color=#ff3bc8>Event Bonuses</color> to earn even more Event Pts and Event Badges!\n\nEvent Bonuses include <color=#ff3bc8>bonuses</color> that increase the amount of Event Pts and Event Badges you earn from Live!\n\nThere are 3 types of Bonuses!\n\n▼Member Bonus\n・Earn more rewards from Live with eligible Members.\n\n▼holomem Bonus\n・Earn more rewards from Live with eligible holomem Members.\n\n▼Bloom Bonus\n・Earn more rewards when performing a Live based on assembled Bloom level.\n\nAlso, Event Bonuses include bonuses that increase the amount of Event Pts and Event Badges you earn from Minigames!\n\n▼Minigame Bonus\n・Earn more rewards when playing the eligible Minigames.\n\n▼Member Bonus\n・Earn more rewards just by owning eligible holomem Members.\n\n* For details, please go to [Event] → [Event Bonus]."
+            "text": "Use <color=#ff3bc8>Event Bonuses</color> to earn even more Event Badges!\n\nEvent Bonuses include <color=#ff3bc8>bonuses</color> that increase the amount of Event Badges you earn from Lives!\n\nThere are 3 types of Bonuses!\n\n▼Member Bonus\n・Earn more rewards from a Live just by owning eligible Members.\n\n▼holomem Bonus\n・Earn more rewards from a Live with eligible holomem.\n\n▼Bloom Bonus\n・Earn more rewards from a Live based on the Bloom level of your formation.\n\nEvent Bonuses will also increase the amount of Event Badges you earn from Minigames!\n\n▼Minigame Bonus\n・Earn more rewards when playing the eligible Minigames.\n\n▼Member Bonus\n・Earn more rewards just by owning eligible Members.\n\n* For details, please go to [Event] → [Event Bonus]."
         }
     },
     {
         "id": "la-tips-hint-marathon_mission-description-6",
         "data": {
             "id": "la-tips-hint-marathon_mission-description-6",
-            "text": "The more points you score, the more Event Pts and Event Badges you’ll earn.\n\n▼Earning Event Pt/Event Badges \n・Using Auto Live is also valid\n・The more Live Boosts you use, the bigger the rewards\n・The longer the Song, the more you will earn"
+            "text": "The <color=#ff3bc8>more points you score, the bigger the increase</color> in Event Badges you'll earn.\n\n▼Earning Event Badges\n・Using Auto Live is also valid\n・The more Show Boost you use, the bigger the increase\n・The longer the song, the more you will earn"
         }
     },
     {
@@ -1715,6 +1834,20 @@
         }
     },
     {
+        "id": "la-tips-park-boat-area03-description-1",
+        "data": {
+            "id": "la-tips-park-boat-area03-description-1",
+            "text": "You can travel around Soda Pop Lagoon by boat!\n\nTake a nearby boat and explore the surrounding area!"
+        }
+    },
+    {
+        "id": "la-tips-park-boat-area03-level-description-1",
+        "data": {
+            "id": "la-tips-park-boat-area03-level-description-1",
+            "text": "At the Koyo Lab Oceanic Branch, you can use the specified materials to upgrade your boat!\n\n<color=#ff3bc8>Upgrade it and set sail right away!</color>"
+        }
+    },
+    {
         "id": "la-tips-park-character-shop-area01-balloon-description-1",
         "data": {
             "id": "la-tips-park-character-shop-area01-balloon-description-1",
@@ -1768,6 +1901,55 @@
         "data": {
             "id": "la-tips-park-character-shop-area02-hair-accessory-description-2",
             "text": "You can give a Bunny-Ear Silk Hat to a holomem to wear!"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishing-area03-description-1",
+            "text": "You can catch fish at fishing spots!\n\nTake some time to relax and enjoy fishing at the various spots scattered throughout the area!"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-fish-list-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishing-fish-list-area03-description-1",
+            "text": "You will get <color=#ff3bc8>Soda Pop Coins</color> when you catch any fish.\n\nThe amount increases depending on the weight and rarity!"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-fish-list-area03-description-2",
+        "data": {
+            "id": "la-tips-park-fishing-fish-list-area03-description-2",
+            "text": "You can check information about the fish you've caught in the Fish Guide!\n\nThe more different types of fish you catch, the more rewards you'll receive!"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-rod-level-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishing-rod-level-area03-description-1",
+            "text": "Use Hologold at Bae’s Bits & Bobs to upgrade your Fishing Rod!\n\n<color=#ff3bc8>Upgrading your rod makes it easier to catch fish</color>!"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-top-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishing-top-area03-description-1",
+            "text": "Choose the bait and let’s start fishing!\n\n<color=#ff3bc8>You can catch different fish depending on the bait, time of day, and spot</color>."
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-top-area03-description-2",
+        "data": {
+            "id": "la-tips-park-fishing-top-area03-description-2",
+            "text": "When a fish bites, tap the screen to start the Minigame!\n\n<color=#ff3bc8>Hold or tap the reel button to match the bar's position with the fish, and fill up the gauge!</color>\n\nWhen the gauge is full, you can catch the fish!"
+        }
+    },
+    {
+        "id": "la-tips-park-fishingshop-area03-description-1",
+        "data": {
+            "id": "la-tips-park-fishingshop-area03-description-1",
+            "text": "At Bae's Bits & Bobs, you can exchange Hologold for bait!\n\n<color=#ff3bc8>The fish you can catch will change depending on the bait you choose</color>!\n\nBe sure to exchange lots of different bait and catch lots of different fish!"
         }
     },
     {
@@ -1943,6 +2125,62 @@
         "data": {
             "id": "la-tips-skill-tree-description-2",
             "text": "You can earn the required <color=#ff3bc8>types of Cubes through exchanging,Holowork, and more, to unlock Nodes</color>!\n\nYou can receive <color=#ff3bc8>Holomem Board Pts by increasing your Holomem Rank</color>!\n\nEarn the required EXP to rank up by completing each holomem’s Achievements!"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-description-1",
+        "data": {
+            "id": "la-tips-splash_ball-description-1",
+            "text": "You can play Splash Ball at any time at Soda Pop Lagoon's <color=#ff3bc8>Splash Stadium</color>!"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-description-2",
+        "data": {
+            "id": "la-tips-splash_ball-description-2",
+            "text": "Rewards are based on your personal score and team ranking!\n\nThe player with the <color=#ff3bc8>highest score on the winning team will be awarded MVP</color>!\nRack up plays by carrying and knocking away balls!"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-description-3",
+        "data": {
+            "id": "la-tips-splash_ball-description-3",
+            "text": "Your best score will be recorded in the rankings! \n\n* If the Best Scores are identical, the first one will take precedence."
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-1",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-1",
+            "text": "Splash Ball is a Minigame where three teams of three players battle it out!\n\n<color=#ff3bc8>Aim for a high score and earn points by launching the ball into the opposing teams’ goals! </color>\n\nBut be careful! <color=#ff3bc8>You’ll lose points when an opposing team scores in your goal</color>!\n\nThe game ends when a team falls to zero points, reaches their target score or the time limit is reached!"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-2",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-2",
+            "text": "▼Controls Guide\n・Move: <color=#ff3bc8>Move around with touch controls</color>\n\n・Jump: <color=#ff3bc8>Tap to make your boat jump</color>\n\n・Boost: <color=#ff3bc8>Tap to temporarily speed up</color>\n\n*You can't boost again until the gauge refills."
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-3",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-3",
+            "text": "Push the balls with the boat and shoot them into the opposing teams’ goals!\n\n<color=#ff3bc8>If you hit the ball in the center, it’ll shoot even further</color>!"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-4",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-4",
+            "text": "On the field, <color=#ff3bc8>there are balls of different weights and score values</color>!\n\nSometimes there’s even a “Mass Outbreak” of balls!"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest-description-5",
+        "data": {
+            "id": "la-tips-splash_ball-quest-description-5",
+            "text": "You can score <color=#ff3bc8>“Defense Points”</color> by pushing out balls from your own goal area!\n\n<color=#ff3bc8>When you score a “Defense Point”, the ball will fly further than normal</color>!\n\n*There is a cooldown for earning “Defense Points”.\n*You cannot earn “Defense Points” from balls last touched by you or a teammate."
         }
     },
     {

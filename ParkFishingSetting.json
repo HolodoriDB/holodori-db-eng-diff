@@ -2,7 +2,22 @@
     {
         "id": "1",
         "data": {
-            "id": "1"
+            "id": "1",
+            "captureBarBaseTapInertiaPermil": 8000,
+            "captureBarBaseFallAccelerationPermil": 8000,
+            "captureBarBaseFallStartMillisecond": 50,
+            "captureBarBaseLength": 35,
+            "captureBarMinLength": 300,
+            "fishIconBaseSpeedPermil": 10000,
+            "fishIconBaseSpeedChangeMillisecond": 5,
+            "fishIconBaseDirectionChangeMilliseconds": 250,
+            "progressMeterBaseIncreaseSpeed": 100,
+            "progressMeterBaseDecreaseSpeed": 50,
+            "progressMeterOfftrackDecreasePermil": 180,
+            "progressMeterMaxLength": 1000,
+            "progressMeterOfftrackDecreaseDelayMillisecond": 15000,
+            "fishShadowRareProbabilityPermilMultiply": 300,
+            "fishingRodLevelUpFacilityId": "facility-a03-fishingshop"
         }
     }
 ]

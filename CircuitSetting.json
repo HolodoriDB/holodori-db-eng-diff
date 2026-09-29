@@ -12,7 +12,8 @@
             "randomMatchStartTimeLimitSeconds": 30,
             "multiGameSetupTimeLimitSeconds": 25,
             "totalFinishTimeLimitSeconds": 600,
-            "isCheatDetectRedDisconnectUserEnabled": true
+            "isCheatDetectRedDisconnectUserEnabled": true,
+            "isCheatDetectDgsRedJudgementEnabled": true
         }
     }
 ]

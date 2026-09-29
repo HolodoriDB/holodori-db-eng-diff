@@ -20,6 +20,19 @@
             "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-02-01",
             "assetId": "special-002",
             "assetType": "StoryAssetType_STORY_ASSET_TYPE_MOVIE",
+            "order": 2
+        }
+    },
+    {
+        "id": "special_story-normal_area-a03-mv",
+        "data": {
+            "id": "special_story-normal_area-a03-mv",
+            "titleLangId": "la-special_story-normal_area-a03-mv",
+            "storyId": "story-special_normal_area-a03-mv",
+            "archiveViewConditionGroupId": "cd-quest_clear-quest-main-w1-03-01",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-03-01",
+            "assetId": "special-003",
+            "assetType": "StoryAssetType_STORY_ASSET_TYPE_MOVIE",
             "order": 3
         }
     }

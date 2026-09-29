@@ -27,5 +27,22 @@
             "fixedDisplayResourceId": "item-mini_game_bet_coin",
             "order": 2
         }
+    },
+    {
+        "id": "area_group-a03",
+        "data": {
+            "id": "area_group-a03",
+            "worldId": "world-a",
+            "nameLangId": "la-area_group-a03-name",
+            "descriptionLangId": "la-area_group-a03-description",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-01",
+            "defaultAreaSelectorId": "area-a03-selector",
+            "assetId": "area-a03",
+            "color": "E2A59A",
+            "fixedDisplayResourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+            "fixedDisplayResourceId": "item-mini_game_fishing_coin",
+            "isFixedDisplayResourceQuantityDigitsFull": true,
+            "order": 3
+        }
     }
 ]

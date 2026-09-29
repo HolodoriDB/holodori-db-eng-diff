@@ -42,6 +42,27 @@
         }
     },
     {
+        "id": "la-facility-a03-fishingshop-name",
+        "data": {
+            "id": "la-facility-a03-fishingshop-name",
+            "text": "Bae’s Bits & Bobs"
+        }
+    },
+    {
+        "id": "la-facility-a03-resortshop-name",
+        "data": {
+            "id": "la-facility-a03-resortshop-name",
+            "text": "Ichijou VIP Lounge"
+        }
+    },
+    {
+        "id": "la-facility-a03-station-name",
+        "data": {
+            "id": "la-facility-a03-station-name",
+            "text": "Princess Marine Ship"
+        }
+    },
+    {
         "id": "la-resource_obtainment_route-achievement",
         "data": {
             "id": "la-resource_obtainment_route-achievement",
@@ -91,6 +112,27 @@
         }
     },
     {
+        "id": "la-resource_obtainment_route-fishingpond1",
+        "data": {
+            "id": "la-resource_obtainment_route-fishingpond1",
+            "text": "Fish Blue\n(Fishing)"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-fishingpond2",
+        "data": {
+            "id": "la-resource_obtainment_route-fishingpond2",
+            "text": "Lamy's Snow Dome\n(Fishing)"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-fishingpond3",
+        "data": {
+            "id": "la-resource_obtainment_route-fishingpond3",
+            "text": "Bokoboko Beacon\n(Fishing)"
+        }
+    },
+    {
         "id": "la-resource_obtainment_route-gacha",
         "data": {
             "id": "la-resource_obtainment_route-gacha",
@@ -129,6 +171,13 @@
         "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
         "data": {
             "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-004-chapter-01",
+            "text": "Event"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
+        "data": {
+            "id": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-005-chapter-01",
             "text": "Event"
         }
     },
@@ -284,6 +333,13 @@
         "data": {
             "id": "la-resource_obtainment_route-shop",
             "text": "Shop"
+        }
+    },
+    {
+        "id": "la-resource_obtainment_route-splash_ball",
+        "data": {
+            "id": "la-resource_obtainment_route-splash_ball",
+            "text": "Splash Stadium\n(Splash Ball)"
         }
     },
     {

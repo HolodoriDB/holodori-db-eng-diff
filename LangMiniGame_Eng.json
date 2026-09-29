@@ -138,5 +138,33 @@
             "id": "la-mini_game-jump_rope-ranking_view_description_lang_id",
             "text": "Display Top 100 by Best Score"
         }
+    },
+    {
+        "id": "la-mini_game-splash_ball-description",
+        "data": {
+            "id": "la-mini_game-splash_ball-description",
+            "text": "Team-based ball-scoring game."
+        }
+    },
+    {
+        "id": "la-mini_game-splash_ball-name",
+        "data": {
+            "id": "la-mini_game-splash_ball-name",
+            "text": "Splash Ball"
+        }
+    },
+    {
+        "id": "la-mini_game-splash_ball-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-splash_ball-ranking_score_type_lang_id",
+            "text": "SCORE"
+        }
+    },
+    {
+        "id": "la-mini_game-splash_ball-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-splash_ball-ranking_view_description_lang_id",
+            "text": "Display Top 100 Best Scores."
+        }
     }
 ]

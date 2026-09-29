@@ -1,5 +1,773 @@
 [
     {
+        "id": "chr-04004",
+        "data": {
+            "id": "chr-04004",
+            "nameLangId": "la-name-chr-04004",
+            "shortNameLangId": "la-short_name-chr-04004",
+            "nameEng": "Gawr Gura",
+            "shortNameEng": "Gura",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04004-nrml-0045-00",
+            "defaultSdCostumeId": "sdcos-04004-nrml-0045-00",
+            "birthMonth": 6,
+            "birthDay": 20,
+            "debutYear": 2020,
+            "debutMonth": 9,
+            "debutDay": 13,
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_CUTE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "assetId": "04004",
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04004"
+            ],
+            "color1": "5588FF",
+            "color2": "8AC7ED",
+            "color3": "EF4D55",
+            "color4": "2E63CB",
+            "color5": "487DDB",
+            "order": 146,
+            "regularCharacterGroupingIds": [
+                "grp-myth"
+            ]
+        }
+    },
+    {
+        "id": "chr-00009",
+        "data": {
+            "id": "chr-00009",
+            "nameLangId": "la-name-chr-00009",
+            "shortNameLangId": "la-short_name-chr-00009",
+            "nameEng": "Murasaki Shion",
+            "shortNameEng": "Shion",
+            "characterProductionId": "prd-jp",
+            "defaultCostumeId": "cos-00009-nrml-0009-00",
+            "defaultSdCostumeId": "sdcos-00009-nrml-0009-00",
+            "birthMonth": 12,
+            "birthDay": 8,
+            "debutYear": 2018,
+            "debutMonth": 8,
+            "debutDay": 17,
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_CUTE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "assetId": "00009",
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-00009"
+            ],
+            "color1": "BF57ED",
+            "color2": "716EFF",
+            "color3": "BFDD00",
+            "color4": "8727B1",
+            "color5": "6342C5",
+            "order": 110,
+            "regularCharacterGroupingIds": [
+                "grp-gen_2"
+            ]
+        }
+    },
+    {
+        "id": "chr-04005",
+        "data": {
+            "id": "chr-04005",
+            "nameLangId": "la-name-chr-04005",
+            "shortNameLangId": "la-short_name-chr-04005",
+            "nameEng": "Watson Amelia",
+            "shortNameEng": "Amelia",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04005-nrml-0046-00",
+            "defaultSdCostumeId": "sdcos-04005-nrml-0046-00",
+            "birthMonth": 1,
+            "birthDay": 6,
+            "debutYear": 2020,
+            "debutMonth": 9,
+            "debutDay": 13,
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "assetId": "04005",
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04005"
+            ],
+            "color1": "F8DB92",
+            "color2": "7B4439",
+            "color3": "CBB097",
+            "color4": "E6B63F",
+            "color5": "FFF000",
+            "order": 147,
+            "regularCharacterGroupingIds": [
+                "grp-myth"
+            ]
+        }
+    },
+    {
+        "id": "chr-04007",
+        "data": {
+            "id": "chr-04007",
+            "nameLangId": "la-name-chr-04007",
+            "shortNameLangId": "la-short_name-chr-04007",
+            "nameEng": "IRyS",
+            "shortNameEng": "IRyS",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04007-nrml-0047-00",
+            "defaultSdCostumeId": "sdcos-04007-nrml-0047-00",
+            "birthMonth": 3,
+            "birthDay": 7,
+            "debutYear": 2021,
+            "debutMonth": 7,
+            "debutDay": 11,
+            "fanNameLangId": "la-fan_name-chr-04007",
+            "descriptionLangId": "la-chara_intro-04007",
+            "commentLangId": "la-chara_comment-04007",
+            "youtubeUrl": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+            "xUrl": "https://twitter.com/irys_en",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_SEXY",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+            "isPlayable": true,
+            "assetId": "04007",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-004",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04007",
+            "bgmAssetId": "bgm_chr_profile_04007",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04007",
+            "regularCharacterGroupingNameEng": "hololive EN Promise",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04007"
+            ],
+            "color1": "DF185D",
+            "color2": "60CED0",
+            "color3": "8E00AD",
+            "color4": "AB003B",
+            "color5": "EA51AB",
+            "order": 148,
+            "regularCharacterGroupingIds": [
+                "grp-promise"
+            ]
+        }
+    },
+    {
+        "id": "chr-04009",
+        "data": {
+            "id": "chr-04009",
+            "nameLangId": "la-name-chr-04009",
+            "shortNameLangId": "la-short_name-chr-04009",
+            "nameEng": "Ceres Fauna",
+            "shortNameEng": "Fauna",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04009-nrml-0048-00",
+            "defaultSdCostumeId": "sdcos-04009-nrml-0048-00",
+            "birthMonth": 3,
+            "birthDay": 21,
+            "debutYear": 2021,
+            "debutMonth": 8,
+            "debutDay": 23,
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_COOL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+            "assetId": "04009",
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04009"
+            ],
+            "color1": "B3DD8D",
+            "color2": "50D0B3",
+            "color3": "FE9591",
+            "color4": "79B257",
+            "color5": "55B29F",
+            "order": 149,
+            "regularCharacterGroupingIds": [
+                "grp-promise"
+            ]
+        }
+    },
+    {
+        "id": "chr-04010",
+        "data": {
+            "id": "chr-04010",
+            "nameLangId": "la-name-chr-04010",
+            "shortNameLangId": "la-short_name-chr-04010",
+            "nameEng": "Ouro Kronii",
+            "shortNameEng": "Kronii",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04010-nrml-0049-00",
+            "defaultSdCostumeId": "sdcos-04010-nrml-0049-00",
+            "birthMonth": 3,
+            "birthDay": 14,
+            "debutYear": 2021,
+            "debutMonth": 8,
+            "debutDay": 23,
+            "fanNameLangId": "la-fan_name-chr-04010",
+            "descriptionLangId": "la-chara_intro-04010",
+            "commentLangId": "la-chara_comment-04010",
+            "youtubeUrl": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+            "xUrl": "https://twitter.com/ourokronii",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_COOL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "isPlayable": true,
+            "assetId": "04010",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-001",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04010",
+            "bgmAssetId": "bgm_chr_profile_04010",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04010",
+            "regularCharacterGroupingNameEng": "hololive EN Promise",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04010"
+            ],
+            "color1": "2221AA",
+            "color2": "DCB33E",
+            "color3": "8BD2F8",
+            "color4": "29297C",
+            "color5": "487DDB",
+            "order": 150,
+            "regularCharacterGroupingIds": [
+                "grp-promise"
+            ]
+        }
+    },
+    {
+        "id": "chr-04011",
+        "data": {
+            "id": "chr-04011",
+            "nameLangId": "la-name-chr-04011",
+            "shortNameLangId": "la-short_name-chr-04011",
+            "nameEng": "Nanashi Mumei",
+            "shortNameEng": "Mumei",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04011-nrml-0050-00",
+            "defaultSdCostumeId": "sdcos-04011-nrml-0050-00",
+            "birthMonth": 8,
+            "birthDay": 4,
+            "debutYear": 2021,
+            "debutMonth": 8,
+            "debutDay": 23,
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "assetId": "04011",
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04011"
+            ],
+            "color1": "CCA495",
+            "color2": "41312D",
+            "color3": "44BBBB",
+            "color4": "906F62",
+            "color5": "8ECDD8",
+            "order": 151,
+            "regularCharacterGroupingIds": [
+                "grp-promise"
+            ]
+        }
+    },
+    {
+        "id": "chr-04012",
+        "data": {
+            "id": "chr-04012",
+            "nameLangId": "la-name-chr-04012",
+            "shortNameLangId": "la-short_name-chr-04012",
+            "nameEng": "Hakos Baelz",
+            "shortNameEng": "Baelz",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04012-nrml-0051-00",
+            "defaultSdCostumeId": "sdcos-04012-nrml-0051-00",
+            "birthMonth": 2,
+            "birthDay": 29,
+            "debutYear": 2021,
+            "debutMonth": 8,
+            "debutDay": 23,
+            "fanNameLangId": "la-fan_name-chr-04012",
+            "descriptionLangId": "la-chara_intro-04012",
+            "commentLangId": "la-chara_comment-04012",
+            "youtubeUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+            "xUrl": "https://twitter.com/hakosbaelz",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "isPlayable": true,
+            "assetId": "04012",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-002",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04012",
+            "bgmAssetId": "bgm_chr_profile_04012",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04012",
+            "regularCharacterGroupingNameEng": "hololive EN Promise",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04012"
+            ],
+            "color1": "EE2222",
+            "color2": "48D5C8",
+            "color3": "FFBD15",
+            "color4": "E00000",
+            "color5": "FE0000",
+            "order": 152,
+            "regularCharacterGroupingIds": [
+                "grp-promise"
+            ]
+        }
+    },
+    {
+        "id": "chr-04013",
+        "data": {
+            "id": "chr-04013",
+            "nameLangId": "la-name-chr-04013",
+            "shortNameLangId": "la-short_name-chr-04013",
+            "nameEng": "Shiori Novella",
+            "shortNameEng": "Shiori",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04013-nrml-0052-00",
+            "defaultSdCostumeId": "sdcos-04013-nrml-0052-00",
+            "birthMonth": 5,
+            "birthDay": 2,
+            "debutYear": 2023,
+            "debutMonth": 7,
+            "debutDay": 30,
+            "fanNameLangId": "la-fan_name-chr-04013",
+            "descriptionLangId": "la-chara_intro-04013",
+            "commentLangId": "la-chara_comment-04013",
+            "youtubeUrl": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+            "xUrl": "https://twitter.com/shiorinovella",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+            "isPlayable": true,
+            "assetId": "04013",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-003",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04013",
+            "bgmAssetId": "bgm_chr_profile_04013",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04013",
+            "regularCharacterGroupingNameEng": "hololive EN Advent",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04013"
+            ],
+            "color1": "C288F7",
+            "color2": "44445D",
+            "color3": "633CFF",
+            "color4": "9A43E9",
+            "color5": "FFFFFF",
+            "order": 153,
+            "regularCharacterGroupingIds": [
+                "grp-advent"
+            ]
+        }
+    },
+    {
+        "id": "chr-04014",
+        "data": {
+            "id": "chr-04014",
+            "nameLangId": "la-name-chr-04014",
+            "shortNameLangId": "la-short_name-chr-04014",
+            "nameEng": "Koseki Bijou",
+            "shortNameEng": "Bijou",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04014-nrml-0053-00",
+            "defaultSdCostumeId": "sdcos-04014-nrml-0053-00",
+            "birthMonth": 4,
+            "birthDay": 14,
+            "debutYear": 2023,
+            "debutMonth": 7,
+            "debutDay": 30,
+            "fanNameLangId": "la-fan_name-chr-04014",
+            "descriptionLangId": "la-chara_intro-04014",
+            "commentLangId": "la-chara_comment-04014",
+            "youtubeUrl": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+            "xUrl": "https://twitter.com/kosekibijou",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "isPlayable": true,
+            "assetId": "04014",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-004",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04014",
+            "bgmAssetId": "bgm_chr_profile_04014",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04014",
+            "regularCharacterGroupingNameEng": "hololive EN Advent",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04014"
+            ],
+            "color1": "8674FF",
+            "color2": "FFA7CA",
+            "color3": "76D6D1",
+            "color4": "5137FF",
+            "color5": "6342C5",
+            "order": 154,
+            "regularCharacterGroupingIds": [
+                "grp-advent"
+            ]
+        }
+    },
+    {
+        "id": "chr-06005",
+        "data": {
+            "id": "chr-06005",
+            "nameLangId": "la-name-chr-06005",
+            "shortNameLangId": "la-short_name-chr-06005",
+            "nameEng": "Todoroki Hajime",
+            "shortNameEng": "Hajime",
+            "characterProductionId": "prd-dev_is",
+            "defaultCostumeId": "cos-06005-nrml-0061-00",
+            "defaultSdCostumeId": "sdcos-06005-nrml-0061-00",
+            "birthMonth": 6,
+            "birthDay": 7,
+            "debutYear": 2023,
+            "debutMonth": 9,
+            "debutDay": 10,
+            "fanNameLangId": "la-fan_name-chr-06005",
+            "descriptionLangId": "la-chara_intro-06005",
+            "commentLangId": "la-chara_comment-06005",
+            "youtubeUrl": "https://www.youtube.com/@TodorokiHajime",
+            "xUrl": "https://twitter.com/todoroki_hajime",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "isPlayable": true,
+            "assetId": "06005",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-004",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-06005",
+            "bgmAssetId": "bgm_chr_profile_06005",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-06005",
+            "regularCharacterGroupingNameEng": "DEV_IS ReGLOSS",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-06005"
+            ],
+            "color1": "A4AAFF",
+            "color2": "DEC2A7",
+            "color3": "84D3FF",
+            "color4": "6D77FF",
+            "color5": "6342C5",
+            "order": 162,
+            "regularCharacterGroupingIds": [
+                "grp-regloss"
+            ]
+        }
+    },
+    {
+        "id": "chr-04015",
+        "data": {
+            "id": "chr-04015",
+            "nameLangId": "la-name-chr-04015",
+            "shortNameLangId": "la-short_name-chr-04015",
+            "nameEng": "Nerissa Ravencroft",
+            "shortNameEng": "Nerissa",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04015-nrml-0054-00",
+            "defaultSdCostumeId": "sdcos-04015-nrml-0054-00",
+            "birthMonth": 11,
+            "birthDay": 21,
+            "debutYear": 2023,
+            "debutMonth": 7,
+            "debutDay": 31,
+            "fanNameLangId": "la-fan_name-chr-04015",
+            "descriptionLangId": "la-chara_intro-04015",
+            "commentLangId": "la-chara_comment-04015",
+            "youtubeUrl": "https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg",
+            "xUrl": "https://twitter.com/nerissa_en",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_SEXY",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+            "isPlayable": true,
+            "assetId": "04015",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-001",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04015",
+            "bgmAssetId": "bgm_chr_profile_04015",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04015",
+            "regularCharacterGroupingNameEng": "hololive EN Advent",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04015"
+            ],
+            "color1": "3950EE",
+            "color2": "3F3D53",
+            "color3": "A5A5AC",
+            "color4": "152CC5",
+            "color5": "487DDB",
+            "order": 155,
+            "regularCharacterGroupingIds": [
+                "grp-advent"
+            ]
+        }
+    },
+    {
+        "id": "chr-04016",
+        "data": {
+            "id": "chr-04016",
+            "nameLangId": "la-name-chr-04016",
+            "shortNameLangId": "la-short_name-chr-04016",
+            "nameEng": "Fuwawa Abyssgard",
+            "shortNameEng": "Fuwawa",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04016-nrml-0055-00",
+            "defaultSdCostumeId": "sdcos-04016-nrml-0055-00",
+            "birthMonth": 2,
+            "birthDay": 1,
+            "debutYear": 2023,
+            "debutMonth": 7,
+            "debutDay": 31,
+            "fanNameLangId": "la-fan_name-chr-04016",
+            "descriptionLangId": "la-chara_intro-04016",
+            "commentLangId": "la-chara_comment-04016",
+            "youtubeUrl": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+            "xUrl": "https://twitter.com/fuwamoco_en",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "isPlayable": true,
+            "assetId": "04016",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-002",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04016",
+            "bgmAssetId": "bgm_chr_profile_04016",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04016",
+            "regularCharacterGroupingNameEng": "hololive EN Advent",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04016"
+            ],
+            "color1": "80C2F8",
+            "color2": "F79BC2",
+            "color3": "AA87F5",
+            "color4": "33A1F0",
+            "color5": "8ECDD8",
+            "order": 156,
+            "regularCharacterGroupingIds": [
+                "grp-advent"
+            ]
+        }
+    },
+    {
+        "id": "chr-04017",
+        "data": {
+            "id": "chr-04017",
+            "nameLangId": "la-name-chr-04017",
+            "shortNameLangId": "la-short_name-chr-04017",
+            "nameEng": "Mococo Abyssgard",
+            "shortNameEng": "Mococo",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04017-nrml-0056-00",
+            "defaultSdCostumeId": "sdcos-04017-nrml-0056-00",
+            "birthMonth": 2,
+            "birthDay": 2,
+            "debutYear": 2023,
+            "debutMonth": 7,
+            "debutDay": 31,
+            "fanNameLangId": "la-fan_name-chr-04017",
+            "descriptionLangId": "la-chara_intro-04017",
+            "commentLangId": "la-chara_comment-04017",
+            "youtubeUrl": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+            "xUrl": "https://twitter.com/fuwamoco_en",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "isPlayable": true,
+            "assetId": "04017",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-003",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04017",
+            "bgmAssetId": "bgm_chr_profile_04017",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04017",
+            "regularCharacterGroupingNameEng": "hololive EN Advent",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04017"
+            ],
+            "color1": "F79BC2",
+            "color2": "80C2F8",
+            "color3": "AA87F5",
+            "color4": "F168A1",
+            "color5": "FFBDE1",
+            "order": 157,
+            "regularCharacterGroupingIds": [
+                "grp-advent"
+            ]
+        }
+    },
+    {
+        "id": "chr-06001",
+        "data": {
+            "id": "chr-06001",
+            "nameLangId": "la-name-chr-06001",
+            "shortNameLangId": "la-short_name-chr-06001",
+            "nameEng": "Hiodoshi Ao",
+            "shortNameEng": "Ao",
+            "characterProductionId": "prd-dev_is",
+            "defaultCostumeId": "cos-06001-nrml-0057-00",
+            "defaultSdCostumeId": "sdcos-06001-nrml-0057-00",
+            "birthMonth": 2,
+            "birthDay": 27,
+            "debutYear": 2023,
+            "debutMonth": 9,
+            "debutDay": 9,
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "assetId": "06001",
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-06001"
+            ],
+            "color1": "204596",
+            "color2": "88D3FD",
+            "color3": "3272FF",
+            "color4": "1E3566",
+            "color5": "487DDB",
+            "order": 158,
+            "regularCharacterGroupingIds": [
+                "grp-regloss"
+            ]
+        }
+    },
+    {
+        "id": "chr-06002",
+        "data": {
+            "id": "chr-06002",
+            "nameLangId": "la-name-chr-06002",
+            "shortNameLangId": "la-short_name-chr-06002",
+            "nameEng": "Otonose Kanade",
+            "shortNameEng": "Kanade",
+            "characterProductionId": "prd-dev_is",
+            "defaultCostumeId": "cos-06002-nrml-0058-00",
+            "defaultSdCostumeId": "sdcos-06002-nrml-0058-00",
+            "birthMonth": 4,
+            "birthDay": 20,
+            "debutYear": 2023,
+            "debutMonth": 9,
+            "debutDay": 9,
+            "fanNameLangId": "la-fan_name-chr-06002",
+            "descriptionLangId": "la-chara_intro-06002",
+            "commentLangId": "la-chara_comment-06002",
+            "youtubeUrl": "https://www.youtube.com/@OtonoseKanade",
+            "xUrl": "https://x.com/otonosekanade",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_CUTE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "isPlayable": true,
+            "assetId": "06002",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-001",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-06002",
+            "bgmAssetId": "bgm_chr_profile_06002",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-06002",
+            "regularCharacterGroupingNameEng": "DEV_IS ReGLOSS",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-06002"
+            ],
+            "color1": "FFD380",
+            "color2": "FC8275",
+            "color3": "A1705C",
+            "color4": "FFBA35",
+            "color5": "FFF000",
+            "order": 159,
+            "regularCharacterGroupingIds": [
+                "grp-regloss"
+            ]
+        }
+    },
+    {
+        "id": "chr-06003",
+        "data": {
+            "id": "chr-06003",
+            "nameLangId": "la-name-chr-06003",
+            "shortNameLangId": "la-short_name-chr-06003",
+            "nameEng": "Ichijou Ririka",
+            "shortNameEng": "Ririka",
+            "characterProductionId": "prd-dev_is",
+            "defaultCostumeId": "cos-06003-nrml-0059-00",
+            "defaultSdCostumeId": "sdcos-06003-nrml-0059-00",
+            "birthMonth": 5,
+            "birthDay": 12,
+            "debutYear": 2023,
+            "debutMonth": 9,
+            "debutDay": 9,
+            "fanNameLangId": "la-fan_name-chr-06003",
+            "descriptionLangId": "la-chara_intro-06003",
+            "commentLangId": "la-chara_comment-06003",
+            "youtubeUrl": "https://www.youtube.com/@IchijouRirika",
+            "xUrl": "https://x.com/ichijouririka",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_SEXY",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "isPlayable": true,
+            "assetId": "06003",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-002",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-06003",
+            "bgmAssetId": "bgm_chr_profile_06003",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-06003",
+            "regularCharacterGroupingNameEng": "DEV_IS ReGLOSS",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-06003"
+            ],
+            "color1": "FF77A9",
+            "color2": "9D8DFF",
+            "color3": "FFB6C8",
+            "color4": "F2558F",
+            "color5": "EA51AB",
+            "order": 160,
+            "regularCharacterGroupingIds": [
+                "grp-regloss"
+            ]
+        }
+    },
+    {
+        "id": "chr-06004",
+        "data": {
+            "id": "chr-06004",
+            "nameLangId": "la-name-chr-06004",
+            "shortNameLangId": "la-short_name-chr-06004",
+            "nameEng": "Juufuutei Raden",
+            "shortNameEng": "Raden",
+            "characterProductionId": "prd-dev_is",
+            "defaultCostumeId": "cos-06004-nrml-0060-00",
+            "defaultSdCostumeId": "sdcos-06004-nrml-0060-00",
+            "birthMonth": 2,
+            "birthDay": 4,
+            "debutYear": 2023,
+            "debutMonth": 9,
+            "debutDay": 10,
+            "fanNameLangId": "la-fan_name-chr-06004",
+            "descriptionLangId": "la-chara_intro-06004",
+            "commentLangId": "la-chara_comment-06004",
+            "youtubeUrl": "https://www.youtube.com/@JuufuuteiRaden",
+            "xUrl": "https://twitter.com/juufuuteiraden",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
+            "isPlayable": true,
+            "assetId": "06004",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-003",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-06004",
+            "bgmAssetId": "bgm_chr_profile_06004",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-06004",
+            "regularCharacterGroupingNameEng": "DEV_IS ReGLOSS",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-06004"
+            ],
+            "color1": "357B6C",
+            "color2": "D7845A",
+            "color3": "A32220",
+            "color4": "144F41",
+            "color5": "018D39",
+            "order": 161,
+            "regularCharacterGroupingIds": [
+                "grp-regloss"
+            ]
+        }
+    },
+    {
         "id": "chr-00001",
         "data": {
             "id": "chr-00001",
@@ -39,6 +807,7 @@
             "color2": "FD368A",
             "color3": "FFC942",
             "color4": "3D51FF",
+            "color5": "487DDB",
             "order": 101,
             "regularCharacterGroupingIds": [
                 "grp-gen_0"
@@ -85,6 +854,7 @@
             "color2": "FD91B7",
             "color3": "9355D6",
             "color4": "EF3964",
+            "color5": "EA51AB",
             "order": 102,
             "regularCharacterGroupingIds": [
                 "grp-gen_0"
@@ -131,6 +901,7 @@
             "color2": "FF4991",
             "color3": "5E82FF",
             "color4": "8BE100",
+            "color5": "55B29F",
             "order": 106,
             "regularCharacterGroupingIds": [
                 "grp-gen_1"
@@ -177,6 +948,7 @@
             "color2": "0046B3",
             "color3": "FFC85D",
             "color4": "E70D38",
+            "color5": "FE0000",
             "order": 107,
             "regularCharacterGroupingIds": [
                 "grp-gen_1"
@@ -223,6 +995,7 @@
             "color2": "65637F",
             "color3": "6B85ED",
             "color4": "1EB4F5",
+            "color5": "FFFFFF",
             "order": 108,
             "regularCharacterGroupingIds": [
                 "grp-gamers",
@@ -270,6 +1043,7 @@
             "color2": "8DD600",
             "color3": "FF7D31",
             "color4": "FFA600",
+            "color5": "FFA401",
             "order": 109,
             "regularCharacterGroupingIds": [
                 "grp-gen_1"
@@ -316,6 +1090,7 @@
             "color2": "8A6F72",
             "color3": "E8B532",
             "color4": "C51743",
+            "color5": "FE0000",
             "order": 111,
             "regularCharacterGroupingIds": [
                 "grp-gen_2"
@@ -362,6 +1137,7 @@
             "color2": "634C59",
             "color3": "87D996",
             "color4": "FA598A",
+            "color5": "EA51AB",
             "order": 103,
             "regularCharacterGroupingIds": [
                 "grp-gen_0"
@@ -408,6 +1184,7 @@
             "color2": "2B2D80",
             "color3": "DBBA67",
             "color4": "269BFF",
+            "color5": "487DDB",
             "order": 105,
             "regularCharacterGroupingIds": [
                 "grp-gen_0"
@@ -454,6 +1231,7 @@
             "color2": "97DAEF",
             "color3": "FFC32A",
             "color4": "3E8EFF",
+            "color5": "8ECDD8",
             "order": 117,
             "regularCharacterGroupingIds": [
                 "grp-gen_3"
@@ -500,6 +1278,7 @@
             "color2": "4AB0E9",
             "color3": "FF4D00",
             "color4": "FF8B10",
+            "color5": "FFA401",
             "order": 118,
             "regularCharacterGroupingIds": [
                 "grp-gen_3"
@@ -546,6 +1325,7 @@
             "color2": "4F6E8F",
             "color3": "66E6A9",
             "color4": "363F3C",
+            "color5": "FFFFFF",
             "order": 119,
             "regularCharacterGroupingIds": [
                 "grp-gen_3"
@@ -592,6 +1372,7 @@
             "color2": "453748",
             "color3": "EAB759",
             "color4": "950025",
+            "color5": "FE0000",
             "order": 120,
             "regularCharacterGroupingIds": [
                 "grp-gen_3"
@@ -638,6 +1419,7 @@
             "color2": "FF8F96",
             "color3": "D1A287",
             "color4": "E5C401",
+            "color5": "FFF000",
             "order": 122,
             "regularCharacterGroupingIds": [
                 "grp-gen_4"
@@ -684,6 +1466,7 @@
             "color2": "FC96DC",
             "color3": "B0E22C",
             "color4": "9E59F7",
+            "color5": "B16FD9",
             "order": 123,
             "regularCharacterGroupingIds": [
                 "grp-gen_4"
@@ -730,6 +1513,7 @@
             "color2": "99C6FF",
             "color3": "A595FF",
             "color4": "F16BB7",
+            "color5": "FFBDE1",
             "order": 124,
             "regularCharacterGroupingIds": [
                 "grp-gen_4"
@@ -776,6 +1560,7 @@
             "color2": "5CCEFF",
             "color3": "FF8CAE",
             "color4": "1C96FF",
+            "color5": "8ECDD8",
             "order": 125,
             "regularCharacterGroupingIds": [
                 "grp-gen_5"
@@ -822,6 +1607,7 @@
             "color2": "FF852D",
             "color3": "FF8CAE",
             "color4": "FFAE00",
+            "color5": "FFA401",
             "order": 126,
             "regularCharacterGroupingIds": [
                 "grp-gen_5"
@@ -868,6 +1654,7 @@
             "color2": "91C1B1",
             "color3": "5FCFA6",
             "color4": "5F5F5F",
+            "color5": "FFFFFF",
             "order": 127,
             "regularCharacterGroupingIds": [
                 "grp-gen_5"
@@ -914,6 +1701,7 @@
             "color2": "0083EB",
             "color3": "FFCA0F",
             "color4": "D4003C",
+            "color5": "FE0000",
             "order": 128,
             "regularCharacterGroupingIds": [
                 "grp-gen_5"
@@ -960,6 +1748,7 @@
             "color2": "493A58",
             "color3": "B8E600",
             "color4": "7F3DD4",
+            "color5": "6342C5",
             "order": 129,
             "regularCharacterGroupingIds": [
                 "grp-holox"
@@ -1006,6 +1795,7 @@
             "color2": "41282E",
             "color3": "ED9492",
             "color4": "71003D",
+            "color5": "FE0000",
             "order": 130,
             "regularCharacterGroupingIds": [
                 "grp-holox"
@@ -1052,6 +1842,7 @@
             "color2": "52DFCE",
             "color3": "9D6FFF",
             "color4": "F461A8",
+            "color5": "FFBDE1",
             "order": 131,
             "regularCharacterGroupingIds": [
                 "grp-holox"
@@ -1085,6 +1876,7 @@
             "color2": "2C2B2B",
             "color3": "A8A5A4",
             "color4": "B22F2D",
+            "color5": "FE0000",
             "order": 132,
             "regularCharacterGroupingIds": [
                 "grp-holox"
@@ -1131,6 +1923,7 @@
             "color2": "D5C293",
             "color3": "009BCF",
             "color4": "00C8BE",
+            "color5": "55B29F",
             "order": 133,
             "regularCharacterGroupingIds": [
                 "grp-holox"
@@ -1177,6 +1970,7 @@
             "color2": "9F7060",
             "color3": "FFE085",
             "color4": "FF7B98",
+            "color5": "FFBDE1",
             "order": 134,
             "regularCharacterGroupingIds": [
                 "grp-indonesia-gen_1"
@@ -1223,1048 +2017,10 @@
             "color2": "FAD443",
             "color3": "78DAE1",
             "color4": "8454EA",
+            "color5": "6342C5",
             "order": 135,
             "regularCharacterGroupingIds": [
                 "grp-indonesia-gen_1"
-            ]
-        }
-    },
-    {
-        "id": "chr-00009",
-        "data": {
-            "id": "chr-00009",
-            "nameLangId": "la-name-chr-00009",
-            "shortNameLangId": "la-short_name-chr-00009",
-            "nameEng": "Murasaki Shion",
-            "shortNameEng": "Shion",
-            "characterProductionId": "prd-jp",
-            "defaultCostumeId": "cos-00009-nrml-0009-00",
-            "defaultSdCostumeId": "sdcos-00009-nrml-0009-00",
-            "birthMonth": 12,
-            "birthDay": 8,
-            "debutYear": 2018,
-            "debutMonth": 8,
-            "debutDay": 17,
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_CUTE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "assetId": "00009",
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-00009"
-            ],
-            "color1": "BF57ED",
-            "color2": "716EFF",
-            "color3": "BFDD00",
-            "color4": "8727B1",
-            "order": 110,
-            "regularCharacterGroupingIds": [
-                "grp-gen_2"
-            ]
-        }
-    },
-    {
-        "id": "chr-03003",
-        "data": {
-            "id": "chr-03003",
-            "nameLangId": "la-name-chr-03003",
-            "shortNameLangId": "la-short_name-chr-03003",
-            "nameEng": "Airani Iofifteen",
-            "shortNameEng": "Iofi",
-            "characterProductionId": "prd-id",
-            "defaultCostumeId": "cos-03003-nrml-0035-00",
-            "defaultSdCostumeId": "sdcos-03003-nrml-0035-00",
-            "birthMonth": 7,
-            "birthDay": 15,
-            "debutYear": 2020,
-            "debutMonth": 4,
-            "debutDay": 12,
-            "fanNameLangId": "la-fan_name-chr-03003",
-            "descriptionLangId": "la-chara_intro-03003",
-            "commentLangId": "la-chara_comment-03003",
-            "youtubeUrl": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg?sub_confirmation=1",
-            "xUrl": "https://twitter.com/airaniiofifteen",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "isPlayable": true,
-            "assetId": "03003",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-002",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-03003",
-            "bgmAssetId": "bgm_chr_profile_03003",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-03003",
-            "regularCharacterGroupingNameEng": "hololive ID 1st Generation",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-03003"
-            ],
-            "color1": "9CDF36",
-            "color2": "FDA2BB",
-            "color3": "61D7E4",
-            "color4": "88D414",
-            "order": 136,
-            "regularCharacterGroupingIds": [
-                "grp-indonesia-gen_1"
-            ]
-        }
-    },
-    {
-        "id": "chr-03004",
-        "data": {
-            "id": "chr-03004",
-            "nameLangId": "la-name-chr-03004",
-            "shortNameLangId": "la-short_name-chr-03004",
-            "nameEng": "Kureiji Ollie",
-            "shortNameEng": "Ollie",
-            "characterProductionId": "prd-id",
-            "defaultCostumeId": "cos-03004-nrml-0036-00",
-            "defaultSdCostumeId": "sdcos-03004-nrml-0036-00",
-            "birthMonth": 10,
-            "birthDay": 13,
-            "debutYear": 2020,
-            "debutMonth": 12,
-            "debutDay": 4,
-            "fanNameLangId": "la-fan_name-chr-03004",
-            "descriptionLangId": "la-chara_intro-03004",
-            "commentLangId": "la-chara_comment-03004",
-            "youtubeUrl": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-            "xUrl": "https://twitter.com/kureijiollie",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "isPlayable": true,
-            "assetId": "03004",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-003",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-03004",
-            "bgmAssetId": "bgm_chr_profile_03004",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-03004",
-            "regularCharacterGroupingNameEng": "hololive ID 2nd Generation",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-03004"
-            ],
-            "color1": "C40041",
-            "color2": "394452",
-            "color3": "FF85AB",
-            "color4": "A10036",
-            "order": 137,
-            "regularCharacterGroupingIds": [
-                "grp-indonesia-gen_2"
-            ]
-        }
-    },
-    {
-        "id": "chr-03005",
-        "data": {
-            "id": "chr-03005",
-            "nameLangId": "la-name-chr-03005",
-            "shortNameLangId": "la-short_name-chr-03005",
-            "nameEng": "Anya Melfissa",
-            "shortNameEng": "Anya",
-            "characterProductionId": "prd-id",
-            "defaultCostumeId": "cos-03005-nrml-0037-00",
-            "defaultSdCostumeId": "sdcos-03005-nrml-0037-00",
-            "birthMonth": 3,
-            "birthDay": 12,
-            "debutYear": 2020,
-            "debutMonth": 12,
-            "debutDay": 5,
-            "fanNameLangId": "la-fan_name-chr-03005",
-            "descriptionLangId": "la-chara_intro-03005",
-            "commentLangId": "la-chara_comment-03005",
-            "youtubeUrl": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg/featured",
-            "xUrl": "https://twitter.com/anyamelfissa",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "isPlayable": true,
-            "assetId": "03005",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-004",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-03005",
-            "bgmAssetId": "bgm_chr_profile_03005",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-03005",
-            "regularCharacterGroupingNameEng": "hololive ID 2nd Generation",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-03005"
-            ],
-            "color1": "F3BF41",
-            "color2": "B3906F",
-            "color3": "7E5B5A",
-            "color4": "FFB400",
-            "order": 138,
-            "regularCharacterGroupingIds": [
-                "grp-indonesia-gen_2"
-            ]
-        }
-    },
-    {
-        "id": "chr-03009",
-        "data": {
-            "id": "chr-03009",
-            "nameLangId": "la-name-chr-03009",
-            "shortNameLangId": "la-short_name-chr-03009",
-            "nameEng": "Kobo Kanaeru",
-            "shortNameEng": "Kobo",
-            "characterProductionId": "prd-id",
-            "defaultCostumeId": "cos-03009-nrml-0041-00",
-            "defaultSdCostumeId": "sdcos-03009-nrml-0041-00",
-            "birthMonth": 12,
-            "birthDay": 12,
-            "debutYear": 2022,
-            "debutMonth": 3,
-            "debutDay": 27,
-            "fanNameLangId": "la-fan_name-chr-03009",
-            "descriptionLangId": "la-chara_intro-03009",
-            "commentLangId": "la-chara_comment-03009",
-            "youtubeUrl": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-            "xUrl": "https://twitter.com/kobokanaeru",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "isPlayable": true,
-            "assetId": "03009",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-004",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-03009",
-            "bgmAssetId": "bgm_chr_profile_03009",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-03009",
-            "regularCharacterGroupingNameEng": "hololive ID 3rd Generation",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-03009"
-            ],
-            "color1": "50CFE1",
-            "color2": "63668E",
-            "color3": "FF5559",
-            "color4": "00C0DC",
-            "order": 142,
-            "regularCharacterGroupingIds": [
-                "grp-indonesia-gen_3"
-            ]
-        }
-    },
-    {
-        "id": "chr-04001",
-        "data": {
-            "id": "chr-04001",
-            "nameLangId": "la-name-chr-04001",
-            "shortNameLangId": "la-short_name-chr-04001",
-            "nameEng": "Mori Calliope",
-            "shortNameEng": "Calliope",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04001-nrml-0042-00",
-            "defaultSdCostumeId": "sdcos-04001-nrml-0042-00",
-            "birthMonth": 4,
-            "birthDay": 4,
-            "debutYear": 2020,
-            "debutMonth": 9,
-            "debutDay": 12,
-            "fanNameLangId": "la-fan_name-chr-04001",
-            "descriptionLangId": "la-chara_intro-04001",
-            "commentLangId": "la-chara_comment-04001",
-            "youtubeUrl": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg?sub_confirmation=1",
-            "xUrl": "https://twitter.com/moricalliope",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_COOL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "isPlayable": true,
-            "assetId": "04001",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-001",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04001",
-            "bgmAssetId": "bgm_chr_profile_04001",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04001",
-            "regularCharacterGroupingNameEng": "hololive EN Myth",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04001"
-            ],
-            "color1": "E01C61",
-            "color2": "FF8EB8",
-            "color3": "4C3E46",
-            "color4": "AB003C",
-            "order": 143,
-            "regularCharacterGroupingIds": [
-                "grp-myth"
-            ]
-        }
-    },
-    {
-        "id": "chr-04002",
-        "data": {
-            "id": "chr-04002",
-            "nameLangId": "la-name-chr-04002",
-            "shortNameLangId": "la-short_name-chr-04002",
-            "nameEng": "Takanashi Kiara",
-            "shortNameEng": "Kiara",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04002-nrml-0043-00",
-            "defaultSdCostumeId": "sdcos-04002-nrml-0043-00",
-            "birthMonth": 7,
-            "birthDay": 6,
-            "debutYear": 2020,
-            "debutMonth": 9,
-            "debutDay": 12,
-            "fanNameLangId": "la-fan_name-chr-04002",
-            "descriptionLangId": "la-chara_intro-04002",
-            "commentLangId": "la-chara_comment-04002",
-            "youtubeUrl": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww?sub_confirmation=1",
-            "xUrl": "https://twitter.com/takanashikiara",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_SEXY",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "isPlayable": true,
-            "assetId": "04002",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-001",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04002",
-            "bgmAssetId": "bgm_chr_profile_04002",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04002",
-            "regularCharacterGroupingNameEng": "hololive EN Myth",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04002"
-            ],
-            "color1": "FF792E",
-            "color2": "38D2A8",
-            "color3": "273DCC",
-            "color4": "FF5723",
-            "order": 144,
-            "regularCharacterGroupingIds": [
-                "grp-myth"
-            ]
-        }
-    },
-    {
-        "id": "chr-04003",
-        "data": {
-            "id": "chr-04003",
-            "nameLangId": "la-name-chr-04003",
-            "shortNameLangId": "la-short_name-chr-04003",
-            "nameEng": "Ninomae Ina'nis",
-            "shortNameEng": "Ina'nis",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04003-nrml-0044-00",
-            "defaultSdCostumeId": "sdcos-04003-nrml-0044-00",
-            "birthMonth": 5,
-            "birthDay": 20,
-            "debutYear": 2020,
-            "debutMonth": 9,
-            "debutDay": 13,
-            "fanNameLangId": "la-fan_name-chr-04003",
-            "descriptionLangId": "la-chara_intro-04003",
-            "commentLangId": "la-chara_comment-04003",
-            "youtubeUrl": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg?sub_confirmation=1",
-            "xUrl": "https://twitter.com/ninomaeinanis",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_COOL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
-            "isPlayable": true,
-            "assetId": "04003",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-002",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04003",
-            "bgmAssetId": "bgm_chr_profile_04003",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04003",
-            "regularCharacterGroupingNameEng": "hololive EN Myth",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04003"
-            ],
-            "color1": "5D4E83",
-            "color2": "FF8D35",
-            "color3": "C884CE",
-            "color4": "3C3157",
-            "order": 145,
-            "regularCharacterGroupingIds": [
-                "grp-myth"
-            ]
-        }
-    },
-    {
-        "id": "chr-04004",
-        "data": {
-            "id": "chr-04004",
-            "nameLangId": "la-name-chr-04004",
-            "shortNameLangId": "la-short_name-chr-04004",
-            "nameEng": "Gawr Gura",
-            "shortNameEng": "Gura",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04004-nrml-0045-00",
-            "defaultSdCostumeId": "sdcos-04004-nrml-0045-00",
-            "birthMonth": 6,
-            "birthDay": 20,
-            "debutYear": 2020,
-            "debutMonth": 9,
-            "debutDay": 13,
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_CUTE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "assetId": "04004",
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04004"
-            ],
-            "color1": "5588FF",
-            "color2": "8AC7ED",
-            "color3": "EF4D55",
-            "color4": "2E63CB",
-            "order": 146,
-            "regularCharacterGroupingIds": [
-                "grp-myth"
-            ]
-        }
-    },
-    {
-        "id": "chr-04005",
-        "data": {
-            "id": "chr-04005",
-            "nameLangId": "la-name-chr-04005",
-            "shortNameLangId": "la-short_name-chr-04005",
-            "nameEng": "Watson Amelia",
-            "shortNameEng": "Amelia",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04005-nrml-0046-00",
-            "defaultSdCostumeId": "sdcos-04005-nrml-0046-00",
-            "birthMonth": 1,
-            "birthDay": 6,
-            "debutYear": 2020,
-            "debutMonth": 9,
-            "debutDay": 13,
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "assetId": "04005",
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04005"
-            ],
-            "color1": "F8DB92",
-            "color2": "7B4439",
-            "color3": "CBB097",
-            "color4": "E6B63F",
-            "order": 147,
-            "regularCharacterGroupingIds": [
-                "grp-myth"
-            ]
-        }
-    },
-    {
-        "id": "chr-04007",
-        "data": {
-            "id": "chr-04007",
-            "nameLangId": "la-name-chr-04007",
-            "shortNameLangId": "la-short_name-chr-04007",
-            "nameEng": "IRyS",
-            "shortNameEng": "IRyS",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04007-nrml-0047-00",
-            "defaultSdCostumeId": "sdcos-04007-nrml-0047-00",
-            "birthMonth": 3,
-            "birthDay": 7,
-            "debutYear": 2021,
-            "debutMonth": 7,
-            "debutDay": 11,
-            "fanNameLangId": "la-fan_name-chr-04007",
-            "descriptionLangId": "la-chara_intro-04007",
-            "commentLangId": "la-chara_comment-04007",
-            "youtubeUrl": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-            "xUrl": "https://twitter.com/irys_en",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_SEXY",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
-            "isPlayable": true,
-            "assetId": "04007",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-004",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04007",
-            "bgmAssetId": "bgm_chr_profile_04007",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04007",
-            "regularCharacterGroupingNameEng": "hololive EN Promise",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04007"
-            ],
-            "color1": "DF185D",
-            "color2": "60CED0",
-            "color3": "8E00AD",
-            "color4": "AB003B",
-            "order": 148,
-            "regularCharacterGroupingIds": [
-                "grp-promise"
-            ]
-        }
-    },
-    {
-        "id": "chr-04010",
-        "data": {
-            "id": "chr-04010",
-            "nameLangId": "la-name-chr-04010",
-            "shortNameLangId": "la-short_name-chr-04010",
-            "nameEng": "Ouro Kronii",
-            "shortNameEng": "Kronii",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04010-nrml-0049-00",
-            "defaultSdCostumeId": "sdcos-04010-nrml-0049-00",
-            "birthMonth": 3,
-            "birthDay": 14,
-            "debutYear": 2021,
-            "debutMonth": 8,
-            "debutDay": 23,
-            "fanNameLangId": "la-fan_name-chr-04010",
-            "descriptionLangId": "la-chara_intro-04010",
-            "commentLangId": "la-chara_comment-04010",
-            "youtubeUrl": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-            "xUrl": "https://twitter.com/ourokronii",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_COOL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "isPlayable": true,
-            "assetId": "04010",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-001",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04010",
-            "bgmAssetId": "bgm_chr_profile_04010",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04010",
-            "regularCharacterGroupingNameEng": "hololive EN Promise",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04010"
-            ],
-            "color1": "2221AA",
-            "color2": "DCB33E",
-            "color3": "8BD2F8",
-            "color4": "29297C",
-            "order": 150,
-            "regularCharacterGroupingIds": [
-                "grp-promise"
-            ]
-        }
-    },
-    {
-        "id": "chr-04011",
-        "data": {
-            "id": "chr-04011",
-            "nameLangId": "la-name-chr-04011",
-            "shortNameLangId": "la-short_name-chr-04011",
-            "nameEng": "Nanashi Mumei",
-            "shortNameEng": "Mumei",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04011-nrml-0050-00",
-            "defaultSdCostumeId": "sdcos-04011-nrml-0050-00",
-            "birthMonth": 8,
-            "birthDay": 4,
-            "debutYear": 2021,
-            "debutMonth": 8,
-            "debutDay": 23,
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "assetId": "04011",
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04011"
-            ],
-            "color1": "CCA495",
-            "color2": "41312D",
-            "color3": "44BBBB",
-            "color4": "906F62",
-            "order": 151,
-            "regularCharacterGroupingIds": [
-                "grp-promise"
-            ]
-        }
-    },
-    {
-        "id": "chr-04012",
-        "data": {
-            "id": "chr-04012",
-            "nameLangId": "la-name-chr-04012",
-            "shortNameLangId": "la-short_name-chr-04012",
-            "nameEng": "Hakos Baelz",
-            "shortNameEng": "Baelz",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04012-nrml-0051-00",
-            "defaultSdCostumeId": "sdcos-04012-nrml-0051-00",
-            "birthMonth": 2,
-            "birthDay": 29,
-            "debutYear": 2021,
-            "debutMonth": 8,
-            "debutDay": 23,
-            "fanNameLangId": "la-fan_name-chr-04012",
-            "descriptionLangId": "la-chara_intro-04012",
-            "commentLangId": "la-chara_comment-04012",
-            "youtubeUrl": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-            "xUrl": "https://twitter.com/hakosbaelz",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "isPlayable": true,
-            "assetId": "04012",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-002",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04012",
-            "bgmAssetId": "bgm_chr_profile_04012",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04012",
-            "regularCharacterGroupingNameEng": "hololive EN Promise",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04012"
-            ],
-            "color1": "EE2222",
-            "color2": "48D5C8",
-            "color3": "FFBD15",
-            "color4": "E00000",
-            "order": 152,
-            "regularCharacterGroupingIds": [
-                "grp-promise"
-            ]
-        }
-    },
-    {
-        "id": "chr-04013",
-        "data": {
-            "id": "chr-04013",
-            "nameLangId": "la-name-chr-04013",
-            "shortNameLangId": "la-short_name-chr-04013",
-            "nameEng": "Shiori Novella",
-            "shortNameEng": "Shiori",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04013-nrml-0052-00",
-            "defaultSdCostumeId": "sdcos-04013-nrml-0052-00",
-            "birthMonth": 5,
-            "birthDay": 2,
-            "debutYear": 2023,
-            "debutMonth": 7,
-            "debutDay": 30,
-            "fanNameLangId": "la-fan_name-chr-04013",
-            "descriptionLangId": "la-chara_intro-04013",
-            "commentLangId": "la-chara_comment-04013",
-            "youtubeUrl": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-            "xUrl": "https://twitter.com/shiorinovella",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
-            "isPlayable": true,
-            "assetId": "04013",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-003",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04013",
-            "bgmAssetId": "bgm_chr_profile_04013",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04013",
-            "regularCharacterGroupingNameEng": "hololive EN Advent",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04013"
-            ],
-            "color1": "C288F7",
-            "color2": "44445D",
-            "color3": "633CFF",
-            "color4": "9A43E9",
-            "order": 153,
-            "regularCharacterGroupingIds": [
-                "grp-advent"
-            ]
-        }
-    },
-    {
-        "id": "chr-04014",
-        "data": {
-            "id": "chr-04014",
-            "nameLangId": "la-name-chr-04014",
-            "shortNameLangId": "la-short_name-chr-04014",
-            "nameEng": "Koseki Bijou",
-            "shortNameEng": "Bijou",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04014-nrml-0053-00",
-            "defaultSdCostumeId": "sdcos-04014-nrml-0053-00",
-            "birthMonth": 4,
-            "birthDay": 14,
-            "debutYear": 2023,
-            "debutMonth": 7,
-            "debutDay": 30,
-            "fanNameLangId": "la-fan_name-chr-04014",
-            "descriptionLangId": "la-chara_intro-04014",
-            "commentLangId": "la-chara_comment-04014",
-            "youtubeUrl": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-            "xUrl": "https://twitter.com/kosekibijou",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "isPlayable": true,
-            "assetId": "04014",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-004",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04014",
-            "bgmAssetId": "bgm_chr_profile_04014",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04014",
-            "regularCharacterGroupingNameEng": "hololive EN Advent",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04014"
-            ],
-            "color1": "8674FF",
-            "color2": "FFA7CA",
-            "color3": "76D6D1",
-            "color4": "5137FF",
-            "order": 154,
-            "regularCharacterGroupingIds": [
-                "grp-advent"
-            ]
-        }
-    },
-    {
-        "id": "chr-04015",
-        "data": {
-            "id": "chr-04015",
-            "nameLangId": "la-name-chr-04015",
-            "shortNameLangId": "la-short_name-chr-04015",
-            "nameEng": "Nerissa Ravencroft",
-            "shortNameEng": "Nerissa",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04015-nrml-0054-00",
-            "defaultSdCostumeId": "sdcos-04015-nrml-0054-00",
-            "birthMonth": 11,
-            "birthDay": 21,
-            "debutYear": 2023,
-            "debutMonth": 7,
-            "debutDay": 31,
-            "fanNameLangId": "la-fan_name-chr-04015",
-            "descriptionLangId": "la-chara_intro-04015",
-            "commentLangId": "la-chara_comment-04015",
-            "youtubeUrl": "https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg",
-            "xUrl": "https://twitter.com/nerissa_en",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_SEXY",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
-            "isPlayable": true,
-            "assetId": "04015",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-001",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04015",
-            "bgmAssetId": "bgm_chr_profile_04015",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04015",
-            "regularCharacterGroupingNameEng": "hololive EN Advent",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04015"
-            ],
-            "color1": "3950EE",
-            "color2": "3F3D53",
-            "color3": "A5A5AC",
-            "color4": "152CC5",
-            "order": 155,
-            "regularCharacterGroupingIds": [
-                "grp-advent"
-            ]
-        }
-    },
-    {
-        "id": "chr-04016",
-        "data": {
-            "id": "chr-04016",
-            "nameLangId": "la-name-chr-04016",
-            "shortNameLangId": "la-short_name-chr-04016",
-            "nameEng": "Fuwawa Abyssgard",
-            "shortNameEng": "Fuwawa",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04016-nrml-0055-00",
-            "defaultSdCostumeId": "sdcos-04016-nrml-0055-00",
-            "birthMonth": 2,
-            "birthDay": 1,
-            "debutYear": 2023,
-            "debutMonth": 7,
-            "debutDay": 31,
-            "fanNameLangId": "la-fan_name-chr-04016",
-            "descriptionLangId": "la-chara_intro-04016",
-            "commentLangId": "la-chara_comment-04016",
-            "youtubeUrl": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-            "xUrl": "https://twitter.com/fuwamoco_en",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "isPlayable": true,
-            "assetId": "04016",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-002",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04016",
-            "bgmAssetId": "bgm_chr_profile_04016",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04016",
-            "regularCharacterGroupingNameEng": "hololive EN Advent",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04016"
-            ],
-            "color1": "80C2F8",
-            "color2": "F79BC2",
-            "color3": "AA87F5",
-            "color4": "33A1F0",
-            "order": 156,
-            "regularCharacterGroupingIds": [
-                "grp-advent"
-            ]
-        }
-    },
-    {
-        "id": "chr-04017",
-        "data": {
-            "id": "chr-04017",
-            "nameLangId": "la-name-chr-04017",
-            "shortNameLangId": "la-short_name-chr-04017",
-            "nameEng": "Mococo Abyssgard",
-            "shortNameEng": "Mococo",
-            "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04017-nrml-0056-00",
-            "defaultSdCostumeId": "sdcos-04017-nrml-0056-00",
-            "birthMonth": 2,
-            "birthDay": 2,
-            "debutYear": 2023,
-            "debutMonth": 7,
-            "debutDay": 31,
-            "fanNameLangId": "la-fan_name-chr-04017",
-            "descriptionLangId": "la-chara_intro-04017",
-            "commentLangId": "la-chara_comment-04017",
-            "youtubeUrl": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-            "xUrl": "https://twitter.com/fuwamoco_en",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "isPlayable": true,
-            "assetId": "04017",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-003",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-04017",
-            "bgmAssetId": "bgm_chr_profile_04017",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04017",
-            "regularCharacterGroupingNameEng": "hololive EN Advent",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-04017"
-            ],
-            "color1": "F79BC2",
-            "color2": "80C2F8",
-            "color3": "AA87F5",
-            "color4": "F168A1",
-            "order": 157,
-            "regularCharacterGroupingIds": [
-                "grp-advent"
-            ]
-        }
-    },
-    {
-        "id": "chr-06001",
-        "data": {
-            "id": "chr-06001",
-            "nameLangId": "la-name-chr-06001",
-            "shortNameLangId": "la-short_name-chr-06001",
-            "nameEng": "Hiodoshi Ao",
-            "shortNameEng": "Ao",
-            "characterProductionId": "prd-dev_is",
-            "defaultCostumeId": "cos-06001-nrml-0057-00",
-            "defaultSdCostumeId": "sdcos-06001-nrml-0057-00",
-            "birthMonth": 2,
-            "birthDay": 27,
-            "debutYear": 2023,
-            "debutMonth": 9,
-            "debutDay": 9,
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "assetId": "06001",
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-06001"
-            ],
-            "color1": "204596",
-            "color2": "88D3FD",
-            "color3": "3272FF",
-            "color4": "1E3566",
-            "order": 158,
-            "regularCharacterGroupingIds": [
-                "grp-regloss"
-            ]
-        }
-    },
-    {
-        "id": "chr-06002",
-        "data": {
-            "id": "chr-06002",
-            "nameLangId": "la-name-chr-06002",
-            "shortNameLangId": "la-short_name-chr-06002",
-            "nameEng": "Otonose Kanade",
-            "shortNameEng": "Kanade",
-            "characterProductionId": "prd-dev_is",
-            "defaultCostumeId": "cos-06002-nrml-0058-00",
-            "defaultSdCostumeId": "sdcos-06002-nrml-0058-00",
-            "birthMonth": 4,
-            "birthDay": 20,
-            "debutYear": 2023,
-            "debutMonth": 9,
-            "debutDay": 9,
-            "fanNameLangId": "la-fan_name-chr-06002",
-            "descriptionLangId": "la-chara_intro-06002",
-            "commentLangId": "la-chara_comment-06002",
-            "youtubeUrl": "https://www.youtube.com/@OtonoseKanade",
-            "xUrl": "https://x.com/otonosekanade",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_CUTE",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
-            "isPlayable": true,
-            "assetId": "06002",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-001",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-06002",
-            "bgmAssetId": "bgm_chr_profile_06002",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-06002",
-            "regularCharacterGroupingNameEng": "DEV_IS ReGLOSS",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-06002"
-            ],
-            "color1": "FFD380",
-            "color2": "FC8275",
-            "color3": "A1705C",
-            "color4": "FFBA35",
-            "order": 159,
-            "regularCharacterGroupingIds": [
-                "grp-regloss"
-            ]
-        }
-    },
-    {
-        "id": "chr-06003",
-        "data": {
-            "id": "chr-06003",
-            "nameLangId": "la-name-chr-06003",
-            "shortNameLangId": "la-short_name-chr-06003",
-            "nameEng": "Ichijou Ririka",
-            "shortNameEng": "Ririka",
-            "characterProductionId": "prd-dev_is",
-            "defaultCostumeId": "cos-06003-nrml-0059-00",
-            "defaultSdCostumeId": "sdcos-06003-nrml-0059-00",
-            "birthMonth": 5,
-            "birthDay": 12,
-            "debutYear": 2023,
-            "debutMonth": 9,
-            "debutDay": 9,
-            "fanNameLangId": "la-fan_name-chr-06003",
-            "descriptionLangId": "la-chara_intro-06003",
-            "commentLangId": "la-chara_comment-06003",
-            "youtubeUrl": "https://www.youtube.com/@IchijouRirika",
-            "xUrl": "https://x.com/ichijouririka",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_SEXY",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "isPlayable": true,
-            "assetId": "06003",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-002",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-06003",
-            "bgmAssetId": "bgm_chr_profile_06003",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-06003",
-            "regularCharacterGroupingNameEng": "DEV_IS ReGLOSS",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-06003"
-            ],
-            "color1": "FF77A9",
-            "color2": "9D8DFF",
-            "color3": "FFB6C8",
-            "color4": "F2558F",
-            "order": 160,
-            "regularCharacterGroupingIds": [
-                "grp-regloss"
-            ]
-        }
-    },
-    {
-        "id": "chr-06004",
-        "data": {
-            "id": "chr-06004",
-            "nameLangId": "la-name-chr-06004",
-            "shortNameLangId": "la-short_name-chr-06004",
-            "nameEng": "Juufuutei Raden",
-            "shortNameEng": "Raden",
-            "characterProductionId": "prd-dev_is",
-            "defaultCostumeId": "cos-06004-nrml-0060-00",
-            "defaultSdCostumeId": "sdcos-06004-nrml-0060-00",
-            "birthMonth": 2,
-            "birthDay": 4,
-            "debutYear": 2023,
-            "debutMonth": 9,
-            "debutDay": 10,
-            "fanNameLangId": "la-fan_name-chr-06004",
-            "descriptionLangId": "la-chara_intro-06004",
-            "commentLangId": "la-chara_comment-06004",
-            "youtubeUrl": "https://www.youtube.com/@JuufuuteiRaden",
-            "xUrl": "https://twitter.com/juufuuteiraden",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
-            "isPlayable": true,
-            "assetId": "06004",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-003",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-06004",
-            "bgmAssetId": "bgm_chr_profile_06004",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-06004",
-            "regularCharacterGroupingNameEng": "DEV_IS ReGLOSS",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-06004"
-            ],
-            "color1": "357B6C",
-            "color2": "D7845A",
-            "color3": "A32220",
-            "color4": "144F41",
-            "order": 161,
-            "regularCharacterGroupingIds": [
-                "grp-regloss"
-            ]
-        }
-    },
-    {
-        "id": "chr-06005",
-        "data": {
-            "id": "chr-06005",
-            "nameLangId": "la-name-chr-06005",
-            "shortNameLangId": "la-short_name-chr-06005",
-            "nameEng": "Todoroki Hajime",
-            "shortNameEng": "Hajime",
-            "characterProductionId": "prd-dev_is",
-            "defaultCostumeId": "cos-06005-nrml-0061-00",
-            "defaultSdCostumeId": "sdcos-06005-nrml-0061-00",
-            "birthMonth": 6,
-            "birthDay": 7,
-            "debutYear": 2023,
-            "debutMonth": 9,
-            "debutDay": 10,
-            "fanNameLangId": "la-fan_name-chr-06005",
-            "descriptionLangId": "la-chara_intro-06005",
-            "commentLangId": "la-chara_comment-06005",
-            "youtubeUrl": "https://www.youtube.com/@TodorokiHajime",
-            "xUrl": "https://twitter.com/todoroki_hajime",
-            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
-            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
-            "isPlayable": true,
-            "assetId": "06005",
-            "characterLevelGroupId": "level-group-1",
-            "skillTreeNodePositionGroupId": "tree-model-004",
-            "isTutorial": true,
-            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
-            "skillTreePointId": "skill_tree_point-chr-06005",
-            "bgmAssetId": "bgm_chr_profile_06005",
-            "regularCharacterGroupingNameLangId": "la-regular-grp-name-06005",
-            "regularCharacterGroupingNameEng": "DEV_IS ReGLOSS",
-            "searchKeywordLangIds": [
-                "la-search_keyword-chr-06005"
-            ],
-            "color1": "A4AAFF",
-            "color2": "DEC2A7",
-            "color3": "84D3FF",
-            "color4": "6D77FF",
-            "order": 162,
-            "regularCharacterGroupingIds": [
-                "grp-regloss"
             ]
         }
     },
@@ -2308,6 +2064,7 @@
             "color2": "FF85BC",
             "color3": "9956EF",
             "color4": "E72767",
+            "color5": "EA51AB",
             "order": 112,
             "regularCharacterGroupingIds": [
                 "grp-gen_2"
@@ -2354,6 +2111,7 @@
             "color2": "5CD0DC",
             "color3": "A3CC00",
             "color4": "DEC000",
+            "color5": "FFF000",
             "order": 113,
             "regularCharacterGroupingIds": [
                 "grp-gen_2"
@@ -2400,6 +2158,7 @@
             "color2": "9A70F3",
             "color3": "68C8CD",
             "color4": "C843E1",
+            "color5": "6342C5",
             "order": 115,
             "regularCharacterGroupingIds": [
                 "grp-gamers"
@@ -2446,6 +2205,7 @@
             "color2": "FF637C",
             "color3": "4BBED1",
             "color4": "FFBB00",
+            "color5": "FFF000",
             "order": 116,
             "regularCharacterGroupingIds": [
                 "grp-gamers"
@@ -2479,9 +2239,198 @@
             "color2": "2566E9",
             "color3": "DAC67C",
             "color4": "2BD2EA",
+            "color5": "8ECDD8",
             "order": 121,
             "regularCharacterGroupingIds": [
                 "grp-gen_4"
+            ]
+        }
+    },
+    {
+        "id": "chr-03003",
+        "data": {
+            "id": "chr-03003",
+            "nameLangId": "la-name-chr-03003",
+            "shortNameLangId": "la-short_name-chr-03003",
+            "nameEng": "Airani Iofifteen",
+            "shortNameEng": "Iofi",
+            "characterProductionId": "prd-id",
+            "defaultCostumeId": "cos-03003-nrml-0035-00",
+            "defaultSdCostumeId": "sdcos-03003-nrml-0035-00",
+            "birthMonth": 7,
+            "birthDay": 15,
+            "debutYear": 2020,
+            "debutMonth": 4,
+            "debutDay": 12,
+            "fanNameLangId": "la-fan_name-chr-03003",
+            "descriptionLangId": "la-chara_intro-03003",
+            "commentLangId": "la-chara_comment-03003",
+            "youtubeUrl": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg?sub_confirmation=1",
+            "xUrl": "https://twitter.com/airaniiofifteen",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "isPlayable": true,
+            "assetId": "03003",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-002",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-03003",
+            "bgmAssetId": "bgm_chr_profile_03003",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-03003",
+            "regularCharacterGroupingNameEng": "hololive ID 1st Generation",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-03003"
+            ],
+            "color1": "9CDF36",
+            "color2": "FDA2BB",
+            "color3": "61D7E4",
+            "color4": "88D414",
+            "color5": "018D39",
+            "order": 136,
+            "regularCharacterGroupingIds": [
+                "grp-indonesia-gen_1"
+            ]
+        }
+    },
+    {
+        "id": "chr-03004",
+        "data": {
+            "id": "chr-03004",
+            "nameLangId": "la-name-chr-03004",
+            "shortNameLangId": "la-short_name-chr-03004",
+            "nameEng": "Kureiji Ollie",
+            "shortNameEng": "Ollie",
+            "characterProductionId": "prd-id",
+            "defaultCostumeId": "cos-03004-nrml-0036-00",
+            "defaultSdCostumeId": "sdcos-03004-nrml-0036-00",
+            "birthMonth": 10,
+            "birthDay": 13,
+            "debutYear": 2020,
+            "debutMonth": 12,
+            "debutDay": 4,
+            "fanNameLangId": "la-fan_name-chr-03004",
+            "descriptionLangId": "la-chara_intro-03004",
+            "commentLangId": "la-chara_comment-03004",
+            "youtubeUrl": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+            "xUrl": "https://twitter.com/kureijiollie",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "isPlayable": true,
+            "assetId": "03004",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-003",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-03004",
+            "bgmAssetId": "bgm_chr_profile_03004",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-03004",
+            "regularCharacterGroupingNameEng": "hololive ID 2nd Generation",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-03004"
+            ],
+            "color1": "C40041",
+            "color2": "394452",
+            "color3": "FF85AB",
+            "color4": "A10036",
+            "color5": "FE0000",
+            "order": 137,
+            "regularCharacterGroupingIds": [
+                "grp-indonesia-gen_2"
+            ]
+        }
+    },
+    {
+        "id": "chr-03005",
+        "data": {
+            "id": "chr-03005",
+            "nameLangId": "la-name-chr-03005",
+            "shortNameLangId": "la-short_name-chr-03005",
+            "nameEng": "Anya Melfissa",
+            "shortNameEng": "Anya",
+            "characterProductionId": "prd-id",
+            "defaultCostumeId": "cos-03005-nrml-0037-00",
+            "defaultSdCostumeId": "sdcos-03005-nrml-0037-00",
+            "birthMonth": 3,
+            "birthDay": 12,
+            "debutYear": 2020,
+            "debutMonth": 12,
+            "debutDay": 5,
+            "fanNameLangId": "la-fan_name-chr-03005",
+            "descriptionLangId": "la-chara_intro-03005",
+            "commentLangId": "la-chara_comment-03005",
+            "youtubeUrl": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg/featured",
+            "xUrl": "https://twitter.com/anyamelfissa",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_NATURAL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "isPlayable": true,
+            "assetId": "03005",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-004",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-03005",
+            "bgmAssetId": "bgm_chr_profile_03005",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-03005",
+            "regularCharacterGroupingNameEng": "hololive ID 2nd Generation",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-03005"
+            ],
+            "color1": "F3BF41",
+            "color2": "B3906F",
+            "color3": "7E5B5A",
+            "color4": "FFB400",
+            "color5": "FFF000",
+            "order": 138,
+            "regularCharacterGroupingIds": [
+                "grp-indonesia-gen_2"
+            ]
+        }
+    },
+    {
+        "id": "chr-03009",
+        "data": {
+            "id": "chr-03009",
+            "nameLangId": "la-name-chr-03009",
+            "shortNameLangId": "la-short_name-chr-03009",
+            "nameEng": "Kobo Kanaeru",
+            "shortNameEng": "Kobo",
+            "characterProductionId": "prd-id",
+            "defaultCostumeId": "cos-03009-nrml-0041-00",
+            "defaultSdCostumeId": "sdcos-03009-nrml-0041-00",
+            "birthMonth": 12,
+            "birthDay": 12,
+            "debutYear": 2022,
+            "debutMonth": 3,
+            "debutDay": 27,
+            "fanNameLangId": "la-fan_name-chr-03009",
+            "descriptionLangId": "la-chara_intro-03009",
+            "commentLangId": "la-chara_comment-03009",
+            "youtubeUrl": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+            "xUrl": "https://twitter.com/kobokanaeru",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_ACTIVE",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "isPlayable": true,
+            "assetId": "03009",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-004",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-03009",
+            "bgmAssetId": "bgm_chr_profile_03009",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-03009",
+            "regularCharacterGroupingNameEng": "hololive ID 3rd Generation",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-03009"
+            ],
+            "color1": "50CFE1",
+            "color2": "63668E",
+            "color3": "FF5559",
+            "color4": "00C0DC",
+            "color5": "8ECDD8",
+            "order": 142,
+            "regularCharacterGroupingIds": [
+                "grp-indonesia-gen_3"
             ]
         }
     },
@@ -2525,6 +2474,7 @@
             "color2": "575769",
             "color3": "FFC232",
             "color4": "BD1616",
+            "color5": "018D39",
             "order": 114,
             "regularCharacterGroupingIds": [
                 "grp-gamers"
@@ -2571,6 +2521,7 @@
             "color2": "DD3654",
             "color3": "FFD64F",
             "color4": "FF5B70",
+            "color5": "FFBDE1",
             "order": 104,
             "regularCharacterGroupingIds": [
                 "grp-gen_0"
@@ -2617,6 +2568,7 @@
             "color2": "5AC6B6",
             "color3": "B47BE0",
             "color4": "003E9D",
+            "color5": "487DDB",
             "order": 139,
             "regularCharacterGroupingIds": [
                 "grp-indonesia-gen_2"
@@ -2663,6 +2615,7 @@
             "color2": "7E95ED",
             "color3": "525C86",
             "color4": "363449",
+            "color5": "FFFFFF",
             "order": 140,
             "regularCharacterGroupingIds": [
                 "grp-indonesia-gen_3"
@@ -2709,6 +2662,7 @@
             "color2": "54291A",
             "color3": "FFC942",
             "color4": "AB0B0F",
+            "color5": "FE0000",
             "order": 141,
             "regularCharacterGroupingIds": [
                 "grp-indonesia-gen_3"
@@ -2716,35 +2670,143 @@
         }
     },
     {
-        "id": "chr-04009",
+        "id": "chr-04001",
         "data": {
-            "id": "chr-04009",
-            "nameLangId": "la-name-chr-04009",
-            "shortNameLangId": "la-short_name-chr-04009",
-            "nameEng": "Ceres Fauna",
-            "shortNameEng": "Fauna",
+            "id": "chr-04001",
+            "nameLangId": "la-name-chr-04001",
+            "shortNameLangId": "la-short_name-chr-04001",
+            "nameEng": "Mori Calliope",
+            "shortNameEng": "Calliope",
             "characterProductionId": "prd-en",
-            "defaultCostumeId": "cos-04009-nrml-0048-00",
-            "defaultSdCostumeId": "sdcos-04009-nrml-0048-00",
-            "birthMonth": 3,
-            "birthDay": 21,
-            "debutYear": 2021,
-            "debutMonth": 8,
-            "debutDay": 23,
+            "defaultCostumeId": "cos-04001-nrml-0042-00",
+            "defaultSdCostumeId": "sdcos-04001-nrml-0042-00",
+            "birthMonth": 4,
+            "birthDay": 4,
+            "debutYear": 2020,
+            "debutMonth": 9,
+            "debutDay": 12,
+            "fanNameLangId": "la-fan_name-chr-04001",
+            "descriptionLangId": "la-chara_intro-04001",
+            "commentLangId": "la-chara_comment-04001",
+            "youtubeUrl": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg?sub_confirmation=1",
+            "xUrl": "https://twitter.com/moricalliope",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_COOL",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP000",
+            "isPlayable": true,
+            "assetId": "04001",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-001",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04001",
+            "bgmAssetId": "bgm_chr_profile_04001",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04001",
+            "regularCharacterGroupingNameEng": "hololive EN Myth",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04001"
+            ],
+            "color1": "E01C61",
+            "color2": "FF8EB8",
+            "color3": "4C3E46",
+            "color4": "AB003C",
+            "color5": "FFBDE1",
+            "order": 143,
+            "regularCharacterGroupingIds": [
+                "grp-myth"
+            ]
+        }
+    },
+    {
+        "id": "chr-04002",
+        "data": {
+            "id": "chr-04002",
+            "nameLangId": "la-name-chr-04002",
+            "shortNameLangId": "la-short_name-chr-04002",
+            "nameEng": "Takanashi Kiara",
+            "shortNameEng": "Kiara",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04002-nrml-0043-00",
+            "defaultSdCostumeId": "sdcos-04002-nrml-0043-00",
+            "birthMonth": 7,
+            "birthDay": 6,
+            "debutYear": 2020,
+            "debutMonth": 9,
+            "debutDay": 12,
+            "fanNameLangId": "la-fan_name-chr-04002",
+            "descriptionLangId": "la-chara_intro-04002",
+            "commentLangId": "la-chara_comment-04002",
+            "youtubeUrl": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww?sub_confirmation=1",
+            "xUrl": "https://twitter.com/takanashikiara",
+            "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_SEXY",
+            "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP001",
+            "isPlayable": true,
+            "assetId": "04002",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-001",
+            "isTutorial": true,
+            "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04002",
+            "bgmAssetId": "bgm_chr_profile_04002",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04002",
+            "regularCharacterGroupingNameEng": "hololive EN Myth",
+            "searchKeywordLangIds": [
+                "la-search_keyword-chr-04002"
+            ],
+            "color1": "FF792E",
+            "color2": "38D2A8",
+            "color3": "273DCC",
+            "color4": "FF5723",
+            "color5": "FFA401",
+            "order": 144,
+            "regularCharacterGroupingIds": [
+                "grp-myth"
+            ]
+        }
+    },
+    {
+        "id": "chr-04003",
+        "data": {
+            "id": "chr-04003",
+            "nameLangId": "la-name-chr-04003",
+            "shortNameLangId": "la-short_name-chr-04003",
+            "nameEng": "Ninomae Ina'nis",
+            "shortNameEng": "Ina'nis",
+            "characterProductionId": "prd-en",
+            "defaultCostumeId": "cos-04003-nrml-0044-00",
+            "defaultSdCostumeId": "sdcos-04003-nrml-0044-00",
+            "birthMonth": 5,
+            "birthDay": 20,
+            "debutYear": 2020,
+            "debutMonth": 9,
+            "debutDay": 13,
+            "fanNameLangId": "la-fan_name-chr-04003",
+            "descriptionLangId": "la-chara_intro-04003",
+            "commentLangId": "la-chara_comment-04003",
+            "youtubeUrl": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg?sub_confirmation=1",
+            "xUrl": "https://twitter.com/ninomaeinanis",
             "personalityType": "CharacterPersonalityType_CHARACTER_PERSONALITY_TYPE_COOL",
             "sdPersonalityType": "CharacterSdPersonalityType_CHARACTER_SD_PERSONALITY_TYPE_TYP002",
-            "assetId": "04009",
+            "isPlayable": true,
+            "assetId": "04003",
+            "characterLevelGroupId": "level-group-1",
+            "skillTreeNodePositionGroupId": "tree-model-002",
+            "isTutorial": true,
             "dominantHandType": "CharacterHandType_CHARACTER_HAND_TYPE_R",
+            "skillTreePointId": "skill_tree_point-chr-04003",
+            "bgmAssetId": "bgm_chr_profile_04003",
+            "regularCharacterGroupingNameLangId": "la-regular-grp-name-04003",
+            "regularCharacterGroupingNameEng": "hololive EN Myth",
             "searchKeywordLangIds": [
-                "la-search_keyword-chr-04009"
+                "la-search_keyword-chr-04003"
             ],
-            "color1": "B3DD8D",
-            "color2": "50D0B3",
-            "color3": "FE9591",
-            "color4": "79B257",
-            "order": 149,
+            "color1": "5D4E83",
+            "color2": "FF8D35",
+            "color3": "C884CE",
+            "color4": "3C3157",
+            "color5": "B16FD9",
+            "order": 145,
             "regularCharacterGroupingIds": [
-                "grp-promise"
+                "grp-myth"
             ]
         }
     }

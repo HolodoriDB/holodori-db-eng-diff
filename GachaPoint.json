@@ -78,5 +78,25 @@
             "exchangeBoothGroupId": "exchange_booth_group-gacha-pickup-260919",
             "order": 1
         }
+    },
+    {
+        "id": "gacha_point-area03-260929",
+        "data": {
+            "id": "gacha_point-area03-260929",
+            "nameLangId": "la-gacha_point-area03-260929",
+            "iconAssetId": "gacha-point-common-001",
+            "exchangeBoothGroupId": "exchange_booth_group-gacha-area03-260929",
+            "order": 1
+        }
+    },
+    {
+        "id": "gacha_point-pickup-260929",
+        "data": {
+            "id": "gacha_point-pickup-260929",
+            "nameLangId": "la-gacha_point-pickup-260929",
+            "iconAssetId": "gacha-point-common-001",
+            "exchangeBoothGroupId": "exchange_booth_group-gacha-pickup-260929",
+            "order": 1
+        }
     }
 ]

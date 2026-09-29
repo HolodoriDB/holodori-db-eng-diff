@@ -1106,6 +1106,20 @@
         }
     },
     {
+        "id": "la-help_category-help-game-8-text",
+        "data": {
+            "id": "la-help_category-help-game-8-text",
+            "text": "Splash Ball is an water-based Minigame where three teams of three players steer boats and work together to shoot the ball into the opposing teams' goals.\nThe game ends when either team reaches the target score, falls down to zero points, or the time limit is reached.\nRewards can be earned based on your personal score and team ranking.\nThe only Play Mode is Multiplayer, and you can play with up to 9 players.\n\nFor details on Splash Ball, please tap [?] in the TOP menu."
+        }
+    },
+    {
+        "id": "la-help_category-help-game-8-title",
+        "data": {
+            "id": "la-help_category-help-game-8-title",
+            "text": "Splash Ball"
+        }
+    },
+    {
         "id": "la-help_category-help-item-1-text",
         "data": {
             "id": "la-help_category-help-item-1-text",
@@ -1159,6 +1173,20 @@
         "data": {
             "id": "la-help_category-help-option-2-title",
             "text": "Live Options"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-3-text",
+        "data": {
+            "id": "la-help_category-help-option-3-text",
+            "text": "If the game is running slowly, lowering the quality settings may help reduce the load.\nHowever, if you set the quality below standard, the number of holomem appearing in the park may decrease. Please try different settings according to the game's performance to find your most comfortable way to play."
+        }
+    },
+    {
+        "id": "la-help_category-help-option-3-title",
+        "data": {
+            "id": "la-help_category-help-option-3-title",
+            "text": "About the quality settings"
         }
     },
     {
@@ -1229,6 +1257,34 @@
         "data": {
             "id": "la-help_category-help-park-13-title",
             "text": "Hidden Treasure"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-14-text",
+        "data": {
+            "id": "la-help_category-help-park-14-text",
+            "text": "At Soda Pop Lagoon, you can ride a boat and travel the sea.\nApproach the boat to embark.\nYou can disembark when you approach a spot where you can go ashore."
+        }
+    },
+    {
+        "id": "la-help_category-help-park-14-title",
+        "data": {
+            "id": "la-help_category-help-park-14-title",
+            "text": "Boat"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-15-text",
+        "data": {
+            "id": "la-help_category-help-park-15-text",
+            "text": "Fishing is a game you can play at specific locations at Soda Pop Lagoon.\nYou earn Soda Pop Coins depending on the type and size of the fish you catch.\nThe coins you earn can be exchanged for various items at the Ichijou VIP Lounge.\n\n▼How to Fish\nThe game begins when a fish bites the bait and you tap.\nUse the “Reel Button” displayed on the screen to pull in the fish.\n\n▽Control Basics\nPress and hold (or repeatedly tap) the Reel Button to raise the “Capture Bar” and release your finger to make it drop.\n\n▽Tips for Catching Fish\nThe “Fish Meter” fills up as you keep the Capture Bar aligned with the “Fish” moving up and down.\n\n▽Win or Lose\nYou win by filling up the Fish Meter and catching the fish.\nYou lose if the Fish Meter reaches 0 and the fish escapes.\n*Depending on the type of fish, movement and difficulty will vary.\n\n▼Fishing Spots\nYou can start fishing at fishing spots in Soda Pop Lagoon.\nThe types of fish vary depending on the fishing spot.\n\n▼Fishing Rod\nSpend Hologold to upgrade your fishing rod.\nUpgrading the fishing rod makes it easier to catch fish.\n\n▼Bait\nBait can be purchased at “Bae’s Bits & Bobs”.\nFish have bait preferences.\n*Bait is a consumable item. It is used when you catch or fail to catch a fish.\n\n▼Fish Guide\nFish you catch will be recorded in the “Fish Guide”.\nYou can view the guide by talking to the “holomem” at the fishing facility.\nYou can earn completion rewards for registering certain amounts of fish in the guide. "
+        }
+    },
+    {
+        "id": "la-help_category-help-park-15-title",
+        "data": {
+            "id": "la-help_category-help-park-15-title",
+            "text": "Fishing"
         }
     },
     {
@@ -1585,7 +1641,7 @@
         "id": "la-help_category-help-rhythm-2-text",
         "data": {
             "id": "la-help_category-help-rhythm-2-text",
-            "text": "A Unit is made up of a leader and five Members.\nYou can register up to 10 different Unit Setups per holomem.\n\nUnit Score is a parameter that serves as the metric for scores earned during Live.\nThe higher the Unit Score, the bigger increase of score that can be earned.\nUnit Score is determined by the leader's Outfit skills, and the Members' parameters, skills, and more."
+            "text": "A Unit is made up of a leader and five Members.\nYou can register up to 10 different Unit Setups per holomem.\n\nUnit Score is a parameter that serves as the metric for scores earned during Live.\nThe higher the Unit Score, the bigger increase of score that can be earned.\nUnit Score is determined by the leader's Outfit skills, and the Members' parameters, skills, and more.\n\n* Unit Score doesn’t just look at raw power; it also checks whether Active Skills are being triggered evenly across your unit. Depending on your lineup, unlocking \"Skill Activation Frequency UP\" on the Holomem Board may actually cause the value to decrease."
         }
     },
     {

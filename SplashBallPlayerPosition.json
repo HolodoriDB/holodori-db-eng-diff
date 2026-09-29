@@ -1,1 +1,212 @@
-[]
+[
+    {
+        "group_id": "position_group-normal",
+        "team_color": 3,
+        "number": 1,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_BLUE",
+            "number": 1,
+            "positionZ": 100
+        }
+    },
+    {
+        "group_id": "position_group-normal",
+        "team_color": 3,
+        "number": 2,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_BLUE",
+            "number": 2,
+            "positionX": -50,
+            "positionZ": 86.5
+        }
+    },
+    {
+        "group_id": "position_group-normal",
+        "team_color": 3,
+        "number": 3,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_BLUE",
+            "number": 3,
+            "positionX": 50,
+            "positionZ": 86.5
+        }
+    },
+    {
+        "group_id": "position_group-normal",
+        "team_color": 2,
+        "number": 1,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_PINK",
+            "number": 1,
+            "positionX": -86.5,
+            "positionZ": -50
+        }
+    },
+    {
+        "group_id": "position_group-normal",
+        "team_color": 2,
+        "number": 2,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_PINK",
+            "number": 2,
+            "positionX": -50,
+            "positionZ": -86.5
+        }
+    },
+    {
+        "group_id": "position_group-normal",
+        "team_color": 2,
+        "number": 3,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_PINK",
+            "number": 3,
+            "positionX": -100
+        }
+    },
+    {
+        "group_id": "position_group-normal",
+        "team_color": 1,
+        "number": 1,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_YELLOW",
+            "number": 1,
+            "positionX": 86.5,
+            "positionZ": -50
+        }
+    },
+    {
+        "group_id": "position_group-normal",
+        "team_color": 1,
+        "number": 2,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_YELLOW",
+            "number": 2,
+            "positionX": 100
+        }
+    },
+    {
+        "group_id": "position_group-normal",
+        "team_color": 1,
+        "number": 3,
+        "data": {
+            "groupId": "position_group-normal",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_YELLOW",
+            "number": 3,
+            "positionX": 50,
+            "positionZ": -86.5
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 3,
+        "number": 1,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_BLUE",
+            "number": 1,
+            "positionZ": 100
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 3,
+        "number": 2,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_BLUE",
+            "number": 2,
+            "positionX": -50,
+            "positionZ": 86.5
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 3,
+        "number": 3,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_BLUE",
+            "number": 3,
+            "positionX": 50,
+            "positionZ": 86.5
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 2,
+        "number": 1,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_PINK",
+            "number": 1,
+            "positionX": -86.5,
+            "positionZ": -50
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 2,
+        "number": 2,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_PINK",
+            "number": 2,
+            "positionX": -50,
+            "positionZ": -86.5
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 2,
+        "number": 3,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_PINK",
+            "number": 3,
+            "positionX": -100
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 1,
+        "number": 1,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_YELLOW",
+            "number": 1,
+            "positionX": 86.5,
+            "positionZ": -50
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 1,
+        "number": 2,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_YELLOW",
+            "number": 2,
+            "positionX": 100
+        }
+    },
+    {
+        "group_id": "position_group-quest",
+        "team_color": 1,
+        "number": 3,
+        "data": {
+            "groupId": "position_group-quest",
+            "teamColor": "SplashBallTeamColor_SPLASH_BALL_TEAM_COLOR_YELLOW",
+            "number": 3,
+            "positionX": 50,
+            "positionZ": -86.5
+        }
+    }
+]

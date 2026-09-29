@@ -1,5 +1,445 @@
 [
     {
+        "group_id": "evaluation-rank_05_01-group_01",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "54000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_01",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "50500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_01",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "46500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_01",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_01",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "59000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_02",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "54000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_02",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "50500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_02",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "46500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_02",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_01-group_02",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_01-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "59000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_01",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "64000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_01",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "59000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_01",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "48000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_01",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_01",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "69500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_02",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "64000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_02",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "59000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_02",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "48000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_02",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_02-group_02",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_02-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "69500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_01",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "77500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_01",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "68500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_01",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "59000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_01",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_01",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "85000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_02",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "77500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_02",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "68500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_02",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "59000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_02",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_03-group_02",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_03-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "85000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_01",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "93000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_01",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "80500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_01",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "69500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_01",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_01",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "105000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_02",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "93000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_02",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "80500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_02",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "69500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_02",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_04-group_02",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_04-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "105000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_01",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "125500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_01",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "105000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_01",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "85000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_01",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_01",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_01",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "172000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_02",
+        "type": 4,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_A",
+            "threshold": "125500"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_02",
+        "type": 3,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_B",
+            "threshold": "105000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_02",
+        "type": 2,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_C",
+            "threshold": "85000"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_02",
+        "type": 1,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_D"
+        }
+    },
+    {
+        "group_id": "evaluation-rank_05_05-group_02",
+        "type": 5,
+        "data": {
+            "groupId": "evaluation-rank_05_05-group_02",
+            "type": "WorkEvaluationRankType_WORK_EVALUATION_RANK_TYPE_S",
+            "threshold": "172000"
+        }
+    },
+    {
         "group_id": "evaluation-rank_01_03_item-skill_tree_leader",
         "type": 2,
         "data": {

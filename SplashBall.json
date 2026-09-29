@@ -1,1 +1,31 @@
-[]
+[
+    {
+        "id": "splash_ball-normal",
+        "data": {
+            "id": "splash_ball-normal",
+            "playType": "SplashBallPlayType_SPLASH_BALL_PLAY_TYPE_NORMAL",
+            "splashBallTeamRankRewardGroupId": "team_rank_reward-normal",
+            "splashBallBallGroupId": "ball_group-normal",
+            "startSplashBallPlayerPositionGroupId": "position_group-normal",
+            "gameStartDisplayClearConditionLangId": "la-splash_ball-game_start_display_clear_condition-normal",
+            "gamePlayingDisplayClearConditionLangId": "la-splash_ball-game_playing_display_clear_condition-normal",
+            "mvpRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play"
+                }
+            ]
+        }
+    },
+    {
+        "id": "splash_ball-park_quest",
+        "data": {
+            "id": "splash_ball-park_quest",
+            "playType": "SplashBallPlayType_SPLASH_BALL_PLAY_TYPE_PARK_QUEST",
+            "splashBallBallGroupId": "ball_group-quest",
+            "startSplashBallPlayerPositionGroupId": "position_group-quest",
+            "gameStartDisplayClearConditionLangId": "la-splash_ball-game_start_display_clear_condition-quest",
+            "gamePlayingDisplayClearConditionLangId": "la-splash_ball-game_playing_display_clear_condition-quest"
+        }
+    }
+]

@@ -1,1 +1,73 @@
-[]
+[
+    {
+        "level": 1,
+        "data": {
+            "level": 1,
+            "nameLangId": "la-park_fishing_rod-01-name",
+            "assetId": "img_fishing_rod-01",
+            "descriptionLangId": "la-park_fishing_rod-01-description",
+            "unlockConditionGroupId": "cd-park_fishing_rod-01",
+            "captureBarLengthUp": 120
+        }
+    },
+    {
+        "level": 2,
+        "data": {
+            "level": 2,
+            "nameLangId": "la-park_fishing_rod-02-name",
+            "assetId": "img_fishing_rod-02",
+            "descriptionLangId": "la-park_fishing_rod-02-description",
+            "unlockConditionGroupId": "cd-park_fishing_rod-02",
+            "captureBarLengthUp": 150,
+            "iconSpeedChangeMillisecondUp": 2,
+            "progressMeterSpeedIncreaseUp": 50,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "level": 3,
+        "data": {
+            "level": 3,
+            "nameLangId": "la-park_fishing_rod-03-name",
+            "assetId": "img_fishing_rod-03",
+            "descriptionLangId": "la-park_fishing_rod-03-description",
+            "unlockConditionGroupId": "cd-park_fishing_rod-03",
+            "captureBarLengthUp": 225,
+            "iconSpeedChangeMillisecondUp": 5,
+            "progressMeterSpeedIncreaseUp": 100,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "25000"
+                }
+            ]
+        }
+    },
+    {
+        "level": 4,
+        "data": {
+            "level": 4,
+            "nameLangId": "la-park_fishing_rod-04-name",
+            "assetId": "img_fishing_rod-04",
+            "descriptionLangId": "la-park_fishing_rod-04-description",
+            "unlockConditionGroupId": "cd-park_fishing_rod-04",
+            "captureBarLengthUp": 300,
+            "iconSpeedChangeMillisecondUp": 10,
+            "progressMeterSpeedIncreaseUp": 150,
+            "consumptions": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "50000"
+                }
+            ]
+        }
+    }
+]

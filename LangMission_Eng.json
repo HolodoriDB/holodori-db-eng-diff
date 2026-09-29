@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-increment_park_fishing_fish_caught_count",
+        "data": {
+            "id": "la-increment_park_fishing_fish_caught_count",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
         "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
         "data": {
             "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
@@ -9744,6 +9751,76 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-description",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0028-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0028-description",
+            "text": "Catch a Gurnheart."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0029-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0029-description",
+            "text": "Catch a Mantacademic."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0030-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0030-description",
+            "text": "Catch a Ririprawn."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
+            "text": "Catch a Snowsea Angel."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0062-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0062-description",
+            "text": "Catch a Vixen Angelfish."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0063-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0063-description",
+            "text": "Catch a Beaked Jitterbug."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
+            "text": "Catch a Downpour Jawfish."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0095-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0095-description",
+            "text": "Catch an Angelrove Crab."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
+            "text": "Catch a Jester Frogfish."
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a01-area-description",
@@ -9772,6 +9849,13 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
+            "text": "Clear all the main area quests in Soda Pop Lagoon"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w1-01-24-description",
@@ -9786,6 +9870,13 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w3-01-15-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_quest_clear_count-quest-main-w3-01-15-description",
+            "text": "Complete Soda Pop Lagoon Main Quest EP 15."
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a01-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a01-description",
@@ -9797,6 +9888,13 @@
         "data": {
             "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a02-description",
             "text": "Obtain {0} Treasures."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a03-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_treasure_get_count-area_group-a03-description",
+            "text": "Obtain {0} Treasure(s)."
         }
     },
     {
@@ -10220,6 +10318,13 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_mini_game_play_count-splash_ball-description",
+            "text": "Play {0} times."
+        }
+    },
+    {
         "id": "la-mission-achievement-common-increment_multi_live_mvp_count-description",
         "data": {
             "id": "la-mission-achievement-common-increment_multi_live_mvp_count-description",
@@ -10245,6 +10350,27 @@
         "data": {
             "id": "la-mission-achievement-common-increment_music_creative_chart_live_clear_count-description",
             "text": "Clear {0} Created Chart(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_park_fishing_fish_caught_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_park_fishing_fish_caught_count-description",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-description",
+            "text": "{0} fish escaped."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-increment_park_fishing_fish_failed_count-name",
+            "text": "Master Feeder"
         }
     },
     {
@@ -10290,6 +10416,48 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-description",
+            "text": "Your team scores 0 point(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_cold_lose_count-name",
+            "text": "Someday...I’ll be a Striker..."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_defense_score-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_defense_score-description",
+            "text": "Earn {0} Defense Pt(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_goal_count-bonus-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_goal_count-bonus-description",
+            "text": "Get gold balls in {0} times."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_goal_score-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_goal_score-description",
+            "text": "Earn {0} Goal Pt(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_splash_ball_win_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_splash_ball_win_count-description",
+            "text": "Win {0} time(s)."
+        }
+    },
+    {
         "id": "la-mission-achievement-common-increment_work_finish_count-5-description",
         "data": {
             "id": "la-mission-achievement-common-increment_work_finish_count-5-description",
@@ -10301,6 +10469,286 @@
         "data": {
             "id": "la-mission-achievement-common-increment_work_finish_count-description",
             "text": "Complete Holowork tasks {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-description",
+            "text": "Strike a pose beneath the pile of stones on the arch-shaped island."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-arch_island_top-name",
+            "text": "Nature's Obstacle Course"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-description",
+            "text": "Become a buffed up merman"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beach_sand_muscle-name",
+            "text": "Beefcake on Sand"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-description",
+            "text": "Find an \"SOS\" written in the sand"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beach_sos-name",
+            "text": "Someone's Scribble"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-description",
+            "text": "Knock on the lighthouse door at Bokoboko Beacon 3 times and have a holomem respond."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-beacon_lighthouse-name",
+            "text": "Shadows Under the Lighthouse"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-description",
+            "text": "Release green gas from the valve at Koyo Lab Oceanic Branch."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-boatshop_experiment_failure-name",
+            "text": "Mid-experiment...?"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-description",
+            "text": "Sit down at the bench inside the southeastern cave"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_bench-name",
+            "text": "Secret Summer Retreat"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-description",
+            "text": "Strike a pose on the cliff beyond the western cave"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_exit_pose-name",
+            "text": "Break from Darkness"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-description",
+            "text": "Do some waterfall training in the northern cave"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cave_waterfall-name",
+            "text": "Clear Mind Waterfall Meditation"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-description",
+            "text": "Climb to the top of the eastern cliff"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cliff_top-name",
+            "text": "Peak Privilege"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-description",
+            "text": "Take a deep breath behind the northern cottage"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-cottage_cliff_yoga-name",
+            "text": "Northernmost Point Deep Breath"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-description",
+            "text": "Sit in a chair at Fish Blue."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-fishblue_vacances-name",
+            "text": "Enjoying Vacation"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-description",
+            "text": "Dive into the bed at POPOPO Happy Camp."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-glamping_bed-name",
+            "text": "We Have Closed Shop for the Day!"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-description",
+            "text": "Go to the deck behind the live stage"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-live_stage_backstage-name",
+            "text": "Sneaking into the Backstage!"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-description",
+            "text": "Relax with a drink in the deck chair at the observatory"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-observatory_deck_chair-name",
+            "text": "Moment of Elegance"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-description",
+            "text": "Knock on every door in the western villa area"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-residential_knock-name",
+            "text": "Anyone There?"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-description",
+            "text": "Sat and did flutter kicks by the pool at Ichijou VIP Lounge."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-resortshop_water-name",
+            "text": "Practicing Swimming"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-description",
+            "text": "Stroke Daifuku at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-snowdome_caress-name",
+            "text": "Looking Cold"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-description",
+            "text": "A cannonball hits the area near the Princess Marine Ship."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-station_ship_cannon-name",
+            "text": "Close Call"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-description",
+            "text": "Admire the waterfall in the eastern cave"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-waterfall_point-name",
+            "text": "Beyond Disembarking"
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-description",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-description",
+            "text": "Look at the rainbow on the pier at Upao Heaven."
+        }
+    },
+    {
+        "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-name",
+        "data": {
+            "id": "la-mission-achievement-increment_park_mission_action_count-watergun_rainbow-name",
+            "text": "Rainbow Bridge"
         }
     },
     {
@@ -10703,6 +11151,69 @@
         }
     },
     {
+        "id": "la-mission-event_mission-area03-release-260929-absolute_park_fishing_fish_unique_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-absolute_park_fishing_fish_unique_count",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_drop_item_get_count-area_group-a03",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_drop_item_get_count-area_group-a03",
+            "text": "Pick up {0} Hidden Treasure(s) at Soda Pop Lagoon."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_mission_clear_count-mission_grp-area03-release-260929",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_mission_clear_count-mission_grp-area03-release-260929",
+            "text": "Let’s complete all the Missions!"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_park_fishing_fish_caught_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_park_fishing_fish_caught_count",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_resource_get_count-item-item-mini_game_fishing_coin",
+            "text": "Earn {0} Soda Pop Coins."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_defense_score",
+            "text": "Earn {0} Defense Point(s) in Splash Ball."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_goal_count",
+            "text": "Score {0} time(s) in Splash Ball."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
+            "text": "Win a game of Splash Ball {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-area03-release-260929-increment_work_finish_count",
+            "text": "Complete Holowork tasks {0} time(s)."
+        }
+    },
+    {
         "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
         "data": {
             "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
@@ -10770,6 +11281,41 @@
         "data": {
             "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
             "text": "Complete Holowork tasks {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-absolute_card_level",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-absolute_card_level",
+            "text": "Increase a Member's Lv {0} times."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-absolute_live_clear_music_count",
+            "text": "Complete {0} different types of Lives."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-absolute_live_deck_evaluation_value",
+            "text": "Reach Unit Score {0}."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-absolute_park_quest_clear_count-quest-main-w1-02-12",
+            "text": "Complete Main Quest EP 12 at the Mega Sphere."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-comeback-260929-increment_mini_game_stamina_consumption",
+            "text": "Use a total of {0} Minigame Boost(s)."
         }
     },
     {
@@ -10878,6 +11424,13 @@
         }
     },
     {
+        "id": "la-mission-hidden-shop_consumption_item-pack-area03_clear-260929-name",
+        "data": {
+            "id": "la-mission-hidden-shop_consumption_item-pack-area03_clear-260929-name",
+            "text": "-"
+        }
+    },
+    {
         "id": "la-mission-marathon_event-live_clear_count",
         "data": {
             "id": "la-mission-marathon_event-live_clear_count",
@@ -10903,6 +11456,13 @@
         "data": {
             "id": "la-mission-marathon_event-live_stamina_consumption",
             "text": "Use a total of {0} Live Boost(s)."
+        }
+    },
+    {
+        "id": "la-mission-marathon_event-marathon_increment_resource_get_count",
+        "data": {
+            "id": "la-mission-marathon_event-marathon_increment_resource_get_count",
+            "text": "Earn {0} Event Badges."
         }
     },
     {
@@ -11277,6 +11837,90 @@
         }
     },
     {
+        "id": "la-mission-missionpass-261001-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_card_level_up_count-name",
+            "text": "Level up a Member {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_drop_item_get_count-name",
+            "text": "Pick up {0} Hidden Treasure(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_live_play_count-name",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_mini_game_play_count-name",
+            "text": "Play a Minigame {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_multi_live_play_count-name",
+            "text": "Play a Live Together {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_park_present_receive_count-name",
+            "text": "Receive presents from holomem {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_park_quest_clear_count-daily-name",
+            "text": "Complete {0} Daily Quest(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-daily-increment_work_start_count-name",
+            "text": "Start a Holowork task {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-season-absolute_park_fishing_fish_unique_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-season-absolute_park_fishing_fish_unique_count-name",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-season-absolute_park_quest_clear_count-quest-main-w1-03-15-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-season-absolute_park_quest_clear_count-quest-main-w1-03-15-name",
+            "text": "Complete Soda Pop Lagoon Main Quest EP 15."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-season-increment_mini_game_play_count-splash_ball-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-season-increment_mini_game_play_count-splash_ball-name",
+            "text": "Play a game of Splash Ball {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261001-season-increment_park_fishing_fish_caught_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261001-season-increment_park_fishing_fish_caught_count-name",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
         "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
         "data": {
             "id": "la-mission-missionpass-261001-weekly-increment_card_level_limit_break_count-name",
@@ -11550,6 +12194,132 @@
         }
     },
     {
+        "id": "la-mission-quest-area-a03-01-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-01-1-2-description",
+            "text": "Catch {0} ★2 or higher fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-01-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-01-1-2-name",
+            "text": "Catch {0} ★2 or higher fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-03-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-03-1-2-description",
+            "text": "Earn {0} at Soda Pop Coins"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-03-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-03-1-2-name",
+            "text": "Earn {0} at Soda Pop Coins"
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-04-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-04-1-2-description",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-04-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-04-1-2-name",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-07-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-07-1-2-description",
+            "text": "Unlock {0} holomem Boards."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-07-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-07-1-2-name",
+            "text": "Unlock {0} holomem Boards."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-09-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-09-1-2-description",
+            "text": "Catch {0} ★4 or higher fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-09-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-09-1-2-name",
+            "text": "Catch {0} ★4 or higher fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-11-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-11-1-2-description",
+            "text": "Catch {0} ★5 fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-11-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-11-1-2-name",
+            "text": "Catch {0} ★5 fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-13-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-13-1-2-description",
+            "text": "Catch {0} fish late at night."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-13-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-13-1-2-name",
+            "text": "Catch {0} fish late at night."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-14-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-14-1-2-description",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-14-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-14-1-2-name",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-16-1-2-description",
+        "data": {
+            "id": "la-mission-quest-area-a03-16-1-2-description",
+            "text": "Train a Member up to Stage {0}."
+        }
+    },
+    {
+        "id": "la-mission-quest-area-a03-16-1-2-name",
+        "data": {
+            "id": "la-mission-quest-area-a03-16-1-2-name",
+            "text": "Train a Member up to Stage {0}."
+        }
+    },
+    {
         "id": "la-mission-quest-daily-mini_game_bet_coin-description",
         "data": {
             "id": "la-mission-quest-daily-mini_game_bet_coin-description",
@@ -11561,6 +12331,20 @@
         "data": {
             "id": "la-mission-quest-daily-mini_game_bet_coin-name",
             "text": "Obtain {0} Mega Sphere Coins."
+        }
+    },
+    {
+        "id": "la-mission-quest-daily-mini_game_fishing_coin-description",
+        "data": {
+            "id": "la-mission-quest-daily-mini_game_fishing_coin-description",
+            "text": "Earn {0} at Soda Pop Coins"
+        }
+    },
+    {
+        "id": "la-mission-quest-daily-mini_game_fishing_coin-name",
+        "data": {
+            "id": "la-mission-quest-daily-mini_game_fishing_coin-name",
+            "text": "Earn {0} at Soda Pop Coins"
         }
     },
     {
@@ -11659,6 +12443,118 @@
         "data": {
             "id": "la-mission-quest-main-w1-02-06-1-07-name",
             "text": "Take a Mega Puri 1 time."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-04-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-04-description",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-04-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-04-name",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-07-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-07-description",
+            "text": "Make an Exchange {0} time(s) at Bae’s Bits & Bobs."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-07-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-07-name",
+            "text": "Make an Exchange {0} time(s) at Bae’s Bits & Bobs."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-08-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-08-description",
+            "text": "Catch {0} fish at Fish Blue."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-03-1-08-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-03-1-08-name",
+            "text": "Catch {0} fish at Fish Blue."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-04-1-03-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-04-1-03-description",
+            "text": "Make an Exchange {0} time(s) at Ichijou VIP Lounge."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-04-1-03-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-04-1-03-name",
+            "text": "Make an Exchange {0} time(s) at Ichijou VIP Lounge."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-07-1-03-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-07-1-03-description",
+            "text": "Catch {0} fish at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-07-1-03-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-07-1-03-name",
+            "text": "Catch {0} fish at Lamy's Snow Dome."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-10-1-03-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-10-1-03-description",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-10-1-03-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-10-1-03-name",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-10-1-05-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-10-1-05-description",
+            "text": "Catch {0} ★2 or higher fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-10-1-05-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-10-1-05-name",
+            "text": "Catch {0} ★2 or higher fish."
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-12-1-04-description",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-12-1-04-description",
+            "text": "Catch {0} fish at Bokoboko Beacon"
+        }
+    },
+    {
+        "id": "la-mission-quest-main-w1-03-12-1-04-name",
+        "data": {
+            "id": "la-mission-quest-main-w1-03-12-1-04-name",
+            "text": "Catch {0} fish at Bokoboko Beacon"
         }
     }
 ]

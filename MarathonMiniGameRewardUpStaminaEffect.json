@@ -106,5 +106,32 @@
             "consumptionRate": 3,
             "marathonScoreProvideCount": 15
         }
+    },
+    {
+        "mini_game_type": 6,
+        "consumption_rate": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SPLASH_BALL",
+            "consumptionRate": 1,
+            "marathonScoreProvideCount": 6
+        }
+    },
+    {
+        "mini_game_type": 6,
+        "consumption_rate": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SPLASH_BALL",
+            "consumptionRate": 2,
+            "marathonScoreProvideCount": 11
+        }
+    },
+    {
+        "mini_game_type": 6,
+        "consumption_rate": 3,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SPLASH_BALL",
+            "consumptionRate": 3,
+            "marathonScoreProvideCount": 15
+        }
     }
 ]

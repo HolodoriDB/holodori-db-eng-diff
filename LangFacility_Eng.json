@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-empty",
+        "data": {
+            "id": "la-empty",
+            "text": "-"
+        }
+    },
+    {
         "id": "la-facility-a01-athletic-description",
         "data": {
             "id": "la-facility-a01-athletic-description",
@@ -143,14 +150,14 @@
         "id": "la-facility-a01-gate3-description",
         "data": {
             "id": "la-facility-a01-gate3-description",
-            "text": "-"
+            "text": "Gate leading to Soda Pop Lagoon"
         }
     },
     {
         "id": "la-facility-a01-gate3-name",
         "data": {
             "id": "la-facility-a01-gate3-name",
-            "text": "-"
+            "text": "Soda Pop Lagoon Gate"
         }
     },
     {
@@ -711,6 +718,249 @@
         "data": {
             "id": "la-facility-a02-station-name",
             "text": "Mega Coaster"
+        }
+    },
+    {
+        "id": "la-facility-a03-boatshop-description",
+        "data": {
+            "id": "la-facility-a03-boatshop-description",
+            "text": "Koyori's Boat Remodel Facility\nMake your beloved boat as fast as it can be!"
+        }
+    },
+    {
+        "id": "la-facility-a03-boatshop-name",
+        "data": {
+            "id": "la-facility-a03-boatshop-name",
+            "text": "Koyo Lab Oceanic Branch"
+        }
+    },
+    {
+        "id": "la-facility-a03-entrance-description",
+        "data": {
+            "id": "la-facility-a03-entrance-description",
+            "text": "An open gateway to the sea.\nThe ever-bustling face of a beautiful seaside city."
+        }
+    },
+    {
+        "id": "la-facility-a03-entrance-name",
+        "data": {
+            "id": "la-facility-a03-entrance-name",
+            "text": "Soda Pop Lagoon Entrance"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond1-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond1-description",
+            "text": "A calm blue sea area.\r\nThe beautiful water surface makes for an excellent fishing spot."
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond1-name",
+        "data": {
+            "id": "la-facility-a03-fishingpond1-name",
+            "text": "Fish Blue"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond2-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond2-description",
+            "text": "Lamy's snow-covered fishing spot.\nEnjoy the scenery while reeling in a big catch."
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond2-name",
+        "data": {
+            "id": "la-facility-a03-fishingpond2-name",
+            "text": "Lamy's Snow Dome"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond3-description",
+        "data": {
+            "id": "la-facility-a03-fishingpond3-description",
+            "text": "Kobo’s fishing spot where the white waves stand out.\nReel in the strong catches that gather here."
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingpond3-name",
+        "data": {
+            "id": "la-facility-a03-fishingpond3-name",
+            "text": "Bokoboko Beacon"
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingshop-description",
+        "data": {
+            "id": "la-facility-a03-fishingshop-description",
+            "text": "Hakos’ fishing shop stocks a variety of bait.\nCoins improve your fishing skills."
+        }
+    },
+    {
+        "id": "la-facility-a03-fishingshop-name",
+        "data": {
+            "id": "la-facility-a03-fishingshop-name",
+            "text": "Bae’s Bits & Bobs"
+        }
+    },
+    {
+        "id": "la-facility-a03-glamping-description",
+        "data": {
+            "id": "la-facility-a03-glamping-description",
+            "text": "Polka’s campsite, a hidden gem in the area.\nThe BBQ you enjoy here is a sublime experience."
+        }
+    },
+    {
+        "id": "la-facility-a03-glamping-name",
+        "data": {
+            "id": "la-facility-a03-glamping-name",
+            "text": "POPOPO Happy Camp"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandlarge1-name",
+        "data": {
+            "id": "la-facility-a03-islandlarge1-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandlarge2-name",
+        "data": {
+            "id": "la-facility-a03-islandlarge2-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandmiddle1-name",
+        "data": {
+            "id": "la-facility-a03-islandmiddle1-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandmiddle2-name",
+        "data": {
+            "id": "la-facility-a03-islandmiddle2-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandmiddle3-name",
+        "data": {
+            "id": "la-facility-a03-islandmiddle3-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandsmall1-name",
+        "data": {
+            "id": "la-facility-a03-islandsmall1-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandsmall2-name",
+        "data": {
+            "id": "la-facility-a03-islandsmall2-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandsmall3-name",
+        "data": {
+            "id": "la-facility-a03-islandsmall3-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-islandsmall4-name",
+        "data": {
+            "id": "la-facility-a03-islandsmall4-name"
+        }
+    },
+    {
+        "id": "la-facility-a03-livestage-description",
+        "data": {
+            "id": "la-facility-a03-livestage-description",
+            "text": "A Live Stage with a pleasant sea breeze.\nSongs echo along with the sound of the waves."
+        }
+    },
+    {
+        "id": "la-facility-a03-livestage-name",
+        "data": {
+            "id": "la-facility-a03-livestage-name",
+            "text": "Soda Pop Lagoon Stage"
+        }
+    },
+    {
+        "id": "la-facility-a03-name",
+        "data": {
+            "id": "la-facility-a03-name",
+            "text": "At Sea"
+        }
+    },
+    {
+        "id": "la-facility-a03-resortshop-description",
+        "data": {
+            "id": "la-facility-a03-resortshop-description",
+            "text": "Ririka's exchange, honoring anglers.\nShining coins are transformed into dream treasures."
+        }
+    },
+    {
+        "id": "la-facility-a03-resortshop-name",
+        "data": {
+            "id": "la-facility-a03-resortshop-name",
+            "text": "Ichijou VIP Lounge"
+        }
+    },
+    {
+        "id": "la-facility-a03-stadium-description",
+        "data": {
+            "id": "la-facility-a03-stadium-description",
+            "text": "A ball sports facility that turns the ocean surface into a playing field.\nControl the waves and aim for a victory goal."
+        }
+    },
+    {
+        "id": "la-facility-a03-stadium-name",
+        "data": {
+            "id": "la-facility-a03-stadium-name",
+            "text": "Splash Stadium"
+        }
+    },
+    {
+        "id": "la-facility-a03-station-description",
+        "data": {
+            "id": "la-facility-a03-station-description",
+            "text": "Marine’s rest area on the shoreline where you can take a break while listening to the sound of the waves."
+        }
+    },
+    {
+        "id": "la-facility-a03-station-name",
+        "data": {
+            "id": "la-facility-a03-station-name",
+            "text": "Princess Marine Ship"
+        }
+    },
+    {
+        "id": "la-facility-a03-watergun-description",
+        "data": {
+            "id": "la-facility-a03-watergun-description",
+            "text": "Kanata's Live merch specialty store.\nHead to the Live with a popular water gun in hand!"
+        }
+    },
+    {
+        "id": "la-facility-a03-watergun-name",
+        "data": {
+            "id": "la-facility-a03-watergun-name",
+            "text": "Upao Heaven"
+        }
+    },
+    {
+        "id": "la-facility-a03-whale-description",
+        "data": {
+            "id": "la-facility-a03-whale-description",
+            "text": "A gigantic whale that roams the waters. A perfect spot for photographing its massive body."
+        }
+    },
+    {
+        "id": "la-facility-a03-whale-name",
+        "data": {
+            "id": "la-facility-a03-whale-name",
+            "text": "Whale"
         }
     },
     {

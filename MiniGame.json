@@ -94,5 +94,24 @@
             "multiGameTopTipsId": "tips-game_screen-chase",
             "order": 5
         }
+    },
+    {
+        "type": 6,
+        "data": {
+            "type": "MiniGameType_MINI_GAME_TYPE_SPLASH_BALL",
+            "nameLangId": "la-mini_game-splash_ball-name",
+            "descriptionLangId": "la-mini_game-splash_ball-description",
+            "titleAssetId": "splashball",
+            "listAssetId": "splashball",
+            "parkActionType": "ParkActionType_PARK_ACTION_TYPE_MULTI_GAME_MINI_GAME",
+            "consumptionType": "MiniGameConsumptionType_MINI_GAME_CONSUMPTION_TYPE_REWARD_UP_STAMINA",
+            "characterDisplayType": "MiniGameCharacterDisplayType_MINI_GAME_CHARACTER_DISPLAY_TYPE_DISPLAY_3_D",
+            "isMultiGame": true,
+            "rankingViewDescriptionLangId": "la-mini_game-splash_ball-ranking_view_description_lang_id",
+            "rankingScoreTypeLangId": "la-mini_game-splash_ball-ranking_score_type_lang_id",
+            "miniGameTopTipsId": "tips-game_screen-splash_ball",
+            "multiGameTopTipsId": "tips-game_screen-splash_ball",
+            "order": 6
+        }
     }
 ]

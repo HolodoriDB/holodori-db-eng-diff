@@ -35,6 +35,48 @@
         }
     },
     {
+        "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+            "text": "Unlock by completing Main Quest \"Build Up! Fishing Point\""
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+            "text": "Unlock by completing Main Quest \"Build Up! Fishing Point\""
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+            "text": "Resets every month starting November"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+            "text": "Unlock by completing Main Quest \"Waterside Luxury Facility\""
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+            "text": "Unlock by completing Main Quest \"Waterside Luxury Facility\""
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+        "data": {
+            "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+            "text": "Unlock Requirement: Clear the Area Quest Shadow Feast, Fiery Chase."
+        }
+    },
+    {
         "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
         "data": {
             "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
@@ -123,6 +165,27 @@
         "data": {
             "id": "la-cd-marathon_event",
             "text": "Complete Main Quest Chapter 1, Episode 4 to unlock."
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-02",
+        "data": {
+            "id": "la-cd-park_fishing_rod-02",
+            "text": "Unlock Requirement: Complete Main Quest Chapter 3, Episode 5."
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-03",
+        "data": {
+            "id": "la-cd-park_fishing_rod-03",
+            "text": "Unlock Requirement: Catch 20 types of fish."
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-04",
+        "data": {
+            "id": "la-cd-park_fishing_rod-04",
+            "text": "Unlock Requirement: Catch 50 types of fish."
         }
     },
     {
@@ -571,6 +634,34 @@
         "data": {
             "id": "la-quest-main-w1-02-09-unlock-description",
             "text": "You can level up your Dream Rank\nby challenging area quests and Holomem Quests."
+        }
+    },
+    {
+        "id": "la-unlock-player_level-30",
+        "data": {
+            "id": "la-unlock-player_level-30",
+            "text": "Unlocked at Dream Rank 30."
+        }
+    },
+    {
+        "id": "la-unlock-player_level-34",
+        "data": {
+            "id": "la-unlock-player_level-34",
+            "text": "Unlocked at Dream Rank 34."
+        }
+    },
+    {
+        "id": "la-unlock-player_level-35",
+        "data": {
+            "id": "la-unlock-player_level-35",
+            "text": "Unlocked at Dream Rank 35."
+        }
+    },
+    {
+        "id": "la-unlock_description-quest_live_play",
+        "data": {
+            "id": "la-unlock_description-quest_live_play",
+            "text": "Complete Quests and play Live."
         }
     }
 ]

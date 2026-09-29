@@ -624,6 +624,282 @@
         }
     },
     {
+        "id": "perm-a03-fishingpond1",
+        "data": {
+            "id": "perm-a03-fishingpond1",
+            "parkTargetMappingId": "target_map-a03-fishingpond1",
+            "conditionGroupId": "cd-perm-a03-fishingpond1"
+        }
+    },
+    {
+        "id": "perm-a03-fishingpond1-fishing",
+        "data": {
+            "id": "perm-a03-fishingpond1-fishing",
+            "parkTargetMappingId": "target_map-a03-fishingpond1-fishing",
+            "conditionGroupId": "cd-perm-a03-fishingpond1-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-fishingpond1-open",
+        "data": {
+            "id": "perm-a03-fishingpond1-open",
+            "parkTargetMappingId": "target_map-a03-fishingpond1-open",
+            "conditionGroupId": "cd-perm-a03-park_open"
+        }
+    },
+    {
+        "id": "perm-a03-fishingpond2",
+        "data": {
+            "id": "perm-a03-fishingpond2",
+            "parkTargetMappingId": "target_map-a03-fishingpond2",
+            "conditionGroupId": "cd-perm-a03-fishingpond2"
+        }
+    },
+    {
+        "id": "perm-a03-fishingpond2-fishing",
+        "data": {
+            "id": "perm-a03-fishingpond2-fishing",
+            "parkTargetMappingId": "target_map-a03-fishingpond2-fishing",
+            "conditionGroupId": "cd-perm-a03-fishingpond2-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-fishingpond2-open",
+        "data": {
+            "id": "perm-a03-fishingpond2-open",
+            "parkTargetMappingId": "target_map-a03-fishingpond2-open",
+            "conditionGroupId": "cd-perm-a03-park_open"
+        }
+    },
+    {
+        "id": "perm-a03-fishingpond3",
+        "data": {
+            "id": "perm-a03-fishingpond3",
+            "parkTargetMappingId": "target_map-a03-fishingpond3",
+            "conditionGroupId": "cd-perm-a03-fishingpond3"
+        }
+    },
+    {
+        "id": "perm-a03-fishingpond3-fishing",
+        "data": {
+            "id": "perm-a03-fishingpond3-fishing",
+            "parkTargetMappingId": "target_map-a03-fishingpond3-fishing",
+            "conditionGroupId": "cd-perm-a03-fishingpond3-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-fishingpond3-open",
+        "data": {
+            "id": "perm-a03-fishingpond3-open",
+            "parkTargetMappingId": "target_map-a03-fishingpond3-open",
+            "conditionGroupId": "cd-perm-a03-park_open"
+        }
+    },
+    {
+        "id": "perm-a03-fishingshop",
+        "data": {
+            "id": "perm-a03-fishingshop",
+            "parkTargetMappingId": "target_map-a03-fishingshop",
+            "conditionGroupId": "cd-perm-a03-fishingshop",
+            "overrideFieldActionIconAssetId": "fishingshop"
+        }
+    },
+    {
+        "id": "perm-a03-fishingshop-open",
+        "data": {
+            "id": "perm-a03-fishingshop-open",
+            "parkTargetMappingId": "target_map-a03-fishingshop-open",
+            "conditionGroupId": "cd-perm-a03-fishingshop-open",
+            "overrideFieldActionIconAssetId": "fishingshop"
+        }
+    },
+    {
+        "id": "perm-a03-fishingshop-open-rod",
+        "data": {
+            "id": "perm-a03-fishingshop-open-rod",
+            "parkTargetMappingId": "target_map-a03-fishingshop-open",
+            "conditionGroupId": "cd-perm-a03-fishingshop-open-rod",
+            "overrideFieldActionIconAssetId": "fishingshop"
+        }
+    },
+    {
+        "id": "perm-a03-fishingshop-rod",
+        "data": {
+            "id": "perm-a03-fishingshop-rod",
+            "parkTargetMappingId": "target_map-a03-fishingshop",
+            "conditionGroupId": "cd-perm-a03-fishingshop-rod",
+            "overrideFieldActionIconAssetId": "fishingshop"
+        }
+    },
+    {
+        "id": "perm-a03-glamping",
+        "data": {
+            "id": "perm-a03-glamping",
+            "parkTargetMappingId": "target_map-a03-glamping",
+            "conditionGroupId": "cd-perm-a03-glamping"
+        }
+    },
+    {
+        "id": "perm-a03-glamping-open",
+        "data": {
+            "id": "perm-a03-glamping-open",
+            "parkTargetMappingId": "target_map-a03-glamping-open",
+            "conditionGroupId": "cd-perm-a03-park_open"
+        }
+    },
+    {
+        "id": "perm-a03-islandlarge1",
+        "data": {
+            "id": "perm-a03-islandlarge1",
+            "parkTargetMappingId": "target_map-a03-islandlarge1",
+            "conditionGroupId": "cd-perm-a03-fishingpond3-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-islandlarge2",
+        "data": {
+            "id": "perm-a03-islandlarge2",
+            "parkTargetMappingId": "target_map-a03-islandlarge2",
+            "conditionGroupId": "cd-perm-a03-fishingpond3-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-islandmiddle1",
+        "data": {
+            "id": "perm-a03-islandmiddle1",
+            "parkTargetMappingId": "target_map-a03-islandmiddle1",
+            "conditionGroupId": "cd-perm-a03-fishingpond1-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-islandmiddle2",
+        "data": {
+            "id": "perm-a03-islandmiddle2",
+            "parkTargetMappingId": "target_map-a03-islandmiddle2",
+            "conditionGroupId": "cd-perm-a03-fishingpond3-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-islandmiddle3",
+        "data": {
+            "id": "perm-a03-islandmiddle3",
+            "parkTargetMappingId": "target_map-a03-islandmiddle3",
+            "conditionGroupId": "cd-perm-a03-fishingpond3-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-islandsmall1",
+        "data": {
+            "id": "perm-a03-islandsmall1",
+            "parkTargetMappingId": "target_map-a03-islandsmall1",
+            "conditionGroupId": "cd-perm-a03-fishingpond1-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-islandsmall2",
+        "data": {
+            "id": "perm-a03-islandsmall2",
+            "parkTargetMappingId": "target_map-a03-islandsmall2",
+            "conditionGroupId": "cd-perm-a03-fishingpond1-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-islandsmall3",
+        "data": {
+            "id": "perm-a03-islandsmall3",
+            "parkTargetMappingId": "target_map-a03-islandsmall3",
+            "conditionGroupId": "cd-perm-a03-fishingpond2-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-islandsmall4",
+        "data": {
+            "id": "perm-a03-islandsmall4",
+            "parkTargetMappingId": "target_map-a03-islandsmall4",
+            "conditionGroupId": "cd-perm-a03-fishingpond2-fishing"
+        }
+    },
+    {
+        "id": "perm-a03-livestage",
+        "data": {
+            "id": "perm-a03-livestage",
+            "parkTargetMappingId": "target_map-a03-livestage",
+            "conditionGroupId": "cd-perm-a03-livestage"
+        }
+    },
+    {
+        "id": "perm-a03-livestage-open",
+        "data": {
+            "id": "perm-a03-livestage-open",
+            "parkTargetMappingId": "target_map-a03-livestage-open",
+            "conditionGroupId": "cd-perm-a03-park_open"
+        }
+    },
+    {
+        "id": "perm-a03-resortshop",
+        "data": {
+            "id": "perm-a03-resortshop",
+            "parkTargetMappingId": "target_map-a03-resortshop",
+            "conditionGroupId": "cd-perm-a03-resortshop"
+        }
+    },
+    {
+        "id": "perm-a03-resortshop-convert",
+        "data": {
+            "id": "perm-a03-resortshop-convert",
+            "parkTargetMappingId": "target_map-a03-resortshop",
+            "conditionGroupId": "cd-perm-a03-resortshop-convert"
+        }
+    },
+    {
+        "id": "perm-a03-resortshop-open",
+        "data": {
+            "id": "perm-a03-resortshop-open",
+            "parkTargetMappingId": "target_map-a03-resortshop-open",
+            "conditionGroupId": "cd-perm-a03-park_open"
+        }
+    },
+    {
+        "id": "perm-a03-stadium",
+        "data": {
+            "id": "perm-a03-stadium",
+            "parkTargetMappingId": "target_map-a03-stadium",
+            "conditionGroupId": "cd-perm-a03-stadium"
+        }
+    },
+    {
+        "id": "perm-a03-station",
+        "data": {
+            "id": "perm-a03-station",
+            "parkTargetMappingId": "target_map-a03-station",
+            "conditionGroupId": "cd-perm-a03-station"
+        }
+    },
+    {
+        "id": "perm-a03-station-open",
+        "data": {
+            "id": "perm-a03-station-open",
+            "parkTargetMappingId": "target_map-a03-station-open",
+            "conditionGroupId": "cd-perm-a03-park_open"
+        }
+    },
+    {
+        "id": "perm-a03-watergun",
+        "data": {
+            "id": "perm-a03-watergun",
+            "parkTargetMappingId": "target_map-a03-watergun",
+            "conditionGroupId": "cd-perm-a03-watergun"
+        }
+    },
+    {
+        "id": "perm-a03-watergun-open",
+        "data": {
+            "id": "perm-a03-watergun-open",
+            "parkTargetMappingId": "target_map-a03-watergun-open",
+            "conditionGroupId": "cd-perm-a03-park_open"
+        }
+    },
+    {
         "id": "perm-chr-00001",
         "data": {
             "id": "perm-chr-00001",
