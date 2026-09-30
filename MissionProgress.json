@@ -11475,14 +11475,6 @@
         }
     },
     {
-        "mission_id": "mission-quest-area-a03-16-1-2",
-        "threshold": 1,
-        "data": {
-            "missionId": "mission-quest-area-a03-16-1-2",
-            "threshold": "1"
-        }
-    },
-    {
         "mission_id": "mission-quest-daily-mini_game_fishing_coin",
         "threshold": 300,
         "data": {
@@ -11552,6 +11544,14 @@
         "data": {
             "missionId": "mission-quest-main-w1-03-12-1-04",
             "threshold": "3"
+        }
+    },
+    {
+        "mission_id": "mission-quest-area-a03-16-1-2",
+        "threshold": 4,
+        "data": {
+            "missionId": "mission-quest-area-a03-16-1-2",
+            "threshold": "4"
         }
     },
     {

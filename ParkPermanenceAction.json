@@ -398,16 +398,6 @@
         }
     },
     {
-        "park_permanence_id": "perm-a03-resortshop-open",
-        "action_number": 3,
-        "data": {
-            "parkPermanenceId": "perm-a03-resortshop-open",
-            "actionNumber": 3,
-            "descriptionLangId": "la-perm-a03-resortshop-description-2",
-            "type": "ParkActionType_PARK_ACTION_TYPE_TALK"
-        }
-    },
-    {
         "park_permanence_id": "perm-a03-resortshop",
         "action_number": 1,
         "data": {
@@ -467,6 +457,16 @@
             "type": "ParkActionType_PARK_ACTION_TYPE_CHARACTER_SHOP",
             "beforeParkTalkGroupId": "park_talk-perm-a03-watergun",
             "parkCharacterShopId": "park_character_shop-prop_watergun"
+        }
+    },
+    {
+        "park_permanence_id": "perm-a03-resortshop-open",
+        "action_number": 3,
+        "data": {
+            "parkPermanenceId": "perm-a03-resortshop-open",
+            "actionNumber": 3,
+            "descriptionLangId": "la-perm-a03-resortshop-description-3",
+            "type": "ParkActionType_PARK_ACTION_TYPE_TALK"
         }
     },
     {

@@ -2859,21 +2859,6 @@
         }
     },
     {
-        "id": "mission-quest-area-a03-16-1-2",
-        "data": {
-            "id": "mission-quest-area-a03-16-1-2",
-            "nameLangId": "la-mission-quest-area-a03-16-1-2-name",
-            "descriptionLangId": "la-mission-quest-area-a03-16-1-2-description",
-            "progressConditionGroupId": "cd-always-open",
-            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_PARK_QUEST",
-            "type": "MissionType_MISSION_TYPE_INCREMENT_CARD_LEVEL_LIMIT_BREAK_CARD_COUNT",
-            "targetIds1": [
-                "4"
-            ],
-            "order": 1
-        }
-    },
-    {
         "id": "mission-quest-daily-mini_game_fishing_coin",
         "data": {
             "id": "mission-quest-daily-mini_game_fishing_coin",
@@ -3057,6 +3042,17 @@
             "targetIds2": [
                 "park_fishing_spot-03-01"
             ],
+            "order": 1
+        }
+    },
+    {
+        "id": "mission-quest-area-a03-16-1-2",
+        "data": {
+            "id": "mission-quest-area-a03-16-1-2",
+            "nameLangId": "la-mission-quest-area-a03-16-1-2-name",
+            "descriptionLangId": "la-mission-quest-area-a03-16-1-2-description",
+            "categoryType": "MissionCategoryType_MISSION_CATEGORY_TYPE_PARK_QUEST",
+            "type": "MissionType_MISSION_TYPE_ABSOLUTE_CARD_LEVEL_LIMIT_BREAK",
             "order": 1
         }
     },
