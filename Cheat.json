@@ -787,49 +787,5 @@
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_PER_ELAPSED_TIME_ABNORMAL_MOVE_SPEED_DURATION_MILLISECONDS",
             "threshold": "4000"
         }
-    },
-    {
-        "type": 1600,
-        "severity_type": 1,
-        "parameter_type": 106003,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_COUNT",
-            "threshold": "3"
-        }
-    },
-    {
-        "type": 1600,
-        "severity_type": 1,
-        "parameter_type": 106002,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_MAX_PERMIL",
-            "threshold": "50000"
-        }
-    },
-    {
-        "type": 1600,
-        "severity_type": 1,
-        "parameter_type": 106001,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_COUNT",
-            "threshold": "3"
-        }
-    },
-    {
-        "type": 1600,
-        "severity_type": 1,
-        "parameter_type": 106000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_DISTANCE_PERMIL",
-            "threshold": "10000"
-        }
     }
 ]
