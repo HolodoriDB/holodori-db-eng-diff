@@ -326,6 +326,16 @@
         }
     },
     {
+        "id": "tips-hint-marathon_area",
+        "data": {
+            "id": "tips-hint-marathon_area",
+            "type": "TipsType_TIPS_TYPE_HINT",
+            "titleLangId": "la-tips-hint-marathon_nomal",
+            "hintType": "TipsHintType_TIPS_HINT_TYPE_EVENT_MARATHON_AREA",
+            "order": 1
+        }
+    },
+    {
         "id": "tips-achievement",
         "data": {
             "id": "tips-achievement",

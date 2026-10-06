@@ -7,6 +7,13 @@
         }
     },
     {
+        "id": "la-increment_splash_ball_play_count",
+        "data": {
+            "id": "la-increment_splash_ball_play_count",
+            "text": "Play a game of Splash Ball {0} time(s)."
+        }
+    },
+    {
         "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
         "data": {
             "id": "la-mission-achievement-chr-00001-absolute_card_get_unique_count-description",
@@ -11203,7 +11210,7 @@
         "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
         "data": {
             "id": "la-mission-event_mission-area03-release-260929-increment_splash_ball_win_count",
-            "text": "Win a game of Splash Ball {0} time(s)."
+            "text": "Play a game of Splash Ball {0} time(s)."
         }
     },
     {

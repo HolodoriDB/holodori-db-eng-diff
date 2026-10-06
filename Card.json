@@ -6392,6 +6392,141 @@
         }
     },
     {
+        "id": "card-00030-5-uniq-0089-00",
+        "data": {
+            "id": "card-00030-5-uniq-0089-00",
+            "characterId": "chr-00030",
+            "nameLangId": "la-card_flavor-00030-5-uniq-0089-00",
+            "rarity": "CardRarity_CARD_RARITY_RARITY_5",
+            "attributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "cardLevelGroupId": "grp-card-level-rarity_5-02",
+            "performancePermilMultiply": 294,
+            "techniquePermilMultiply": 400,
+            "sensePermilMultiply": 306,
+            "cardLevelLimitGroupId": "rarity_5-attribute_1",
+            "livePassiveSkillId": "live_passive_skill-card-00030-5-uniq-0089-00",
+            "liveActiveSkillId": "live_active_skill-card-00030-5-uniq-0089-00",
+            "liveSpecialSkillId": "live_special_skill-card-00030-5-uniq-0089-00",
+            "cardPotentialGroupId": "card_potential_grp-rarity_5",
+            "assetId": "00030-5-uniq-0089-00",
+            "liveSkillCharacterVoiceId": "cv-live_cmn_chr-00030_00030-5-uniq-0089-00_skill-card",
+            "skillTreeConnectEffectId": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-content_area-002-rare_5",
+            "rewardCostumeId": "cos-00030-uniq-0089-00",
+            "rewardSdCostumeId": "sdcos-00030-uniq-0089-00",
+            "assetType": "CardAssetType_CARD_ASSET_TYPE_IMAGE_AND_MOVIE",
+            "verticalAnchorType": "CardVerticalAnchorType_CARD_VERTICAL_ANCHOR_TYPE_CENTER",
+            "horizontalAnchorType": "CardHorizontalAnchorType_CARD_HORIZONTAL_ANCHOR_TYPE_RIGHT",
+            "gachaAnimationCharacterVoiceId": "cv-cmn_chr-00030_00030-5-uniq-0089-00_card-get",
+            "cardDetailCharacterVoiceId": "cv-cmn_chr-00030_00030-5-uniq-0089-00_card-detail",
+            "potentialUpgrade1CharacterVoiceId": "cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-01",
+            "potentialUpgrade2CharacterVoiceId": "cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-02",
+            "potentialUpgrade3CharacterVoiceId": "cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-03",
+            "potentialUpgrade4CharacterVoiceId": "cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-04",
+            "potentialUpgrade5CharacterVoiceId": "cv-cmn_chr-00030_00030-5-uniq-0089-00_card-potential-05",
+            "order": 190,
+            "potentialAlternativeReward": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-gacha-sp_sticker-01",
+                "quantity": "100"
+            },
+            "acquireReward": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-gacha-sp_sticker-01",
+                "quantity": "30"
+            }
+        }
+    },
+    {
+        "id": "card-00034-5-uniq-0090-00",
+        "data": {
+            "id": "card-00034-5-uniq-0090-00",
+            "characterId": "chr-00034",
+            "nameLangId": "la-card_flavor-00034-5-uniq-0090-00",
+            "rarity": "CardRarity_CARD_RARITY_RARITY_5",
+            "attributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_2",
+            "cardLevelGroupId": "grp-card-level-rarity_5-05",
+            "performancePermilMultiply": 302,
+            "techniquePermilMultiply": 430,
+            "sensePermilMultiply": 268,
+            "cardLevelLimitGroupId": "rarity_5-attribute_2",
+            "livePassiveSkillId": "live_passive_skill-card-00034-5-uniq-0090-00",
+            "liveActiveSkillId": "live_active_skill-card-00034-5-uniq-0090-00",
+            "liveSpecialSkillId": "live_special_skill-card-00034-5-uniq-0090-00",
+            "cardPotentialGroupId": "card_potential_grp-rarity_5",
+            "assetId": "00034-5-uniq-0090-00",
+            "liveSkillCharacterVoiceId": "cv-live_cmn_chr-00034_00034-5-uniq-0090-00_skill-card",
+            "skillTreeConnectEffectId": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-center_area-005-rare_5",
+            "rewardCostumeId": "cos-00034-uniq-0090-00",
+            "rewardSdCostumeId": "sdcos-00034-uniq-0090-00",
+            "assetType": "CardAssetType_CARD_ASSET_TYPE_IMAGE_AND_MOVIE",
+            "verticalAnchorType": "CardVerticalAnchorType_CARD_VERTICAL_ANCHOR_TYPE_CENTER",
+            "horizontalAnchorType": "CardHorizontalAnchorType_CARD_HORIZONTAL_ANCHOR_TYPE_RIGHT",
+            "gachaAnimationCharacterVoiceId": "cv-cmn_chr-00034_00034-5-uniq-0090-00_card-get",
+            "cardDetailCharacterVoiceId": "cv-cmn_chr-00034_00034-5-uniq-0090-00_card-detail",
+            "potentialUpgrade1CharacterVoiceId": "cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-01",
+            "potentialUpgrade2CharacterVoiceId": "cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-02",
+            "potentialUpgrade3CharacterVoiceId": "cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-03",
+            "potentialUpgrade4CharacterVoiceId": "cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-04",
+            "potentialUpgrade5CharacterVoiceId": "cv-cmn_chr-00034_00034-5-uniq-0090-00_card-potential-05",
+            "order": 191,
+            "potentialAlternativeReward": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-gacha-sp_sticker-01",
+                "quantity": "100"
+            },
+            "acquireReward": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-gacha-sp_sticker-01",
+                "quantity": "30"
+            }
+        }
+    },
+    {
+        "id": "card-06003-5-uniq-0091-00",
+        "data": {
+            "id": "card-06003-5-uniq-0091-00",
+            "characterId": "chr-06003",
+            "nameLangId": "la-card_flavor-06003-5-uniq-0091-00",
+            "rarity": "CardRarity_CARD_RARITY_RARITY_5",
+            "attributeType": "CardAttributeType_CARD_ATTRIBUTE_TYPE_ATTRIBUTE_1",
+            "cardLevelGroupId": "grp-card-level-rarity_5-06",
+            "performancePermilMultiply": 263,
+            "techniquePermilMultiply": 440,
+            "sensePermilMultiply": 297,
+            "cardLevelLimitGroupId": "rarity_5-attribute_1",
+            "livePassiveSkillId": "live_passive_skill-card-06003-5-uniq-0091-00",
+            "liveActiveSkillId": "live_active_skill-card-06003-5-uniq-0091-00",
+            "liveSpecialSkillId": "live_special_skill-card-06003-5-uniq-0091-00",
+            "cardPotentialGroupId": "card_potential_grp-rarity_5",
+            "assetId": "06003-5-uniq-0091-00",
+            "liveSkillCharacterVoiceId": "cv-live_cmn_chr-06003_06003-5-uniq-0091-00_skill-card",
+            "skillTreeConnectEffectId": "skill_tree_connect_effect-skill_tree_effect_up-skill_tree_connect_effect_extent-leader_area-003-rare_5",
+            "rewardCostumeId": "cos-06003-uniq-0091-00",
+            "rewardSdCostumeId": "sdcos-06003-uniq-0091-00",
+            "assetType": "CardAssetType_CARD_ASSET_TYPE_IMAGE_AND_MOVIE",
+            "verticalAnchorType": "CardVerticalAnchorType_CARD_VERTICAL_ANCHOR_TYPE_CENTER",
+            "horizontalAnchorType": "CardHorizontalAnchorType_CARD_HORIZONTAL_ANCHOR_TYPE_CENTER",
+            "gachaAnimationCharacterVoiceId": "cv-cmn_chr-06003_06003-5-uniq-0091-00_card-get",
+            "cardDetailCharacterVoiceId": "cv-cmn_chr-06003_06003-5-uniq-0091-00_card-detail",
+            "potentialUpgrade1CharacterVoiceId": "cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-01",
+            "potentialUpgrade2CharacterVoiceId": "cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-02",
+            "potentialUpgrade3CharacterVoiceId": "cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-03",
+            "potentialUpgrade4CharacterVoiceId": "cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-04",
+            "potentialUpgrade5CharacterVoiceId": "cv-cmn_chr-06003_06003-5-uniq-0091-00_card-potential-05",
+            "order": 192,
+            "potentialAlternativeReward": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-gacha-sp_sticker-01",
+                "quantity": "100"
+            },
+            "acquireReward": {
+                "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                "resourceId": "item-gacha-sp_sticker-01",
+                "quantity": "30"
+            }
+        }
+    },
+    {
         "id": "card-00005-3-nrml-0006-00",
         "data": {
             "id": "card-00005-3-nrml-0006-00",
