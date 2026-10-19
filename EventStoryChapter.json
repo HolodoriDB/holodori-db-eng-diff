@@ -108,5 +108,45 @@
             "assetId": "marathon_event-relay-002-chapter-04",
             "priority": 26091904
         }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-003-chapter-01",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-003-chapter-01",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-003-chapter-01",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-003",
+            "assetId": "marathon_event-relay-003-chapter-01",
+            "priority": 26101901
+        }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-003-chapter-02",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-003-chapter-02",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-003-chapter-02",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-003",
+            "assetId": "marathon_event-relay-003-chapter-02",
+            "priority": 26101902
+        }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-003-chapter-03",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-003-chapter-03",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-003-chapter-03",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-003",
+            "assetId": "marathon_event-relay-003-chapter-03",
+            "priority": 26101903
+        }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-003-chapter-04",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-003-chapter-04",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-003-chapter-04",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-003",
+            "assetId": "marathon_event-relay-003-chapter-04",
+            "priority": 26101904
+        }
     }
 ]

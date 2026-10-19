@@ -1,21 +1,5 @@
 [
     {
-        "id": "quest-area-a01-29",
-        "data": {
-            "id": "quest-area-a01-29",
-            "parkQuestChapterId": "quest_chapter-area-a01",
-            "number": 29,
-            "titleLangId": "la-quest-area-a01-29-title",
-            "descriptionLangId": "la-quest-area-a01-29-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest-area-a01-29-unlock",
-            "unlockConditionGroupId": "cd-quest-area-a01-29-unlock",
-            "order": 900
-        }
-    },
-    {
         "id": "quest-area-a01-20",
         "data": {
             "id": "quest-area-a01-20",
@@ -24,364 +8,10 @@
             "titleLangId": "la-quest-area-a01-20-title",
             "descriptionLangId": "la-quest-area-a01-20-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-20",
-            "order": 1200
-        }
-    },
-    {
-        "id": "quest-area-a01-21",
-        "data": {
-            "id": "quest-area-a01-21",
-            "parkQuestChapterId": "quest_chapter-area-a01",
-            "number": 21,
-            "titleLangId": "la-quest-area-a01-21-title",
-            "descriptionLangId": "la-quest-area-a01-21-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest-area-a01-21",
-            "order": 1210
-        }
-    },
-    {
-        "id": "quest-area-a01-23",
-        "data": {
-            "id": "quest-area-a01-23",
-            "parkQuestChapterId": "quest_chapter-area-a01",
-            "number": 23,
-            "titleLangId": "la-quest-area-a01-23-title",
-            "descriptionLangId": "la-quest-area-a01-23-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest-area-a01-23",
-            "unlockConditionGroupId": "cd-quest-area-a01-23-unlock",
-            "order": 1230
-        }
-    },
-    {
-        "id": "quest-area-a01-24",
-        "data": {
-            "id": "quest-area-a01-24",
-            "parkQuestChapterId": "quest_chapter-area-a01",
-            "number": 24,
-            "titleLangId": "la-quest-area-a01-24-title",
-            "descriptionLangId": "la-quest-area-a01-24-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest-area-a01-24",
-            "unlockConditionGroupId": "cd-quest-area-a01-24-unlock",
-            "order": 1240
-        }
-    },
-    {
-        "id": "quest-area-a01-25",
-        "data": {
-            "id": "quest-area-a01-25",
-            "parkQuestChapterId": "quest_chapter-area-a01",
-            "number": 25,
-            "titleLangId": "la-quest-area-a01-25-title",
-            "descriptionLangId": "la-quest-area-a01-25-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest-area-a01-25",
-            "unlockConditionGroupId": "cd-quest-area-a01-25-unlock",
-            "order": 1250
-        }
-    },
-    {
-        "id": "quest-area-a01-26",
-        "data": {
-            "id": "quest-area-a01-26",
-            "parkQuestChapterId": "quest_chapter-area-a01",
-            "number": 26,
-            "titleLangId": "la-quest-area-a01-26-title",
-            "descriptionLangId": "la-quest-area-a01-26-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest-area-a01-26",
-            "unlockConditionGroupId": "cd-quest-area-a01-26-unlock",
-            "order": 1260
-        }
-    },
-    {
-        "id": "quest-area-a01-27",
-        "data": {
-            "id": "quest-area-a01-27",
-            "parkQuestChapterId": "quest_chapter-area-a01",
-            "number": 27,
-            "titleLangId": "la-quest-area-a01-27-title",
-            "descriptionLangId": "la-quest-area-a01-27-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest-area-a01-27",
-            "unlockConditionGroupId": "cd-quest-area-a01-27-unlock",
-            "order": 1270
-        }
-    },
-    {
-        "id": "quest-area-a01-28",
-        "data": {
-            "id": "quest-area-a01-28",
-            "parkQuestChapterId": "quest_chapter-area-a01",
-            "number": 28,
-            "titleLangId": "la-quest-area-a01-28-title",
-            "descriptionLangId": "la-quest-area-a01-28-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest-area-a01-28",
-            "unlockConditionGroupId": "cd-quest-area-a01-28-unlock",
-            "order": 1280
-        }
-    },
-    {
-        "id": "quest-area-a02-01",
-        "data": {
-            "id": "quest-area-a02-01",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 1,
-            "titleLangId": "la-quest-area-a02-01-title",
-            "descriptionLangId": "la-quest-area-a02-01-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-01",
-            "order": 2010
-        }
-    },
-    {
-        "id": "quest-area-a02-02",
-        "data": {
-            "id": "quest-area-a02-02",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 2,
-            "titleLangId": "la-quest-area-a02-02-title",
-            "descriptionLangId": "la-quest-area-a02-02-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-02",
-            "order": 2020
-        }
-    },
-    {
-        "id": "quest-area-a02-03",
-        "data": {
-            "id": "quest-area-a02-03",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 3,
-            "titleLangId": "la-quest-area-a02-03-title",
-            "descriptionLangId": "la-quest-area-a02-03-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-03",
-            "order": 2030
-        }
-    },
-    {
-        "id": "quest-area-a02-04",
-        "data": {
-            "id": "quest-area-a02-04",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 4,
-            "titleLangId": "la-quest-area-a02-04-title",
-            "descriptionLangId": "la-quest-area-a02-04-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-04",
-            "order": 2040
-        }
-    },
-    {
-        "id": "quest-area-a02-05",
-        "data": {
-            "id": "quest-area-a02-05",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 5,
-            "titleLangId": "la-quest-area-a02-05-title",
-            "descriptionLangId": "la-quest-area-a02-05-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-05",
-            "order": 2050
-        }
-    },
-    {
-        "id": "quest-area-a02-06",
-        "data": {
-            "id": "quest-area-a02-06",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 6,
-            "titleLangId": "la-quest-area-a02-06-title",
-            "descriptionLangId": "la-quest-area-a02-06-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-06",
-            "order": 2060
-        }
-    },
-    {
-        "id": "quest-area-a02-07",
-        "data": {
-            "id": "quest-area-a02-07",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 7,
-            "titleLangId": "la-quest-area-a02-07-title",
-            "descriptionLangId": "la-quest-area-a02-07-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-07",
-            "order": 2070
-        }
-    },
-    {
-        "id": "quest-area-a02-08",
-        "data": {
-            "id": "quest-area-a02-08",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 8,
-            "titleLangId": "la-quest-area-a02-08-title",
-            "descriptionLangId": "la-quest-area-a02-08-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-08",
-            "unlockConditionGroupId": "cd-quest-area-a02-08-unlock",
-            "order": 2080
-        }
-    },
-    {
-        "id": "quest-area-a02-09",
-        "data": {
-            "id": "quest-area-a02-09",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 9,
-            "titleLangId": "la-quest-area-a02-09-title",
-            "descriptionLangId": "la-quest-area-a02-09-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-09",
-            "order": 2090
-        }
-    },
-    {
-        "id": "quest-area-a02-10",
-        "data": {
-            "id": "quest-area-a02-10",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 10,
-            "titleLangId": "la-quest-area-a02-10-title",
-            "descriptionLangId": "la-quest-area-a02-10-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-10",
-            "unlockConditionGroupId": "cd-quest-area-a02-10-unlock",
-            "order": 2100
-        }
-    },
-    {
-        "id": "quest-area-a02-11",
-        "data": {
-            "id": "quest-area-a02-11",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 11,
-            "titleLangId": "la-quest-area-a02-11-title",
-            "descriptionLangId": "la-quest-area-a02-11-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-11",
-            "order": 2110
-        }
-    },
-    {
-        "id": "quest-area-a02-12",
-        "data": {
-            "id": "quest-area-a02-12",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 12,
-            "titleLangId": "la-quest-area-a02-12-title",
-            "descriptionLangId": "la-quest-area-a02-12-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-12",
-            "order": 2120
-        }
-    },
-    {
-        "id": "quest-area-a02-13",
-        "data": {
-            "id": "quest-area-a02-13",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 13,
-            "titleLangId": "la-quest-area-a02-13-title",
-            "descriptionLangId": "la-quest-area-a02-13-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-13",
-            "order": 2130
-        }
-    },
-    {
-        "id": "quest-area-a02-14",
-        "data": {
-            "id": "quest-area-a02-14",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 14,
-            "titleLangId": "la-quest-area-a02-14-title",
-            "descriptionLangId": "la-quest-area-a02-14-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-14",
-            "order": 2140
-        }
-    },
-    {
-        "id": "quest-area-a02-15",
-        "data": {
-            "id": "quest-area-a02-15",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 15,
-            "titleLangId": "la-quest-area-a02-15-title",
-            "descriptionLangId": "la-quest-area-a02-15-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-15",
-            "order": 2150
-        }
-    },
-    {
-        "id": "quest-area-a02-16",
-        "data": {
-            "id": "quest-area-a02-16",
-            "parkQuestChapterId": "quest_chapter-area-a02",
-            "number": 16,
-            "titleLangId": "la-quest-area-a02-16-title",
-            "descriptionLangId": "la-quest-area-a02-16-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a02",
-            "viewConditionGroupId": "cd-quest-area-a02-16",
-            "unlockConditionGroupId": "cd-quest-area-a02-16-unlock",
-            "order": 2160
+            "order": 9100
         }
     },
     {
@@ -1120,294 +750,6 @@
         }
     },
     {
-        "id": "quest-area-a03-01",
-        "data": {
-            "id": "quest-area-a03-01",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 1,
-            "titleLangId": "la-quest-area-a03-01-title",
-            "descriptionLangId": "la-quest-area-a03-01-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-01",
-            "order": 2170
-        }
-    },
-    {
-        "id": "quest-area-a03-02",
-        "data": {
-            "id": "quest-area-a03-02",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 2,
-            "titleLangId": "la-quest-area-a03-02-title",
-            "descriptionLangId": "la-quest-area-a03-02-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-02",
-            "order": 2180
-        }
-    },
-    {
-        "id": "quest-area-a03-03",
-        "data": {
-            "id": "quest-area-a03-03",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 3,
-            "titleLangId": "la-quest-area-a03-03-title",
-            "descriptionLangId": "la-quest-area-a03-03-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-03",
-            "order": 2190
-        }
-    },
-    {
-        "id": "quest-area-a03-04",
-        "data": {
-            "id": "quest-area-a03-04",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 4,
-            "titleLangId": "la-quest-area-a03-04-title",
-            "descriptionLangId": "la-quest-area-a03-04-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-04",
-            "order": 2200
-        }
-    },
-    {
-        "id": "quest-area-a03-05",
-        "data": {
-            "id": "quest-area-a03-05",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 5,
-            "titleLangId": "la-quest-area-a03-05-title",
-            "descriptionLangId": "la-quest-area-a03-05-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-05",
-            "order": 2210
-        }
-    },
-    {
-        "id": "quest-area-a03-06",
-        "data": {
-            "id": "quest-area-a03-06",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 6,
-            "titleLangId": "la-quest-area-a03-06-title",
-            "descriptionLangId": "la-quest-area-a03-06-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-06",
-            "order": 2220
-        }
-    },
-    {
-        "id": "quest-area-a03-07",
-        "data": {
-            "id": "quest-area-a03-07",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 7,
-            "titleLangId": "la-quest-area-a03-07-title",
-            "descriptionLangId": "la-quest-area-a03-07-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-07",
-            "order": 2230
-        }
-    },
-    {
-        "id": "quest-area-a03-08",
-        "data": {
-            "id": "quest-area-a03-08",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 8,
-            "titleLangId": "la-quest-area-a03-08-title",
-            "descriptionLangId": "la-quest-area-a03-08-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-08",
-            "order": 2240
-        }
-    },
-    {
-        "id": "quest-area-a03-09",
-        "data": {
-            "id": "quest-area-a03-09",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 9,
-            "titleLangId": "la-quest-area-a03-09-title",
-            "descriptionLangId": "la-quest-area-a03-09-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-09",
-            "order": 2250
-        }
-    },
-    {
-        "id": "quest-area-a03-10",
-        "data": {
-            "id": "quest-area-a03-10",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 10,
-            "titleLangId": "la-quest-area-a03-10-title",
-            "descriptionLangId": "la-quest-area-a03-10-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-10",
-            "order": 2260
-        }
-    },
-    {
-        "id": "quest-area-a03-11",
-        "data": {
-            "id": "quest-area-a03-11",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 11,
-            "titleLangId": "la-quest-area-a03-11-title",
-            "descriptionLangId": "la-quest-area-a03-11-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-11",
-            "order": 2270
-        }
-    },
-    {
-        "id": "quest-area-a03-12",
-        "data": {
-            "id": "quest-area-a03-12",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 12,
-            "titleLangId": "la-quest-area-a03-12-title",
-            "descriptionLangId": "la-quest-area-a03-12-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-12",
-            "order": 2280
-        }
-    },
-    {
-        "id": "quest-area-a03-13",
-        "data": {
-            "id": "quest-area-a03-13",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 13,
-            "titleLangId": "la-quest-area-a03-13-title",
-            "descriptionLangId": "la-quest-area-a03-13-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-13",
-            "order": 2290
-        }
-    },
-    {
-        "id": "quest-area-a03-14",
-        "data": {
-            "id": "quest-area-a03-14",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 14,
-            "titleLangId": "la-quest-area-a03-14-title",
-            "descriptionLangId": "la-quest-area-a03-14-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-14",
-            "order": 2300
-        }
-    },
-    {
-        "id": "quest-area-a03-15",
-        "data": {
-            "id": "quest-area-a03-15",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 15,
-            "titleLangId": "la-quest-area-a03-15-title",
-            "descriptionLangId": "la-quest-area-a03-15-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-15",
-            "order": 2310
-        }
-    },
-    {
-        "id": "quest-area-a03-16",
-        "data": {
-            "id": "quest-area-a03-16",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 16,
-            "titleLangId": "la-quest-area-a03-16-title",
-            "descriptionLangId": "la-quest-area-a03-16-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-16",
-            "order": 2320
-        }
-    },
-    {
-        "id": "quest-area-a03-17",
-        "data": {
-            "id": "quest-area-a03-17",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 17,
-            "titleLangId": "la-quest-area-a03-17-title",
-            "descriptionLangId": "la-quest-area-a03-17-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-17",
-            "unlockConditionGroupId": "cd-quest-area-a03-17-unlock",
-            "order": 2330
-        }
-    },
-    {
-        "id": "quest-area-a03-18",
-        "data": {
-            "id": "quest-area-a03-18",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 18,
-            "titleLangId": "la-quest-area-a03-18-title",
-            "descriptionLangId": "la-quest-area-a03-18-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-18",
-            "unlockConditionGroupId": "cd-quest-area-a03-18-unlock",
-            "order": 2340
-        }
-    },
-    {
-        "id": "quest-area-a03-19",
-        "data": {
-            "id": "quest-area-a03-19",
-            "parkQuestChapterId": "quest_chapter-area-a03",
-            "number": 19,
-            "titleLangId": "la-quest-area-a03-19-title",
-            "descriptionLangId": "la-quest-area-a03-19-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest-area-a03-19",
-            "unlockConditionGroupId": "cd-quest-area-a03-19-unlock",
-            "order": 2350
-        }
-    },
-    {
         "id": "quest-daily-fishing_coin-a03-00023",
         "data": {
             "id": "quest-daily-fishing_coin-a03-00023",
@@ -1618,81 +960,6 @@
         }
     },
     {
-        "id": "quest-main-w1-03-01",
-        "data": {
-            "id": "quest-main-w1-03-01",
-            "parkQuestChapterId": "quest_chapter-main-w1-03",
-            "number": 1,
-            "titleLangId": "la-quest-main-w1-03-01-title",
-            "descriptionLangId": "la-quest-main-w1-03-01-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-12",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-03-02",
-        "data": {
-            "id": "quest-main-w1-03-02",
-            "parkQuestChapterId": "quest_chapter-main-w1-03",
-            "number": 2,
-            "titleLangId": "la-quest-main-w1-03-02-title",
-            "descriptionLangId": "la-quest-main-w1-03-02-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-03-03",
-        "data": {
-            "id": "quest-main-w1-03-03",
-            "parkQuestChapterId": "quest_chapter-main-w1-03",
-            "number": 3,
-            "titleLangId": "la-quest-main-w1-03-03-title",
-            "descriptionLangId": "la-quest-main-w1-03-03-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-02",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-03-04",
-        "data": {
-            "id": "quest-main-w1-03-04",
-            "parkQuestChapterId": "quest_chapter-main-w1-03",
-            "number": 4,
-            "titleLangId": "la-quest-main-w1-03-04-title",
-            "descriptionLangId": "la-quest-main-w1-03-04-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-03",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-03-05",
-        "data": {
-            "id": "quest-main-w1-03-05",
-            "parkQuestChapterId": "quest_chapter-main-w1-03",
-            "number": 5,
-            "titleLangId": "la-quest-main-w1-03-05-title",
-            "descriptionLangId": "la-quest-main-w1-03-05-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a03",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-04",
-            "order": 1
-        }
-    },
-    {
         "id": "quest-main-w1-03-06",
         "data": {
             "id": "quest-main-w1-03-06",
@@ -1701,7 +968,7 @@
             "titleLangId": "la-quest-main-w1-03-06-title",
             "descriptionLangId": "la-quest-main-w1-03-06-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-05",
             "order": 1
@@ -1716,7 +983,7 @@
             "titleLangId": "la-quest-main-w1-03-07-title",
             "descriptionLangId": "la-quest-main-w1-03-07-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-06",
             "order": 1
@@ -1731,7 +998,7 @@
             "titleLangId": "la-quest-main-w1-03-08-title",
             "descriptionLangId": "la-quest-main-w1-03-08-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-07",
             "order": 1
@@ -1746,7 +1013,7 @@
             "titleLangId": "la-quest-main-w1-03-09-title",
             "descriptionLangId": "la-quest-main-w1-03-09-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-08",
             "order": 1
@@ -1761,7 +1028,7 @@
             "titleLangId": "la-quest-main-w1-03-10-title",
             "descriptionLangId": "la-quest-main-w1-03-10-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-09",
             "order": 1
@@ -1776,7 +1043,7 @@
             "titleLangId": "la-quest-main-w1-03-11-title",
             "descriptionLangId": "la-quest-main-w1-03-11-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-10",
             "order": 1
@@ -1791,7 +1058,7 @@
             "titleLangId": "la-quest-main-w1-03-12-title",
             "descriptionLangId": "la-quest-main-w1-03-12-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-11",
             "order": 1
@@ -1806,7 +1073,7 @@
             "titleLangId": "la-quest-main-w1-03-13-title",
             "descriptionLangId": "la-quest-main-w1-03-13-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-12",
             "order": 1
@@ -1821,7 +1088,7 @@
             "titleLangId": "la-quest-main-w1-03-14-title",
             "descriptionLangId": "la-quest-main-w1-03-14-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-13",
             "order": 1
@@ -1836,10 +1103,652 @@
             "titleLangId": "la-quest-main-w1-03-15-title",
             "descriptionLangId": "la-quest-main-w1-03-15-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a03",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-14",
             "order": 1
+        }
+    },
+    {
+        "id": "quest-area-a01-21",
+        "data": {
+            "id": "quest-area-a01-21",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 21,
+            "titleLangId": "la-quest-area-a01-21-title",
+            "descriptionLangId": "la-quest-area-a01-21-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1100,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest-area-a01-21",
+            "order": 9090
+        }
+    },
+    {
+        "id": "quest-area-a01-23",
+        "data": {
+            "id": "quest-area-a01-23",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 23,
+            "titleLangId": "la-quest-area-a01-23-title",
+            "descriptionLangId": "la-quest-area-a01-23-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1100,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest-area-a01-23",
+            "unlockConditionGroupId": "cd-quest-area-a01-23-unlock",
+            "order": 9070
+        }
+    },
+    {
+        "id": "quest-area-a01-24",
+        "data": {
+            "id": "quest-area-a01-24",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 24,
+            "titleLangId": "la-quest-area-a01-24-title",
+            "descriptionLangId": "la-quest-area-a01-24-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1100,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest-area-a01-24",
+            "unlockConditionGroupId": "cd-quest-area-a01-24-unlock",
+            "order": 9060
+        }
+    },
+    {
+        "id": "quest-area-a01-25",
+        "data": {
+            "id": "quest-area-a01-25",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 25,
+            "titleLangId": "la-quest-area-a01-25-title",
+            "descriptionLangId": "la-quest-area-a01-25-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1100,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest-area-a01-25",
+            "unlockConditionGroupId": "cd-quest-area-a01-25-unlock",
+            "order": 9050
+        }
+    },
+    {
+        "id": "quest-area-a01-26",
+        "data": {
+            "id": "quest-area-a01-26",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 26,
+            "titleLangId": "la-quest-area-a01-26-title",
+            "descriptionLangId": "la-quest-area-a01-26-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1100,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest-area-a01-26",
+            "unlockConditionGroupId": "cd-quest-area-a01-26-unlock",
+            "order": 9040
+        }
+    },
+    {
+        "id": "quest-area-a01-27",
+        "data": {
+            "id": "quest-area-a01-27",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 27,
+            "titleLangId": "la-quest-area-a01-27-title",
+            "descriptionLangId": "la-quest-area-a01-27-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1100,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest-area-a01-27",
+            "unlockConditionGroupId": "cd-quest-area-a01-27-unlock",
+            "order": 9030
+        }
+    },
+    {
+        "id": "quest-area-a01-28",
+        "data": {
+            "id": "quest-area-a01-28",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 28,
+            "titleLangId": "la-quest-area-a01-28-title",
+            "descriptionLangId": "la-quest-area-a01-28-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1100,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest-area-a01-28",
+            "unlockConditionGroupId": "cd-quest-area-a01-28-unlock",
+            "order": 9020
+        }
+    },
+    {
+        "id": "quest-area-a01-29",
+        "data": {
+            "id": "quest-area-a01-29",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 29,
+            "titleLangId": "la-quest-area-a01-29-title",
+            "descriptionLangId": "la-quest-area-a01-29-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1100,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest-area-a01-29-unlock",
+            "unlockConditionGroupId": "cd-quest-area-a01-29-unlock",
+            "order": 9010
+        }
+    },
+    {
+        "id": "quest-area-a02-01",
+        "data": {
+            "id": "quest-area-a02-01",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 1,
+            "titleLangId": "la-quest-area-a02-01-title",
+            "descriptionLangId": "la-quest-area-a02-01-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-01",
+            "order": 8160
+        }
+    },
+    {
+        "id": "quest-area-a02-02",
+        "data": {
+            "id": "quest-area-a02-02",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 2,
+            "titleLangId": "la-quest-area-a02-02-title",
+            "descriptionLangId": "la-quest-area-a02-02-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-02",
+            "order": 8150
+        }
+    },
+    {
+        "id": "quest-area-a02-03",
+        "data": {
+            "id": "quest-area-a02-03",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 3,
+            "titleLangId": "la-quest-area-a02-03-title",
+            "descriptionLangId": "la-quest-area-a02-03-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-03",
+            "order": 8140
+        }
+    },
+    {
+        "id": "quest-area-a02-04",
+        "data": {
+            "id": "quest-area-a02-04",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 4,
+            "titleLangId": "la-quest-area-a02-04-title",
+            "descriptionLangId": "la-quest-area-a02-04-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-04",
+            "order": 8130
+        }
+    },
+    {
+        "id": "quest-area-a02-05",
+        "data": {
+            "id": "quest-area-a02-05",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 5,
+            "titleLangId": "la-quest-area-a02-05-title",
+            "descriptionLangId": "la-quest-area-a02-05-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-05",
+            "order": 8120
+        }
+    },
+    {
+        "id": "quest-area-a02-06",
+        "data": {
+            "id": "quest-area-a02-06",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 6,
+            "titleLangId": "la-quest-area-a02-06-title",
+            "descriptionLangId": "la-quest-area-a02-06-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-06",
+            "order": 8110
+        }
+    },
+    {
+        "id": "quest-area-a02-07",
+        "data": {
+            "id": "quest-area-a02-07",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 7,
+            "titleLangId": "la-quest-area-a02-07-title",
+            "descriptionLangId": "la-quest-area-a02-07-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-07",
+            "order": 8100
+        }
+    },
+    {
+        "id": "quest-area-a02-08",
+        "data": {
+            "id": "quest-area-a02-08",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 8,
+            "titleLangId": "la-quest-area-a02-08-title",
+            "descriptionLangId": "la-quest-area-a02-08-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-08",
+            "unlockConditionGroupId": "cd-quest-area-a02-08-unlock",
+            "order": 8090
+        }
+    },
+    {
+        "id": "quest-area-a02-09",
+        "data": {
+            "id": "quest-area-a02-09",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 9,
+            "titleLangId": "la-quest-area-a02-09-title",
+            "descriptionLangId": "la-quest-area-a02-09-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-09",
+            "order": 8080
+        }
+    },
+    {
+        "id": "quest-area-a02-10",
+        "data": {
+            "id": "quest-area-a02-10",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 10,
+            "titleLangId": "la-quest-area-a02-10-title",
+            "descriptionLangId": "la-quest-area-a02-10-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-10",
+            "unlockConditionGroupId": "cd-quest-area-a02-10-unlock",
+            "order": 8070
+        }
+    },
+    {
+        "id": "quest-area-a02-11",
+        "data": {
+            "id": "quest-area-a02-11",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 11,
+            "titleLangId": "la-quest-area-a02-11-title",
+            "descriptionLangId": "la-quest-area-a02-11-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-11",
+            "order": 8060
+        }
+    },
+    {
+        "id": "quest-area-a02-12",
+        "data": {
+            "id": "quest-area-a02-12",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 12,
+            "titleLangId": "la-quest-area-a02-12-title",
+            "descriptionLangId": "la-quest-area-a02-12-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-12",
+            "order": 8050
+        }
+    },
+    {
+        "id": "quest-area-a02-13",
+        "data": {
+            "id": "quest-area-a02-13",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 13,
+            "titleLangId": "la-quest-area-a02-13-title",
+            "descriptionLangId": "la-quest-area-a02-13-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-13",
+            "order": 8040
+        }
+    },
+    {
+        "id": "quest-area-a02-14",
+        "data": {
+            "id": "quest-area-a02-14",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 14,
+            "titleLangId": "la-quest-area-a02-14-title",
+            "descriptionLangId": "la-quest-area-a02-14-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-14",
+            "order": 8030
+        }
+    },
+    {
+        "id": "quest-area-a02-15",
+        "data": {
+            "id": "quest-area-a02-15",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 15,
+            "titleLangId": "la-quest-area-a02-15-title",
+            "descriptionLangId": "la-quest-area-a02-15-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-15",
+            "order": 8020
+        }
+    },
+    {
+        "id": "quest-area-a02-16",
+        "data": {
+            "id": "quest-area-a02-16",
+            "parkQuestChapterId": "quest_chapter-area-a02",
+            "number": 16,
+            "titleLangId": "la-quest-area-a02-16-title",
+            "descriptionLangId": "la-quest-area-a02-16-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1200,
+            "areaGroupingId": "area_group-a02",
+            "viewConditionGroupId": "cd-quest-area-a02-16",
+            "unlockConditionGroupId": "cd-quest-area-a02-16-unlock",
+            "order": 8010
+        }
+    },
+    {
+        "id": "quest-area-a03-01",
+        "data": {
+            "id": "quest-area-a03-01",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 1,
+            "titleLangId": "la-quest-area-a03-01-title",
+            "descriptionLangId": "la-quest-area-a03-01-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-01",
+            "order": 7190
+        }
+    },
+    {
+        "id": "quest-area-a03-02",
+        "data": {
+            "id": "quest-area-a03-02",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 2,
+            "titleLangId": "la-quest-area-a03-02-title",
+            "descriptionLangId": "la-quest-area-a03-02-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-02",
+            "order": 7180
+        }
+    },
+    {
+        "id": "quest-area-a03-03",
+        "data": {
+            "id": "quest-area-a03-03",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 3,
+            "titleLangId": "la-quest-area-a03-03-title",
+            "descriptionLangId": "la-quest-area-a03-03-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-03",
+            "order": 7170
+        }
+    },
+    {
+        "id": "quest-area-a03-04",
+        "data": {
+            "id": "quest-area-a03-04",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 4,
+            "titleLangId": "la-quest-area-a03-04-title",
+            "descriptionLangId": "la-quest-area-a03-04-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-04",
+            "order": 7160
+        }
+    },
+    {
+        "id": "quest-area-a03-05",
+        "data": {
+            "id": "quest-area-a03-05",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 5,
+            "titleLangId": "la-quest-area-a03-05-title",
+            "descriptionLangId": "la-quest-area-a03-05-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-05",
+            "order": 7150
+        }
+    },
+    {
+        "id": "quest-area-a03-06",
+        "data": {
+            "id": "quest-area-a03-06",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 6,
+            "titleLangId": "la-quest-area-a03-06-title",
+            "descriptionLangId": "la-quest-area-a03-06-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-06",
+            "order": 7140
+        }
+    },
+    {
+        "id": "quest-area-a03-07",
+        "data": {
+            "id": "quest-area-a03-07",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 7,
+            "titleLangId": "la-quest-area-a03-07-title",
+            "descriptionLangId": "la-quest-area-a03-07-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-07",
+            "order": 7130
+        }
+    },
+    {
+        "id": "quest-area-a03-08",
+        "data": {
+            "id": "quest-area-a03-08",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 8,
+            "titleLangId": "la-quest-area-a03-08-title",
+            "descriptionLangId": "la-quest-area-a03-08-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-08",
+            "order": 7120
+        }
+    },
+    {
+        "id": "quest-area-a03-09",
+        "data": {
+            "id": "quest-area-a03-09",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 9,
+            "titleLangId": "la-quest-area-a03-09-title",
+            "descriptionLangId": "la-quest-area-a03-09-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-09",
+            "order": 7110
+        }
+    },
+    {
+        "id": "quest-area-a03-10",
+        "data": {
+            "id": "quest-area-a03-10",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 10,
+            "titleLangId": "la-quest-area-a03-10-title",
+            "descriptionLangId": "la-quest-area-a03-10-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-10",
+            "order": 7100
+        }
+    },
+    {
+        "id": "quest-area-a03-11",
+        "data": {
+            "id": "quest-area-a03-11",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 11,
+            "titleLangId": "la-quest-area-a03-11-title",
+            "descriptionLangId": "la-quest-area-a03-11-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-11",
+            "order": 7090
+        }
+    },
+    {
+        "id": "quest-area-a03-12",
+        "data": {
+            "id": "quest-area-a03-12",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 12,
+            "titleLangId": "la-quest-area-a03-12-title",
+            "descriptionLangId": "la-quest-area-a03-12-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-12",
+            "order": 7080
+        }
+    },
+    {
+        "id": "quest-area-a03-13",
+        "data": {
+            "id": "quest-area-a03-13",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 13,
+            "titleLangId": "la-quest-area-a03-13-title",
+            "descriptionLangId": "la-quest-area-a03-13-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-13",
+            "order": 7070
+        }
+    },
+    {
+        "id": "quest-area-a03-14",
+        "data": {
+            "id": "quest-area-a03-14",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 14,
+            "titleLangId": "la-quest-area-a03-14-title",
+            "descriptionLangId": "la-quest-area-a03-14-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-14",
+            "order": 7060
+        }
+    },
+    {
+        "id": "quest-area-a03-15",
+        "data": {
+            "id": "quest-area-a03-15",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 15,
+            "titleLangId": "la-quest-area-a03-15-title",
+            "descriptionLangId": "la-quest-area-a03-15-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-15",
+            "order": 7050
+        }
+    },
+    {
+        "id": "quest-area-a03-16",
+        "data": {
+            "id": "quest-area-a03-16",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 16,
+            "titleLangId": "la-quest-area-a03-16-title",
+            "descriptionLangId": "la-quest-area-a03-16-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-16",
+            "order": 7040
+        }
+    },
+    {
+        "id": "quest-area-a03-17",
+        "data": {
+            "id": "quest-area-a03-17",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 17,
+            "titleLangId": "la-quest-area-a03-17-title",
+            "descriptionLangId": "la-quest-area-a03-17-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-17",
+            "unlockConditionGroupId": "cd-quest-area-a03-17-unlock",
+            "order": 7030
+        }
+    },
+    {
+        "id": "quest-area-a03-18",
+        "data": {
+            "id": "quest-area-a03-18",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 18,
+            "titleLangId": "la-quest-area-a03-18-title",
+            "descriptionLangId": "la-quest-area-a03-18-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-18",
+            "unlockConditionGroupId": "cd-quest-area-a03-18-unlock",
+            "order": 7020
         }
     },
     {
@@ -2188,6 +2097,159 @@
         }
     },
     {
+        "id": "quest-area-a03-19",
+        "data": {
+            "id": "quest-area-a03-19",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 19,
+            "titleLangId": "la-quest-area-a03-19-title",
+            "descriptionLangId": "la-quest-area-a03-19-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 1300,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-19",
+            "unlockConditionGroupId": "cd-quest-area-a03-19-unlock",
+            "order": 7010
+        }
+    },
+    {
+        "id": "quest-main-w1-01-02",
+        "data": {
+            "id": "quest-main-w1-01-02",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 2,
+            "titleLangId": "la-quest-main-w1-01-02-title",
+            "descriptionLangId": "la-quest-main-w1-01-02-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-01-03",
+        "data": {
+            "id": "quest-main-w1-01-03",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 3,
+            "titleLangId": "la-quest-main-w1-01-03-title",
+            "descriptionLangId": "la-quest-main-w1-01-03-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
+            "unlockConditionGroupId": "cd-quest-main-w1-01-03-unlock",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-01-04",
+        "data": {
+            "id": "quest-main-w1-01-04",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 4,
+            "titleLangId": "la-quest-main-w1-01-04-title",
+            "descriptionLangId": "la-quest-main-w1-01-04-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-03",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-01-05",
+        "data": {
+            "id": "quest-main-w1-01-05",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 5,
+            "titleLangId": "la-quest-main-w1-01-05-title",
+            "descriptionLangId": "la-quest-main-w1-01-05-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-01-06",
+        "data": {
+            "id": "quest-main-w1-01-06",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 6,
+            "titleLangId": "la-quest-main-w1-01-06-title",
+            "descriptionLangId": "la-quest-main-w1-01-06-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-05",
+            "unlockConditionGroupId": "cd-quest-main-w1-01-06-unlock",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-01-07",
+        "data": {
+            "id": "quest-main-w1-01-07",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 7,
+            "titleLangId": "la-quest-main-w1-01-07-title",
+            "descriptionLangId": "la-quest-main-w1-01-07-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-06",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-01-08",
+        "data": {
+            "id": "quest-main-w1-01-08",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 8,
+            "titleLangId": "la-quest-main-w1-01-08-title",
+            "descriptionLangId": "la-quest-main-w1-01-08-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-07",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-01-09",
+        "data": {
+            "id": "quest-main-w1-01-09",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 9,
+            "titleLangId": "la-quest-main-w1-01-09-title",
+            "descriptionLangId": "la-quest-main-w1-01-09-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-08",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-01-10",
+        "data": {
+            "id": "quest-main-w1-01-10",
+            "parkQuestChapterId": "quest_chapter-main-w1-01",
+            "number": 10,
+            "titleLangId": "la-quest-main-w1-01-10-title",
+            "descriptionLangId": "la-quest-main-w1-01-10-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-09",
+            "order": 1
+        }
+    },
+    {
         "id": "quest-daily-live-04016",
         "data": {
             "id": "quest-daily-live-04016",
@@ -2458,143 +2520,6 @@
         }
     },
     {
-        "id": "quest-main-w1-01-02",
-        "data": {
-            "id": "quest-main-w1-01-02",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 2,
-            "titleLangId": "la-quest-main-w1-01-02-title",
-            "descriptionLangId": "la-quest-main-w1-01-02-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-01-03",
-        "data": {
-            "id": "quest-main-w1-01-03",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 3,
-            "titleLangId": "la-quest-main-w1-01-03-title",
-            "descriptionLangId": "la-quest-main-w1-01-03-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-02",
-            "unlockConditionGroupId": "cd-quest-main-w1-01-03-unlock",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-01-04",
-        "data": {
-            "id": "quest-main-w1-01-04",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 4,
-            "titleLangId": "la-quest-main-w1-01-04-title",
-            "descriptionLangId": "la-quest-main-w1-01-04-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-03",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-01-05",
-        "data": {
-            "id": "quest-main-w1-01-05",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 5,
-            "titleLangId": "la-quest-main-w1-01-05-title",
-            "descriptionLangId": "la-quest-main-w1-01-05-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-01-06",
-        "data": {
-            "id": "quest-main-w1-01-06",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 6,
-            "titleLangId": "la-quest-main-w1-01-06-title",
-            "descriptionLangId": "la-quest-main-w1-01-06-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-05",
-            "unlockConditionGroupId": "cd-quest-main-w1-01-06-unlock",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-01-07",
-        "data": {
-            "id": "quest-main-w1-01-07",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 7,
-            "titleLangId": "la-quest-main-w1-01-07-title",
-            "descriptionLangId": "la-quest-main-w1-01-07-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-06",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-01-08",
-        "data": {
-            "id": "quest-main-w1-01-08",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 8,
-            "titleLangId": "la-quest-main-w1-01-08-title",
-            "descriptionLangId": "la-quest-main-w1-01-08-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-07",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-01-09",
-        "data": {
-            "id": "quest-main-w1-01-09",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 9,
-            "titleLangId": "la-quest-main-w1-01-09-title",
-            "descriptionLangId": "la-quest-main-w1-01-09-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-08",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-main-w1-01-10",
-        "data": {
-            "id": "quest-main-w1-01-10",
-            "parkQuestChapterId": "quest_chapter-main-w1-01",
-            "number": 10,
-            "titleLangId": "la-quest-main-w1-01-10-title",
-            "descriptionLangId": "la-quest-main-w1-01-10-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
-            "areaGroupingId": "area_group-a01",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-09",
-            "order": 1
-        }
-    },
-    {
         "id": "quest-main-w1-01-11",
         "data": {
             "id": "quest-main-w1-01-11",
@@ -2603,7 +2528,7 @@
             "titleLangId": "la-quest-main-w1-01-11-title",
             "descriptionLangId": "la-quest-main-w1-01-11-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-10",
             "order": 1
@@ -2618,7 +2543,7 @@
             "titleLangId": "la-quest-main-w1-01-12-title",
             "descriptionLangId": "la-quest-main-w1-01-12-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-11",
             "unlockConditionGroupId": "cd-quest-main-w1-01-12-unlock",
@@ -2634,7 +2559,7 @@
             "titleLangId": "la-quest-main-w1-01-13-title",
             "descriptionLangId": "la-quest-main-w1-01-13-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-12",
             "order": 1
@@ -2649,7 +2574,7 @@
             "titleLangId": "la-quest-main-w1-01-14-title",
             "descriptionLangId": "la-quest-main-w1-01-14-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-13",
             "order": 1
@@ -2664,7 +2589,7 @@
             "titleLangId": "la-quest-main-w1-01-15-title",
             "descriptionLangId": "la-quest-main-w1-01-15-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-14",
             "order": 1
@@ -2679,7 +2604,7 @@
             "titleLangId": "la-quest-main-w1-01-16-title",
             "descriptionLangId": "la-quest-main-w1-01-16-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-15",
             "order": 1
@@ -2694,7 +2619,7 @@
             "titleLangId": "la-quest-main-w1-01-17-title",
             "descriptionLangId": "la-quest-main-w1-01-17-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-16",
             "order": 1
@@ -2709,7 +2634,7 @@
             "titleLangId": "la-quest-main-w1-01-18-title",
             "descriptionLangId": "la-quest-main-w1-01-18-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-17",
             "order": 1
@@ -2724,7 +2649,7 @@
             "titleLangId": "la-quest-main-w1-01-19-title",
             "descriptionLangId": "la-quest-main-w1-01-19-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-18",
             "order": 1
@@ -2739,7 +2664,7 @@
             "titleLangId": "la-quest-main-w1-01-20-title",
             "descriptionLangId": "la-quest-main-w1-01-20-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-19",
             "order": 1
@@ -2754,7 +2679,7 @@
             "titleLangId": "la-quest-main-w1-01-21-title",
             "descriptionLangId": "la-quest-main-w1-01-21-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-20",
             "order": 1
@@ -2769,7 +2694,7 @@
             "titleLangId": "la-quest-main-w1-01-22-title",
             "descriptionLangId": "la-quest-main-w1-01-22-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-21",
             "order": 1
@@ -2784,7 +2709,7 @@
             "titleLangId": "la-quest-main-w1-01-23-title",
             "descriptionLangId": "la-quest-main-w1-01-23-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-22",
             "order": 1
@@ -2799,7 +2724,7 @@
             "titleLangId": "la-quest-main-w1-01-24-title",
             "descriptionLangId": "la-quest-main-w1-01-24-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-23",
             "unlockConditionGroupId": "cd-quest-main-w1-01-24-unlock",
@@ -2815,7 +2740,7 @@
             "titleLangId": "la-quest-main-w1-02-01-title",
             "descriptionLangId": "la-quest-main-w1-02-01-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-24",
             "order": 1
@@ -2830,7 +2755,7 @@
             "titleLangId": "la-quest-main-w1-02-02-title",
             "descriptionLangId": "la-quest-main-w1-02-02-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-01",
             "order": 1
@@ -2845,7 +2770,7 @@
             "titleLangId": "la-quest-main-w1-02-03-title",
             "descriptionLangId": "la-quest-main-w1-02-03-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-02",
             "order": 1
@@ -2860,7 +2785,7 @@
             "titleLangId": "la-quest-main-w1-02-04-title",
             "descriptionLangId": "la-quest-main-w1-02-04-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-03",
             "order": 1
@@ -2875,7 +2800,7 @@
             "titleLangId": "la-quest-main-w1-02-05-title",
             "descriptionLangId": "la-quest-main-w1-02-05-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-04",
             "order": 1
@@ -2890,7 +2815,7 @@
             "titleLangId": "la-quest-main-w1-02-06-title",
             "descriptionLangId": "la-quest-main-w1-02-06-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-05",
             "order": 1
@@ -2905,7 +2830,7 @@
             "titleLangId": "la-quest-main-w1-02-07-title",
             "descriptionLangId": "la-quest-main-w1-02-07-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-06",
             "order": 1
@@ -2920,7 +2845,7 @@
             "titleLangId": "la-quest-main-w1-02-08-title",
             "descriptionLangId": "la-quest-main-w1-02-08-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-07",
             "order": 1
@@ -2935,7 +2860,7 @@
             "titleLangId": "la-quest-main-w1-02-09-title",
             "descriptionLangId": "la-quest-main-w1-02-09-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-08",
             "unlockConditionGroupId": "cd-quest-main-w1-02-09-unlock",
@@ -2951,7 +2876,7 @@
             "titleLangId": "la-quest-main-w1-02-10-title",
             "descriptionLangId": "la-quest-main-w1-02-10-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-09",
             "order": 1
@@ -2966,7 +2891,7 @@
             "titleLangId": "la-quest-main-w1-02-11-title",
             "descriptionLangId": "la-quest-main-w1-02-11-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-10",
             "order": 1
@@ -2981,9 +2906,84 @@
             "titleLangId": "la-quest-main-w1-02-12-title",
             "descriptionLangId": "la-quest-main-w1-02-12-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a02",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-11",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-03-01",
+        "data": {
+            "id": "quest-main-w1-03-01",
+            "parkQuestChapterId": "quest_chapter-main-w1-03",
+            "number": 1,
+            "titleLangId": "la-quest-main-w1-03-01-title",
+            "descriptionLangId": "la-quest-main-w1-03-01-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-12",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-03-02",
+        "data": {
+            "id": "quest-main-w1-03-02",
+            "parkQuestChapterId": "quest_chapter-main-w1-03",
+            "number": 2,
+            "titleLangId": "la-quest-main-w1-03-02-title",
+            "descriptionLangId": "la-quest-main-w1-03-02-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-03-03",
+        "data": {
+            "id": "quest-main-w1-03-03",
+            "parkQuestChapterId": "quest_chapter-main-w1-03",
+            "number": 3,
+            "titleLangId": "la-quest-main-w1-03-03-title",
+            "descriptionLangId": "la-quest-main-w1-03-03-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-02",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-03-04",
+        "data": {
+            "id": "quest-main-w1-03-04",
+            "parkQuestChapterId": "quest_chapter-main-w1-03",
+            "number": 4,
+            "titleLangId": "la-quest-main-w1-03-04-title",
+            "descriptionLangId": "la-quest-main-w1-03-04-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-03",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-main-w1-03-05",
+        "data": {
+            "id": "quest-main-w1-03-05",
+            "parkQuestChapterId": "quest_chapter-main-w1-03",
+            "number": 5,
+            "titleLangId": "la-quest-main-w1-03-05-title",
+            "descriptionLangId": "la-quest-main-w1-03-05-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
+            "priority": 10000,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-04",
             "order": 1
         }
     },
@@ -2996,10 +2996,10 @@
             "titleLangId": "la-quest-area-a01-01-title",
             "descriptionLangId": "la-quest-area-a01-01-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-01",
-            "order": 1010
+            "order": 9290
         }
     },
     {
@@ -3011,10 +3011,10 @@
             "titleLangId": "la-quest-area-a01-02-title",
             "descriptionLangId": "la-quest-area-a01-02-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-02",
-            "order": 1020
+            "order": 9280
         }
     },
     {
@@ -3026,10 +3026,10 @@
             "titleLangId": "la-quest-area-a01-03-title",
             "descriptionLangId": "la-quest-area-a01-03-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-03",
-            "order": 1030
+            "order": 9270
         }
     },
     {
@@ -3041,10 +3041,10 @@
             "titleLangId": "la-quest-area-a01-04-title",
             "descriptionLangId": "la-quest-area-a01-04-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-04",
-            "order": 1040
+            "order": 9260
         }
     },
     {
@@ -3056,10 +3056,10 @@
             "titleLangId": "la-quest-area-a01-05-title",
             "descriptionLangId": "la-quest-area-a01-05-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-05",
-            "order": 1050
+            "order": 9250
         }
     },
     {
@@ -3071,10 +3071,10 @@
             "titleLangId": "la-quest-area-a01-06-title",
             "descriptionLangId": "la-quest-area-a01-06-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 810,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-06",
-            "order": 1005
+            "order": 9240
         }
     },
     {
@@ -3086,10 +3086,10 @@
             "titleLangId": "la-quest-area-a01-07-title",
             "descriptionLangId": "la-quest-area-a01-07-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-07",
-            "order": 1070
+            "order": 9230
         }
     },
     {
@@ -3101,10 +3101,10 @@
             "titleLangId": "la-quest-area-a01-08-title",
             "descriptionLangId": "la-quest-area-a01-08-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-08",
-            "order": 1080
+            "order": 9220
         }
     },
     {
@@ -3116,10 +3116,10 @@
             "titleLangId": "la-quest-area-a01-09-title",
             "descriptionLangId": "la-quest-area-a01-09-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-09",
-            "order": 1090
+            "order": 9210
         }
     },
     {
@@ -3131,10 +3131,10 @@
             "titleLangId": "la-quest-area-a01-10-title",
             "descriptionLangId": "la-quest-area-a01-10-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-10",
-            "order": 1100
+            "order": 9200
         }
     },
     {
@@ -3146,11 +3146,11 @@
             "titleLangId": "la-quest-area-a01-11-title",
             "descriptionLangId": "la-quest-area-a01-11-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-11",
             "unlockConditionGroupId": "cd-quest-area-a01-11-unlock",
-            "order": 1110
+            "order": 9190
         }
     },
     {
@@ -3162,10 +3162,10 @@
             "titleLangId": "la-quest-area-a01-12-title",
             "descriptionLangId": "la-quest-area-a01-12-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-12",
-            "order": 1120
+            "order": 9180
         }
     },
     {
@@ -3177,10 +3177,10 @@
             "titleLangId": "la-quest-area-a01-13-title",
             "descriptionLangId": "la-quest-area-a01-13-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-13",
-            "order": 1130
+            "order": 9170
         }
     },
     {
@@ -3192,11 +3192,11 @@
             "titleLangId": "la-quest-area-a01-14-title",
             "descriptionLangId": "la-quest-area-a01-14-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-14",
             "unlockConditionGroupId": "cd-quest-area-a01-14-unlock",
-            "order": 1140
+            "order": 9160
         }
     },
     {
@@ -3208,10 +3208,10 @@
             "titleLangId": "la-quest-area-a01-15-title",
             "descriptionLangId": "la-quest-area-a01-15-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-15",
-            "order": 1150
+            "order": 9150
         }
     },
     {
@@ -3223,11 +3223,11 @@
             "titleLangId": "la-quest-area-a01-16-title",
             "descriptionLangId": "la-quest-area-a01-16-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-16",
             "unlockConditionGroupId": "cd-quest-area-a01-16-unlock",
-            "order": 1160
+            "order": 9140
         }
     },
     {
@@ -3239,10 +3239,10 @@
             "titleLangId": "la-quest-area-a01-17-title",
             "descriptionLangId": "la-quest-area-a01-17-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-17",
-            "order": 1170
+            "order": 9130
         }
     },
     {
@@ -3254,10 +3254,10 @@
             "titleLangId": "la-quest-area-a01-18-title",
             "descriptionLangId": "la-quest-area-a01-18-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-18",
-            "order": 1180
+            "order": 9120
         }
     },
     {
@@ -3269,10 +3269,10 @@
             "titleLangId": "la-quest-area-a01-19-title",
             "descriptionLangId": "la-quest-area-a01-19-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-19",
-            "order": 1190
+            "order": 9110
         }
     },
     {
@@ -3284,10 +3284,10 @@
             "titleLangId": "la-quest-area-a01-22-title",
             "descriptionLangId": "la-quest-area-a01-22-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
-            "priority": 800,
+            "priority": 1100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest-area-a01-22",
-            "order": 1220
+            "order": 9080
         }
     },
     {
@@ -3300,7 +3300,7 @@
             "descriptionLangId": "la-quest-chr-03009-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03009",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3315,7 +3315,7 @@
             "descriptionLangId": "la-quest-chr-04001-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-04001",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3330,7 +3330,7 @@
             "descriptionLangId": "la-quest-chr-04002-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-04002",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3345,7 +3345,7 @@
             "descriptionLangId": "la-quest-chr-04003-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-04003",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3360,172 +3360,7 @@
             "descriptionLangId": "la-quest-chr-04007-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-04007",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-04010",
-        "data": {
-            "id": "quest-chr-04010",
-            "parkQuestChapterId": "quest_chapter-chr-04010",
-            "number": 45,
-            "titleLangId": "la-quest_chapter-chr-04010",
-            "descriptionLangId": "la-quest-chr-04010-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-04010",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-04012",
-        "data": {
-            "id": "quest-chr-04012",
-            "parkQuestChapterId": "quest_chapter-chr-04012",
-            "number": 46,
-            "titleLangId": "la-quest_chapter-chr-04012",
-            "descriptionLangId": "la-quest-chr-04012-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-04012",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-04013",
-        "data": {
-            "id": "quest-chr-04013",
-            "parkQuestChapterId": "quest_chapter-chr-04013",
-            "number": 47,
-            "titleLangId": "la-quest_chapter-chr-04013",
-            "descriptionLangId": "la-quest-chr-04013-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-04013",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-04014",
-        "data": {
-            "id": "quest-chr-04014",
-            "parkQuestChapterId": "quest_chapter-chr-04014",
-            "number": 48,
-            "titleLangId": "la-quest_chapter-chr-04014",
-            "descriptionLangId": "la-quest-chr-04014-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-04014",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-04015",
-        "data": {
-            "id": "quest-chr-04015",
-            "parkQuestChapterId": "quest_chapter-chr-04015",
-            "number": 49,
-            "titleLangId": "la-quest_chapter-chr-04015",
-            "descriptionLangId": "la-quest-chr-04015-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-04015",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-04016",
-        "data": {
-            "id": "quest-chr-04016",
-            "parkQuestChapterId": "quest_chapter-chr-04016",
-            "number": 50,
-            "titleLangId": "la-quest_chapter-chr-04016",
-            "descriptionLangId": "la-quest-chr-04016-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-04016",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-04017",
-        "data": {
-            "id": "quest-chr-04017",
-            "parkQuestChapterId": "quest_chapter-chr-04017",
-            "number": 51,
-            "titleLangId": "la-quest_chapter-chr-04017",
-            "descriptionLangId": "la-quest-chr-04017-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-04017",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-06002",
-        "data": {
-            "id": "quest-chr-06002",
-            "parkQuestChapterId": "quest_chapter-chr-06002",
-            "number": 53,
-            "titleLangId": "la-quest_chapter-chr-06002",
-            "descriptionLangId": "la-quest-chr-06002-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-06002",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-06003",
-        "data": {
-            "id": "quest-chr-06003",
-            "parkQuestChapterId": "quest_chapter-chr-06003",
-            "number": 54,
-            "titleLangId": "la-quest_chapter-chr-06003",
-            "descriptionLangId": "la-quest-chr-06003-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-06003",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-06004",
-        "data": {
-            "id": "quest-chr-06004",
-            "parkQuestChapterId": "quest_chapter-chr-06004",
-            "number": 55,
-            "titleLangId": "la-quest_chapter-chr-06004",
-            "descriptionLangId": "la-quest-chr-06004-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-06004",
-            "priority": 900,
-            "areaGroupingId": "area_group-a01",
-            "order": 1
-        }
-    },
-    {
-        "id": "quest-chr-06005",
-        "data": {
-            "id": "quest-chr-06005",
-            "parkQuestChapterId": "quest_chapter-chr-06005",
-            "number": 56,
-            "titleLangId": "la-quest_chapter-chr-06005",
-            "descriptionLangId": "la-quest-chr-06005-description",
-            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
-            "playCharacterId": "chr-06005",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3542,6 +3377,171 @@
             "priority": 100,
             "areaGroupingId": "area_group-a01",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-11",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-04010",
+        "data": {
+            "id": "quest-chr-04010",
+            "parkQuestChapterId": "quest_chapter-chr-04010",
+            "number": 45,
+            "titleLangId": "la-quest_chapter-chr-04010",
+            "descriptionLangId": "la-quest-chr-04010-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-04010",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-04012",
+        "data": {
+            "id": "quest-chr-04012",
+            "parkQuestChapterId": "quest_chapter-chr-04012",
+            "number": 46,
+            "titleLangId": "la-quest_chapter-chr-04012",
+            "descriptionLangId": "la-quest-chr-04012-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-04012",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-04013",
+        "data": {
+            "id": "quest-chr-04013",
+            "parkQuestChapterId": "quest_chapter-chr-04013",
+            "number": 47,
+            "titleLangId": "la-quest_chapter-chr-04013",
+            "descriptionLangId": "la-quest-chr-04013-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-04013",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-04014",
+        "data": {
+            "id": "quest-chr-04014",
+            "parkQuestChapterId": "quest_chapter-chr-04014",
+            "number": 48,
+            "titleLangId": "la-quest_chapter-chr-04014",
+            "descriptionLangId": "la-quest-chr-04014-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-04014",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-04015",
+        "data": {
+            "id": "quest-chr-04015",
+            "parkQuestChapterId": "quest_chapter-chr-04015",
+            "number": 49,
+            "titleLangId": "la-quest_chapter-chr-04015",
+            "descriptionLangId": "la-quest-chr-04015-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-04015",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-04016",
+        "data": {
+            "id": "quest-chr-04016",
+            "parkQuestChapterId": "quest_chapter-chr-04016",
+            "number": 50,
+            "titleLangId": "la-quest_chapter-chr-04016",
+            "descriptionLangId": "la-quest-chr-04016-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-04016",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-04017",
+        "data": {
+            "id": "quest-chr-04017",
+            "parkQuestChapterId": "quest_chapter-chr-04017",
+            "number": 51,
+            "titleLangId": "la-quest_chapter-chr-04017",
+            "descriptionLangId": "la-quest-chr-04017-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-04017",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-06002",
+        "data": {
+            "id": "quest-chr-06002",
+            "parkQuestChapterId": "quest_chapter-chr-06002",
+            "number": 53,
+            "titleLangId": "la-quest_chapter-chr-06002",
+            "descriptionLangId": "la-quest-chr-06002-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-06002",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-06003",
+        "data": {
+            "id": "quest-chr-06003",
+            "parkQuestChapterId": "quest_chapter-chr-06003",
+            "number": 54,
+            "titleLangId": "la-quest_chapter-chr-06003",
+            "descriptionLangId": "la-quest-chr-06003-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-06003",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-06004",
+        "data": {
+            "id": "quest-chr-06004",
+            "parkQuestChapterId": "quest_chapter-chr-06004",
+            "number": 55,
+            "titleLangId": "la-quest_chapter-chr-06004",
+            "descriptionLangId": "la-quest-chr-06004-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-06004",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
+            "order": 1
+        }
+    },
+    {
+        "id": "quest-chr-06005",
+        "data": {
+            "id": "quest-chr-06005",
+            "parkQuestChapterId": "quest_chapter-chr-06005",
+            "number": 56,
+            "titleLangId": "la-quest_chapter-chr-06005",
+            "descriptionLangId": "la-quest-chr-06005-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
+            "playCharacterId": "chr-06005",
+            "priority": 9000,
+            "areaGroupingId": "area_group-a01",
             "order": 1
         }
     },
@@ -3569,7 +3569,7 @@
             "titleLangId": "la-quest-main-w1-01-01-title",
             "descriptionLangId": "la-quest-main-w1-01-01-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_MAIN",
-            "priority": 1000,
+            "priority": 10000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3614,7 +3614,7 @@
             "descriptionLangId": "la-quest-chr-00001-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00001",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3629,7 +3629,7 @@
             "descriptionLangId": "la-quest-chr-00002-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00002",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3644,7 +3644,7 @@
             "descriptionLangId": "la-quest-chr-00004-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00004",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3659,7 +3659,7 @@
             "descriptionLangId": "la-quest-chr-00005-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00005",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3674,7 +3674,7 @@
             "descriptionLangId": "la-quest-chr-00006-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00006",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3689,7 +3689,7 @@
             "descriptionLangId": "la-quest-chr-00007-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00007",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3704,7 +3704,7 @@
             "descriptionLangId": "la-quest-chr-00010-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00010",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3719,7 +3719,7 @@
             "descriptionLangId": "la-quest-chr-00011-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00011",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3734,7 +3734,7 @@
             "descriptionLangId": "la-quest-chr-00012-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00012",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3749,7 +3749,7 @@
             "descriptionLangId": "la-quest-chr-00013-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00013",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3764,7 +3764,7 @@
             "descriptionLangId": "la-quest-chr-00014-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00014",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3779,7 +3779,7 @@
             "descriptionLangId": "la-quest-chr-00015-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00015",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3794,7 +3794,7 @@
             "descriptionLangId": "la-quest-chr-00016-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00016",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3809,7 +3809,7 @@
             "descriptionLangId": "la-quest-chr-00017-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00017",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3824,7 +3824,7 @@
             "descriptionLangId": "la-quest-chr-00018-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00018",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3839,7 +3839,7 @@
             "descriptionLangId": "la-quest-chr-00019-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00019",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3854,7 +3854,7 @@
             "descriptionLangId": "la-quest-chr-00021-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00021",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3869,7 +3869,7 @@
             "descriptionLangId": "la-quest-chr-00022-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00022",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3884,7 +3884,7 @@
             "descriptionLangId": "la-quest-chr-00023-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00023",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3899,7 +3899,7 @@
             "descriptionLangId": "la-quest-chr-00026-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00026",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3914,7 +3914,7 @@
             "descriptionLangId": "la-quest-chr-00027-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00027",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3929,7 +3929,7 @@
             "descriptionLangId": "la-quest-chr-00028-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00028",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3944,7 +3944,7 @@
             "descriptionLangId": "la-quest-chr-00030-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00030",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3959,7 +3959,7 @@
             "descriptionLangId": "la-quest-chr-00031-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00031",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3974,7 +3974,7 @@
             "descriptionLangId": "la-quest-chr-00032-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00032",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -3989,7 +3989,7 @@
             "descriptionLangId": "la-quest-chr-00034-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00034",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4004,7 +4004,7 @@
             "descriptionLangId": "la-quest-chr-00035-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00035",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4019,7 +4019,7 @@
             "descriptionLangId": "la-quest-chr-00036-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00036",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4034,7 +4034,7 @@
             "descriptionLangId": "la-quest-chr-00037-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00037",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4049,7 +4049,7 @@
             "descriptionLangId": "la-quest-chr-00039-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-00039",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4064,7 +4064,7 @@
             "descriptionLangId": "la-quest-chr-03001-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03001",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4079,7 +4079,7 @@
             "descriptionLangId": "la-quest-chr-03002-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03002",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4094,7 +4094,7 @@
             "descriptionLangId": "la-quest-chr-03003-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03003",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4109,7 +4109,7 @@
             "descriptionLangId": "la-quest-chr-03004-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03004",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4124,7 +4124,7 @@
             "descriptionLangId": "la-quest-chr-03005-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03005",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4139,7 +4139,7 @@
             "descriptionLangId": "la-quest-chr-03006-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03006",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4154,7 +4154,7 @@
             "descriptionLangId": "la-quest-chr-03007-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03007",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }
@@ -4169,7 +4169,7 @@
             "descriptionLangId": "la-quest-chr-03008-description",
             "type": "ParkQuestType_PARK_QUEST_TYPE_CHARACTER",
             "playCharacterId": "chr-03008",
-            "priority": 900,
+            "priority": 9000,
             "areaGroupingId": "area_group-a01",
             "order": 1
         }

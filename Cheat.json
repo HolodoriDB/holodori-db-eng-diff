@@ -78,17 +78,6 @@
     },
     {
         "type": 1501,
-        "severity_type": 2,
-        "parameter_type": 105004,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
-            "threshold": "5500"
-        }
-    },
-    {
-        "type": 1501,
         "severity_type": 1,
         "parameter_type": 105003,
         "data": {
@@ -96,26 +85,6 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_MISCHIEF_TEAM_SELF_SCORE",
             "threshold": "4500"
-        }
-    },
-    {
-        "type": 1501,
-        "severity_type": 1,
-        "parameter_type": 105004,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
-            "threshold": "4500"
-        }
-    },
-    {
-        "type": 1303,
-        "severity_type": 2,
-        "parameter_type": 103004,
-        "data": {
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "threshold": "25000"
         }
     },
     {
@@ -127,17 +96,6 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
             "threshold": "1500"
-        }
-    },
-    {
-        "type": 1300,
-        "severity_type": 1,
-        "parameter_type": 103000,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
-            "threshold": "2000"
         }
     },
     {
@@ -720,15 +678,6 @@
         }
     },
     {
-        "type": 1303,
-        "severity_type": 1,
-        "parameter_type": 103004,
-        "data": {
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
-            "threshold": "20000"
-        }
-    },
-    {
         "type": 1300,
         "severity_type": 2,
         "parameter_type": 103002,
@@ -786,6 +735,101 @@
         "data": {
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "threshold": "3000"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 2,
+        "parameter_type": 105004,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
+            "threshold": "6200"
+        }
+    },
+    {
+        "type": 1501,
+        "severity_type": 1,
+        "parameter_type": 105004,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_CHASE_RESULT_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_CHASE_RESULT_SCORE_TAMPERING_PATROL_TEAM_SELF_SCORE",
+            "threshold": "5000"
+        }
+    },
+    {
+        "type": 1303,
+        "severity_type": 2,
+        "parameter_type": 103004,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "threshold": "32000"
+        }
+    },
+    {
+        "type": 1303,
+        "severity_type": 1,
+        "parameter_type": 103004,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "25000"
+        }
+    },
+    {
+        "type": 1300,
+        "severity_type": 1,
+        "parameter_type": 103000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_COOKING_PUZZLE_PER_RECIPE_COMPLETION_TIME_MILLISECOND",
+            "threshold": "2500"
+        }
+    },
+    {
+        "type": 1600,
+        "severity_type": 1,
+        "parameter_type": 106003,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_COUNT",
+            "threshold": "3"
+        }
+    },
+    {
+        "type": 1600,
+        "severity_type": 1,
+        "parameter_type": 106002,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_MOVE_SPEED_MAX_PERMIL",
+            "threshold": "50000"
+        }
+    },
+    {
+        "type": 1600,
+        "severity_type": 1,
+        "parameter_type": 106001,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_COUNT",
+            "threshold": "5"
+        }
+    },
+    {
+        "type": 1600,
+        "severity_type": 1,
+        "parameter_type": 106000,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_SPLASH_BALL_MISMATCH",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_DISTANCE_PERMIL",
+            "threshold": "25000"
         }
     }
 ]
