@@ -1942,6 +1942,13 @@
         }
     },
     {
+        "client_id": 4244683426502,
+        "data": {
+            "clientId": "4244683426502",
+            "text": "Received {0} items."
+        }
+    },
+    {
         "client_id": 4293842165760,
         "data": {
             "clientId": "4293842165760",
@@ -4661,6 +4668,13 @@
         }
     },
     {
+        "client_id": 45790967773259,
+        "data": {
+            "clientId": "45790967773259",
+            "text": "Account linking"
+        }
+    },
+    {
         "client_id": 45859914899456,
         "data": {
             "clientId": "45859914899456",
@@ -5064,6 +5078,13 @@
         "data": {
             "clientId": "54279099306007",
             "text": "Overall Power"
+        }
+    },
+    {
+        "client_id": 54390697364715,
+        "data": {
+            "clientId": "54390697364715",
+            "text": "Because the connection was lost, other players' records have not been reflected. We recommend playing in a stable network environment."
         }
     },
     {
@@ -5694,6 +5715,13 @@
         "data": {
             "clientId": "65618403525255",
             "text": "Waiting for the Host's response."
+        }
+    },
+    {
+        "client_id": 65634157373528,
+        "data": {
+            "clientId": "65634157373528",
+            "text": "Link"
         }
     },
     {
@@ -6627,6 +6655,13 @@
         }
     },
     {
+        "client_id": 83897986141864,
+        "data": {
+            "clientId": "83897986141864",
+            "text": "Don't link"
+        }
+    },
+    {
         "client_id": 83941326221819,
         "data": {
             "clientId": "83941326221819",
@@ -6939,6 +6974,13 @@
         "data": {
             "clientId": "92679335202344",
             "text": "Confirm Pre-Live Settings"
+        }
+    },
+    {
+        "client_id": 92826337835270,
+        "data": {
+            "clientId": "92826337835270",
+            "text": "Would you like to link your Google Play account?\\n\\nBy linking a Google Play account,\\nyou will be able to start the game smoothly\\non devices that are linked with that\\nGoogle Play account.\\n\\nOnly one set of game data can be linked to a Google Play account."
         }
     },
     {
@@ -8324,6 +8366,13 @@
         "data": {
             "clientId": "121810089525473",
             "text": "Cancel"
+        }
+    },
+    {
+        "client_id": 121874690335517,
+        "data": {
+            "clientId": "121874690335517",
+            "text": "Due to timeout, Random was selected."
         }
     },
     {
@@ -11706,6 +11755,13 @@
         }
     },
     {
+        "client_id": 194363935580640,
+        "data": {
+            "clientId": "194363935580640",
+            "text": "Claim All"
+        }
+    },
+    {
         "client_id": 194522025353216,
         "data": {
             "clientId": "194522025353216",
@@ -14898,6 +14954,13 @@
         }
     },
     {
+        "client_id": 262333984965941,
+        "data": {
+            "clientId": "262333984965941",
+            "text": "* The above contents are subject to change in the future. The values shown are for when Level/Bloom Stage is at maximum."
+        }
+    },
+    {
         "client_id": 262530360242967,
         "data": {
             "clientId": "262530360242967",
@@ -16978,7 +17041,7 @@
         "client_id": 415997836025856,
         "data": {
             "clientId": "415997836025856",
-            "text": "No matching Chart found."
+            "text": "No corresponding creator found."
         }
     },
     {
@@ -17111,7 +17174,7 @@
         "client_id": 426672222461952,
         "data": {
             "clientId": "426672222461952",
-            "text": "Only the latest 100 are shown."
+            "text": "Only the latest {0} are shown."
         }
     },
     {
@@ -17868,6 +17931,13 @@
         "data": {
             "clientId": "498702638276608",
             "text": "Cancel"
+        }
+    },
+    {
+        "client_id": 498737727292322,
+        "data": {
+            "clientId": "498737727292322",
+            "text": "Your Google Play account's game data will be overwritten and cannot be restored. Are you sure you want to proceed?"
         }
     },
     {

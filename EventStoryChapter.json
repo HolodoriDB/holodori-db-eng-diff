@@ -148,5 +148,15 @@
             "assetId": "marathon_event-relay-003-chapter-04",
             "priority": 26101904
         }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-normal-008-chapter-01",
+        "data": {
+            "id": "event_story_chapter-marathon_event-normal-008-chapter-01",
+            "titleLangId": "la-event_story_chapter-marathon_event-normal-008-chapter-01",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-normal-008",
+            "assetId": "event-008",
+            "priority": 26102901
+        }
     }
 ]

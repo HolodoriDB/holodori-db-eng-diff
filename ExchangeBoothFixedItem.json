@@ -894,6 +894,236 @@
         }
     },
     {
+        "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-normal-008",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-facility-a01-exchangebooth2-marathon_event-normal-008",
+            "exchangeBoothId": "exchange_booth-facility-a01-exchangebooth2",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_level_up-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_level_up-001",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 50
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_level_up-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_level_up-002",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 100
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_level_up-003",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_level_up-003",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01"
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_limit_break-cmn-sr-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_limit_break-cmn-sr-001",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_limit_break-cmn-sr-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-card_limit_break-cmn-sr-002",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 2
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-facility-area_a01-001-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-facility-area_a01-001-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-facility-area_a01-001-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-facility-area_a01-001-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-facility-area_a01-002-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-facility-area_a01-002-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-facility-area_a01-002-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-facility-area_a01-002-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-gold-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-gold-001",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 50
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-gold-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-gold-002",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 100
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-gold-003",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-gold-003",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01"
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-mini-game-chase-coin",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-mini-game-chase-coin",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 20
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-mini_game_bet_coin",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-mini_game_bet_coin",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 20
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 20
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_allmember-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_allmember-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 45
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_allmember-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_allmember-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_card-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_card-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 45
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_card-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_card-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_content-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_content-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 45
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_content-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_content-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_leader-1",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_leader-1",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 45
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_leader-2",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-item-skill_tree_leader-2",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 30
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-poster-marathon_event-normal-008-chapter-01",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-008-chapter-01-poster-marathon_event-normal-008-chapter-01",
+            "exchangeBoothId": "exchange_booth-marathon_event-normal-008-chapter-01",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00001-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00001-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00001-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00002-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00002-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00002-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00004-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00004-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00004-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
         "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-live_skin-001",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-live_skin-001",
@@ -906,6 +1136,14 @@
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-park_emotion-001",
             "exchangeBoothId": "exchange_booth-membership-chr-00036-park_emotion",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00005-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00005-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00005-emblem",
             "purchaseLimitQuantity": 1
         }
     },
@@ -947,6 +1185,14 @@
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-001-chapter-01-item-card_limit_break-cmn-sr-001",
             "exchangeBoothId": "exchange_booth-marathon_event-normal-001-chapter-01",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00006-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00006-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00006-emblem",
             "purchaseLimitQuantity": 1
         }
     },
@@ -999,11 +1245,35 @@
         }
     },
     {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00007-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00007-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00007-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00010-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00010-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00010-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
         "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-001-chapter-01-item-card_level_up-002",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-001-chapter-01-item-card_level_up-002",
             "exchangeBoothId": "exchange_booth-marathon_event-normal-001-chapter-01",
             "purchaseLimitQuantity": 100
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00011-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00011-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00011-emblem",
+            "purchaseLimitQuantity": 1
         }
     },
     {
@@ -1143,6 +1413,14 @@
         }
     },
     {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00012-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00012-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00012-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
         "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_1-2",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth2-item-card_limit_break-attribute_1-2",
@@ -1172,6 +1450,14 @@
         }
     },
     {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00013-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00013-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00013-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
         "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_level_up-003",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_level_up-003",
@@ -1183,6 +1469,14 @@
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-normal-002-chapter-01-item-card_limit_break-cmn-sr-001",
             "exchangeBoothId": "exchange_booth-marathon_event-normal-002-chapter-01",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00014-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00014-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00014-emblem",
             "purchaseLimitQuantity": 1
         }
     },
@@ -1235,10 +1529,26 @@
         }
     },
     {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00015-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00015-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00015-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
         "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-park_emotion-002",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-park_emotion-002",
             "exchangeBoothId": "exchange_booth-membership-chr-00036-park_emotion",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00016-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00016-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00016-emblem",
             "purchaseLimitQuantity": 1
         }
     },
@@ -1395,6 +1705,14 @@
         }
     },
     {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00017-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00017-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00017-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
         "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-001-chapter-01-item-card_level_up-003",
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-001-chapter-01-item-card_level_up-003",
@@ -1406,6 +1724,14 @@
         "data": {
             "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-001-chapter-01-item-card_limit_break-cmn-sr-001",
             "exchangeBoothId": "exchange_booth-marathon_event-relay-001-all",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00018-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00018-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00018-emblem",
             "purchaseLimitQuantity": 1
         }
     },
@@ -1462,6 +1788,14 @@
             "id": "exchange_booth_fixed_item-exchange_booth-marathon_event-relay-001-chapter-01-item-gold-001",
             "exchangeBoothId": "exchange_booth-marathon_event-relay-001-all",
             "purchaseLimitQuantity": 50
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00019-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00019-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00019-emblem",
+            "purchaseLimitQuantity": 1
         }
     },
     {
@@ -1925,10 +2259,346 @@
         }
     },
     {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00021-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00021-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00021-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00022-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00022-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00022-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00023-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00023-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00023-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00026-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00026-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00026-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00027-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00027-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00027-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00028-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00028-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00028-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00030-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00030-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00030-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00031-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00031-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00031-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00032-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00032-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00032-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00034-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00034-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00034-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00035-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00035-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00035-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00036-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00036-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00037-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00037-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00037-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00039-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-00039-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-00039-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03001-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03001-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03001-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03002-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03002-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03002-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03003-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03003-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03003-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03004-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03004-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03004-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03005-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03005-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03005-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03006-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03006-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03006-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03007-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03007-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03007-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03008-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03008-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03008-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03009-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-03009-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-03009-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04001-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04001-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04001-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04002-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04002-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04002-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04003-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04003-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04003-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04007-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04007-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04007-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04010-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04010-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04010-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04012-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04012-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04012-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04013-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04013-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04013-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04014-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04014-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04014-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
         "id": "exchange_booth_fixed_item-gacha-area03-260929-011",
         "data": {
             "id": "exchange_booth_fixed_item-gacha-area03-260929-011",
             "exchangeBoothId": "exchange_booth-gacha-area03-260929",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04015-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-04015-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-04015-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06002-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06002-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-06002-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06003-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06003-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-06003-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06004-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06004-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-06004-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06005-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-06005-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-06005-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-80001-emblem-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-exchange_booth_group-membership_chr-80001-emblem-002",
+            "exchangeBoothId": "exchange_booth-membership-chr-80001-emblem",
+            "purchaseLimitQuantity": 1
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-gacha-pickup-261029-001",
+        "data": {
+            "id": "exchange_booth_fixed_item-gacha-pickup-261029-001",
+            "exchangeBoothId": "exchange_booth-gacha-pickup-261029",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-gacha-pickup-261029-002",
+        "data": {
+            "id": "exchange_booth_fixed_item-gacha-pickup-261029-002",
+            "exchangeBoothId": "exchange_booth-gacha-pickup-261029",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-gacha-pickup-261029-003",
+        "data": {
+            "id": "exchange_booth_fixed_item-gacha-pickup-261029-003",
+            "exchangeBoothId": "exchange_booth-gacha-pickup-261029",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-gacha-pickup-261029-004",
+        "data": {
+            "id": "exchange_booth_fixed_item-gacha-pickup-261029-004",
+            "exchangeBoothId": "exchange_booth-gacha-pickup-261029",
+            "purchaseLimitQuantity": 10
+        }
+    },
+    {
+        "id": "exchange_booth_fixed_item-gacha-pickup-261029-005",
+        "data": {
+            "id": "exchange_booth_fixed_item-gacha-pickup-261029-005",
+            "exchangeBoothId": "exchange_booth-gacha-pickup-261029",
             "purchaseLimitQuantity": 10
         }
     },

@@ -13726,6 +13726,1300 @@
         }
     },
     {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_character_get_count",
+        "threshold": 20,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_character_get_count",
+            "threshold": "20",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_character_get_count",
+        "threshold": 30,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_character_get_count",
+            "threshold": "30",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_character_get_count",
+        "threshold": 40,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_character_get_count",
+            "threshold": "40",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_1-100",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_character_level_sum",
+        "threshold": 100,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_character_level_sum",
+            "threshold": "100",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_character_level_sum",
+        "threshold": 200,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_character_level_sum",
+            "threshold": "200",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_character_level_sum",
+        "threshold": 300,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_character_level_sum",
+            "threshold": "300",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+        "threshold": 100,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+            "threshold": "100",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+        "threshold": 125,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+            "threshold": "125",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+        "threshold": 75,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_live_clear_music_count",
+            "threshold": "75",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gacha_ticket-cmn-01",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_live_highest_score",
+        "threshold": 1000000,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_live_highest_score",
+            "threshold": "1000000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_live_highest_score",
+        "threshold": 500000,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_live_highest_score",
+            "threshold": "500000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_live_highest_score",
+        "threshold": 700000,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_live_highest_score",
+            "threshold": "700000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+        "threshold": 200,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+            "threshold": "200",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+        "threshold": 225,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+            "threshold": "225",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+        "threshold": 250,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-absolute_skill_tree_release_count",
+            "threshold": "250",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_live_play_count",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_live_play_count",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_live_play_count",
+        "threshold": 20,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_live_play_count",
+            "threshold": "20",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_live_play_count",
+        "threshold": 30,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_live_play_count",
+            "threshold": "30",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_live_play_count",
+        "threshold": 5,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_live_play_count",
+            "threshold": "5",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+        "threshold": 100,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+            "threshold": "100",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+        "threshold": 200,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+            "threshold": "200",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+        "threshold": 300,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+            "threshold": "300",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+        "threshold": 50,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+            "threshold": "50",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+        "threshold": 500,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_mini_game_stamina_consumption",
+            "threshold": "500",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-selectable_reward_box-item-card_limit_break-attribute_2-10",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_mission_clear_count-mission_grp-training_support-261105",
+        "threshold": 30,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_mission_clear_count-mission_grp-training_support-261105",
+            "threshold": "30",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "20000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "20000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_park_present_receive_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_park_present_receive_count",
+            "threshold": "1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_park_present_receive_count",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_park_present_receive_count",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_park_present_receive_count",
+        "threshold": 5,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_park_present_receive_count",
+            "threshold": "5",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_work_finish_count",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_work_finish_count",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_work_finish_count",
+        "threshold": 20,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_work_finish_count",
+            "threshold": "20",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "5"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-event_mission-training_support-261105-increment_work_finish_count",
+        "threshold": 5,
+        "data": {
+            "missionId": "mission-event_mission-training_support-261105-increment_work_finish_count",
+            "threshold": "5",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "30"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "10000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "10000"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-daily-live_play_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-daily-live_play_count",
+            "threshold": "1",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-daily-live_stamina_consumption",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-daily-live_stamina_consumption",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "300"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-live_clear_count",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-live_clear_count",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "750"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-live_clear_count",
+        "threshold": 5,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-live_clear_count",
+            "threshold": "5",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-live_play_count",
+        "threshold": 10,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-live_play_count",
+            "threshold": "10",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "700"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-live_play_count",
+        "threshold": 25,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-live_play_count",
+            "threshold": "25",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "700"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-live_play_count",
+        "threshold": 5,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-live_play_count",
+            "threshold": "5",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-live_play_count",
+        "threshold": 50,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-live_play_count",
+            "threshold": "50",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-music_release",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 10000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "10000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 100000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "100000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 1000000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "1000000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 200000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "200000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "750"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 25000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "25000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 300000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "300000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "750"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 400000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "400000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "750"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 50000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "50000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 500000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "500000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+        "threshold": 750000,
+        "data": {
+            "missionId": "mission-marathon_event-normal-008-chapter-01-marathon_score_quantity",
+            "threshold": "750000",
+            "rewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-event_badge-marathon_event-normal-008-chapter-01",
+                    "quantity": "1000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "1"
+                }
+            ]
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-daily-increment_card_level_up_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-missionpass-261101-daily-increment_card_level_up_count",
+            "threshold": "1",
+            "rewardMissionPassPointQuantity": "20"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-daily-increment_drop_item_get_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-missionpass-261101-daily-increment_drop_item_get_count",
+            "threshold": "1",
+            "rewardMissionPassPointQuantity": "20"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-daily-increment_live_play_count",
+        "threshold": 3,
+        "data": {
+            "missionId": "mission-missionpass-261101-daily-increment_live_play_count",
+            "threshold": "3",
+            "rewardMissionPassPointQuantity": "50"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-daily-increment_mini_game_play_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-missionpass-261101-daily-increment_mini_game_play_count",
+            "threshold": "1",
+            "rewardMissionPassPointQuantity": "30"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-daily-increment_multi_live_play_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-missionpass-261101-daily-increment_multi_live_play_count",
+            "threshold": "1",
+            "rewardMissionPassPointQuantity": "20"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-daily-increment_park_present_receive_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-missionpass-261101-daily-increment_park_present_receive_count",
+            "threshold": "1",
+            "rewardMissionPassPointQuantity": "20"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-daily-increment_park_quest_clear_count-daily",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-missionpass-261101-daily-increment_park_quest_clear_count-daily",
+            "threshold": "1",
+            "rewardMissionPassPointQuantity": "40"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-daily-increment_work_start_count",
+        "threshold": 1,
+        "data": {
+            "missionId": "mission-missionpass-261101-daily-increment_work_start_count",
+            "threshold": "1",
+            "rewardMissionPassPointQuantity": "20"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-season-absolute_character_level_sum",
+        "threshold": 100,
+        "data": {
+            "missionId": "mission-missionpass-261101-season-absolute_character_level_sum",
+            "threshold": "100",
+            "rewardMissionPassPointQuantity": "200"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-season-absolute_character_level_sum",
+        "threshold": 150,
+        "data": {
+            "missionId": "mission-missionpass-261101-season-absolute_character_level_sum",
+            "threshold": "150",
+            "rewardMissionPassPointQuantity": "300"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-season-absolute_facility_level_up_count-area_group-a03-facility-a03-station",
+        "threshold": 2,
+        "data": {
+            "missionId": "mission-missionpass-261101-season-absolute_facility_level_up_count-area_group-a03-facility-a03-station",
+            "threshold": "2",
+            "rewardMissionPassPointQuantity": "200"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-season-absolute_music_highest_score_rating_sum",
+        "threshold": 3000,
+        "data": {
+            "missionId": "mission-missionpass-261101-season-absolute_music_highest_score_rating_sum",
+            "threshold": "3000",
+            "rewardMissionPassPointQuantity": "200"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-season-absolute_music_highest_score_rating_sum",
+        "threshold": 5000,
+        "data": {
+            "missionId": "mission-missionpass-261101-season-absolute_music_highest_score_rating_sum",
+            "threshold": "5000",
+            "rewardMissionPassPointQuantity": "300"
+        }
+    },
+    {
+        "mission_id": "mission-missionpass-261101-season-absolute_music_highest_score_rating_sum",
+        "threshold": 7500,
+        "data": {
+            "missionId": "mission-missionpass-261101-season-absolute_music_highest_score_rating_sum",
+            "threshold": "7500",
+            "rewardMissionPassPointQuantity": "400"
+        }
+    },
+    {
         "mission_id": "mission-achievement-common-absolute_skill_tree_release_count",
         "threshold": 1900,
         "data": {
