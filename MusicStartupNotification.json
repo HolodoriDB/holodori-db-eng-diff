@@ -905,5 +905,74 @@
             "endTime": "1794599999000",
             "order": 738971604
         }
+    },
+    {
+        "id": "music_startup_notification-m0394",
+        "data": {
+            "id": "music_startup_notification-m0394",
+            "type": "MusicStartupNotificationType_MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+            "musicId": "m0394",
+            "startTime": "1793934000000",
+            "endTime": "1795291199000",
+            "order": 738894435
+        }
+    },
+    {
+        "id": "music_startup_notification-m0396",
+        "data": {
+            "id": "music_startup_notification-m0396",
+            "type": "MusicStartupNotificationType_MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+            "musicId": "m0396",
+            "startTime": "1793934000000",
+            "endTime": "1795291199000",
+            "order": 738894634
+        }
+    },
+    {
+        "id": "music_startup_notification-m0528",
+        "data": {
+            "id": "music_startup_notification-m0528",
+            "type": "MusicStartupNotificationType_MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+            "musicId": "m0528",
+            "startTime": "1793934000000",
+            "endTime": "1795291199000",
+            "order": 738894635
+        }
+    },
+    {
+        "id": "music_startup_notification-m0550",
+        "data": {
+            "id": "music_startup_notification-m0550",
+            "type": "MusicStartupNotificationType_MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+            "musicId": "m0550",
+            "startTime": "1793934000000",
+            "endTime": "1795291199000",
+            "order": 738894636
+        }
+    },
+    {
+        "id": "music_startup_notification-m0552",
+        "data": {
+            "id": "music_startup_notification-m0552",
+            "type": "MusicStartupNotificationType_MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC",
+            "musicId": "m0552",
+            "startTime": "1793977200000",
+            "endTime": "1795377599000",
+            "order": 738893640
+        }
+    },
+    {
+        "id": "music_startup_notification_mv-m0068",
+        "data": {
+            "id": "music_startup_notification_mv-m0068",
+            "type": "MusicStartupNotificationType_MUSIC_STARTUP_NOTIFICATION_TYPE_MUSIC_MV",
+            "musicId": "m0068",
+            "musicMvNumbers": [
+                1
+            ],
+            "startTime": "1793872800000",
+            "endTime": "1795204799000",
+            "order": 738895659
+        }
     }
 ]

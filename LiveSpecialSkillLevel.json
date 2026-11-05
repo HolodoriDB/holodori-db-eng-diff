@@ -920,6 +920,78 @@
         }
     },
     {
+        "live_special_skill_id": "live_special_skill-card-03001-5-uniq-0114-00",
+        "level": 1,
+        "data": {
+            "liveSpecialSkillId": "live_special_skill-card-03001-5-uniq-0114-00",
+            "level": 1,
+            "liveActiveSkillEffectGroupId": "live_special_skill_effect-score_up_effect_up_permil_up-1200",
+            "additionalLiveSkillTriggerGroupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2",
+            "additionalLiveActiveSkillEffectGroupId": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-450",
+            "effectDurationMillisecond": 10000,
+            "descriptionLangId": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.1-description"
+        }
+    },
+    {
+        "live_special_skill_id": "live_special_skill-card-03001-5-uniq-0114-00",
+        "level": 2,
+        "data": {
+            "liveSpecialSkillId": "live_special_skill-card-03001-5-uniq-0114-00",
+            "level": 2,
+            "liveActiveSkillEffectGroupId": "live_special_skill_effect-score_up_effect_up_permil_up-1450",
+            "additionalLiveSkillTriggerGroupId": "live_skill_trigger-deck_card_character_grouping-grp-indonesia-gen_1-2",
+            "additionalLiveActiveSkillEffectGroupId": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-550",
+            "effectDurationMillisecond": 10000,
+            "descriptionLangId": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.2-description"
+        }
+    },
+    {
+        "live_special_skill_id": "live_special_skill-card-03002-5-uniq-0113-00",
+        "level": 1,
+        "data": {
+            "liveSpecialSkillId": "live_special_skill-card-03002-5-uniq-0113-00",
+            "level": 1,
+            "liveActiveSkillEffectGroupId": "live_special_skill_effect-score_up_effect_up_permil_up-800",
+            "additionalLiveActiveSkillEffectGroupId": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-250",
+            "effectDurationMillisecond": 15000,
+            "descriptionLangId": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.1-description"
+        }
+    },
+    {
+        "live_special_skill_id": "live_special_skill-card-03002-5-uniq-0113-00",
+        "level": 2,
+        "data": {
+            "liveSpecialSkillId": "live_special_skill-card-03002-5-uniq-0113-00",
+            "level": 2,
+            "liveActiveSkillEffectGroupId": "live_special_skill_effect-score_up_effect_up_permil_up-950",
+            "additionalLiveActiveSkillEffectGroupId": "live_special_skill_effect-live_active_skill_activation_probability_up_permil_up-350",
+            "effectDurationMillisecond": 15000,
+            "descriptionLangId": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.2-description"
+        }
+    },
+    {
+        "live_special_skill_id": "live_special_skill-card-03003-5-uniq-0115-00",
+        "level": 1,
+        "data": {
+            "liveSpecialSkillId": "live_special_skill-card-03003-5-uniq-0115-00",
+            "level": 1,
+            "liveActiveSkillEffectGroupId": "live_special_skill_effect-score_up_effect_up_permil_up-950",
+            "effectDurationMillisecond": 14000,
+            "descriptionLangId": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.1-description"
+        }
+    },
+    {
+        "live_special_skill_id": "live_special_skill-card-03003-5-uniq-0115-00",
+        "level": 2,
+        "data": {
+            "liveSpecialSkillId": "live_special_skill-card-03003-5-uniq-0115-00",
+            "level": 2,
+            "liveActiveSkillEffectGroupId": "live_special_skill_effect-score_up_effect_up_permil_up-1150",
+            "effectDurationMillisecond": 14000,
+            "descriptionLangId": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.2-description"
+        }
+    },
+    {
         "live_special_skill_id": "live_special_skill-card-00036-5-uniq-0029-00",
         "level": 2,
         "data": {

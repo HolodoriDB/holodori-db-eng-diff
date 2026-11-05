@@ -828,6 +828,68 @@
         }
     },
     {
+        "live_passive_skill_id": "live_passive_skill-card-03001-5-uniq-0114-00",
+        "level": 1,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-03001-5-uniq-0114-00",
+            "level": 1,
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-sense_up_permil_up-320-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-03001-5-uniq-0114-00.1-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-03001-5-uniq-0114-00",
+        "level": 2,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-03001-5-uniq-0114-00",
+            "level": 2,
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-sense_up_permil_up-430-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-03001-5-uniq-0114-00.2-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-03002-5-uniq-0113-00",
+        "level": 1,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-03002-5-uniq-0113-00",
+            "level": 1,
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-live_active_skill_effect_up_permil_up-80-live_skill_effect_target-attribute-attribute_3-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-03002-5-uniq-0113-00.1-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-03002-5-uniq-0113-00",
+        "level": 2,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-03002-5-uniq-0113-00",
+            "level": 2,
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-live_active_skill_effect_up_permil_up-110-live_skill_effect_target-attribute-attribute_3-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-03002-5-uniq-0113-00.2-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-03003-5-uniq-0115-00",
+        "level": 1,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-03003-5-uniq-0115-00",
+            "level": 1,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_1-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-performance_up_permil_up-320-live_skill_effect_target-attribute-attribute_1-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-03003-5-uniq-0115-00.1-description"
+        }
+    },
+    {
+        "live_passive_skill_id": "live_passive_skill-card-03003-5-uniq-0115-00",
+        "level": 2,
+        "data": {
+            "livePassiveSkillId": "live_passive_skill-card-03003-5-uniq-0115-00",
+            "level": 2,
+            "liveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_1-2",
+            "livePassiveSkillEffectGroupId": "live_passive_skill_effect-performance_up_permil_up-430-live_skill_effect_target-attribute-attribute_1-2",
+            "descriptionLangId": "la-generated-live_passive_skill-card-03003-5-uniq-0115-00.2-description"
+        }
+    },
+    {
         "live_passive_skill_id": "live_passive_skill-card-00002-3-nrml-0001-00",
         "level": 1,
         "data": {

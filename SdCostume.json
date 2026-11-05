@@ -658,6 +658,34 @@
         }
     },
     {
+        "id": "sdcos-03001-uniq-0114-00",
+        "data": {
+            "id": "sdcos-03001-uniq-0114-00",
+            "characterId": "chr-03001",
+            "nameLangId": "la-sdcos-03001-uniq-0114-00",
+            "hairAssetId": "uniq-0114-00",
+            "accessoryHairAssetId": "03001-base-0000-00",
+            "bodyAssetId": "uniq-0114-00",
+            "baseThumbnailAssetId": "default-001",
+            "baseThumbnailColor": "FFAAAA",
+            "order": 26112001
+        }
+    },
+    {
+        "id": "sdcos-03002-uniq-0113-00",
+        "data": {
+            "id": "sdcos-03002-uniq-0113-00",
+            "characterId": "chr-03002",
+            "nameLangId": "la-sdcos-03002-uniq-0113-00",
+            "hairAssetId": "uniq-0113-00",
+            "accessoryHairAssetId": "03002-base-0000-00",
+            "bodyAssetId": "uniq-0113-00",
+            "baseThumbnailAssetId": "default-001",
+            "baseThumbnailColor": "AA83FF",
+            "order": 26112001
+        }
+    },
+    {
         "id": "sdcos-00006-nrml-0007-00",
         "data": {
             "id": "sdcos-00006-nrml-0007-00",
@@ -3630,6 +3658,20 @@
             "baseThumbnailAssetId": "default-001",
             "baseThumbnailColor": "A4AAFF",
             "order": 26070005
+        }
+    },
+    {
+        "id": "sdcos-03003-uniq-0115-00",
+        "data": {
+            "id": "sdcos-03003-uniq-0115-00",
+            "characterId": "chr-03003",
+            "nameLangId": "la-sdcos-03003-uniq-0115-00",
+            "hairAssetId": "uniq-0115-00",
+            "accessoryHairAssetId": "03003-base-0000-00",
+            "bodyAssetId": "uniq-0115-00",
+            "baseThumbnailAssetId": "default-001",
+            "baseThumbnailColor": "9CDF36",
+            "order": 26112001
         }
     },
     {
