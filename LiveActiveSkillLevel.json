@@ -1204,6 +1204,144 @@
         }
     },
     {
+        "live_active_skill_id": "live_active_skill-card-00002-5-uniq-0104-00",
+        "level": 1,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-00002-5-uniq-0104-00",
+            "level": 1,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-500",
+            "additionalLiveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_2-2",
+            "additionalLiveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1000",
+            "coolTimeMillisecond": 33000,
+            "activationProbabilityPermilMultiply": 460,
+            "effectDurationMillisecond": 12000,
+            "descriptionLangId": "la-generated-live_active_skill-card-00002-5-uniq-0104-00.1-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-00002-5-uniq-0104-00",
+        "level": 2,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-00002-5-uniq-0104-00",
+            "level": 2,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-600",
+            "additionalLiveSkillTriggerGroupId": "live_skill_trigger-deck_card_attribute-attribute_2-2",
+            "additionalLiveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1200",
+            "coolTimeMillisecond": 33000,
+            "activationProbabilityPermilMultiply": 460,
+            "effectDurationMillisecond": 12000,
+            "descriptionLangId": "la-generated-live_active_skill-card-00002-5-uniq-0104-00.2-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-00019-5-uniq-0108-00",
+        "level": 1,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-00019-5-uniq-0108-00",
+            "level": 1,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1050",
+            "coolTimeMillisecond": 25000,
+            "activationProbabilityPermilMultiply": 550,
+            "effectDurationMillisecond": 8000,
+            "descriptionLangId": "la-generated-live_active_skill-card-00019-5-uniq-0108-00.1-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-00019-5-uniq-0108-00",
+        "level": 2,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-00019-5-uniq-0108-00",
+            "level": 2,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1250",
+            "coolTimeMillisecond": 25000,
+            "activationProbabilityPermilMultiply": 550,
+            "effectDurationMillisecond": 8000,
+            "descriptionLangId": "la-generated-live_active_skill-card-00019-5-uniq-0108-00.2-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-00031-5-uniq-0105-00",
+        "level": 1,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-00031-5-uniq-0105-00",
+            "level": 1,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1000",
+            "coolTimeMillisecond": 17000,
+            "activationProbabilityPermilMultiply": 460,
+            "effectDurationMillisecond": 6000,
+            "descriptionLangId": "la-generated-live_active_skill-card-00031-5-uniq-0105-00.1-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-00031-5-uniq-0105-00",
+        "level": 2,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-00031-5-uniq-0105-00",
+            "level": 2,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1200",
+            "coolTimeMillisecond": 17000,
+            "activationProbabilityPermilMultiply": 460,
+            "effectDurationMillisecond": 6000,
+            "descriptionLangId": "la-generated-live_active_skill-card-00031-5-uniq-0105-00.2-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-03006-5-uniq-0107-00",
+        "level": 1,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-03006-5-uniq-0107-00",
+            "level": 1,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-950",
+            "coolTimeMillisecond": 27000,
+            "activationProbabilityPermilMultiply": 460,
+            "effectDurationMillisecond": 10000,
+            "descriptionLangId": "la-generated-live_active_skill-card-03006-5-uniq-0107-00.1-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-03006-5-uniq-0107-00",
+        "level": 2,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-03006-5-uniq-0107-00",
+            "level": 2,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1150",
+            "coolTimeMillisecond": 27000,
+            "activationProbabilityPermilMultiply": 460,
+            "effectDurationMillisecond": 10000,
+            "descriptionLangId": "la-generated-live_active_skill-card-03006-5-uniq-0107-00.2-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-04007-5-uniq-0106-00",
+        "level": 1,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-04007-5-uniq-0106-00",
+            "level": 1,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-500",
+            "additionalLiveSkillTriggerGroupId": "live_skill_trigger-life_gte-600",
+            "additionalLiveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1000",
+            "coolTimeMillisecond": 20000,
+            "activationProbabilityPermilMultiply": 550,
+            "effectDurationMillisecond": 7000,
+            "descriptionLangId": "la-generated-live_active_skill-card-04007-5-uniq-0106-00.1-description"
+        }
+    },
+    {
+        "live_active_skill_id": "live_active_skill-card-04007-5-uniq-0106-00",
+        "level": 2,
+        "data": {
+            "liveActiveSkillId": "live_active_skill-card-04007-5-uniq-0106-00",
+            "level": 2,
+            "liveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-600",
+            "additionalLiveSkillTriggerGroupId": "live_skill_trigger-life_gte-600",
+            "additionalLiveActiveSkillEffectGroupId": "live_active_skill_effect-score_up_permil_up-1200",
+            "coolTimeMillisecond": 20000,
+            "activationProbabilityPermilMultiply": 550,
+            "effectDurationMillisecond": 7000,
+            "descriptionLangId": "la-generated-live_active_skill-card-04007-5-uniq-0106-00.2-description"
+        }
+    },
+    {
         "live_active_skill_id": "live_active_skill-card-04003-5-uniq-0044-00",
         "level": 1,
         "data": {

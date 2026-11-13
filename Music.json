@@ -74,42 +74,6 @@
         }
     },
     {
-        "id": "m0022",
-        "data": {
-            "id": "m0022",
-            "titleLangId": "la-music_title-m0022",
-            "titleRubyLangId": "la-music_title_ruby-m0022",
-            "lyricistLangId": "la-music_lyricist-m0022",
-            "lyricistRubyLangId": "la-music_lyricist_ruby-m0022",
-            "composerLangId": "la-music_composer-m0022",
-            "composerRubyLangId": "la-music_composer_ruby-m0022",
-            "arrangerLangId": "la-music_arranger-m0022",
-            "arrangerRubyLangId": "la-music_arranger_ruby-m0022",
-            "jacketAssetId": "m0022",
-            "startTime": "1672498800000",
-            "playingSeconds": 120,
-            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
-            "liveScoreCoefficientPermil": 6,
-            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
-            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
-            "liveComboGroupId": "live_combo-1",
-            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_REWARD",
-            "lockDescriptionLangId": "la-music_lock_description-m0022",
-            "isHighestScoreRatingTarget": true,
-            "mvUrl": "https://www.youtube.com/watch?v=rbd-m8r5Ujs",
-            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
-            "characterIds": [
-                "chr-00001"
-            ],
-            "characterGroupDisplayNameLangId": "la-singer_name-m0022",
-            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0022",
-            "chorusStartMillisecond": 66588,
-            "chorusEndMillisecond": 98346,
-            "assetId": "m0022",
-            "order": 20010022
-        }
-    },
-    {
         "id": "m0023",
         "data": {
             "id": "m0023",
@@ -365,6 +329,43 @@
             "chorusEndMillisecond": 77818,
             "assetId": "m0060",
             "order": 20400060
+        }
+    },
+    {
+        "id": "m0022",
+        "data": {
+            "id": "m0022",
+            "titleLangId": "la-music_title-m0022",
+            "titleRubyLangId": "la-music_title_ruby-m0022",
+            "lyricistLangId": "la-music_lyricist-m0022",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0022",
+            "composerLangId": "la-music_composer-m0022",
+            "composerRubyLangId": "la-music_composer_ruby-m0022",
+            "arrangerLangId": "la-music_arranger-m0022",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0022",
+            "jacketAssetId": "m0022",
+            "startTime": "1672498800000",
+            "playingSeconds": 120,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 6,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_REWARD",
+            "lockDescriptionLangId": "la-music_lock_description-m0022",
+            "isHighestScoreRatingTarget": true,
+            "mvUrl": "https://www.youtube.com/watch?v=rbd-m8r5Ujs",
+            "copyright": "Licensed by Victor Entertainment, Inc.",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-00001"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0022",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0022",
+            "chorusStartMillisecond": 66588,
+            "chorusEndMillisecond": 98346,
+            "assetId": "m0022",
+            "order": 20010022
         }
     },
     {
@@ -2283,42 +2284,6 @@
         }
     },
     {
-        "id": "m0072",
-        "data": {
-            "id": "m0072",
-            "titleLangId": "la-music_title-m0072",
-            "titleRubyLangId": "la-music_title_ruby-m0072",
-            "lyricistLangId": "la-music_lyricist-m0072",
-            "lyricistRubyLangId": "la-music_lyricist_ruby-m0072",
-            "composerLangId": "la-music_composer-m0072",
-            "composerRubyLangId": "la-music_composer_ruby-m0072",
-            "arrangerLangId": "la-music_arranger-m0072",
-            "arrangerRubyLangId": "la-music_arranger_ruby-m0072",
-            "jacketAssetId": "m0072",
-            "startTime": "1672498800000",
-            "playingSeconds": 129,
-            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
-            "liveScoreCoefficientPermil": 5,
-            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
-            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
-            "liveComboGroupId": "live_combo-1",
-            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
-            "isHighestScoreRatingTarget": true,
-            "mvUrl": "https://www.youtube.com/watch?v=VCsWgOMu4_8",
-            "mvThumbnailAssetId": "m0072-mv-01",
-            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
-            "characterIds": [
-                "chr-00001"
-            ],
-            "characterGroupDisplayNameLangId": "la-singer_name-m0072",
-            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0072",
-            "chorusStartMillisecond": 59007,
-            "chorusEndMillisecond": 84102,
-            "assetId": "m0072",
-            "order": 20010072
-        }
-    },
-    {
         "id": "m0338",
         "data": {
             "id": "m0338",
@@ -2561,6 +2526,43 @@
             "chorusEndMillisecond": 99509,
             "assetId": "m0341",
             "order": 20160341
+        }
+    },
+    {
+        "id": "m0072",
+        "data": {
+            "id": "m0072",
+            "titleLangId": "la-music_title-m0072",
+            "titleRubyLangId": "la-music_title_ruby-m0072",
+            "lyricistLangId": "la-music_lyricist-m0072",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0072",
+            "composerLangId": "la-music_composer-m0072",
+            "composerRubyLangId": "la-music_composer_ruby-m0072",
+            "arrangerLangId": "la-music_arranger-m0072",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0072",
+            "jacketAssetId": "m0072",
+            "startTime": "1672498800000",
+            "playingSeconds": 129,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 5,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvUrl": "https://www.youtube.com/watch?v=VCsWgOMu4_8",
+            "mvThumbnailAssetId": "m0072-mv-01",
+            "copyright": "Licensed by Victor Entertainment, Inc.",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-00001"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0072",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0072",
+            "chorusStartMillisecond": 59007,
+            "chorusEndMillisecond": 84102,
+            "assetId": "m0072",
+            "order": 20010072
         }
     },
     {
@@ -3277,42 +3279,6 @@
         }
     },
     {
-        "id": "m0074",
-        "data": {
-            "id": "m0074",
-            "titleLangId": "la-music_title-m0074",
-            "titleRubyLangId": "la-music_title_ruby-m0074",
-            "lyricistLangId": "la-music_lyricist-m0074",
-            "lyricistRubyLangId": "la-music_lyricist_ruby-m0074",
-            "composerLangId": "la-music_composer-m0074",
-            "composerRubyLangId": "la-music_composer_ruby-m0074",
-            "arrangerLangId": "la-music_arranger-m0074",
-            "arrangerRubyLangId": "la-music_arranger_ruby-m0074",
-            "jacketAssetId": "m0074",
-            "startTime": "1672498800000",
-            "playingSeconds": 137,
-            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
-            "liveScoreCoefficientPermil": 7,
-            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
-            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
-            "liveComboGroupId": "live_combo-1",
-            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
-            "isHighestScoreRatingTarget": true,
-            "mvUrl": "https://www.youtube.com/watch?v=V4nwy5IUMdg",
-            "mvThumbnailAssetId": "m0074-mv-01",
-            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
-            "characterIds": [
-                "chr-00013"
-            ],
-            "characterGroupDisplayNameLangId": "la-singer_name-m0074",
-            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0074",
-            "chorusStartMillisecond": 55370,
-            "chorusEndMillisecond": 79340,
-            "assetId": "m0074",
-            "order": 20030074
-        }
-    },
-    {
         "id": "m0100",
         "data": {
             "id": "m0100",
@@ -3785,43 +3751,6 @@
         }
     },
     {
-        "id": "m0141",
-        "data": {
-            "id": "m0141",
-            "titleLangId": "la-music_title-m0141",
-            "titleRubyLangId": "la-music_title_ruby-m0141",
-            "lyricistLangId": "la-music_lyricist-m0141",
-            "lyricistRubyLangId": "la-music_lyricist_ruby-m0141",
-            "composerLangId": "la-music_composer-m0141",
-            "composerRubyLangId": "la-music_composer_ruby-m0141",
-            "arrangerLangId": "la-music_arranger-m0141",
-            "arrangerRubyLangId": "la-music_arranger_ruby-m0141",
-            "jacketAssetId": "m0141",
-            "startTime": "1672498800000",
-            "playingSeconds": 105,
-            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
-            "liveScoreCoefficientPermil": 4,
-            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
-            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
-            "liveComboGroupId": "live_combo-1",
-            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_SHOP",
-            "requiredReleaseItemQuantity": 1,
-            "isHighestScoreRatingTarget": true,
-            "mvUrl": "https://www.youtube.com/watch?v=tiTnyZ5QLao",
-            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_GROUP",
-            "characterIds": [
-                "chr-00001",
-                "chr-00013"
-            ],
-            "characterGroupDisplayNameLangId": "la-singer_name-m0141",
-            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0141",
-            "chorusStartMillisecond": 50191,
-            "chorusEndMillisecond": 92906,
-            "assetId": "m0141",
-            "order": 40000141
-        }
-    },
-    {
         "id": "m0142",
         "data": {
             "id": "m0142",
@@ -4122,6 +4051,44 @@
             "chorusEndMillisecond": 97175,
             "assetId": "m0527",
             "order": 20560527
+        }
+    },
+    {
+        "id": "m0141",
+        "data": {
+            "id": "m0141",
+            "titleLangId": "la-music_title-m0141",
+            "titleRubyLangId": "la-music_title_ruby-m0141",
+            "lyricistLangId": "la-music_lyricist-m0141",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0141",
+            "composerLangId": "la-music_composer-m0141",
+            "composerRubyLangId": "la-music_composer_ruby-m0141",
+            "arrangerLangId": "la-music_arranger-m0141",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0141",
+            "jacketAssetId": "m0141",
+            "startTime": "1672498800000",
+            "playingSeconds": 105,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 4,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_SHOP",
+            "requiredReleaseItemQuantity": 1,
+            "isHighestScoreRatingTarget": true,
+            "mvUrl": "https://www.youtube.com/watch?v=tiTnyZ5QLao",
+            "copyright": "Licensed by Victor Entertainment, Inc.",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_GROUP",
+            "characterIds": [
+                "chr-00001",
+                "chr-00013"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0141",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0141",
+            "chorusStartMillisecond": 50191,
+            "chorusEndMillisecond": 92906,
+            "assetId": "m0141",
+            "order": 40000141
         }
     },
     {
@@ -6306,6 +6273,326 @@
         }
     },
     {
+        "id": "m0074",
+        "data": {
+            "id": "m0074",
+            "titleLangId": "la-music_title-m0074",
+            "titleRubyLangId": "la-music_title_ruby-m0074",
+            "lyricistLangId": "la-music_lyricist-m0074",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0074",
+            "composerLangId": "la-music_composer-m0074",
+            "composerRubyLangId": "la-music_composer_ruby-m0074",
+            "arrangerLangId": "la-music_arranger-m0074",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0074",
+            "jacketAssetId": "m0074",
+            "startTime": "1672498800000",
+            "playingSeconds": 137,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 7,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvUrl": "https://www.youtube.com/watch?v=V4nwy5IUMdg",
+            "mvThumbnailAssetId": "m0074-mv-01",
+            "copyright": "Licensed by Victor Entertainment, Inc.",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-00013"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0074",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0074",
+            "chorusStartMillisecond": 55370,
+            "chorusEndMillisecond": 79340,
+            "assetId": "m0074",
+            "order": 20030074
+        }
+    },
+    {
+        "id": "m0383",
+        "data": {
+            "id": "m0383",
+            "titleLangId": "la-music_title-m0383",
+            "titleRubyLangId": "la-music_title_ruby-m0383",
+            "lyricistLangId": "la-music_lyricist-m0383",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0383",
+            "composerLangId": "la-music_composer-m0383",
+            "composerRubyLangId": "la-music_composer_ruby-m0383",
+            "arrangerLangId": "la-music_arranger-m0383",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0383",
+            "jacketAssetId": "m0383",
+            "startTime": "1794654000000",
+            "playingSeconds": 129,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 5,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvThumbnailAssetId": "m0383-mv-01",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-00002"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0383",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0383",
+            "chorusStartMillisecond": 52567,
+            "chorusEndMillisecond": 83767,
+            "assetId": "m0383",
+            "order": 20020383
+        }
+    },
+    {
+        "id": "m0384",
+        "data": {
+            "id": "m0384",
+            "titleLangId": "la-music_title-m0384",
+            "titleRubyLangId": "la-music_title_ruby-m0384",
+            "lyricistLangId": "la-music_lyricist-m0384",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0384",
+            "composerLangId": "la-music_composer-m0384",
+            "composerRubyLangId": "la-music_composer_ruby-m0384",
+            "arrangerLangId": "la-music_arranger-m0384",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0384",
+            "jacketAssetId": "m0384",
+            "startTime": "1795172400000",
+            "playingSeconds": 104,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 4,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvThumbnailAssetId": "m0384-mv-01",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-00031"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0384",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0384",
+            "chorusStartMillisecond": 60094,
+            "chorusEndMillisecond": 81270,
+            "assetId": "m0384",
+            "order": 20260384
+        }
+    },
+    {
+        "id": "m0385",
+        "data": {
+            "id": "m0385",
+            "titleLangId": "la-music_title-m0385",
+            "titleRubyLangId": "la-music_title_ruby-m0385",
+            "lyricistLangId": "la-music_lyricist-m0385",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0385",
+            "composerLangId": "la-music_composer-m0385",
+            "composerRubyLangId": "la-music_composer_ruby-m0385",
+            "arrangerLangId": "la-music_arranger-m0385",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0385",
+            "jacketAssetId": "m0385",
+            "startTime": "1794999600000",
+            "playingSeconds": 130,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 5,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvThumbnailAssetId": "m0385-mv-01",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-04007"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0385",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0385",
+            "chorusStartMillisecond": 43434,
+            "chorusEndMillisecond": 67964,
+            "assetId": "m0385",
+            "order": 20480385
+        }
+    },
+    {
+        "id": "m0386",
+        "data": {
+            "id": "m0386",
+            "titleLangId": "la-music_title-m0386",
+            "titleRubyLangId": "la-music_title_ruby-m0386",
+            "lyricistLangId": "la-music_lyricist-m0386",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0386",
+            "composerLangId": "la-music_composer-m0386",
+            "composerRubyLangId": "la-music_composer_ruby-m0386",
+            "arrangerLangId": "la-music_arranger-m0386",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0386",
+            "jacketAssetId": "m0386",
+            "startTime": "1795345200000",
+            "playingSeconds": 122,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 7,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvThumbnailAssetId": "m0386-mv-01",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-03006"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0386",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0386",
+            "chorusStartMillisecond": 59570,
+            "chorusEndMillisecond": 105722,
+            "assetId": "m0386",
+            "order": 20390386
+        }
+    },
+    {
+        "id": "m0387",
+        "data": {
+            "id": "m0387",
+            "titleLangId": "la-music_title-m0387",
+            "titleRubyLangId": "la-music_title_ruby-m0387",
+            "lyricistLangId": "la-music_lyricist-m0387",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0387",
+            "composerLangId": "la-music_composer-m0387",
+            "composerRubyLangId": "la-music_composer_ruby-m0387",
+            "arrangerLangId": "la-music_arranger-m0387",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0387",
+            "jacketAssetId": "m0387",
+            "startTime": "1794826800000",
+            "playingSeconds": 135,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 4,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvThumbnailAssetId": "m0387-mv-01",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-00019"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0387",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0387",
+            "chorusStartMillisecond": 83789,
+            "chorusEndMillisecond": 104789,
+            "assetId": "m0387",
+            "order": 20170387
+        }
+    },
+    {
+        "id": "m0398",
+        "data": {
+            "id": "m0398",
+            "titleLangId": "la-music_title-m0398",
+            "titleRubyLangId": "la-music_title_ruby-m0398",
+            "lyricistLangId": "la-music_lyricist-m0398",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0398",
+            "composerLangId": "la-music_composer-m0398",
+            "composerRubyLangId": "la-music_composer_ruby-m0398",
+            "arrangerLangId": "la-music_arranger-m0398",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0398",
+            "jacketAssetId": "m0398",
+            "startTime": "1794668400000",
+            "playingSeconds": 121,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 3,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvUrl": "https://www.youtube.com/watch?v=kU-KWiNpRmw",
+            "mvThumbnailAssetId": "m0398-mv-01",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-00030"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0398",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0398",
+            "chorusStartMillisecond": 61875,
+            "chorusEndMillisecond": 94234,
+            "assetId": "m0398",
+            "order": 20250398
+        }
+    },
+    {
+        "id": "m0403",
+        "data": {
+            "id": "m0403",
+            "titleLangId": "la-music_title-m0403",
+            "titleRubyLangId": "la-music_title_ruby-m0403",
+            "lyricistLangId": "la-music_lyricist-m0403",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0403",
+            "composerLangId": "la-music_composer-m0403",
+            "composerRubyLangId": "la-music_composer_ruby-m0403",
+            "arrangerLangId": "la-music_arranger-m0403",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0403",
+            "jacketAssetId": "m0403",
+            "startTime": "1795186800000",
+            "playingSeconds": 145,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 10,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvUrl": "https://www.youtube.com/watch?v=yFzN8ydNeH8",
+            "mvThumbnailAssetId": "m0403-mv-01",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-04015"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0403",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0403",
+            "chorusStartMillisecond": 55394,
+            "chorusEndMillisecond": 82864,
+            "assetId": "m0403",
+            "order": 20550403
+        }
+    },
+    {
+        "id": "m0404",
+        "data": {
+            "id": "m0404",
+            "titleLangId": "la-music_title-m0404",
+            "titleRubyLangId": "la-music_title_ruby-m0404",
+            "lyricistLangId": "la-music_lyricist-m0404",
+            "lyricistRubyLangId": "la-music_lyricist_ruby-m0404",
+            "composerLangId": "la-music_composer-m0404",
+            "composerRubyLangId": "la-music_composer_ruby-m0404",
+            "arrangerLangId": "la-music_arranger-m0404",
+            "arrangerRubyLangId": "la-music_arranger_ruby-m0404",
+            "jacketAssetId": "m0404",
+            "startTime": "1795446000000",
+            "playingSeconds": 141,
+            "categoryType": "MusicCategoryType_MUSIC_CATEGORY_TYPE_ORIGINAL",
+            "liveScoreCoefficientPermil": 7,
+            "singleLiveScoreEvaluationRankGroupId": "live_score_rank-s001",
+            "multiLiveScoreEvaluationRankGroupId": "live_score_rank-m001",
+            "liveComboGroupId": "live_combo-1",
+            "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_PRESET",
+            "isHighestScoreRatingTarget": true,
+            "mvUrl": "https://www.youtube.com/watch?v=qIRKvXbbbsk",
+            "mvThumbnailAssetId": "m0404-mv-01",
+            "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
+            "characterIds": [
+                "chr-00022"
+            ],
+            "characterGroupDisplayNameLangId": "la-singer_name-m0404",
+            "characterGroupDisplayNameRubyLangId": "la-singer_name_ruby-m0404",
+            "chorusStartMillisecond": 58381,
+            "chorusEndMillisecond": 85223,
+            "assetId": "m0404",
+            "order": 20190404
+        }
+    },
+    {
         "id": "m0031",
         "data": {
             "id": "m0031",
@@ -6848,6 +7135,7 @@
             "releaseType": "MusicReleaseType_MUSIC_RELEASE_TYPE_REWARD",
             "lockDescriptionLangId": "la-music_lock_description-m0068",
             "isHighestScoreRatingTarget": true,
+            "mvUrl": "https://www.youtube.com/watch?v=PeitgWu6Yj8",
             "mvThumbnailAssetId": "m0068-mv-01",
             "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
             "characterIds": [
@@ -8140,6 +8428,7 @@
             "isHighestScoreRatingTarget": true,
             "mvUrl": "https://www.youtube.com/watch?v=hQ3rYiaUsUY",
             "mvThumbnailAssetId": "m0189-mv-01",
+            "copyright": "Licensed by Victor Entertainment, Inc.",
             "musicSingerType": "MusicSingerType_MUSIC_SINGER_TYPE_SOLO",
             "characterIds": [
                 "chr-00013"

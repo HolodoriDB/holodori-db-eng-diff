@@ -158,5 +158,55 @@
             "assetId": "event-008",
             "priority": 26102901
         }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-004-chapter-01",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-004-chapter-01",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-004-chapter-01",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-004",
+            "assetId": "marathon_event-relay-004-chapter-01",
+            "priority": 26111401
+        }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-004-chapter-02",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-004-chapter-02",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-004-chapter-02",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-004",
+            "assetId": "marathon_event-relay-004-chapter-02",
+            "priority": 26111402
+        }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-004-chapter-03",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-004-chapter-03",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-004-chapter-03",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-004",
+            "assetId": "marathon_event-relay-004-chapter-03",
+            "priority": 26111403
+        }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-004-chapter-04",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-004-chapter-04",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-004-chapter-04",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-004",
+            "assetId": "marathon_event-relay-004-chapter-04",
+            "priority": 26111404
+        }
+    },
+    {
+        "id": "event_story_chapter-marathon_event-relay-004-chapter-05",
+        "data": {
+            "id": "event_story_chapter-marathon_event-relay-004-chapter-05",
+            "titleLangId": "la-event_story_chapter-marathon_event-relay-004-chapter-05",
+            "unlockConditionGroupId": "cd-event_end-marathon_event-relay-004",
+            "assetId": "marathon_event-relay-004-chapter-05",
+            "priority": 26111405
+        }
     }
 ]
