@@ -23544,6 +23544,17 @@
         }
     },
     {
+        "group_id": "cd-always-closed",
+        "number": 1,
+        "data": {
+            "groupId": "cd-always-closed",
+            "number": 1,
+            "type": "ConditionType_CONDITION_TYPE_PLAYER_LEVEL",
+            "minMaxType": "ConditionMinMaxType_CONDITION_MIN_MAX_TYPE_MIN",
+            "min": "1000000"
+        }
+    },
+    {
         "group_id": "cd-park_period-evening",
         "number": 1,
         "data": {
