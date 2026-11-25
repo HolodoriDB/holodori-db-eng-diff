@@ -44,17 +44,6 @@
         }
     },
     {
-        "id": "effect-filter-category-skill-activation-probability-up",
-        "data": {
-            "id": "effect-filter-category-skill-activation-probability-up",
-            "nameLangId": "la-effect-filter-category-skill-activation-probability-up",
-            "liveSpecialSkillEffectTypes": [
-                "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP"
-            ],
-            "order": 10
-        }
-    },
-    {
         "id": "effect-filter-category-technique-up",
         "data": {
             "id": "effect-filter-category-technique-up",
@@ -107,6 +96,20 @@
                 "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIFE_RECOVERY"
             ],
             "order": 7
+        }
+    },
+    {
+        "id": "effect-filter-category-skill-activation-probability-up",
+        "data": {
+            "id": "effect-filter-category-skill-activation-probability-up",
+            "nameLangId": "la-effect-filter-category-skill-activation-probability-up",
+            "livePassiveSkillEffectTypes": [
+                "LivePassiveSkillEffectType_LIVE_PASSIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP"
+            ],
+            "liveSpecialSkillEffectTypes": [
+                "LiveActiveSkillEffectType_LIVE_ACTIVE_SKILL_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP"
+            ],
+            "order": 10
         }
     }
 ]

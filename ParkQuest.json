@@ -1,6 +1,8 @@
 [
     {
         "id": "quest-daily-card-00005",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-card-00005",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -16,6 +18,8 @@
     },
     {
         "id": "quest-area-a01-20",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-20",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -31,6 +35,8 @@
     },
     {
         "id": "quest-daily-card-00018",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-card-00018",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -46,6 +52,8 @@
     },
     {
         "id": "quest-daily-card-00019",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-card-00019",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -61,6 +69,8 @@
     },
     {
         "id": "quest-daily-card-00037",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-card-00037",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -76,6 +86,8 @@
     },
     {
         "id": "quest-daily-card-03002",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-card-03002",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -91,6 +103,8 @@
     },
     {
         "id": "quest-daily-card-04013",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-card-04013",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -105,7 +119,45 @@
         }
     },
     {
+        "id": "quest-area-a01-30",
+        "type": 3,
+        "play_character_id": "",
+        "data": {
+            "id": "quest-area-a01-30",
+            "parkQuestChapterId": "quest_chapter-area-a01",
+            "number": 30,
+            "titleLangId": "la-quest-area-a01-30-title",
+            "descriptionLangId": "la-quest-area-a01-30-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 900,
+            "areaGroupingId": "area_group-a01",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-06",
+            "unlockConditionGroupId": "cd-quest_clear-quest-main-w1-03-06",
+            "order": 900
+        }
+    },
+    {
+        "id": "quest-area-a03-20",
+        "type": 3,
+        "play_character_id": "",
+        "data": {
+            "id": "quest-area-a03-20",
+            "parkQuestChapterId": "quest_chapter-area-a03",
+            "number": 20,
+            "titleLangId": "la-quest-area-a03-20-title",
+            "descriptionLangId": "la-quest-area-a03-20-description",
+            "type": "ParkQuestType_PARK_QUEST_TYPE_AREA",
+            "priority": 900,
+            "areaGroupingId": "area_group-a03",
+            "viewConditionGroupId": "cd-quest-area-a03-20-unlock",
+            "unlockConditionGroupId": "cd-quest-area-a03-20-unlock",
+            "order": 900
+        }
+    },
+    {
         "id": "quest-daily-bet_coin-00026",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-bet_coin-00026",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -121,6 +173,8 @@
     },
     {
         "id": "quest-daily-bet_coin-00035",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-bet_coin-00035",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -136,6 +190,8 @@
     },
     {
         "id": "quest-daily-bet_coin-03005",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-bet_coin-03005",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -151,6 +207,8 @@
     },
     {
         "id": "quest-daily-bet_coin-04001",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-bet_coin-04001",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -166,6 +224,8 @@
     },
     {
         "id": "quest-daily-bet_coin-06002",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-bet_coin-06002",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -181,6 +241,8 @@
     },
     {
         "id": "quest-daily-bet_coin-06004",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-bet_coin-06004",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -196,6 +258,8 @@
     },
     {
         "id": "quest-daily-card-00015",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-card-00015",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -211,6 +275,8 @@
     },
     {
         "id": "quest-daily-card-04015",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-card-04015",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -226,6 +292,8 @@
     },
     {
         "id": "quest-daily-circuit-00002",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-circuit-00002",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -241,6 +309,8 @@
     },
     {
         "id": "quest-daily-circuit-00017",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-circuit-00017",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -256,6 +326,8 @@
     },
     {
         "id": "quest-daily-circuit-03008",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-circuit-03008",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -271,6 +343,8 @@
     },
     {
         "id": "quest-daily-circuit-04002",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-circuit-04002",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -286,6 +360,8 @@
     },
     {
         "id": "quest-daily-circuit-04012",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-circuit-04012",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -301,6 +377,8 @@
     },
     {
         "id": "quest-daily-cooking-00005",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-00005",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -316,6 +394,8 @@
     },
     {
         "id": "quest-daily-cooking-00006",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-00006",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -331,6 +411,8 @@
     },
     {
         "id": "quest-daily-cooking-00007",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-00007",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -346,6 +428,8 @@
     },
     {
         "id": "quest-daily-cooking-03006",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-03006",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -361,6 +445,8 @@
     },
     {
         "id": "quest-daily-cooking-04010",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-04010",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -376,6 +462,8 @@
     },
     {
         "id": "quest-daily-cooking-06003",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-06003",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -391,6 +479,8 @@
     },
     {
         "id": "quest-daily-delivery-00013",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-delivery-00013",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -406,6 +496,8 @@
     },
     {
         "id": "quest-daily-delivery-00027",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-delivery-00027",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -421,6 +513,8 @@
     },
     {
         "id": "quest-daily-delivery-00028",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-delivery-00028",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -436,6 +530,8 @@
     },
     {
         "id": "quest-daily-delivery-03003",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-delivery-03003",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -451,6 +547,8 @@
     },
     {
         "id": "quest-daily-delivery-03007",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-delivery-03007",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -466,6 +564,8 @@
     },
     {
         "id": "quest-daily-delivery-04003",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-delivery-04003",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -481,6 +581,8 @@
     },
     {
         "id": "quest-daily-delivery-04007",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-delivery-04007",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -496,6 +598,8 @@
     },
     {
         "id": "quest-daily-group-04016",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-group-04016",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -511,6 +615,8 @@
     },
     {
         "id": "quest-daily-live-00001",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00001",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -526,6 +632,8 @@
     },
     {
         "id": "quest-daily-live-00002",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00002",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -541,6 +649,8 @@
     },
     {
         "id": "quest-daily-live-00004",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00004",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -556,6 +666,8 @@
     },
     {
         "id": "quest-daily-live-00005",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00005",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -571,6 +683,8 @@
     },
     {
         "id": "quest-daily-live-00007",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00007",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -586,6 +700,8 @@
     },
     {
         "id": "quest-daily-live-00013",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00013",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -601,6 +717,8 @@
     },
     {
         "id": "quest-daily-live-00015",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00015",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -616,6 +734,8 @@
     },
     {
         "id": "quest-daily-live-00016",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00016",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -631,6 +751,8 @@
     },
     {
         "id": "quest-daily-live-00018",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00018",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -646,6 +768,8 @@
     },
     {
         "id": "quest-daily-live-00030",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00030",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -661,6 +785,8 @@
     },
     {
         "id": "quest-daily-live-00035",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00035",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -676,6 +802,8 @@
     },
     {
         "id": "quest-daily-live-03001",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03001",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -691,6 +819,8 @@
     },
     {
         "id": "quest-daily-live-03002",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03002",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -706,6 +836,8 @@
     },
     {
         "id": "quest-daily-live-03003",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03003",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -721,6 +853,8 @@
     },
     {
         "id": "quest-daily-live-03004",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03004",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -736,6 +870,8 @@
     },
     {
         "id": "quest-daily-live-03005",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03005",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -751,6 +887,8 @@
     },
     {
         "id": "quest-daily-fishing_coin-a03-00023",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-fishing_coin-a03-00023",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -766,6 +904,8 @@
     },
     {
         "id": "quest-daily-fishing_coin-a03-00030",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-fishing_coin-a03-00030",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -781,6 +921,8 @@
     },
     {
         "id": "quest-daily-fishing_coin-a03-00034",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-fishing_coin-a03-00034",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -796,6 +938,8 @@
     },
     {
         "id": "quest-daily-fishing_coin-a03-00037",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-fishing_coin-a03-00037",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -811,6 +955,8 @@
     },
     {
         "id": "quest-daily-fishing_coin-a03-03009",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-fishing_coin-a03-03009",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -826,6 +972,8 @@
     },
     {
         "id": "quest-daily-fishing_coin-a03-04012",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-fishing_coin-a03-04012",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -841,6 +989,8 @@
     },
     {
         "id": "quest-daily-fishing_coin-a03-06003",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-fishing_coin-a03-06003",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -856,6 +1006,8 @@
     },
     {
         "id": "quest-daily-live-a03-00023",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-a03-00023",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -871,6 +1023,8 @@
     },
     {
         "id": "quest-daily-live-a03-00030",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-a03-00030",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -886,6 +1040,8 @@
     },
     {
         "id": "quest-daily-live-a03-00034",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-a03-00034",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -901,6 +1057,8 @@
     },
     {
         "id": "quest-daily-live-a03-00037",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-a03-00037",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -916,6 +1074,8 @@
     },
     {
         "id": "quest-daily-live-a03-03009",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-a03-03009",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -931,6 +1091,8 @@
     },
     {
         "id": "quest-daily-live-a03-04012",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-a03-04012",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -946,6 +1108,8 @@
     },
     {
         "id": "quest-daily-live-a03-06003",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-a03-06003",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -961,6 +1125,8 @@
     },
     {
         "id": "quest-main-w1-03-06",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-06",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -976,6 +1142,8 @@
     },
     {
         "id": "quest-main-w1-03-07",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-07",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -991,6 +1159,8 @@
     },
     {
         "id": "quest-main-w1-03-08",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-08",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -1006,6 +1176,8 @@
     },
     {
         "id": "quest-main-w1-03-09",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-09",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -1021,6 +1193,8 @@
     },
     {
         "id": "quest-main-w1-03-10",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-10",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -1036,6 +1210,8 @@
     },
     {
         "id": "quest-main-w1-03-11",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-11",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -1051,6 +1227,8 @@
     },
     {
         "id": "quest-main-w1-03-12",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-12",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -1066,6 +1244,8 @@
     },
     {
         "id": "quest-main-w1-03-13",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-13",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -1081,6 +1261,8 @@
     },
     {
         "id": "quest-main-w1-03-14",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-14",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -1096,6 +1278,8 @@
     },
     {
         "id": "quest-main-w1-03-15",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-15",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -1111,6 +1295,8 @@
     },
     {
         "id": "quest-area-a01-21",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-21",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -1126,6 +1312,8 @@
     },
     {
         "id": "quest-area-a01-23",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-23",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -1142,6 +1330,8 @@
     },
     {
         "id": "quest-area-a01-24",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-24",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -1158,6 +1348,8 @@
     },
     {
         "id": "quest-area-a01-25",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-25",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -1174,6 +1366,8 @@
     },
     {
         "id": "quest-area-a01-26",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-26",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -1190,6 +1384,8 @@
     },
     {
         "id": "quest-area-a01-27",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-27",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -1206,6 +1402,8 @@
     },
     {
         "id": "quest-area-a01-28",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-28",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -1222,6 +1420,8 @@
     },
     {
         "id": "quest-area-a01-29",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-29",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -1238,6 +1438,8 @@
     },
     {
         "id": "quest-area-a02-01",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-01",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1253,6 +1455,8 @@
     },
     {
         "id": "quest-area-a02-02",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-02",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1268,6 +1472,8 @@
     },
     {
         "id": "quest-area-a02-03",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-03",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1283,6 +1489,8 @@
     },
     {
         "id": "quest-area-a02-04",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-04",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1298,6 +1506,8 @@
     },
     {
         "id": "quest-area-a02-05",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-05",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1313,6 +1523,8 @@
     },
     {
         "id": "quest-area-a02-06",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-06",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1328,6 +1540,8 @@
     },
     {
         "id": "quest-area-a02-07",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-07",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1343,6 +1557,8 @@
     },
     {
         "id": "quest-area-a02-08",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-08",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1359,6 +1575,8 @@
     },
     {
         "id": "quest-area-a02-09",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-09",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1374,6 +1592,8 @@
     },
     {
         "id": "quest-area-a02-10",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-10",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1390,6 +1610,8 @@
     },
     {
         "id": "quest-area-a02-11",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-11",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1405,6 +1627,8 @@
     },
     {
         "id": "quest-area-a02-12",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-12",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1420,6 +1644,8 @@
     },
     {
         "id": "quest-area-a02-13",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-13",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1435,6 +1661,8 @@
     },
     {
         "id": "quest-area-a02-14",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-14",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1450,6 +1678,8 @@
     },
     {
         "id": "quest-area-a02-15",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-15",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1465,6 +1695,8 @@
     },
     {
         "id": "quest-area-a02-16",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a02-16",
             "parkQuestChapterId": "quest_chapter-area-a02",
@@ -1481,6 +1713,8 @@
     },
     {
         "id": "quest-area-a03-01",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-01",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1496,6 +1730,8 @@
     },
     {
         "id": "quest-area-a03-02",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-02",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1511,6 +1747,8 @@
     },
     {
         "id": "quest-area-a03-03",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-03",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1526,6 +1764,8 @@
     },
     {
         "id": "quest-area-a03-04",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-04",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1541,6 +1781,8 @@
     },
     {
         "id": "quest-area-a03-05",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-05",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1556,6 +1798,8 @@
     },
     {
         "id": "quest-area-a03-06",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-06",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1571,6 +1815,8 @@
     },
     {
         "id": "quest-area-a03-07",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-07",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1586,6 +1832,8 @@
     },
     {
         "id": "quest-area-a03-08",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-08",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1601,6 +1849,8 @@
     },
     {
         "id": "quest-area-a03-09",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-09",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1616,6 +1866,8 @@
     },
     {
         "id": "quest-area-a03-10",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-10",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1631,6 +1883,8 @@
     },
     {
         "id": "quest-area-a03-11",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-11",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1646,6 +1900,8 @@
     },
     {
         "id": "quest-area-a03-12",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-12",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1661,6 +1917,8 @@
     },
     {
         "id": "quest-area-a03-13",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-13",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1676,6 +1934,8 @@
     },
     {
         "id": "quest-area-a03-14",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-14",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1691,6 +1951,8 @@
     },
     {
         "id": "quest-area-a03-15",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-15",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1706,6 +1968,8 @@
     },
     {
         "id": "quest-area-a03-16",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-16",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1721,6 +1985,8 @@
     },
     {
         "id": "quest-area-a03-17",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-17",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1737,6 +2003,8 @@
     },
     {
         "id": "quest-area-a03-18",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-18",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -1753,6 +2021,8 @@
     },
     {
         "id": "quest-daily-circuit-00016",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-circuit-00016",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1768,6 +2038,8 @@
     },
     {
         "id": "quest-daily-circuit-00039",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-circuit-00039",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1783,6 +2055,8 @@
     },
     {
         "id": "quest-daily-circuit-03004",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-circuit-03004",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1798,6 +2072,8 @@
     },
     {
         "id": "quest-daily-cooking-00011",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-00011",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1813,6 +2089,8 @@
     },
     {
         "id": "quest-daily-cooking-00014",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-00014",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1828,6 +2106,8 @@
     },
     {
         "id": "quest-daily-cooking-00032",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-00032",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1843,6 +2123,8 @@
     },
     {
         "id": "quest-daily-cooking-00036",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-00036",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1858,6 +2140,8 @@
     },
     {
         "id": "quest-daily-live-00014",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00014",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1873,6 +2157,8 @@
     },
     {
         "id": "quest-daily-live-00036",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00036",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1888,6 +2174,8 @@
     },
     {
         "id": "quest-daily-live-00037",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00037",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1903,6 +2191,8 @@
     },
     {
         "id": "quest-daily-live-00039",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00039",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1918,6 +2208,8 @@
     },
     {
         "id": "quest-daily-live-03006",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03006",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1933,6 +2225,8 @@
     },
     {
         "id": "quest-daily-live-03007",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03007",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1948,6 +2242,8 @@
     },
     {
         "id": "quest-daily-live-03008",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03008",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1963,6 +2259,8 @@
     },
     {
         "id": "quest-daily-live-03009",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-03009",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1978,6 +2276,8 @@
     },
     {
         "id": "quest-daily-live-04001",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04001",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -1993,6 +2293,8 @@
     },
     {
         "id": "quest-daily-live-04002",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04002",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2008,6 +2310,8 @@
     },
     {
         "id": "quest-daily-live-04007",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04007",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2023,6 +2327,8 @@
     },
     {
         "id": "quest-daily-live-04010",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04010",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2038,6 +2344,8 @@
     },
     {
         "id": "quest-daily-live-04012",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04012",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2053,6 +2361,8 @@
     },
     {
         "id": "quest-daily-live-04013",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04013",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2068,6 +2378,8 @@
     },
     {
         "id": "quest-daily-live-04014",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04014",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2083,6 +2395,8 @@
     },
     {
         "id": "quest-daily-live-04015",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04015",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2098,6 +2412,8 @@
     },
     {
         "id": "quest-area-a03-19",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a03-19",
             "parkQuestChapterId": "quest_chapter-area-a03",
@@ -2114,6 +2430,8 @@
     },
     {
         "id": "quest-main-w1-01-02",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-02",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2129,6 +2447,8 @@
     },
     {
         "id": "quest-main-w1-01-03",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-03",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2145,6 +2465,8 @@
     },
     {
         "id": "quest-main-w1-01-04",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-04",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2160,6 +2482,8 @@
     },
     {
         "id": "quest-main-w1-01-05",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-05",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2175,6 +2499,8 @@
     },
     {
         "id": "quest-main-w1-01-06",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-06",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2191,6 +2517,8 @@
     },
     {
         "id": "quest-main-w1-01-07",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-07",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2206,6 +2534,8 @@
     },
     {
         "id": "quest-main-w1-01-08",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-08",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2221,6 +2551,8 @@
     },
     {
         "id": "quest-main-w1-01-09",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-09",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2236,6 +2568,8 @@
     },
     {
         "id": "quest-main-w1-01-10",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-10",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2251,6 +2585,8 @@
     },
     {
         "id": "quest-daily-live-04016",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04016",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2266,6 +2602,8 @@
     },
     {
         "id": "quest-daily-live-04017",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04017",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2281,6 +2619,8 @@
     },
     {
         "id": "quest-daily-live-06002",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-06002",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2296,6 +2636,8 @@
     },
     {
         "id": "quest-daily-live-06003",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-06003",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2311,6 +2653,8 @@
     },
     {
         "id": "quest-daily-live-06004",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-06004",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2326,6 +2670,8 @@
     },
     {
         "id": "quest-daily-live-06005",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-06005",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2341,6 +2687,8 @@
     },
     {
         "id": "quest-daily-rope-00001",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-00001",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2356,6 +2704,8 @@
     },
     {
         "id": "quest-daily-rope-00010",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-00010",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2371,6 +2721,8 @@
     },
     {
         "id": "quest-daily-rope-00012",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-00012",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2386,6 +2738,8 @@
     },
     {
         "id": "quest-daily-rope-00019",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-00019",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2401,6 +2755,8 @@
     },
     {
         "id": "quest-daily-rope-00021",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-00021",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2416,6 +2772,8 @@
     },
     {
         "id": "quest-daily-rope-00022",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-00022",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2431,6 +2789,8 @@
     },
     {
         "id": "quest-daily-rope-00023",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-00023",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2446,6 +2806,8 @@
     },
     {
         "id": "quest-daily-rope-00031",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-00031",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2461,6 +2823,8 @@
     },
     {
         "id": "quest-daily-rope-03001",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-03001",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2476,6 +2840,8 @@
     },
     {
         "id": "quest-daily-rope-03009",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-03009",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2491,6 +2857,8 @@
     },
     {
         "id": "quest-daily-rope-04014",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-04014",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2506,6 +2874,8 @@
     },
     {
         "id": "quest-daily-rope-06005",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-rope-06005",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -2521,6 +2891,8 @@
     },
     {
         "id": "quest-main-w1-01-11",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-11",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2536,6 +2908,8 @@
     },
     {
         "id": "quest-main-w1-01-12",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-12",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2552,6 +2926,8 @@
     },
     {
         "id": "quest-main-w1-01-13",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-13",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2567,6 +2943,8 @@
     },
     {
         "id": "quest-main-w1-01-14",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-14",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2582,6 +2960,8 @@
     },
     {
         "id": "quest-main-w1-01-15",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-15",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2597,6 +2977,8 @@
     },
     {
         "id": "quest-main-w1-01-16",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-16",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2612,6 +2994,8 @@
     },
     {
         "id": "quest-main-w1-01-17",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-17",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2627,6 +3011,8 @@
     },
     {
         "id": "quest-main-w1-01-18",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-18",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2642,6 +3028,8 @@
     },
     {
         "id": "quest-main-w1-01-19",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-19",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2657,6 +3045,8 @@
     },
     {
         "id": "quest-main-w1-01-20",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-20",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2672,6 +3062,8 @@
     },
     {
         "id": "quest-main-w1-01-21",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-21",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2687,6 +3079,8 @@
     },
     {
         "id": "quest-main-w1-01-22",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-22",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2702,6 +3096,8 @@
     },
     {
         "id": "quest-main-w1-01-23",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-23",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2717,6 +3113,8 @@
     },
     {
         "id": "quest-main-w1-01-24",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-24",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -2733,6 +3131,8 @@
     },
     {
         "id": "quest-main-w1-02-01",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-01",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2748,6 +3148,8 @@
     },
     {
         "id": "quest-main-w1-02-02",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-02",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2763,6 +3165,8 @@
     },
     {
         "id": "quest-main-w1-02-03",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-03",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2778,6 +3182,8 @@
     },
     {
         "id": "quest-main-w1-02-04",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-04",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2793,6 +3199,8 @@
     },
     {
         "id": "quest-main-w1-02-05",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-05",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2808,6 +3216,8 @@
     },
     {
         "id": "quest-main-w1-02-06",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-06",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2823,6 +3233,8 @@
     },
     {
         "id": "quest-main-w1-02-07",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-07",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2838,6 +3250,8 @@
     },
     {
         "id": "quest-main-w1-02-08",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-08",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2853,6 +3267,8 @@
     },
     {
         "id": "quest-main-w1-02-09",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-09",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2869,6 +3285,8 @@
     },
     {
         "id": "quest-main-w1-02-10",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-10",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2884,6 +3302,8 @@
     },
     {
         "id": "quest-main-w1-02-11",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-11",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2899,6 +3319,8 @@
     },
     {
         "id": "quest-main-w1-02-12",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-02-12",
             "parkQuestChapterId": "quest_chapter-main-w1-02",
@@ -2914,6 +3336,8 @@
     },
     {
         "id": "quest-main-w1-03-01",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-01",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -2929,6 +3353,8 @@
     },
     {
         "id": "quest-main-w1-03-02",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-02",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -2944,6 +3370,8 @@
     },
     {
         "id": "quest-main-w1-03-03",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-03",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -2959,6 +3387,8 @@
     },
     {
         "id": "quest-main-w1-03-04",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-04",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -2974,6 +3404,8 @@
     },
     {
         "id": "quest-main-w1-03-05",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-03-05",
             "parkQuestChapterId": "quest_chapter-main-w1-03",
@@ -2989,6 +3421,8 @@
     },
     {
         "id": "quest-area-a01-01",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-01",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3004,6 +3438,8 @@
     },
     {
         "id": "quest-area-a01-02",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-02",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3019,6 +3455,8 @@
     },
     {
         "id": "quest-area-a01-03",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-03",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3034,6 +3472,8 @@
     },
     {
         "id": "quest-area-a01-04",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-04",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3049,6 +3489,8 @@
     },
     {
         "id": "quest-area-a01-05",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-05",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3064,6 +3506,8 @@
     },
     {
         "id": "quest-area-a01-06",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-06",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3079,6 +3523,8 @@
     },
     {
         "id": "quest-area-a01-07",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-07",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3094,6 +3540,8 @@
     },
     {
         "id": "quest-area-a01-08",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-08",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3109,6 +3557,8 @@
     },
     {
         "id": "quest-area-a01-09",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-09",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3124,6 +3574,8 @@
     },
     {
         "id": "quest-area-a01-10",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-10",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3139,6 +3591,8 @@
     },
     {
         "id": "quest-area-a01-11",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-11",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3155,6 +3609,8 @@
     },
     {
         "id": "quest-area-a01-12",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-12",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3170,6 +3626,8 @@
     },
     {
         "id": "quest-area-a01-13",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-13",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3185,6 +3643,8 @@
     },
     {
         "id": "quest-area-a01-14",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-14",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3201,6 +3661,8 @@
     },
     {
         "id": "quest-area-a01-15",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-15",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3216,6 +3678,8 @@
     },
     {
         "id": "quest-area-a01-16",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-16",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3232,6 +3696,8 @@
     },
     {
         "id": "quest-area-a01-17",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-17",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3247,6 +3713,8 @@
     },
     {
         "id": "quest-area-a01-18",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-18",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3262,6 +3730,8 @@
     },
     {
         "id": "quest-area-a01-19",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-19",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3277,6 +3747,8 @@
     },
     {
         "id": "quest-area-a01-22",
+        "type": 3,
+        "play_character_id": "",
         "data": {
             "id": "quest-area-a01-22",
             "parkQuestChapterId": "quest_chapter-area-a01",
@@ -3292,6 +3764,8 @@
     },
     {
         "id": "quest-chr-03009",
+        "type": 2,
+        "play_character_id": "chr-03009",
         "data": {
             "id": "quest-chr-03009",
             "parkQuestChapterId": "quest_chapter-chr-03009",
@@ -3307,6 +3781,8 @@
     },
     {
         "id": "quest-chr-04001",
+        "type": 2,
+        "play_character_id": "chr-04001",
         "data": {
             "id": "quest-chr-04001",
             "parkQuestChapterId": "quest_chapter-chr-04001",
@@ -3322,6 +3798,8 @@
     },
     {
         "id": "quest-chr-04002",
+        "type": 2,
+        "play_character_id": "chr-04002",
         "data": {
             "id": "quest-chr-04002",
             "parkQuestChapterId": "quest_chapter-chr-04002",
@@ -3337,6 +3815,8 @@
     },
     {
         "id": "quest-chr-04003",
+        "type": 2,
+        "play_character_id": "chr-04003",
         "data": {
             "id": "quest-chr-04003",
             "parkQuestChapterId": "quest_chapter-chr-04003",
@@ -3352,6 +3832,8 @@
     },
     {
         "id": "quest-chr-04007",
+        "type": 2,
+        "play_character_id": "chr-04007",
         "data": {
             "id": "quest-chr-04007",
             "parkQuestChapterId": "quest_chapter-chr-04007",
@@ -3367,6 +3849,8 @@
     },
     {
         "id": "quest-daily-cooking-00004",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-cooking-00004",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -3382,6 +3866,8 @@
     },
     {
         "id": "quest-chr-04010",
+        "type": 2,
+        "play_character_id": "chr-04010",
         "data": {
             "id": "quest-chr-04010",
             "parkQuestChapterId": "quest_chapter-chr-04010",
@@ -3397,6 +3883,8 @@
     },
     {
         "id": "quest-chr-04012",
+        "type": 2,
+        "play_character_id": "chr-04012",
         "data": {
             "id": "quest-chr-04012",
             "parkQuestChapterId": "quest_chapter-chr-04012",
@@ -3412,6 +3900,8 @@
     },
     {
         "id": "quest-chr-04013",
+        "type": 2,
+        "play_character_id": "chr-04013",
         "data": {
             "id": "quest-chr-04013",
             "parkQuestChapterId": "quest_chapter-chr-04013",
@@ -3427,6 +3917,8 @@
     },
     {
         "id": "quest-chr-04014",
+        "type": 2,
+        "play_character_id": "chr-04014",
         "data": {
             "id": "quest-chr-04014",
             "parkQuestChapterId": "quest_chapter-chr-04014",
@@ -3442,6 +3934,8 @@
     },
     {
         "id": "quest-chr-04015",
+        "type": 2,
+        "play_character_id": "chr-04015",
         "data": {
             "id": "quest-chr-04015",
             "parkQuestChapterId": "quest_chapter-chr-04015",
@@ -3457,6 +3951,8 @@
     },
     {
         "id": "quest-chr-04016",
+        "type": 2,
+        "play_character_id": "chr-04016",
         "data": {
             "id": "quest-chr-04016",
             "parkQuestChapterId": "quest_chapter-chr-04016",
@@ -3472,6 +3968,8 @@
     },
     {
         "id": "quest-chr-04017",
+        "type": 2,
+        "play_character_id": "chr-04017",
         "data": {
             "id": "quest-chr-04017",
             "parkQuestChapterId": "quest_chapter-chr-04017",
@@ -3487,6 +3985,8 @@
     },
     {
         "id": "quest-chr-06002",
+        "type": 2,
+        "play_character_id": "chr-06002",
         "data": {
             "id": "quest-chr-06002",
             "parkQuestChapterId": "quest_chapter-chr-06002",
@@ -3502,6 +4002,8 @@
     },
     {
         "id": "quest-chr-06003",
+        "type": 2,
+        "play_character_id": "chr-06003",
         "data": {
             "id": "quest-chr-06003",
             "parkQuestChapterId": "quest_chapter-chr-06003",
@@ -3517,6 +4019,8 @@
     },
     {
         "id": "quest-chr-06004",
+        "type": 2,
+        "play_character_id": "chr-06004",
         "data": {
             "id": "quest-chr-06004",
             "parkQuestChapterId": "quest_chapter-chr-06004",
@@ -3532,6 +4036,8 @@
     },
     {
         "id": "quest-chr-06005",
+        "type": 2,
+        "play_character_id": "chr-06005",
         "data": {
             "id": "quest-chr-06005",
             "parkQuestChapterId": "quest_chapter-chr-06005",
@@ -3547,6 +4053,8 @@
     },
     {
         "id": "quest-daily-live-04003",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-04003",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -3562,6 +4070,8 @@
     },
     {
         "id": "quest-main-w1-01-01",
+        "type": 1,
+        "play_character_id": "",
         "data": {
             "id": "quest-main-w1-01-01",
             "parkQuestChapterId": "quest_chapter-main-w1-01",
@@ -3576,6 +4086,8 @@
     },
     {
         "id": "quest-daily-bet_coin-00030",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-bet_coin-00030",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -3591,6 +4103,8 @@
     },
     {
         "id": "quest-daily-bet_coin-00034",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-bet_coin-00034",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -3606,6 +4120,8 @@
     },
     {
         "id": "quest-chr-00001",
+        "type": 2,
+        "play_character_id": "chr-00001",
         "data": {
             "id": "quest-chr-00001",
             "parkQuestChapterId": "quest_chapter-chr-00001",
@@ -3621,6 +4137,8 @@
     },
     {
         "id": "quest-chr-00002",
+        "type": 2,
+        "play_character_id": "chr-00002",
         "data": {
             "id": "quest-chr-00002",
             "parkQuestChapterId": "quest_chapter-chr-00002",
@@ -3636,6 +4154,8 @@
     },
     {
         "id": "quest-chr-00004",
+        "type": 2,
+        "play_character_id": "chr-00004",
         "data": {
             "id": "quest-chr-00004",
             "parkQuestChapterId": "quest_chapter-chr-00004",
@@ -3651,6 +4171,8 @@
     },
     {
         "id": "quest-chr-00005",
+        "type": 2,
+        "play_character_id": "chr-00005",
         "data": {
             "id": "quest-chr-00005",
             "parkQuestChapterId": "quest_chapter-chr-00005",
@@ -3666,6 +4188,8 @@
     },
     {
         "id": "quest-chr-00006",
+        "type": 2,
+        "play_character_id": "chr-00006",
         "data": {
             "id": "quest-chr-00006",
             "parkQuestChapterId": "quest_chapter-chr-00006",
@@ -3681,6 +4205,8 @@
     },
     {
         "id": "quest-chr-00007",
+        "type": 2,
+        "play_character_id": "chr-00007",
         "data": {
             "id": "quest-chr-00007",
             "parkQuestChapterId": "quest_chapter-chr-00007",
@@ -3696,6 +4222,8 @@
     },
     {
         "id": "quest-chr-00010",
+        "type": 2,
+        "play_character_id": "chr-00010",
         "data": {
             "id": "quest-chr-00010",
             "parkQuestChapterId": "quest_chapter-chr-00010",
@@ -3711,6 +4239,8 @@
     },
     {
         "id": "quest-chr-00011",
+        "type": 2,
+        "play_character_id": "chr-00011",
         "data": {
             "id": "quest-chr-00011",
             "parkQuestChapterId": "quest_chapter-chr-00011",
@@ -3726,6 +4256,8 @@
     },
     {
         "id": "quest-chr-00012",
+        "type": 2,
+        "play_character_id": "chr-00012",
         "data": {
             "id": "quest-chr-00012",
             "parkQuestChapterId": "quest_chapter-chr-00012",
@@ -3741,6 +4273,8 @@
     },
     {
         "id": "quest-chr-00013",
+        "type": 2,
+        "play_character_id": "chr-00013",
         "data": {
             "id": "quest-chr-00013",
             "parkQuestChapterId": "quest_chapter-chr-00013",
@@ -3756,6 +4290,8 @@
     },
     {
         "id": "quest-chr-00014",
+        "type": 2,
+        "play_character_id": "chr-00014",
         "data": {
             "id": "quest-chr-00014",
             "parkQuestChapterId": "quest_chapter-chr-00014",
@@ -3771,6 +4307,8 @@
     },
     {
         "id": "quest-chr-00015",
+        "type": 2,
+        "play_character_id": "chr-00015",
         "data": {
             "id": "quest-chr-00015",
             "parkQuestChapterId": "quest_chapter-chr-00015",
@@ -3786,6 +4324,8 @@
     },
     {
         "id": "quest-chr-00016",
+        "type": 2,
+        "play_character_id": "chr-00016",
         "data": {
             "id": "quest-chr-00016",
             "parkQuestChapterId": "quest_chapter-chr-00016",
@@ -3801,6 +4341,8 @@
     },
     {
         "id": "quest-chr-00017",
+        "type": 2,
+        "play_character_id": "chr-00017",
         "data": {
             "id": "quest-chr-00017",
             "parkQuestChapterId": "quest_chapter-chr-00017",
@@ -3816,6 +4358,8 @@
     },
     {
         "id": "quest-chr-00018",
+        "type": 2,
+        "play_character_id": "chr-00018",
         "data": {
             "id": "quest-chr-00018",
             "parkQuestChapterId": "quest_chapter-chr-00018",
@@ -3831,6 +4375,8 @@
     },
     {
         "id": "quest-chr-00019",
+        "type": 2,
+        "play_character_id": "chr-00019",
         "data": {
             "id": "quest-chr-00019",
             "parkQuestChapterId": "quest_chapter-chr-00019",
@@ -3846,6 +4392,8 @@
     },
     {
         "id": "quest-chr-00021",
+        "type": 2,
+        "play_character_id": "chr-00021",
         "data": {
             "id": "quest-chr-00021",
             "parkQuestChapterId": "quest_chapter-chr-00021",
@@ -3861,6 +4409,8 @@
     },
     {
         "id": "quest-chr-00022",
+        "type": 2,
+        "play_character_id": "chr-00022",
         "data": {
             "id": "quest-chr-00022",
             "parkQuestChapterId": "quest_chapter-chr-00022",
@@ -3876,6 +4426,8 @@
     },
     {
         "id": "quest-chr-00023",
+        "type": 2,
+        "play_character_id": "chr-00023",
         "data": {
             "id": "quest-chr-00023",
             "parkQuestChapterId": "quest_chapter-chr-00023",
@@ -3891,6 +4443,8 @@
     },
     {
         "id": "quest-chr-00026",
+        "type": 2,
+        "play_character_id": "chr-00026",
         "data": {
             "id": "quest-chr-00026",
             "parkQuestChapterId": "quest_chapter-chr-00026",
@@ -3906,6 +4460,8 @@
     },
     {
         "id": "quest-chr-00027",
+        "type": 2,
+        "play_character_id": "chr-00027",
         "data": {
             "id": "quest-chr-00027",
             "parkQuestChapterId": "quest_chapter-chr-00027",
@@ -3921,6 +4477,8 @@
     },
     {
         "id": "quest-chr-00028",
+        "type": 2,
+        "play_character_id": "chr-00028",
         "data": {
             "id": "quest-chr-00028",
             "parkQuestChapterId": "quest_chapter-chr-00028",
@@ -3936,6 +4494,8 @@
     },
     {
         "id": "quest-chr-00030",
+        "type": 2,
+        "play_character_id": "chr-00030",
         "data": {
             "id": "quest-chr-00030",
             "parkQuestChapterId": "quest_chapter-chr-00030",
@@ -3951,6 +4511,8 @@
     },
     {
         "id": "quest-chr-00031",
+        "type": 2,
+        "play_character_id": "chr-00031",
         "data": {
             "id": "quest-chr-00031",
             "parkQuestChapterId": "quest_chapter-chr-00031",
@@ -3966,6 +4528,8 @@
     },
     {
         "id": "quest-chr-00032",
+        "type": 2,
+        "play_character_id": "chr-00032",
         "data": {
             "id": "quest-chr-00032",
             "parkQuestChapterId": "quest_chapter-chr-00032",
@@ -3981,6 +4545,8 @@
     },
     {
         "id": "quest-chr-00034",
+        "type": 2,
+        "play_character_id": "chr-00034",
         "data": {
             "id": "quest-chr-00034",
             "parkQuestChapterId": "quest_chapter-chr-00034",
@@ -3996,6 +4562,8 @@
     },
     {
         "id": "quest-chr-00035",
+        "type": 2,
+        "play_character_id": "chr-00035",
         "data": {
             "id": "quest-chr-00035",
             "parkQuestChapterId": "quest_chapter-chr-00035",
@@ -4011,6 +4579,8 @@
     },
     {
         "id": "quest-chr-00036",
+        "type": 2,
+        "play_character_id": "chr-00036",
         "data": {
             "id": "quest-chr-00036",
             "parkQuestChapterId": "quest_chapter-chr-00036",
@@ -4026,6 +4596,8 @@
     },
     {
         "id": "quest-chr-00037",
+        "type": 2,
+        "play_character_id": "chr-00037",
         "data": {
             "id": "quest-chr-00037",
             "parkQuestChapterId": "quest_chapter-chr-00037",
@@ -4041,6 +4613,8 @@
     },
     {
         "id": "quest-chr-00039",
+        "type": 2,
+        "play_character_id": "chr-00039",
         "data": {
             "id": "quest-chr-00039",
             "parkQuestChapterId": "quest_chapter-chr-00039",
@@ -4056,6 +4630,8 @@
     },
     {
         "id": "quest-chr-03001",
+        "type": 2,
+        "play_character_id": "chr-03001",
         "data": {
             "id": "quest-chr-03001",
             "parkQuestChapterId": "quest_chapter-chr-03001",
@@ -4071,6 +4647,8 @@
     },
     {
         "id": "quest-chr-03002",
+        "type": 2,
+        "play_character_id": "chr-03002",
         "data": {
             "id": "quest-chr-03002",
             "parkQuestChapterId": "quest_chapter-chr-03002",
@@ -4086,6 +4664,8 @@
     },
     {
         "id": "quest-chr-03003",
+        "type": 2,
+        "play_character_id": "chr-03003",
         "data": {
             "id": "quest-chr-03003",
             "parkQuestChapterId": "quest_chapter-chr-03003",
@@ -4101,6 +4681,8 @@
     },
     {
         "id": "quest-chr-03004",
+        "type": 2,
+        "play_character_id": "chr-03004",
         "data": {
             "id": "quest-chr-03004",
             "parkQuestChapterId": "quest_chapter-chr-03004",
@@ -4116,6 +4698,8 @@
     },
     {
         "id": "quest-chr-03005",
+        "type": 2,
+        "play_character_id": "chr-03005",
         "data": {
             "id": "quest-chr-03005",
             "parkQuestChapterId": "quest_chapter-chr-03005",
@@ -4131,6 +4715,8 @@
     },
     {
         "id": "quest-chr-03006",
+        "type": 2,
+        "play_character_id": "chr-03006",
         "data": {
             "id": "quest-chr-03006",
             "parkQuestChapterId": "quest_chapter-chr-03006",
@@ -4146,6 +4732,8 @@
     },
     {
         "id": "quest-chr-03007",
+        "type": 2,
+        "play_character_id": "chr-03007",
         "data": {
             "id": "quest-chr-03007",
             "parkQuestChapterId": "quest_chapter-chr-03007",
@@ -4161,6 +4749,8 @@
     },
     {
         "id": "quest-chr-03008",
+        "type": 2,
+        "play_character_id": "chr-03008",
         "data": {
             "id": "quest-chr-03008",
             "parkQuestChapterId": "quest_chapter-chr-03008",
@@ -4176,6 +4766,8 @@
     },
     {
         "id": "quest-daily-live-00006",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00006",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4191,6 +4783,8 @@
     },
     {
         "id": "quest-daily-live-00010",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00010",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4206,6 +4800,8 @@
     },
     {
         "id": "quest-daily-live-00011",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00011",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4221,6 +4817,8 @@
     },
     {
         "id": "quest-daily-live-00012",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00012",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4236,6 +4834,8 @@
     },
     {
         "id": "quest-daily-live-00017",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00017",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4251,6 +4851,8 @@
     },
     {
         "id": "quest-daily-live-00019",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00019",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4266,6 +4868,8 @@
     },
     {
         "id": "quest-daily-live-00021",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00021",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4281,6 +4885,8 @@
     },
     {
         "id": "quest-daily-live-00022",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00022",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4296,6 +4902,8 @@
     },
     {
         "id": "quest-daily-live-00023",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00023",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4311,6 +4919,8 @@
     },
     {
         "id": "quest-daily-live-00026",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00026",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4326,6 +4936,8 @@
     },
     {
         "id": "quest-daily-live-00027",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00027",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4341,6 +4953,8 @@
     },
     {
         "id": "quest-daily-live-00028",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00028",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4356,6 +4970,8 @@
     },
     {
         "id": "quest-daily-live-00031",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00031",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4371,6 +4987,8 @@
     },
     {
         "id": "quest-daily-live-00032",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00032",
             "parkQuestChapterId": "quest_chapter-daily",
@@ -4386,6 +5004,8 @@
     },
     {
         "id": "quest-daily-live-00034",
+        "type": 4,
+        "play_character_id": "",
         "data": {
             "id": "quest-daily-live-00034",
             "parkQuestChapterId": "quest_chapter-daily",

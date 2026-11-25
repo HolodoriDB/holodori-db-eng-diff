@@ -218,5 +218,35 @@
             "textLangId": "la-instant_tips-park_fishing_rod_upgrade_lv4",
             "conditionGroupId": "cd-park_fishing_rod-04"
         }
+    },
+    {
+        "id": "instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+        "data": {
+            "id": "instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TEXT",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "textLangId": "la-tips-instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-15"
+        }
+    },
+    {
+        "id": "instant_tips-live_tower-quest-unlock",
+        "data": {
+            "id": "instant_tips-live_tower-quest-unlock",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TIPS",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_PARK_TOP",
+            "tipsId": "tips-instant_tips-live_tower-quest-unlock",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-06"
+        }
+    },
+    {
+        "id": "instant_tips-skill_tree-upgrade-1",
+        "data": {
+            "id": "instant_tips-skill_tree-upgrade-1",
+            "type": "InstantTipsType_INSTANT_TIPS_TYPE_TIPS",
+            "displaySceneType": "InstantTipsDisplaySceneType_INSTANT_TIPS_DISPLAY_SCENE_TYPE_SKILL_TREE",
+            "tipsId": "tips-instant_tips-skill_tree-upgrade-1",
+            "conditionGroupId": "cd-player_level-25"
+        }
     }
 ]

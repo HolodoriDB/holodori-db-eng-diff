@@ -85,6 +85,28 @@
         }
     },
     {
+        "help_category_id": "help_category-help-game",
+        "number": 9,
+        "data": {
+            "helpCategoryId": "help_category-help-game",
+            "number": 9,
+            "titleLangId": "la-help_category-help-game-9-title",
+            "textLangId": "la-help_category-help-game-9-text",
+            "viewConditionGroupId": "cd-perm-a03-shogi"
+        }
+    },
+    {
+        "help_category_id": "help_category-help-rhythm",
+        "number": 13,
+        "data": {
+            "helpCategoryId": "help_category-help-rhythm",
+            "number": 13,
+            "titleLangId": "la-help_category-help-rhythm-13-title",
+            "textLangId": "la-help_category-help-rhythm-13-text",
+            "viewConditionGroupId": "cd-live_tower-default-unlock"
+        }
+    },
+    {
         "help_category_id": "help_category-help-card",
         "number": 6,
         "data": {

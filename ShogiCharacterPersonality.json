@@ -1,0 +1,542 @@
+[
+    {
+        "character_id": "chr-00001",
+        "data": {
+            "characterId": "chr-00001",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-00002",
+        "data": {
+            "characterId": "chr-00002",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00004",
+        "data": {
+            "characterId": "chr-00004",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-00005",
+        "data": {
+            "characterId": "chr-00005",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type_02",
+            "personalityWeight": 100,
+            "baseMissRate": 60,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00006",
+        "data": {
+            "characterId": "chr-00006",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 40,
+            "baseMissRate": 15,
+            "selectionScore": 80
+        }
+    },
+    {
+        "character_id": "chr-00007",
+        "data": {
+            "characterId": "chr-00007",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-00010",
+        "data": {
+            "characterId": "chr-00010",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-strong_mistake",
+            "personalityWeight": 80,
+            "baseMissRate": 45,
+            "selectionScore": 100
+        }
+    },
+    {
+        "character_id": "chr-00011",
+        "data": {
+            "characterId": "chr-00011",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-retraction_type",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00012",
+        "data": {
+            "characterId": "chr-00012",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type",
+            "personalityWeight": 80,
+            "baseMissRate": 60,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00013",
+        "data": {
+            "characterId": "chr-00013",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-retraction_type",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-00014",
+        "data": {
+            "characterId": "chr-00014",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 20,
+            "baseMissRate": 15,
+            "selectionScore": 80
+        }
+    },
+    {
+        "character_id": "chr-00015",
+        "data": {
+            "characterId": "chr-00015",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type_02",
+            "personalityWeight": 100,
+            "baseMissRate": 60,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00016",
+        "data": {
+            "characterId": "chr-00016",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-00017",
+        "data": {
+            "characterId": "chr-00017",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type_02",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-00018",
+        "data": {
+            "characterId": "chr-00018",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-purely_strong",
+            "personalityWeight": 20,
+            "baseMissRate": 15,
+            "selectionScore": 100
+        }
+    },
+    {
+        "character_id": "chr-00019",
+        "data": {
+            "characterId": "chr-00019",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-00021",
+        "data": {
+            "characterId": "chr-00021",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-00022",
+        "data": {
+            "characterId": "chr-00022",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-00023",
+        "data": {
+            "characterId": "chr-00023",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-use_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-00026",
+        "data": {
+            "characterId": "chr-00026",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-00027",
+        "data": {
+            "characterId": "chr-00027",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-00028",
+        "data": {
+            "characterId": "chr-00028",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-retraction_type",
+            "personalityWeight": 40,
+            "baseMissRate": 45,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00030",
+        "data": {
+            "characterId": "chr-00030",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01_02",
+            "personalityWeight": 80,
+            "baseMissRate": 45,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00031",
+        "data": {
+            "characterId": "chr-00031",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type_02",
+            "personalityWeight": 80,
+            "baseMissRate": 60,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00032",
+        "data": {
+            "characterId": "chr-00032",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-purely_strong",
+            "personalityWeight": 20,
+            "baseMissRate": 15,
+            "selectionScore": 100
+        }
+    },
+    {
+        "character_id": "chr-00034",
+        "data": {
+            "characterId": "chr-00034",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type_02",
+            "personalityWeight": 80,
+            "baseMissRate": 60,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-00035",
+        "data": {
+            "characterId": "chr-00035",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-use_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-00036",
+        "data": {
+            "characterId": "chr-00036",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-00037",
+        "data": {
+            "characterId": "chr-00037",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-00039",
+        "data": {
+            "characterId": "chr-00039",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-03001",
+        "data": {
+            "characterId": "chr-03001",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-03002",
+        "data": {
+            "characterId": "chr-03002",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 20,
+            "baseMissRate": 15,
+            "selectionScore": 80
+        }
+    },
+    {
+        "character_id": "chr-03003",
+        "data": {
+            "characterId": "chr-03003",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-retraction_type",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-03004",
+        "data": {
+            "characterId": "chr-03004",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-purely_strong",
+            "personalityWeight": 20,
+            "baseMissRate": 15,
+            "selectionScore": 100
+        }
+    },
+    {
+        "character_id": "chr-03005",
+        "data": {
+            "characterId": "chr-03005",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-03006",
+        "data": {
+            "characterId": "chr-03006",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-03007",
+        "data": {
+            "characterId": "chr-03007",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-use_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-03008",
+        "data": {
+            "characterId": "chr-03008",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-03009",
+        "data": {
+            "characterId": "chr-03009",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-04001",
+        "data": {
+            "characterId": "chr-04001",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-04002",
+        "data": {
+            "characterId": "chr-04002",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-04003",
+        "data": {
+            "characterId": "chr-04003",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 20,
+            "baseMissRate": 15,
+            "selectionScore": 80
+        }
+    },
+    {
+        "character_id": "chr-04007",
+        "data": {
+            "characterId": "chr-04007",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-04010",
+        "data": {
+            "characterId": "chr-04010",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 20,
+            "baseMissRate": 15,
+            "selectionScore": 80
+        }
+    },
+    {
+        "character_id": "chr-04012",
+        "data": {
+            "characterId": "chr-04012",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type",
+            "personalityWeight": 80,
+            "baseMissRate": 60,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-04013",
+        "data": {
+            "characterId": "chr-04013",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-retraction_type",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-04014",
+        "data": {
+            "characterId": "chr-04014",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-purely_strong",
+            "personalityWeight": 20,
+            "baseMissRate": 15,
+            "selectionScore": 100
+        }
+    },
+    {
+        "character_id": "chr-04015",
+        "data": {
+            "characterId": "chr-04015",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_01",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-04016",
+        "data": {
+            "characterId": "chr-04016",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-retraction_type",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 20
+        }
+    },
+    {
+        "character_id": "chr-04017",
+        "data": {
+            "characterId": "chr-04017",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-06002",
+        "data": {
+            "characterId": "chr-06002",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-safety_02",
+            "personalityWeight": 40,
+            "baseMissRate": 30,
+            "selectionScore": 60
+        }
+    },
+    {
+        "character_id": "chr-06003",
+        "data": {
+            "characterId": "chr-06003",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-06004",
+        "data": {
+            "characterId": "chr-06004",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-use_pieces",
+            "personalityWeight": 60,
+            "baseMissRate": 45,
+            "selectionScore": 40
+        }
+    },
+    {
+        "character_id": "chr-06005",
+        "data": {
+            "characterId": "chr-06005",
+            "shogiCharacterPersonalityParameterGroupId": "shogi_character_personality_parameter-forward_type_02",
+            "personalityWeight": 80,
+            "baseMissRate": 60,
+            "selectionScore": 20
+        }
+    }
+]

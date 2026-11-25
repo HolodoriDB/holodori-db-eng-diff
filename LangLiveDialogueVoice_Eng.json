@@ -56,6 +56,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0120-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00015_00015-5-uniq-0120-00_myself",
+            "text": "【Behold, the Elite Santa! Miko】SP Skill"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-00016_00016-5-uniq-0076-00_myself",
@@ -123,6 +130,13 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0070-00_myself",
             "text": "【Spoiled Beach Princess Luna】SP Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0121-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_00028-5-uniq-0121-00_myself",
+            "text": "【Resplendent Princess Symphony Luna】SP Skill"
         }
     },
     {
@@ -252,6 +266,13 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0122-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_04003-5-uniq-0122-00_myself",
+            "text": "【Sweet Snow INAvitation Ina'nis】SP Skill"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_myself",
         "data": {
             "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_myself",
@@ -270,6 +291,13 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0083-00_myself",
             "text": "【Archived Night Pool Shiori】SP Skill"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0123-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04013_04013-5-uniq-0123-00_myself",
+            "text": "【Lured by Candlelight Shiori】SP Skill"
         }
     },
     {
@@ -1071,6 +1099,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-00028",
+            "text": "【Behold, the Elite Santa! Miko】Miko&Luna"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-04003",
+            "text": "【Behold, the Elite Santa! Miko】Miko&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00015-to-04013",
+            "text": "【Behold, the Elite Santa! Miko】Miko&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00028-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_00028-to-00015",
+            "text": "【Behold, the Elite Santa! Miko】Luna&Miko"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_04003-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_04003-to-00015",
+            "text": "【Behold, the Elite Santa! Miko】Ina'nis&Miko"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_04013-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00015-5-uniq-0120-00_04013-to-00015",
+            "text": "【Behold, the Elite Santa! Miko】Shiori&Miko"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00016-5-uniq-0014-00_00016-to-00006",
         "data": {
             "id": "la-name_live_dial_voice_card_00016-5-uniq-0014-00_00016-to-00006",
@@ -1852,6 +1922,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00028-5-uniq-0070-00_00034-to-00028",
             "text": "【Spoiled Beach Princess Luna】Polka&Luna"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00015-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00015-to-00028",
+            "text": "【Resplendent Princess Symphony Luna】Miko&Luna"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-00015",
+            "text": "【Resplendent Princess Symphony Luna】Luna&Miko"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-04003",
+            "text": "【Resplendent Princess Symphony Luna】Luna&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_00028-to-04013",
+            "text": "【Resplendent Princess Symphony Luna】Luna&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_04003-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_04003-to-00028",
+            "text": "【Resplendent Princess Symphony Luna】Ina'nis&Luna"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_04013-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00028-5-uniq-0121-00_04013-to-00028",
+            "text": "【Resplendent Princess Symphony Luna】Shiori&Luna"
         }
     },
     {
@@ -3339,6 +3451,48 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_00015-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_00015-to-04003",
+            "text": "【Sweet Snow INAvitation Ina'nis】Miko&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_00028-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_00028-to-04003",
+            "text": "【Sweet Snow INAvitation Ina'nis】Luna&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-00015",
+            "text": "【Sweet Snow INAvitation Ina'nis】Ina'nis&Miko"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-00028",
+            "text": "【Sweet Snow INAvitation Ina'nis】Ina'nis&Luna"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04003-to-04013",
+            "text": "【Sweet Snow INAvitation Ina'nis】Ina'nis&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04013-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04003-5-uniq-0122-00_04013-to-04003",
+            "text": "【Sweet Snow INAvitation Ina'nis】Shiori&Ina'nis"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_04007-5-uniq-0047-00_04007-to-04010",
         "data": {
             "id": "la-name_live_dial_voice_card_04007-5-uniq-0047-00_04007-to-04010",
@@ -3630,6 +3784,48 @@
         "data": {
             "id": "la-name_live_dial_voice_card_04013-5-uniq-0083-00_04015-to-04013",
             "text": "【Archived Night Pool Shiori】Nerissa&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_00015-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_00015-to-04013",
+            "text": "【Lured by Candlelight Shiori】Miko&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_00028-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_00028-to-04013",
+            "text": "【Lured by Candlelight Shiori】Luna&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04003-to-04013",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04003-to-04013",
+            "text": "【Lured by Candlelight Shiori】Ina'nis&Shiori"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-00015",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-00015",
+            "text": "【Lured by Candlelight Shiori】Shiori&Miko"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-00028",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-00028",
+            "text": "【Lured by Candlelight Shiori】Shiori&Luna"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-04003",
+        "data": {
+            "id": "la-name_live_dial_voice_card_04013-5-uniq-0123-00_04013-to-04003",
+            "text": "【Lured by Candlelight Shiori】Shiori&Ina'nis"
         }
     },
     {

@@ -2738,6 +2738,74 @@
         }
     },
     {
+        "park_quest_id": "quest-area-a01-30",
+        "step_group_number": 1,
+        "step": 1,
+        "park_target_mapping_id": "target_map-area-a01-30-1-1",
+        "action_number": 1,
+        "data": {
+            "parkQuestId": "quest-area-a01-30",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "parkTargetMappingId": "target_map-area-a01-30-1-1",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_QUEST_TALK",
+            "beforeParkTalkGroupId": "park_talk-area-a01-30-1-1",
+            "afterParkTalkGroupId": "park_talk-area-a01-30-1-1-after"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a01-30",
+        "step_group_number": 1,
+        "step": 2,
+        "park_target_mapping_id": "target_map-area-a01-30-1-2",
+        "action_number": 1,
+        "data": {
+            "parkQuestId": "quest-area-a01-30",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "parkTargetMappingId": "target_map-area-a01-30-1-2",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_QUEST_LIVE_TOWER_READ",
+            "beforeParkTalkGroupId": "park_talk-area-a01-30-1-2"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-20",
+        "step_group_number": 1,
+        "step": 1,
+        "park_target_mapping_id": "target_map-area-a03-20-1-1",
+        "action_number": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-20",
+            "stepGroupNumber": 1,
+            "step": 1,
+            "parkTargetMappingId": "target_map-area-a03-20-1-1",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_QUEST_TALK",
+            "beforeParkTalkGroupId": "park_talk-area-a03-20-1-1",
+            "afterParkTalkGroupId": "park_talk-area-a03-20-1-1-after"
+        }
+    },
+    {
+        "park_quest_id": "quest-area-a03-20",
+        "step_group_number": 1,
+        "step": 2,
+        "park_target_mapping_id": "target_map-area-a03-20-1-2",
+        "action_number": 1,
+        "data": {
+            "parkQuestId": "quest-area-a03-20",
+            "stepGroupNumber": 1,
+            "step": 2,
+            "parkTargetMappingId": "target_map-area-a03-20-1-2",
+            "actionNumber": 1,
+            "type": "ParkActionType_PARK_ACTION_TYPE_QUEST_SHOGI",
+            "beforeParkTalkGroupId": "park_talk-area-a03-20-1-2",
+            "afterParkTalkGroupId": "park_talk-area-a03-20-1-2-after",
+            "parkQuestShogiId": "quest_shogi-area-a03-20-1-2"
+        }
+    },
+    {
         "park_quest_id": "quest-area-a01-01",
         "step_group_number": 1,
         "step": 1,

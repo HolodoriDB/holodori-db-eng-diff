@@ -1617,6 +1617,20 @@
         }
     },
     {
+        "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+            "text": "Area Quest <color=#ff3bc8>To the Stage of Dreams! Mission Start</color> is now unlocked!\n\nComplete it to play <color=#ff3bc8>Challenge Live</color>!\n\nChallenge Live is a Live where you take on a Target Score set for each Stage."
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+        "data": {
+            "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+            "text": "Clear stages to earn rewards such as <color=#ff3bc8>Star Cubes</color> and <color=#ff3bc8>Achievement Badges</color>!\n\n※These can be claimed in Achievs."
+        }
+    },
+    {
         "id": "la-tips-instant_tips-present-facerock-2-description-1",
         "data": {
             "id": "la-tips-instant_tips-present-facerock-2-description-1",
@@ -1635,6 +1649,13 @@
         "data": {
             "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
             "text": "With ReGLOSS, now there's more kinds of treasure to find in Hidden Treasure!\n\n<color=#ff3bc8>Treasure is hidden at various places every day</color>, so keep your eyes out!"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+            "text": "A <color=#ff3bc8>new Node that enhances Leader Skills</color> has been added!\n\nYou can earn the Star Cubes needed to unlock them in <color=#ff3bc8>Challenge Live</color>!"
         }
     },
     {
@@ -1691,6 +1712,48 @@
         "data": {
             "id": "la-tips-live-description-1",
             "text": "A Unit is made up of <color=#ff3bc8>a leader and five Members.</color>\n\nThe Unit Score is determined by the leader's outfit skills, and the Members' parameters, skills, and more!"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-description-1",
+        "data": {
+            "id": "la-tips-live_tower-description-1",
+            "text": "Challenge Live can be played anytime at the <color=#ff3bc8>Live Stage in each area</color>!"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-description-2",
+        "data": {
+            "id": "la-tips-live_tower-description-2",
+            "text": "Clear them and earn various rewards!\n\nBy clearing specific Stages, you can obtain <color=#ff3bc8>Star Cubes</color> and <color=#ff3bc8>Achievement Badges</color>.\n\n* Achievement Badges can be obtained from Achievs."
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-1",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-1",
+            "text": "Challenge Live is a Live where you <color=#ff3bc8>take on a Target Score set for each Stage</color>.\n\nReach the Target Score to clear the Stage!\nClear them to earn rewards and move on to the next ones!\n\n* Cleared Stages cannot be challenged again!"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-2",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-2",
+            "text": "Each Stage has multiple Set Pieces prepared!\n\n<color=#ff3bc8>If you achieve the Target Score with any one Song, the whole Stage will count as cleared</color>."
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-3",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-3",
+            "text": "Each Stage has different Bonus Members!\n\nIf you include Bonus Members in your formation, <color=#ff3bc8>you'll receive a Bonus and your Unit Score will increase</color>."
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-4",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-4",
+            "text": "<color=#ff3bc8>If you greatly exceed the Target Score, you may skip Stages</color>.\n\nYou'll receive all the rewards from the skipped Stages at once!\n\n<color=#ff3bc8>Rainbow-colored Stages are mandatory</color> and must be challenged!"
         }
     },
     {
@@ -2118,6 +2181,174 @@
         "data": {
             "id": "la-tips-rhythm-game-description-5",
             "text": "If you select the Rhythm Support option in Live Options, Regular Notes will turn gray during upbeats and similar sections, making timing mismatches easier to understand!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-1",
+        "data": {
+            "id": "la-tips-shogi-description-1",
+            "text": "You can play Puka Puka Fight anytime at the <color=#ff3bc8>Splash Stadium</color> in Soda Pop Lagoon!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-2",
+        "data": {
+            "id": "la-tips-shogi-description-2",
+            "text": "<color=#ff3bc8>Clear NORMAL Stages to earn rewards!</color>\n\nDefeat the holomem in each Stage to proceed onwards!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-3",
+        "data": {
+            "id": "la-tips-shogi-description-3",
+            "text": "<color=#ff3bc8>Once you clear all NORMAL Stages, you can take on the CHALLENGE Stages!</color>\n\nIn this mode, you can face off against holomem of various skill levels!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-1",
+        "data": {
+            "id": "la-tips-shogi-quest-description-1",
+            "text": "<color=#ff3bc8>Puka Puka Fight is a Minigame where you aim to win by knocking your opponent's Leader into the water!</color>\n\nYou can recruit your opponent's other holomems by knocking them into the water!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-2",
+        "data": {
+            "id": "la-tips-shogi-quest-description-2",
+            "text": "On your turn, <color=#ff3bc8>you can perform one of the following actions</color>:\n\nMove one holomem on the platforms.\nPlace one recruited holomem on an empty platform."
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-3",
+        "data": {
+            "id": "la-tips-shogi-quest-description-3",
+            "text": "Knock your opponent's Leader into the water to claim victory!\n\n▼ Victory Condition 1 (Knock the Leader into the Water)\n<color=#ff3bc8>Knock your opponent's Leader (the holomem with the crown) into the water to win!</color>\n\nMove your holomems strategically to corner your opponent!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-4",
+        "data": {
+            "id": "la-tips-shogi-quest-description-4",
+            "text": "Move your Leader to a platform in the rightmost column!\n\n▼ Victory Condition 2 (Score a Try)\nTrying a platform in the rightmost column gives you a chance to win!\n<color=#ff3bc8>If your Leader can't be knocked into the water on your opponent's next turn, you win by scoring a \"Try\"!</color>"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-5",
+        "data": {
+            "id": "la-tips-shogi-quest-description-5",
+            "text": "<color=#ff3bc8>When a Turtle (Green) enters the rightmost column, it powers up into a Turtle (Gold)!</color>\n\nBut be careful! A recruited Turtle won't power up if you place it directly on a platform in the rightmost column!\n\nAlso, remember that a Turtle (Gold) will revert to its original form if it's knocked into the water!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-6",
+        "data": {
+            "id": "la-tips-shogi-quest-description-6",
+            "text": "<color=#ff3bc8>The directions each holomem can move depend on their hat!</color>\n\n▼ Movement\nLeader: 1 space in any direction\nWhale: 1 space diagonally\nDolphin: 1 space horizontally or vertically\nTurtle (Green): 1 space forward\nTurtle (Gold): 1 space in any of the six directions except diagonally backward"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-7",
+        "data": {
+            "id": "la-tips-shogi-quest-description-7",
+            "text": "Be careful not to repeat the same moves!\n\n▼Draw\nIf the <color=#ff3bc8>exact same position occurs three times as both players repeat the same moves, the game ends in a draw!</color>\nIf neither player can make progress, try moving to a different platform!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-8",
+        "data": {
+            "id": "la-tips-shogi-quest-description-8",
+            "text": "The \"Undo\" feature is only available in Solo Play!\n\nPress the \"Undo\" button to <color=#ff3bc8>go back to your previous turn!</color>\nBut be careful—there's a limit to how many times you can use it!\n\nUse it to correct your mistakes!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-catch-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-catch-end-description-1",
+            "text": "<color=#ff3bc8>Knock your opponent's Leader into the water to win the game!</color>\n\nTry going for this in real matches, too!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-catch-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-catch-start-description-1",
+            "text": "<color=#ff3bc8>Knock your opponent's Leader (the one with the crown) into the water!</color>\n\nMove your holomems strategically to knock your opponent's Leader into the water and win the Minigame!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-nakama-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-nakama-end-description-1",
+            "text": "<color=#ff3bc8>Using recruited holomems will give you an advantage in the Minigame!</color>\n\nTry making the most of them in real matches, too!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-nakama-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-nakama-start-description-1",
+            "text": "<color=#ff3bc8>holomems you knock into the water can be recruited as your allies!</color>\n\nYou can place recruited holomems on any empty platform!\nThink carefully about where to place them and corner your opponent!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-naru-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-naru-end-description-1",
+            "text": "<color=#ff3bc8>When a Turtle (Green) holomem moves to a platform in the rightmost column, it powers up into a Turtle (Gold) and can move in more directions!</color>\n\nTry aiming for this in real matches too!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-naru-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-naru-start-description-1",
+            "text": "<color=#ff3bc8>Move a Turtle (Green) holomem to a platform in the rightmost column to power it up!</color>\n\nDoing this will give you an advantage in this Minigame!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-try-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-try-end-description-1",
+            "text": "If your Leader <color=#ff3bc8>Tryes the rightmost column and your opponent can't knock them into the water on their next turn, you win by scoring a \"Try\"!</color>\n\nTry going for a \"Try\" in real matches, too!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-try-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-try-start-description-1",
+            "text": "<color=#ff3bc8>Move your Leader to a platform in the rightmost column to win by scoring a \"Try\"!</color>\n\nHowever, you won't score a \"Try\" if your opponent can knock your Leader into the water on their next turn!\n\nWatch for an opening and try moving your Leader to a platform in the rightmost column!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage1-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage1-hint-description-1",
+            "text": "Use your Dolphin holomem to knock the opposing Turtle (Green) into the water!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage2-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage2-hint-description-1",
+            "text": "Move your Leader forward one tile!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage3-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage3-hint-description-1",
+            "text": "Place your recruited Turtle (Green) holomem in front of the opposing Leader!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage4-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage4-hint-description-1",
+            "text": "Move your Turtle (Green) holomem forward one tile to power it up into a Turtle (Gold)!"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage5-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage5-hint-description-1",
+            "text": "Make good use of your recruited holomem!"
         }
     },
     {

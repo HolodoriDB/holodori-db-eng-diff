@@ -1,0 +1,3684 @@
+[
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 1,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 1,
+            "musicIds": [
+                "m0022",
+                "m0142",
+                "m0189",
+                "m0076",
+                "m0324"
+            ],
+            "clearScore": "710000",
+            "bonusCharacterIds": [
+                "chr-00001",
+                "chr-00002",
+                "chr-00013",
+                "chr-00015",
+                "chr-00018"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "719500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "555000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "427000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 10,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 10,
+            "musicIds": [
+                "m0332",
+                "m0147",
+                "m0310"
+            ],
+            "clearScore": "840000",
+            "bonusCharacterIds": [
+                "chr-00010",
+                "chr-00011",
+                "chr-00012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "849500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "655000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "504000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 100,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 100,
+            "musicIds": [
+                "m0072",
+                "m0383",
+                "m0074",
+                "m0325",
+                "m0145"
+            ],
+            "clearScore": "3610000",
+            "bonusCharacterIds": [
+                "chr-00001",
+                "chr-00002",
+                "chr-00013",
+                "chr-00015",
+                "chr-00018"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-3",
+                    "quantity": "10"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3669500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2830000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "2177000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 11,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 11,
+            "musicIds": [
+                "m0142",
+                "m0153",
+                "m0376",
+                "m0337"
+            ],
+            "clearScore": "840000",
+            "bonusCharacterIds": [
+                "chr-00004",
+                "chr-00005",
+                "chr-00006",
+                "chr-00007"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "150000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "861000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "664000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "511000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 12,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 12,
+            "musicIds": [
+                "m0378",
+                "m0352",
+                "m0386"
+            ],
+            "clearScore": "840000",
+            "bonusCharacterIds": [
+                "chr-03004",
+                "chr-03005",
+                "chr-03006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "849500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "655000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "504000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 13,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 13,
+            "musicIds": [
+                "m0351",
+                "m0167",
+                "m0403",
+                "m0527",
+                "m0166"
+            ],
+            "clearScore": "840000",
+            "bonusCharacterIds": [
+                "chr-04013",
+                "chr-04014",
+                "chr-04015",
+                "chr-04016",
+                "chr-04017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "861000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "664000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "511000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 14,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 14,
+            "musicIds": [
+                "m0350",
+                "m0155",
+                "m0413",
+                "m0164"
+            ],
+            "clearScore": "840000",
+            "bonusCharacterIds": [
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00039"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "861000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "664000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "511000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 15,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 15,
+            "musicIds": [
+                "m0369",
+                "m0368",
+                "m0358"
+            ],
+            "clearScore": "880000",
+            "bonusCharacterIds": [
+                "chr-03007",
+                "chr-03008",
+                "chr-03009"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "896500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "691500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "532000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 16,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 16,
+            "musicIds": [
+                "m0309",
+                "m0162",
+                "m0372",
+                "m0371"
+            ],
+            "clearScore": "890000",
+            "bonusCharacterIds": [
+                "chr-06002",
+                "chr-06003",
+                "chr-06004",
+                "chr-06005"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "908500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "700500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "539000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 17,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 17,
+            "musicIds": [
+                "m0145",
+                "m0049",
+                "m0336"
+            ],
+            "clearScore": "890000",
+            "bonusCharacterIds": [
+                "chr-04001",
+                "chr-04002",
+                "chr-04003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "150000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "896500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "691500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "532000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 18,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 18,
+            "musicIds": [
+                "m0398",
+                "m0307",
+                "m0041",
+                "m0360"
+            ],
+            "clearScore": "890000",
+            "bonusCharacterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "908500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "700500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "539000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 19,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 19,
+            "musicIds": [
+                "m0394",
+                "m0014",
+                "m0550"
+            ],
+            "clearScore": "890000",
+            "bonusCharacterIds": [
+                "chr-03001",
+                "chr-03002",
+                "chr-03003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "896500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "691500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "532000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 2,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 2,
+            "musicIds": [
+                "m0524",
+                "m0362",
+                "m0162",
+                "m0308"
+            ],
+            "clearScore": "710000",
+            "bonusCharacterIds": [
+                "chr-06002",
+                "chr-06003",
+                "chr-06004",
+                "chr-06005"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "719500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "555000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "427000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 20,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 20,
+            "musicIds": [
+                "m0141",
+                "m0073",
+                "m0303",
+                "m0323",
+                "m0009"
+            ],
+            "clearScore": "990000",
+            "bonusCharacterIds": [
+                "chr-00001",
+                "chr-00002",
+                "chr-00013",
+                "chr-00015",
+                "chr-00018"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1003000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "773500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "595000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 21,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 21,
+            "musicIds": [
+                "m0037",
+                "m0171",
+                "m0377"
+            ],
+            "clearScore": "990000",
+            "bonusCharacterIds": [
+                "chr-00026",
+                "chr-00027",
+                "chr-00028"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1003000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "773500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "595000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 22,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 22,
+            "musicIds": [
+                "m0188",
+                "m0340",
+                "m0177",
+                "m0338"
+            ],
+            "clearScore": "990000",
+            "bonusCharacterIds": [
+                "chr-00014",
+                "chr-00016",
+                "chr-00017",
+                "chr-00006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1014500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "782500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "602000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 23,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 23,
+            "musicIds": [
+                "m0326",
+                "m0058",
+                "m0201"
+            ],
+            "clearScore": "990000",
+            "bonusCharacterIds": [
+                "chr-04007",
+                "chr-04010",
+                "chr-04012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1003000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "773500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "595000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 24,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 24,
+            "musicIds": [
+                "m0388",
+                "m0161",
+                "m0330"
+            ],
+            "clearScore": "990000",
+            "bonusCharacterIds": [
+                "chr-03007",
+                "chr-03008",
+                "chr-03009"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1003000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "773500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "595000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 25,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 25,
+            "musicIds": [
+                "m0327",
+                "m0104",
+                "m0155",
+                "m0525"
+            ],
+            "clearScore": "1100000",
+            "bonusCharacterIds": [
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00039"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1109000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "855000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "658000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 26,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 26,
+            "musicIds": [
+                "m0064",
+                "m0367",
+                "m0369",
+                "m0348",
+                "m0063"
+            ],
+            "clearScore": "1100000",
+            "bonusCharacterIds": [
+                "chr-04013",
+                "chr-04014",
+                "chr-04015",
+                "chr-04016",
+                "chr-04017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1121000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "864500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "665000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 27,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 27,
+            "musicIds": [
+                "m0387",
+                "m0312",
+                "m0309",
+                "m0548"
+            ],
+            "clearScore": "1100000",
+            "bonusCharacterIds": [
+                "chr-00019",
+                "chr-00021",
+                "chr-00022",
+                "chr-00023"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1121000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "864500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "665000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 28,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 28,
+            "musicIds": [
+                "m0180",
+                "m0084",
+                "m0197"
+            ],
+            "clearScore": "1100000",
+            "bonusCharacterIds": [
+                "chr-00010",
+                "chr-00011",
+                "chr-00012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1109000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "855000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "658000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 29,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 29,
+            "musicIds": [
+                "m0335",
+                "m0053",
+                "m0386"
+            ],
+            "clearScore": "1100000",
+            "bonusCharacterIds": [
+                "chr-03004",
+                "chr-03005",
+                "chr-03006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1109000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "855000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "658000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 3,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 3,
+            "musicIds": [
+                "m0385",
+                "m0157",
+                "m0357"
+            ],
+            "clearScore": "710000",
+            "bonusCharacterIds": [
+                "chr-04007",
+                "chr-04010",
+                "chr-04012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "719500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "555000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "427000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 30,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 30,
+            "musicIds": [
+                "m0349",
+                "m0347",
+                "m0163",
+                "m0153"
+            ],
+            "clearScore": "1200000",
+            "bonusCharacterIds": [
+                "chr-00004",
+                "chr-00005",
+                "chr-00006",
+                "chr-00007"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1227000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "946000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "728000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 31,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 31,
+            "musicIds": [
+                "m0304",
+                "m0307",
+                "m0050"
+            ],
+            "clearScore": "1200000",
+            "bonusCharacterIds": [
+                "chr-04001",
+                "chr-04002",
+                "chr-04003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1215000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "937000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "721000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 32,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 32,
+            "musicIds": [
+                "m0122",
+                "m0359",
+                "m0149"
+            ],
+            "clearScore": "1200000",
+            "bonusCharacterIds": [
+                "chr-03007",
+                "chr-03008",
+                "chr-03009"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "150000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1215000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "937000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "721000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 33,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 33,
+            "musicIds": [
+                "m0317",
+                "m0115",
+                "m0459"
+            ],
+            "clearScore": "1200000",
+            "bonusCharacterIds": [
+                "chr-03004",
+                "chr-03005",
+                "chr-03006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1215000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "937000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "721000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 34,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 34,
+            "musicIds": [
+                "m0165",
+                "m0346",
+                "m0333"
+            ],
+            "clearScore": "1200000",
+            "bonusCharacterIds": [
+                "chr-00026",
+                "chr-00027",
+                "chr-00028"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1215000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "937000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "721000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 35,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 35,
+            "musicIds": [
+                "m0131",
+                "m0187",
+                "m0070",
+                "m0071"
+            ],
+            "clearScore": "1260000",
+            "bonusCharacterIds": [
+                "chr-06002",
+                "chr-06003",
+                "chr-06004",
+                "chr-06005"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1286000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "991500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "763000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 36,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 36,
+            "musicIds": [
+                "m0159",
+                "m0106",
+                "m0331"
+            ],
+            "clearScore": "1260000",
+            "bonusCharacterIds": [
+                "chr-03001",
+                "chr-03002",
+                "chr-03003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1274000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "982500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "756000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 37,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 37,
+            "musicIds": [
+                "m0089",
+                "m0171",
+                "m0311",
+                "m0302"
+            ],
+            "clearScore": "1270000",
+            "bonusCharacterIds": [
+                "chr-00019",
+                "chr-00021",
+                "chr-00022",
+                "chr-00023"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1286000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "991500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "763000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 38,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 38,
+            "musicIds": [
+                "m0303",
+                "m0073",
+                "m0164",
+                "m0076",
+                "m0075"
+            ],
+            "clearScore": "1270000",
+            "bonusCharacterIds": [
+                "chr-00001",
+                "chr-00002",
+                "chr-00013",
+                "chr-00015",
+                "chr-00018"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "150000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1286000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "991500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "763000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 39,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 39,
+            "musicIds": [
+                "m0361",
+                "m0099",
+                "m0150",
+                "m0154"
+            ],
+            "clearScore": "1270000",
+            "bonusCharacterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1286000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "991500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "763000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 4,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 4,
+            "musicIds": [
+                "m0350",
+                "m0344",
+                "m0102",
+                "m0046"
+            ],
+            "clearScore": "710000",
+            "bonusCharacterIds": [
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00039"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "719500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "555000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "427000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 40,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 40,
+            "musicIds": [
+                "m0146",
+                "m0031",
+                "m0085"
+            ],
+            "clearScore": "1390000",
+            "bonusCharacterIds": [
+                "chr-00010",
+                "chr-00011",
+                "chr-00012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "2"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1416000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1092000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "840000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 41,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 41,
+            "musicIds": [
+                "m0176",
+                "m0120",
+                "m0182"
+            ],
+            "clearScore": "1400000",
+            "bonusCharacterIds": [
+                "chr-04007",
+                "chr-04010",
+                "chr-04012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1416000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1092000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "840000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 42,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 42,
+            "musicIds": [
+                "m0339",
+                "m0168",
+                "m0148",
+                "m0184"
+            ],
+            "clearScore": "1400000",
+            "bonusCharacterIds": [
+                "chr-00014",
+                "chr-00016",
+                "chr-00017",
+                "chr-00006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1427500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1101000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "847000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 43,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 43,
+            "musicIds": [
+                "m0304",
+                "m0111",
+                "m0319"
+            ],
+            "clearScore": "1400000",
+            "bonusCharacterIds": [
+                "chr-04001",
+                "chr-04002",
+                "chr-04003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1416000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1092000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "840000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 44,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 44,
+            "musicIds": [
+                "m0158",
+                "m0065",
+                "m0373",
+                "m0166",
+                "m0527"
+            ],
+            "clearScore": "1410000",
+            "bonusCharacterIds": [
+                "chr-04013",
+                "chr-04014",
+                "chr-04015",
+                "chr-04016",
+                "chr-04017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1427500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1101000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "847000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 45,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 45,
+            "musicIds": [
+                "m0525",
+                "m0348",
+                "m0044",
+                "m0105"
+            ],
+            "clearScore": "1460000",
+            "bonusCharacterIds": [
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00039"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1486500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1146500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "882000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 46,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 46,
+            "musicIds": [
+                "m0072",
+                "m0383",
+                "m0074",
+                "m0177",
+                "m0325"
+            ],
+            "clearScore": "1470000",
+            "bonusCharacterIds": [
+                "chr-00001",
+                "chr-00002",
+                "chr-00013",
+                "chr-00015",
+                "chr-00018"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1486500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1146500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "882000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 47,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 47,
+            "musicIds": [
+                "m0161",
+                "m0359",
+                "m0124"
+            ],
+            "clearScore": "1450000",
+            "bonusCharacterIds": [
+                "chr-03007",
+                "chr-03008",
+                "chr-03009"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "150000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1475000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1137500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "875000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 48,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 48,
+            "musicIds": [
+                "m0026",
+                "m0190",
+                "m0080"
+            ],
+            "clearScore": "1450000",
+            "bonusCharacterIds": [
+                "chr-00004",
+                "chr-00005",
+                "chr-00007"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1475000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1137500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "875000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 49,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 49,
+            "musicIds": [
+                "m0139",
+                "m0198",
+                "m0112"
+            ],
+            "clearScore": "1450000",
+            "bonusCharacterIds": [
+                "chr-04001",
+                "chr-04002",
+                "chr-04003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-2",
+                    "quantity": "20"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1475000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1137500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "875000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 5,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 5,
+            "musicIds": [
+                "m0334",
+                "m0111",
+                "m0198"
+            ],
+            "clearScore": "800000",
+            "bonusCharacterIds": [
+                "chr-04001",
+                "chr-04002",
+                "chr-04003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "802000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "618500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "476000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 50,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 50,
+            "musicIds": [
+                "m0127",
+                "m0128",
+                "m0158",
+                "m0192",
+                "m0191"
+            ],
+            "clearScore": "1640000",
+            "bonusCharacterIds": [
+                "chr-04013",
+                "chr-04014",
+                "chr-04015",
+                "chr-04016",
+                "chr-04017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_leader-3",
+                    "quantity": "10"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1663500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1283000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "987000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 51,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 51,
+            "musicIds": [
+                "m0327",
+                "m0021",
+                "m0413",
+                "m0046"
+            ],
+            "clearScore": "1650000",
+            "bonusCharacterIds": [
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00039"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1675500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1292000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "994000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 52,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 52,
+            "musicIds": [
+                "m0525",
+                "m0154",
+                "m0363",
+                "m0100"
+            ],
+            "clearScore": "1670000",
+            "bonusCharacterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1699000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1310000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1008000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 53,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 53,
+            "musicIds": [
+                "m0034",
+                "m0091",
+                "m0092",
+                "m0090"
+            ],
+            "clearScore": "1690000",
+            "bonusCharacterIds": [
+                "chr-00019",
+                "chr-00021",
+                "chr-00022",
+                "chr-00023"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1711000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1319500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1015000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 54,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 54,
+            "musicIds": [
+                "m0083",
+                "m0031",
+                "m0032"
+            ],
+            "clearScore": "1700000",
+            "bonusCharacterIds": [
+                "chr-00010",
+                "chr-00011",
+                "chr-00012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1734500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1337500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1029000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 55,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 55,
+            "musicIds": [
+                "m0131",
+                "m0187",
+                "m0133",
+                "m0071"
+            ],
+            "clearScore": "1780000",
+            "bonusCharacterIds": [
+                "chr-06002",
+                "chr-06003",
+                "chr-06004",
+                "chr-06005"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1805000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1392000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1071000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 56,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 56,
+            "musicIds": [
+                "m0094",
+                "m0346",
+                "m0166"
+            ],
+            "clearScore": "1760000",
+            "bonusCharacterIds": [
+                "chr-00026",
+                "chr-00027",
+                "chr-00028"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1781500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1374000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1057000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 57,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 57,
+            "musicIds": [
+                "m0052",
+                "m0160",
+                "m0165"
+            ],
+            "clearScore": "1770000",
+            "bonusCharacterIds": [
+                "chr-03004",
+                "chr-03005",
+                "chr-03006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1793500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1383000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1064000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 58,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 58,
+            "musicIds": [
+                "m0183",
+                "m0120",
+                "m0319"
+            ],
+            "clearScore": "1780000",
+            "bonusCharacterIds": [
+                "chr-04007",
+                "chr-04010",
+                "chr-04012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1805000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1392000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1071000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 59,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 59,
+            "musicIds": [
+                "m0018",
+                "m0329",
+                "m0375"
+            ],
+            "clearScore": "1780000",
+            "bonusCharacterIds": [
+                "chr-00014",
+                "chr-00016",
+                "chr-00017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1805000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1392000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1071000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 6,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 6,
+            "musicIds": [
+                "m0040",
+                "m0384",
+                "m0366",
+                "m0144"
+            ],
+            "clearScore": "800000",
+            "bonusCharacterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "814000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "627500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "483000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 60,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 60,
+            "musicIds": [
+                "m0109",
+                "m0139",
+                "m0198"
+            ],
+            "clearScore": "1900000",
+            "bonusCharacterIds": [
+                "chr-04001",
+                "chr-04002",
+                "chr-04003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1923000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1483000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1141000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 61,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 61,
+            "musicIds": [
+                "m0141",
+                "m0023",
+                "m0189",
+                "m0138",
+                "m0324"
+            ],
+            "clearScore": "1960000",
+            "bonusCharacterIds": [
+                "chr-00001",
+                "chr-00002",
+                "chr-00013",
+                "chr-00015",
+                "chr-00018"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-1",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1994000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1537500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1183000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 62,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 62,
+            "musicIds": [
+                "m0078",
+                "m0079",
+                "m0028"
+            ],
+            "clearScore": "1910000",
+            "bonusCharacterIds": [
+                "chr-00004",
+                "chr-00005",
+                "chr-00007"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1947000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1501500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1155000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 63,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 63,
+            "musicIds": [
+                "m0353",
+                "m0148",
+                "m0086"
+            ],
+            "clearScore": "1920000",
+            "bonusCharacterIds": [
+                "chr-00014",
+                "chr-00016",
+                "chr-00017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1947000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1501500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1155000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 64,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 64,
+            "musicIds": [
+                "m0306",
+                "m0196",
+                "m0331"
+            ],
+            "clearScore": "1930000",
+            "bonusCharacterIds": [
+                "chr-03001",
+                "chr-03002",
+                "chr-03003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "1958500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1510500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1162000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 65,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 65,
+            "musicIds": [
+                "m0097",
+                "m0020",
+                "m0098",
+                "m0144"
+            ],
+            "clearScore": "2120000",
+            "bonusCharacterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2159000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1665000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1281000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 66,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 66,
+            "musicIds": [
+                "m0150",
+                "m0095",
+                "m0181"
+            ],
+            "clearScore": "2080000",
+            "bonusCharacterIds": [
+                "chr-00026",
+                "chr-00027",
+                "chr-00028"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2112000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1628500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1253000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 67,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 67,
+            "musicIds": [
+                "m0068",
+                "m0069",
+                "m0133",
+                "m0134"
+            ],
+            "clearScore": "2140000",
+            "bonusCharacterIds": [
+                "chr-06002",
+                "chr-06003",
+                "chr-06004",
+                "chr-06005"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2171000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1674000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1288000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 68,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 68,
+            "musicIds": [
+                "m0160",
+                "m0317",
+                "m0116"
+            ],
+            "clearScore": "2090000",
+            "bonusCharacterIds": [
+                "chr-03004",
+                "chr-03005",
+                "chr-03006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2124000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1638000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1260000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 7,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 7,
+            "musicIds": [
+                "m0156",
+                "m0091",
+                "m0404",
+                "m0548"
+            ],
+            "clearScore": "800000",
+            "bonusCharacterIds": [
+                "chr-00019",
+                "chr-00021",
+                "chr-00022",
+                "chr-00023"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "150000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "814000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "627500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "483000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 70,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 70,
+            "musicIds": [
+                "m0185",
+                "m0104",
+                "m0102",
+                "m0105"
+            ],
+            "clearScore": "2160000",
+            "bonusCharacterIds": [
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00039"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2194500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1692500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1302000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 71,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 71,
+            "musicIds": [
+                "m0201",
+                "m0058",
+                "m0182"
+            ],
+            "clearScore": "2110000",
+            "bonusCharacterIds": [
+                "chr-04007",
+                "chr-04010",
+                "chr-04012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2147500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1656000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1274000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 72,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 72,
+            "musicIds": [
+                "m0089",
+                "m0176",
+                "m0186",
+                "m0156"
+            ],
+            "clearScore": "2180000",
+            "bonusCharacterIds": [
+                "chr-00019",
+                "chr-00021",
+                "chr-00022",
+                "chr-00023"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2218000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1710500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1316000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 73,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 73,
+            "musicIds": [
+                "m0146",
+                "m0084",
+                "m0147"
+            ],
+            "clearScore": "2130000",
+            "bonusCharacterIds": [
+                "chr-00010",
+                "chr-00011",
+                "chr-00012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2159000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1665000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1281000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 74,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 74,
+            "musicIds": [
+                "m0142",
+                "m0347",
+                "m0080"
+            ],
+            "clearScore": "2140000",
+            "bonusCharacterIds": [
+                "chr-00004",
+                "chr-00005",
+                "chr-00007"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2171000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1674000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1288000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 75,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 75,
+            "musicIds": [
+                "m0060",
+                "m0123",
+                "m0161"
+            ],
+            "clearScore": "2340000",
+            "bonusCharacterIds": [
+                "chr-03007",
+                "chr-03008",
+                "chr-03009"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2383500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1838000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1414000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 76,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 76,
+            "musicIds": [
+                "m0154",
+                "m0307",
+                "m0098",
+                "m0042"
+            ],
+            "clearScore": "2450000",
+            "bonusCharacterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2489500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1920000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1477000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 77,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 77,
+            "musicIds": [
+                "m0158",
+                "m0167",
+                "m0129",
+                "m0191",
+                "m0348"
+            ],
+            "clearScore": "2510000",
+            "bonusCharacterIds": [
+                "chr-04013",
+                "chr-04014",
+                "chr-04015",
+                "chr-04016",
+                "chr-04017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2548500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1965500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1512000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 78,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 78,
+            "musicIds": [
+                "m0068",
+                "m0362",
+                "m0308",
+                "m0371"
+            ],
+            "clearScore": "2480000",
+            "bonusCharacterIds": [
+                "chr-06002",
+                "chr-06003",
+                "chr-06004",
+                "chr-06005"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-1",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2513000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1938000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1491000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 79,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 79,
+            "musicIds": [
+                "m0378",
+                "m0053",
+                "m0160"
+            ],
+            "clearScore": "2390000",
+            "bonusCharacterIds": [
+                "chr-03004",
+                "chr-03005",
+                "chr-03006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_level_up",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2430500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1874500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1442000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 8,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 8,
+            "musicIds": [
+                "m0396",
+                "m0528",
+                "m0159"
+            ],
+            "clearScore": "800000",
+            "bonusCharacterIds": [
+                "chr-03001",
+                "chr-03002",
+                "chr-03003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "814000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "627500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "483000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 80,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 80,
+            "musicIds": [
+                "m0047",
+                "m0014",
+                "m0331"
+            ],
+            "clearScore": "2440000",
+            "bonusCharacterIds": [
+                "chr-03001",
+                "chr-03002",
+                "chr-03003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2478000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1911000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1470000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 81,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 81,
+            "musicIds": [
+                "m0037",
+                "m0038",
+                "m0377"
+            ],
+            "clearScore": "2450000",
+            "bonusCharacterIds": [
+                "chr-00026",
+                "chr-00027",
+                "chr-00028"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2489500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1920000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1477000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 82,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 82,
+            "musicIds": [
+                "m0083",
+                "m0197",
+                "m0032"
+            ],
+            "clearScore": "2460000",
+            "bonusCharacterIds": [
+                "chr-00010",
+                "chr-00011",
+                "chr-00012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-gold",
+                    "quantity": "300000"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2501500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1929000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1484000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 83,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 83,
+            "musicIds": [
+                "m0176",
+                "m0157",
+                "m0121"
+            ],
+            "clearScore": "2470000",
+            "bonusCharacterIds": [
+                "chr-04007",
+                "chr-04010",
+                "chr-04012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2513000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1938000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1491000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 84,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 84,
+            "musicIds": [
+                "m0034",
+                "m0035",
+                "m0404",
+                "m0149"
+            ],
+            "clearScore": "2600000",
+            "bonusCharacterIds": [
+                "chr-00019",
+                "chr-00021",
+                "chr-00022",
+                "chr-00023"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2643000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2038000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1568000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 85,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 85,
+            "musicIds": [
+                "m0022",
+                "m0023",
+                "m0303",
+                "m0323",
+                "m0196"
+            ],
+            "clearScore": "2880000",
+            "bonusCharacterIds": [
+                "chr-00001",
+                "chr-00002",
+                "chr-00013",
+                "chr-00015",
+                "chr-00018"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "1"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2891000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2229500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1715000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 86,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 86,
+            "musicIds": [
+                "m0127",
+                "m0065",
+                "m0066",
+                "m0063",
+                "m0192"
+            ],
+            "clearScore": "2910000",
+            "bonusCharacterIds": [
+                "chr-04013",
+                "chr-04014",
+                "chr-04015",
+                "chr-04016",
+                "chr-04017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-1",
+                    "quantity": "500"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2926000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2256500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1736000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 87,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 87,
+            "musicIds": [
+                "m0012",
+                "m0049",
+                "m0336"
+            ],
+            "clearScore": "2760000",
+            "bonusCharacterIds": [
+                "chr-04001",
+                "chr-04002",
+                "chr-04003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2773000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2138500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1645000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 88,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 88,
+            "musicIds": [
+                "m0388",
+                "m0179",
+                "m0062"
+            ],
+            "clearScore": "2790000",
+            "bonusCharacterIds": [
+                "chr-03007",
+                "chr-03008",
+                "chr-03009"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2808000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2165500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1666000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 89,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 89,
+            "musicIds": [
+                "m0107",
+                "m0528",
+                "m0108"
+            ],
+            "clearScore": "2820000",
+            "bonusCharacterIds": [
+                "chr-03001",
+                "chr-03002",
+                "chr-03003"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2843500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2193000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1687000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 9,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 9,
+            "musicIds": [
+                "m0206",
+                "m0365",
+                "m0140"
+            ],
+            "clearScore": "800000",
+            "bonusCharacterIds": [
+                "chr-00026",
+                "chr-00027",
+                "chr-00028"
+            ],
+            "bonusCharacterScoreUpPermilUp": 100,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-1",
+                    "quantity": "100"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "10"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "814000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "627500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "483000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 90,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 90,
+            "musicIds": [
+                "m0206",
+                "m0095",
+                "m0140"
+            ],
+            "clearScore": "2990000",
+            "bonusCharacterIds": [
+                "chr-00026",
+                "chr-00027",
+                "chr-00028"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_STONE_TOTAL",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-mini_game_reward_up_stamina_recover",
+                    "quantity": "3"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3032500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2338500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1799000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 91,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 91,
+            "musicIds": [
+                "m0332",
+                "m0031",
+                "m0310"
+            ],
+            "clearScore": "3000000",
+            "bonusCharacterIds": [
+                "chr-00010",
+                "chr-00011",
+                "chr-00012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_card-2",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3044000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2347500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1806000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 92,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 92,
+            "musicIds": [
+                "m0117",
+                "m0120",
+                "m0357"
+            ],
+            "clearScore": "3010000",
+            "bonusCharacterIds": [
+                "chr-04007",
+                "chr-04010",
+                "chr-04012"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3056000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2356500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1813000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 93,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 93,
+            "musicIds": [
+                "m0114",
+                "m0352",
+                "m0054"
+            ],
+            "clearScore": "3010000",
+            "bonusCharacterIds": [
+                "chr-03004",
+                "chr-03005",
+                "chr-03006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-1",
+                    "quantity": "200"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3056000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2356500",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1813000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 94,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 94,
+            "musicIds": [
+                "m0101",
+                "m0344",
+                "m0155",
+                "m0164"
+            ],
+            "clearScore": "3160000",
+            "bonusCharacterIds": [
+                "chr-00035",
+                "chr-00036",
+                "chr-00037",
+                "chr-00039"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_1-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3209500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2475000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1904000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 95,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 95,
+            "musicIds": [
+                "m0026",
+                "m0079",
+                "m0376",
+                "m0337"
+            ],
+            "clearScore": "3260000",
+            "bonusCharacterIds": [
+                "chr-00004",
+                "chr-00005",
+                "chr-00006",
+                "chr-00007"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-cmn-sr",
+                    "quantity": "2"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_reward_up_stamina_recover",
+                    "quantity": "5"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3304000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2548000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1960000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 96,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 96,
+            "musicIds": [
+                "m0318",
+                "m0087",
+                "m0168",
+                "m0342"
+            ],
+            "clearScore": "3260000",
+            "bonusCharacterIds": [
+                "chr-00014",
+                "chr-00016",
+                "chr-00017",
+                "chr-00006"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_2-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3304000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2548000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1960000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 97,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 97,
+            "musicIds": [
+                "m0387",
+                "m0312",
+                "m0092",
+                "m0163"
+            ],
+            "clearScore": "3260000",
+            "bonusCharacterIds": [
+                "chr-00019",
+                "chr-00021",
+                "chr-00022",
+                "chr-00023"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_allmember-2",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3304000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2548000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1960000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 98,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 98,
+            "musicIds": [
+                "m0040",
+                "m0384",
+                "m0150",
+                "m0360"
+            ],
+            "clearScore": "3260000",
+            "bonusCharacterIds": [
+                "chr-00030",
+                "chr-00031",
+                "chr-00032",
+                "chr-00034"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3304000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2548000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1960000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 99,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 99,
+            "musicIds": [
+                "m0524",
+                "m0069",
+                "m0369",
+                "m0134"
+            ],
+            "clearScore": "3260000",
+            "bonusCharacterIds": [
+                "chr-06002",
+                "chr-06003",
+                "chr-06004",
+                "chr-06005"
+            ],
+            "bonusCharacterScoreUpPermilUp": 200,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-skill_tree_content-2",
+                    "quantity": "40"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "isSkipDisabled": true,
+            "liveDeckEvaluationValueBenchmarkThresholdS": "3304000",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "2548000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1960000"
+        }
+    },
+    {
+        "live_tower_id": "live_tower-default-001",
+        "number": 69,
+        "data": {
+            "liveTowerId": "live_tower-default-001",
+            "number": 69,
+            "musicIds": [
+                "m0342",
+                "m0017",
+                "m0033"
+            ],
+            "clearScore": "2100000",
+            "bonusCharacterIds": [
+                "chr-00014",
+                "chr-00016",
+                "chr-00017"
+            ],
+            "bonusCharacterScoreUpPermilUp": 150,
+            "clearRewards": [
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-card_limit_break-attribute_3-2",
+                    "quantity": "300"
+                },
+                {
+                    "resourceType": "ResourceType_RESOURCE_TYPE_ITEM",
+                    "resourceId": "item-live_auto_play",
+                    "quantity": "20"
+                }
+            ],
+            "liveDeckEvaluationValueBenchmarkThresholdS": "2135500",
+            "liveDeckEvaluationValueBenchmarkThresholdA": "1647000",
+            "liveDeckEvaluationValueBenchmarkThresholdB": "1267000"
+        }
+    }
+]

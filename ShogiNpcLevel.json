@@ -1,0 +1,170 @@
+[
+    {
+        "level": 1,
+        "data": {
+            "level": 1,
+            "aiLevel": 2,
+            "personalityWeight": 35,
+            "missRatingCorrection": -10,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_DISADVANTAGE"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_RANDOM"
+        }
+    },
+    {
+        "level": 2,
+        "data": {
+            "level": 2,
+            "aiLevel": 2,
+            "personalityWeight": 35,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_RANDOM",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 3,
+        "data": {
+            "level": 3,
+            "aiLevel": 3,
+            "personalityWeight": 30,
+            "missRatingCorrection": -10,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_DISADVANTAGE"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_RANDOM",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 4,
+        "data": {
+            "level": 4,
+            "aiLevel": 3,
+            "personalityWeight": 30,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_RANDOM",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 5,
+        "data": {
+            "level": 5,
+            "aiLevel": 4,
+            "personalityWeight": 25,
+            "missRatingCorrection": -10,
+            "missAiLevelCorrection": 3,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_DISADVANTAGE"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_DEPTH",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 6,
+        "data": {
+            "level": 6,
+            "aiLevel": 4,
+            "personalityWeight": 25,
+            "missRatingCorrection": -5,
+            "missAiLevelCorrection": 3,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_DEPTH",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 7,
+        "data": {
+            "level": 7,
+            "aiLevel": 5,
+            "personalityWeight": 20,
+            "missRatingCorrection": -10,
+            "missAiLevelCorrection": 4,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_DISADVANTAGE"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_DEPTH",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 8,
+        "data": {
+            "level": 8,
+            "aiLevel": 5,
+            "personalityWeight": 20,
+            "missRatingCorrection": -10,
+            "missAiLevelCorrection": 4,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_DEPTH",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 9,
+        "data": {
+            "level": 9,
+            "aiLevel": 6,
+            "personalityWeight": 15,
+            "missRatingCorrection": -10,
+            "missAiLevelCorrection": 5,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_DEPTH",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 10,
+        "data": {
+            "level": 10,
+            "aiLevel": 7,
+            "personalityWeight": 10,
+            "missRatingCorrection": -10,
+            "missAiLevelCorrection": 6,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_DEPTH",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 98,
+        "data": {
+            "level": 98,
+            "aiLevel": 1,
+            "personalityWeight": 5,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_NONE",
+            "isDropPieceAllowed": true
+        }
+    },
+    {
+        "level": 99,
+        "data": {
+            "level": 99,
+            "aiLevel": 3,
+            "personalityWeight": 5,
+            "missTriggerTypes": [
+                "ShogiMissTriggerType_SHOGI_MISS_TRIGGER_TYPE_PIECE_TAKEN"
+            ],
+            "missSelectionType": "ShogiMissSelectionType_SHOGI_MISS_SELECTION_TYPE_NONE"
+        }
+    }
+]

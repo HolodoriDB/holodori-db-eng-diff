@@ -1090,6 +1090,13 @@
         }
     },
     {
+        "client_id": 768615877405,
+        "data": {
+            "clientId": "768615877405",
+            "text": "No Stages available."
+        }
+    },
+    {
         "client_id": 768672260096,
         "data": {
             "clientId": "768672260096",
@@ -1199,6 +1206,13 @@
         "data": {
             "clientId": "1161070370816",
             "text": "Data Deletion Confirmation"
+        }
+    },
+    {
+        "client_id": 1277983609630,
+        "data": {
+            "clientId": "1277983609630",
+            "text": "Not enough Hologold for reset."
         }
     },
     {
@@ -1415,6 +1429,13 @@
         "data": {
             "clientId": "1981081968640",
             "text": "No recently played players."
+        }
+    },
+    {
+        "client_id": 2057303185626,
+        "data": {
+            "clientId": "2057303185626",
+            "text": "Saved to {0}."
         }
     },
     {
@@ -1824,6 +1845,13 @@
         }
     },
     {
+        "client_id": 3660303122231,
+        "data": {
+            "clientId": "3660303122231",
+            "text": "Unlock Conditions: Clear Stage {0}."
+        }
+    },
+    {
         "client_id": 3686532112384,
         "data": {
             "clientId": "3686532112384",
@@ -2096,6 +2124,13 @@
         }
     },
     {
+        "client_id": 5083863167744,
+        "data": {
+            "clientId": "5083863167744",
+            "text": "Unable to load due to insufficient items."
+        }
+    },
+    {
         "client_id": 5103468666880,
         "data": {
             "clientId": "5103468666880",
@@ -2131,6 +2166,13 @@
         }
     },
     {
+        "client_id": 5282156876069,
+        "data": {
+            "clientId": "5282156876069",
+            "text": "Play Again"
+        }
+    },
+    {
         "client_id": 5291811525678,
         "data": {
             "clientId": "5291811525678",
@@ -2152,10 +2194,24 @@
         }
     },
     {
+        "client_id": 5553448548472,
+        "data": {
+            "clientId": "5553448548472",
+            "text": "You can revert to your previous turn."
+        }
+    },
+    {
         "client_id": 5559188086784,
         "data": {
             "clientId": "5559188086784",
             "text": "Invitation"
+        }
+    },
+    {
+        "client_id": 5590869456848,
+        "data": {
+            "clientId": "5590869456848",
+            "text": "Opponent’s turn"
         }
     },
     {
@@ -2782,6 +2838,13 @@
         }
     },
     {
+        "client_id": 10952243114743,
+        "data": {
+            "clientId": "10952243114743",
+            "text": "Use the following items\\nto restore Live Boosts?"
+        }
+    },
+    {
         "client_id": 11028128587776,
         "data": {
             "clientId": "11028128587776",
@@ -2880,6 +2943,13 @@
         }
     },
     {
+        "client_id": 12054874683196,
+        "data": {
+            "clientId": "12054874683196",
+            "text": "{0} has been loaded."
+        }
+    },
+    {
         "client_id": 12114493918125,
         "data": {
             "clientId": "12114493918125",
@@ -2897,6 +2967,13 @@
         "data": {
             "clientId": "12200260395008",
             "text": "Linking complete. Restarting the game."
+        }
+    },
+    {
+        "client_id": 12213331300245,
+        "data": {
+            "clientId": "12213331300245",
+            "text": "Memo"
         }
     },
     {
@@ -3180,10 +3257,24 @@
         }
     },
     {
+        "client_id": 16448673636038,
+        "data": {
+            "clientId": "16448673636038",
+            "text": "Surrender"
+        }
+    },
+    {
         "client_id": 16560849098420,
         "data": {
             "clientId": "16560849098420",
             "text": "{0} hours ago"
+        }
+    },
+    {
+        "client_id": 16616110956908,
+        "data": {
+            "clientId": "16616110956908",
+            "text": "Stop matching?"
         }
     },
     {
@@ -3285,6 +3376,13 @@
         }
     },
     {
+        "client_id": 18625267134043,
+        "data": {
+            "clientId": "18625267134043",
+            "text": "You failed to act three turns in a row and ran out of time..."
+        }
+    },
+    {
         "client_id": 18943986083498,
         "data": {
             "clientId": "18943986083498",
@@ -3331,6 +3429,13 @@
         "data": {
             "clientId": "19217687805573",
             "text": "Last 30 seconds!"
+        }
+    },
+    {
+        "client_id": 19626873775367,
+        "data": {
+            "clientId": "19626873775367",
+            "text": "Assign a holomem."
         }
     },
     {
@@ -3383,6 +3488,13 @@
         }
     },
     {
+        "client_id": 20959500461465,
+        "data": {
+            "clientId": "20959500461465",
+            "text": "You surrendered..."
+        }
+    },
+    {
         "client_id": 21203337706729,
         "data": {
             "clientId": "21203337706729",
@@ -3415,6 +3527,13 @@
         "data": {
             "clientId": "21758261805400",
             "text": "Sound Settings"
+        }
+    },
+    {
+        "client_id": 22354939115645,
+        "data": {
+            "clientId": "22354939115645",
+            "text": "Bonus Members"
         }
     },
     {
@@ -3662,6 +3781,13 @@
         }
     },
     {
+        "client_id": 27682003200836,
+        "data": {
+            "clientId": "27682003200836",
+            "text": "Bonus Effect"
+        }
+    },
+    {
         "client_id": 28167913602282,
         "data": {
             "clientId": "28167913602282",
@@ -3680,6 +3806,13 @@
         "data": {
             "clientId": "28331001242075",
             "text": "Off"
+        }
+    },
+    {
+        "client_id": 28410704686336,
+        "data": {
+            "clientId": "28410704686336",
+            "text": "Regular"
         }
     },
     {
@@ -3753,10 +3886,24 @@
         }
     },
     {
+        "client_id": 30152617572369,
+        "data": {
+            "clientId": "30152617572369",
+            "text": "Save this Holomem Board?"
+        }
+    },
+    {
         "client_id": 30198869391227,
         "data": {
             "clientId": "30198869391227",
             "text": "Leave\\nthis Room"
+        }
+    },
+    {
+        "client_id": 30366572929406,
+        "data": {
+            "clientId": "30366572929406",
+            "text": "Top Score"
         }
     },
     {
@@ -3778,6 +3925,13 @@
         "data": {
             "clientId": "30850141159791",
             "text": "Your session is about to expire due to inactivity. \nYou will be logged out in <space=6px><size=32><color=#F9FF55>{0}</color></size><space=6px> seconds."
+        }
+    },
+    {
+        "client_id": 30853425350189,
+        "data": {
+            "clientId": "30853425350189",
+            "text": "* Bonus Member Effects are applied to the values shown above."
         }
     },
     {
@@ -4039,6 +4193,13 @@
         }
     },
     {
+        "client_id": 36358554382232,
+        "data": {
+            "clientId": "36358554382232",
+            "text": "Bloom"
+        }
+    },
+    {
         "client_id": 36406114906821,
         "data": {
             "clientId": "36406114906821",
@@ -4046,10 +4207,24 @@
         }
     },
     {
+        "client_id": 36433569080860,
+        "data": {
+            "clientId": "36433569080860",
+            "text": "Undo"
+        }
+    },
+    {
         "client_id": 36530109781090,
         "data": {
             "clientId": "36530109781090",
             "text": "Select All"
+        }
+    },
+    {
+        "client_id": 36559588593583,
+        "data": {
+            "clientId": "36559588593583",
+            "text": "Dolphin"
         }
     },
     {
@@ -4092,6 +4267,13 @@
         "data": {
             "clientId": "37545180461675",
             "text": "x"
+        }
+    },
+    {
+        "client_id": 37577854409290,
+        "data": {
+            "clientId": "37577854409290",
+            "text": "Do you want to Bloom everyone?"
         }
     },
     {
@@ -4190,6 +4372,20 @@
         "data": {
             "clientId": "38890956240120",
             "text": "Connection has been disconnected."
+        }
+    },
+    {
+        "client_id": 38891737328180,
+        "data": {
+            "clientId": "38891737328180",
+            "text": "TOTAL"
+        }
+    },
+    {
+        "client_id": 38961521989392,
+        "data": {
+            "clientId": "38961521989392",
+            "text": "Edit Preset"
         }
     },
     {
@@ -4309,6 +4505,13 @@
         "data": {
             "clientId": "41097802864352",
             "text": "Notes are overlapping"
+        }
+    },
+    {
+        "client_id": 41143440703658,
+        "data": {
+            "clientId": "41143440703658",
+            "text": "DRAW"
         }
     },
     {
@@ -4577,6 +4780,13 @@
         }
     },
     {
+        "client_id": 44410611478980,
+        "data": {
+            "clientId": "44410611478980",
+            "text": "The current Holomem Board will be overwritten.\\nConnect Cards will be removed from the following Holomem Boards."
+        }
+    },
+    {
         "client_id": 44489598940899,
         "data": {
             "clientId": "44489598940899",
@@ -4595,6 +4805,13 @@
         "data": {
             "clientId": "44757365904231",
             "text": "Score Bonus"
+        }
+    },
+    {
+        "client_id": 44907002798120,
+        "data": {
+            "clientId": "44907002798120",
+            "text": "Cancel"
         }
     },
     {
@@ -4630,6 +4847,13 @@
         "data": {
             "clientId": "45551367531375",
             "text": "Failed to retrieve data.\\nSorry, please try again later."
+        }
+    },
+    {
+        "client_id": 45562881888822,
+        "data": {
+            "clientId": "45562881888822",
+            "text": "Aim for the Target Score!"
         }
     },
     {
@@ -4672,6 +4896,13 @@
         "data": {
             "clientId": "45790967773259",
             "text": "Account linking"
+        }
+    },
+    {
+        "client_id": 45840587390810,
+        "data": {
+            "clientId": "45840587390810",
+            "text": "Holomem\nScore Rating"
         }
     },
     {
@@ -4955,6 +5186,13 @@
         }
     },
     {
+        "client_id": 51384750016164,
+        "data": {
+            "clientId": "51384750016164",
+            "text": "Bloom Stone will not be used."
+        }
+    },
+    {
         "client_id": 51448272412862,
         "data": {
             "clientId": "51448272412862",
@@ -5008,6 +5246,13 @@
         "data": {
             "clientId": "52679589935987",
             "text": "Current"
+        }
+    },
+    {
+        "client_id": 52728052479349,
+        "data": {
+            "clientId": "52728052479349",
+            "text": "Reach the Target Score to clear!"
         }
     },
     {
@@ -5354,6 +5599,13 @@
         }
     },
     {
+        "client_id": 59377981887665,
+        "data": {
+            "clientId": "59377981887665",
+            "text": "Challenge Live"
+        }
+    },
+    {
         "client_id": 59481762935749,
         "data": {
             "clientId": "59481762935749",
@@ -5379,6 +5631,13 @@
         "data": {
             "clientId": "59732785094656",
             "text": "Request canceled."
+        }
+    },
+    {
+        "client_id": 59804003051062,
+        "data": {
+            "clientId": "59804003051062",
+            "text": "Clear Requirements"
         }
     },
     {
@@ -5414,6 +5673,13 @@
         "data": {
             "clientId": "60244666343424",
             "text": "Retire"
+        }
+    },
+    {
+        "client_id": 60280090159768,
+        "data": {
+            "clientId": "60280090159768",
+            "text": "Remaining: "
         }
     },
     {
@@ -5470,6 +5736,13 @@
         "data": {
             "clientId": "61505938022400",
             "text": "This feature is under maintenance."
+        }
+    },
+    {
+        "client_id": 61635296752376,
+        "data": {
+            "clientId": "61635296752376",
+            "text": "Surrender"
         }
     },
     {
@@ -5683,6 +5956,13 @@
         }
     },
     {
+        "client_id": 64953483206865,
+        "data": {
+            "clientId": "64953483206865",
+            "text": "No unlockable Nodes to display."
+        }
+    },
+    {
         "client_id": 65102522481629,
         "data": {
             "clientId": "65102522481629",
@@ -5708,6 +5988,13 @@
         "data": {
             "clientId": "65518055088128",
             "text": "Play a user-created Chart"
+        }
+    },
+    {
+        "client_id": 65599306645409,
+        "data": {
+            "clientId": "65599306645409",
+            "text": "Your turn"
         }
     },
     {
@@ -5739,6 +6026,13 @@
         }
     },
     {
+        "client_id": 66105010087681,
+        "data": {
+            "clientId": "66105010087681",
+            "text": "No input has been detected for a while."
+        }
+    },
+    {
         "client_id": 66112283729920,
         "data": {
             "clientId": "66112283729920",
@@ -5757,6 +6051,13 @@
         "data": {
             "clientId": "66214490529792",
             "text": "Remaining\\nCards"
+        }
+    },
+    {
+        "client_id": 66242813572563,
+        "data": {
+            "clientId": "66242813572563",
+            "text": "TRY!"
         }
     },
     {
@@ -5799,6 +6100,13 @@
         "data": {
             "clientId": "66570868859662",
             "text": "Skill Voice"
+        }
+    },
+    {
+        "client_id": 66612266633044,
+        "data": {
+            "clientId": "66612266633044",
+            "text": "A Saved Preset exists in this slot.\\nWould you like to overwrite it?"
         }
     },
     {
@@ -5962,6 +6270,13 @@
         }
     },
     {
+        "client_id": 69941269581887,
+        "data": {
+            "clientId": "69941269581887",
+            "text": "Bloom All"
+        }
+    },
+    {
         "client_id": 69962096959488,
         "data": {
             "clientId": "69962096959488",
@@ -5973,6 +6288,13 @@
         "data": {
             "clientId": "70023020044288",
             "text": "%"
+        }
+    },
+    {
+        "client_id": 70137941870893,
+        "data": {
+            "clientId": "70137941870893",
+            "text": "Stage Selection"
         }
     },
     {
@@ -6193,6 +6515,13 @@
         }
     },
     {
+        "client_id": 75231641070274,
+        "data": {
+            "clientId": "75231641070274",
+            "text": "STAGE UP!!"
+        }
+    },
+    {
         "client_id": 75316371663966,
         "data": {
             "clientId": "75316371663966",
@@ -6347,6 +6676,13 @@
         }
     },
     {
+        "client_id": 78320915807629,
+        "data": {
+            "clientId": "78320915807629",
+            "text": "Returned Materials"
+        }
+    },
+    {
         "client_id": 78400909418040,
         "data": {
             "clientId": "78400909418040",
@@ -6372,6 +6708,13 @@
         "data": {
             "clientId": "79038511545755",
             "text": "Line"
+        }
+    },
+    {
+        "client_id": 79193242608321,
+        "data": {
+            "clientId": "79193242608321",
+            "text": "Auto Select"
         }
     },
     {
@@ -6753,6 +7096,13 @@
         }
     },
     {
+        "client_id": 86299284982213,
+        "data": {
+            "clientId": "86299284982213",
+            "text": "NORMAL"
+        }
+    },
+    {
         "client_id": 86399859379029,
         "data": {
             "clientId": "86399859379029",
@@ -6977,6 +7327,13 @@
         }
     },
     {
+        "client_id": 92687200884048,
+        "data": {
+            "clientId": "92687200884048",
+            "text": "Confirm"
+        }
+    },
+    {
         "client_id": 92826337835270,
         "data": {
             "clientId": "92826337835270",
@@ -6995,6 +7352,13 @@
         "data": {
             "clientId": "93526182618577",
             "text": "By turning ON [Settings] > [Allow Tracking],\\nwe can provide you relevant ads."
+        }
+    },
+    {
+        "client_id": 93563170645564,
+        "data": {
+            "clientId": "93563170645564",
+            "text": "Unlocks after clearing Level {0}."
         }
     },
     {
@@ -7092,6 +7456,13 @@
         "data": {
             "clientId": "95108122304512",
             "text": "Go!"
+        }
+    },
+    {
+        "client_id": 95139746449089,
+        "data": {
+            "clientId": "95139746449089",
+            "text": "GIVE UP!"
         }
     },
     {
@@ -7214,6 +7585,13 @@
         }
     },
     {
+        "client_id": 97694947777268,
+        "data": {
+            "clientId": "97694947777268",
+            "text": "Current stage"
+        }
+    },
+    {
         "client_id": 97727765112757,
         "data": {
             "clientId": "97727765112757",
@@ -7242,10 +7620,24 @@
         }
     },
     {
+        "client_id": 98291295396749,
+        "data": {
+            "clientId": "98291295396749",
+            "text": "Number of wins"
+        }
+    },
+    {
         "client_id": 98349632871446,
         "data": {
             "clientId": "98349632871446",
             "text": "Month"
+        }
+    },
+    {
+        "client_id": 98410889661055,
+        "data": {
+            "clientId": "98410889661055",
+            "text": "Set as Leader?"
         }
     },
     {
@@ -7298,10 +7690,31 @@
         }
     },
     {
+        "client_id": 99838117295798,
+        "data": {
+            "clientId": "99838117295798",
+            "text": "Already assigned to another role."
+        }
+    },
+    {
+        "client_id": 99941938133161,
+        "data": {
+            "clientId": "99941938133161",
+            "text": "Highest Stage Reached"
+        }
+    },
+    {
         "client_id": 99960762450018,
         "data": {
             "clientId": "99960762450018",
             "text": "Unlock holomems music by completing Quests."
+        }
+    },
+    {
+        "client_id": 99966473980257,
+        "data": {
+            "clientId": "99966473980257",
+            "text": "will be removed."
         }
     },
     {
@@ -7641,6 +8054,13 @@
         }
     },
     {
+        "client_id": 105319623032400,
+        "data": {
+            "clientId": "105319623032400",
+            "text": "Public"
+        }
+    },
+    {
         "client_id": 105795078980191,
         "data": {
             "clientId": "105795078980191",
@@ -7690,6 +8110,13 @@
         }
     },
     {
+        "client_id": 106610500518166,
+        "data": {
+            "clientId": "106610500518166",
+            "text": "Next Stage"
+        }
+    },
+    {
         "client_id": 106651193685925,
         "data": {
             "clientId": "106651193685925",
@@ -7722,6 +8149,13 @@
         "data": {
             "clientId": "107240656211556",
             "text": "You have timed out and will leave the room."
+        }
+    },
+    {
+        "client_id": 107352852070078,
+        "data": {
+            "clientId": "107352852070078",
+            "text": "Change"
         }
     },
     {
@@ -7767,6 +8201,13 @@
         }
     },
     {
+        "client_id": 108299315724929,
+        "data": {
+            "clientId": "108299315724929",
+            "text": "No Song or Difficulty selection was detected within the time limit.\\nIf this happens repeatedly, you may be temporarily restricted\\nfrom joining Multiplayer Lives."
+        }
+    },
+    {
         "client_id": 108488725985644,
         "data": {
             "clientId": "108488725985644",
@@ -7795,6 +8236,20 @@
         }
     },
     {
+        "client_id": 108921637702644,
+        "data": {
+            "clientId": "108921637702644",
+            "text": "Cleared Stage"
+        }
+    },
+    {
+        "client_id": 109116373229048,
+        "data": {
+            "clientId": "109116373229048",
+            "text": "ALL\\nCLEAR!!"
+        }
+    },
+    {
         "client_id": 109259847294976,
         "data": {
             "clientId": "109259847294976",
@@ -7806,6 +8261,13 @@
         "data": {
             "clientId": "109464742164561",
             "text": "Live Color"
+        }
+    },
+    {
+        "client_id": 109607415197564,
+        "data": {
+            "clientId": "109607415197564",
+            "text": "Delete this preset?"
         }
     },
     {
@@ -7886,6 +8348,13 @@
         }
     },
     {
+        "client_id": 110748858546529,
+        "data": {
+            "clientId": "110748858546529",
+            "text": "Challenge Live"
+        }
+    },
+    {
         "client_id": 110812035613122,
         "data": {
             "clientId": "110812035613122",
@@ -7949,6 +8418,13 @@
         }
     },
     {
+        "client_id": 112239944631946,
+        "data": {
+            "clientId": "112239944631946",
+            "text": "Unlocks after clearing NORMAL mode."
+        }
+    },
+    {
         "client_id": 112307387178923,
         "data": {
             "clientId": "112307387178923",
@@ -8009,6 +8485,13 @@
         "data": {
             "clientId": "112995329444239",
             "text": "You have friend requests."
+        }
+    },
+    {
+        "client_id": 113153417482205,
+        "data": {
+            "clientId": "113153417482205",
+            "text": "Already cleared."
         }
     },
     {
@@ -8152,6 +8635,13 @@
         }
     },
     {
+        "client_id": 117031251001122,
+        "data": {
+            "clientId": "117031251001122",
+            "text": "Used Materials"
+        }
+    },
+    {
         "client_id": 117283343572473,
         "data": {
             "clientId": "117283343572473",
@@ -8205,6 +8695,20 @@
         "data": {
             "clientId": "117952843014093",
             "text": "The play visibility and referencing can be set when publishing the chart."
+        }
+    },
+    {
+        "client_id": 118233129607137,
+        "data": {
+            "clientId": "118233129607137",
+            "text": "Current Score"
+        }
+    },
+    {
+        "client_id": 118278999633192,
+        "data": {
+            "clientId": "118278999633192",
+            "text": "The opponent’s Leader is going for a Try!"
         }
     },
     {
@@ -8320,6 +8824,13 @@
         }
     },
     {
+        "client_id": 120870516458824,
+        "data": {
+            "clientId": "120870516458824",
+            "text": "Start Game"
+        }
+    },
+    {
         "client_id": 120945463877632,
         "data": {
             "clientId": "120945463877632",
@@ -8372,7 +8883,7 @@
         "client_id": 121874690335517,
         "data": {
             "clientId": "121874690335517",
-            "text": "Due to timeout, Random was selected."
+            "text": "Auto select was chosen because the time limit expired."
         }
     },
     {
@@ -8390,10 +8901,24 @@
         }
     },
     {
+        "client_id": 122253336154533,
+        "data": {
+            "clientId": "122253336154533",
+            "text": "Opponent’s turn"
+        }
+    },
+    {
         "client_id": 122524622766160,
         "data": {
             "clientId": "122524622766160",
             "text": "Couldn’t unlock in time..."
+        }
+    },
+    {
+        "client_id": 122831218225215,
+        "data": {
+            "clientId": "122831218225215",
+            "text": "Assign a holomem to {0}."
         }
     },
     {
@@ -8495,10 +9020,24 @@
         }
     },
     {
+        "client_id": 124996450252459,
+        "data": {
+            "clientId": "124996450252459",
+            "text": "Private"
+        }
+    },
+    {
         "client_id": 125145198157824,
         "data": {
             "clientId": "125145198157824",
             "text": "Passive Skill"
+        }
+    },
+    {
+        "client_id": 125270632311689,
+        "data": {
+            "clientId": "125270632311689",
+            "text": "The result of this match (for rewards, missions etc.) will not be counted. Surrender?"
         }
     },
     {
@@ -8596,6 +9135,13 @@
         "data": {
             "clientId": "127721331286016",
             "text": "Holomem Board Bonus"
+        }
+    },
+    {
+        "client_id": 127736545522148,
+        "data": {
+            "clientId": "127736545522148",
+            "text": "Because you didn’t act within the time limit, a random move will be made."
         }
     },
     {
@@ -8732,6 +9278,13 @@
         }
     },
     {
+        "client_id": 129296110603773,
+        "data": {
+            "clientId": "129296110603773",
+            "text": "Your Leader fell into the water..."
+        }
+    },
+    {
         "client_id": 129573684290632,
         "data": {
             "clientId": "129573684290632",
@@ -8764,6 +9317,13 @@
         "data": {
             "clientId": "129748631456706",
             "text": "Talent Guidelines"
+        }
+    },
+    {
+        "client_id": 129751285948883,
+        "data": {
+            "clientId": "129751285948883",
+            "text": "Turtle (Gold)"
         }
     },
     {
@@ -8879,6 +9439,13 @@
         }
     },
     {
+        "client_id": 131534546841132,
+        "data": {
+            "clientId": "131534546841132",
+            "text": "Don't show again"
+        }
+    },
+    {
         "client_id": 131538287899429,
         "data": {
             "clientId": "131538287899429",
@@ -8925,6 +9492,13 @@
         "data": {
             "clientId": "132257076042025",
             "text": "From"
+        }
+    },
+    {
+        "client_id": 132588537128607,
+        "data": {
+            "clientId": "132588537128607",
+            "text": "If no input is detected, you will be forcibly removed."
         }
     },
     {
@@ -9278,6 +9852,13 @@
         }
     },
     {
+        "client_id": 137671483481549,
+        "data": {
+            "clientId": "137671483481549",
+            "text": "Friend Preview"
+        }
+    },
+    {
         "client_id": 137970202831969,
         "data": {
             "clientId": "137970202831969",
@@ -9317,6 +9898,13 @@
         "data": {
             "clientId": "138289897885663",
             "text": "High-Spec Fishing Rod.\\nEven slippery fish can be caught like it's nothing!"
+        }
+    },
+    {
+        "client_id": 138552603309792,
+        "data": {
+            "clientId": "138552603309792",
+            "text": "STAGE"
         }
     },
     {
@@ -9460,6 +10048,13 @@
         }
     },
     {
+        "client_id": 139986309961787,
+        "data": {
+            "clientId": "139986309961787",
+            "text": "Continue cannot be used in Challenge Live."
+        }
+    },
+    {
         "client_id": 139998925379692,
         "data": {
             "clientId": "139998925379692",
@@ -9586,6 +10181,13 @@
         }
     },
     {
+        "client_id": 142696406109654,
+        "data": {
+            "clientId": "142696406109654",
+            "text": "Knock the opposing Leader into the water or score a TRY to win!"
+        }
+    },
+    {
         "client_id": 142978427478016,
         "data": {
             "clientId": "142978427478016",
@@ -9597,6 +10199,13 @@
         "data": {
             "clientId": "143030630733339",
             "text": "Original"
+        }
+    },
+    {
+        "client_id": 143058782348718,
+        "data": {
+            "clientId": "143058782348718",
+            "text": "Bonus Members"
         }
     },
     {
@@ -9625,6 +10234,13 @@
         "data": {
             "clientId": "143549850655551",
             "text": "Retry"
+        }
+    },
+    {
+        "client_id": 143662491635974,
+        "data": {
+            "clientId": "143662491635974",
+            "text": "Preset Name"
         }
     },
     {
@@ -9674,6 +10290,13 @@
         "data": {
             "clientId": "145846928728064",
             "text": "+"
+        }
+    },
+    {
+        "client_id": 146120740136680,
+        "data": {
+            "clientId": "146120740136680",
+            "text": "Challenge Live"
         }
     },
     {
@@ -9852,10 +10475,24 @@
         }
     },
     {
+        "client_id": 149512187132494,
+        "data": {
+            "clientId": "149512187132494",
+            "text": "STAGE {0}"
+        }
+    },
+    {
         "client_id": 149645784442766,
         "data": {
             "clientId": "149645784442766",
             "text": "Selected"
+        }
+    },
+    {
+        "client_id": 149833871201397,
+        "data": {
+            "clientId": "149833871201397",
+            "text": "Change Leader"
         }
     },
     {
@@ -9957,6 +10594,13 @@
         }
     },
     {
+        "client_id": 151621370103223,
+        "data": {
+            "clientId": "151621370103223",
+            "text": "Your turn"
+        }
+    },
+    {
         "client_id": 152357530716003,
         "data": {
             "clientId": "152357530716003",
@@ -10003,6 +10647,13 @@
         "data": {
             "clientId": "153263104512000",
             "text": "x{0}.{1}"
+        }
+    },
+    {
+        "client_id": 153388027186849,
+        "data": {
+            "clientId": "153388027186849",
+            "text": "The current Holomem Board will be overwritten."
         }
     },
     {
@@ -10072,6 +10723,13 @@
         "data": {
             "clientId": "154955502458368",
             "text": "Options"
+        }
+    },
+    {
+        "client_id": 154993288111749,
+        "data": {
+            "clientId": "154993288111749",
+            "text": "The opponent surrendered!"
         }
     },
     {
@@ -10320,10 +10978,24 @@
         }
     },
     {
+        "client_id": 159103819886250,
+        "data": {
+            "clientId": "159103819886250",
+            "text": "Team Formation"
+        }
+    },
+    {
         "client_id": 159112846614067,
         "data": {
             "clientId": "159112846614067",
             "text": "Write the report."
+        }
+    },
+    {
+        "client_id": 159119256834419,
+        "data": {
+            "clientId": "159119256834419",
+            "text": "You knocked the opponent’s Leader into the water!"
         }
     },
     {
@@ -10425,6 +11097,13 @@
         }
     },
     {
+        "client_id": 162342024109647,
+        "data": {
+            "clientId": "162342024109647",
+            "text": "OK!"
+        }
+    },
+    {
         "client_id": 162881411862733,
         "data": {
             "clientId": "162881411862733",
@@ -10471,6 +11150,13 @@
         "data": {
             "clientId": "163108054294528",
             "text": "Perfect"
+        }
+    },
+    {
+        "client_id": 163169161352798,
+        "data": {
+            "clientId": "163169161352798",
+            "text": "Stage skipped."
         }
     },
     {
@@ -10754,6 +11440,13 @@
         }
     },
     {
+        "client_id": 167357584012600,
+        "data": {
+            "clientId": "167357584012600",
+            "text": "Can't use in Challenge Live."
+        }
+    },
+    {
         "client_id": 167617517652487,
         "data": {
             "clientId": "167617517652487",
@@ -10866,6 +11559,13 @@
         }
     },
     {
+        "client_id": 171320933281587,
+        "data": {
+            "clientId": "171320933281587",
+            "text": "Now loading..."
+        }
+    },
+    {
         "client_id": 171370984458278,
         "data": {
             "clientId": "171370984458278",
@@ -10877,6 +11577,13 @@
         "data": {
             "clientId": "171571482575354",
             "text": "Go"
+        }
+    },
+    {
+        "client_id": 171680083421896,
+        "data": {
+            "clientId": "171680083421896",
+            "text": "No undos remaining."
         }
     },
     {
@@ -11027,6 +11734,13 @@
         }
     },
     {
+        "client_id": 175268118012296,
+        "data": {
+            "clientId": "175268118012296",
+            "text": "Leader changed."
+        }
+    },
+    {
         "client_id": 175303891547756,
         "data": {
             "clientId": "175303891547756",
@@ -11115,6 +11829,13 @@
         "data": {
             "clientId": "177302551567220",
             "text": "Frequency of occurrence"
+        }
+    },
+    {
+        "client_id": 177323992258236,
+        "data": {
+            "clientId": "177323992258236",
+            "text": "Because you failed to act within the time limit three times, you will forfeit the match."
         }
     },
     {
@@ -11244,6 +11965,13 @@
         }
     },
     {
+        "client_id": 179810219792358,
+        "data": {
+            "clientId": "179810219792358",
+            "text": "Undo"
+        }
+    },
+    {
         "client_id": 179877316245102,
         "data": {
             "clientId": "179877316245102",
@@ -11342,6 +12070,13 @@
         }
     },
     {
+        "client_id": 182486866375855,
+        "data": {
+            "clientId": "182486866375855",
+            "text": "Remove"
+        }
+    },
+    {
         "client_id": 182589729548169,
         "data": {
             "clientId": "182589729548169",
@@ -11363,6 +12098,13 @@
         }
     },
     {
+        "client_id": 183316151472805,
+        "data": {
+            "clientId": "183316151472805",
+            "text": "You have no Bonus-elegible Members."
+        }
+    },
+    {
         "client_id": 183485597003467,
         "data": {
             "clientId": "183485597003467",
@@ -11374,6 +12116,13 @@
         "data": {
             "clientId": "183556683804959",
             "text": "Apply to all songs"
+        }
+    },
+    {
+        "client_id": 183895730032923,
+        "data": {
+            "clientId": "183895730032923",
+            "text": "Selected"
         }
     },
     {
@@ -11447,10 +12196,24 @@
         }
     },
     {
+        "client_id": 185331519231900,
+        "data": {
+            "clientId": "185331519231900",
+            "text": "Formation Bonus"
+        }
+    },
+    {
         "client_id": 185380187460502,
         "data": {
             "clientId": "185380187460502",
             "text": "Active Skill"
+        }
+    },
+    {
+        "client_id": 185389436067952,
+        "data": {
+            "clientId": "185389436067952",
+            "text": "Time(s)"
         }
     },
     {
@@ -11500,6 +12263,13 @@
         "data": {
             "clientId": "186257923072000",
             "text": "No history."
+        }
+    },
+    {
+        "client_id": 186348731393184,
+        "data": {
+            "clientId": "186348731393184",
+            "text": "Don't load"
         }
     },
     {
@@ -11608,6 +12378,13 @@
         }
     },
     {
+        "client_id": 189571796393453,
+        "data": {
+            "clientId": "189571796393453",
+            "text": "Privacy\nSettings"
+        }
+    },
+    {
         "client_id": 190047115438741,
         "data": {
             "clientId": "190047115438741",
@@ -11626,6 +12403,13 @@
         "data": {
             "clientId": "190776526102413",
             "text": "The wider you make the lanes, the higher the chance of overlapping with UI elements."
+        }
+    },
+    {
+        "client_id": 190895736824556,
+        "data": {
+            "clientId": "190895736824556",
+            "text": "Set all to private"
         }
     },
     {
@@ -11675,6 +12459,20 @@
         "data": {
             "clientId": "192024060216984",
             "text": "Remaining People: {0}"
+        }
+    },
+    {
+        "client_id": 192099639387628,
+        "data": {
+            "clientId": "192099639387628",
+            "text": "Achievs"
+        }
+    },
+    {
+        "client_id": 192274977035968,
+        "data": {
+            "clientId": "192274977035968",
+            "text": "No Minigame Boost will be consumed because the stage is cleared.\\nPlay results (rewards, mission progress, etc.) will not be counted.\\nChallenge anyway?"
         }
     },
     {
@@ -12006,6 +12804,20 @@
         }
     },
     {
+        "client_id": 200799723451158,
+        "data": {
+            "clientId": "200799723451158",
+            "text": "Best Unit"
+        }
+    },
+    {
+        "client_id": 201003440394482,
+        "data": {
+            "clientId": "201003440394482",
+            "text": "Use {0}."
+        }
+    },
+    {
         "client_id": 201033742475264,
         "data": {
             "clientId": "201033742475264",
@@ -12132,6 +12944,13 @@
         }
     },
     {
+        "client_id": 204208287742737,
+        "data": {
+            "clientId": "204208287742737",
+            "text": "Load this preset?"
+        }
+    },
+    {
         "client_id": 204343453307638,
         "data": {
             "clientId": "204343453307638",
@@ -12156,6 +12975,13 @@
         "data": {
             "clientId": "204895122110380",
             "text": "New!"
+        }
+    },
+    {
+        "client_id": 205177815176484,
+        "data": {
+            "clientId": "205177815176484",
+            "text": "Show Base Stats"
         }
     },
     {
@@ -12277,6 +13103,13 @@
         }
     },
     {
+        "client_id": 206578112122387,
+        "data": {
+            "clientId": "206578112122387",
+            "text": "Currently not available."
+        }
+    },
+    {
         "client_id": 206607582846976,
         "data": {
             "clientId": "206607582846976",
@@ -12382,6 +13215,13 @@
         }
     },
     {
+        "client_id": 207279825106382,
+        "data": {
+            "clientId": "207279825106382",
+            "text": "badge"
+        }
+    },
+    {
         "client_id": 207292512478087,
         "data": {
             "clientId": "207292512478087",
@@ -12442,6 +13282,13 @@
         "data": {
             "clientId": "207974439440614",
             "text": "Year"
+        }
+    },
+    {
+        "client_id": 208033483879514,
+        "data": {
+            "clientId": "208033483879514",
+            "text": "Preset"
         }
     },
     {
@@ -12570,6 +13417,13 @@
         }
     },
     {
+        "client_id": 210953842706697,
+        "data": {
+            "clientId": "210953842706697",
+            "text": "Current\nStage"
+        }
+    },
+    {
         "client_id": 211033587703808,
         "data": {
             "clientId": "211033587703808",
@@ -12581,6 +13435,13 @@
         "data": {
             "clientId": "211126919860535",
             "text": "Lv"
+        }
+    },
+    {
+        "client_id": 211178795817185,
+        "data": {
+            "clientId": "211178795817185",
+            "text": "Return to Top"
         }
     },
     {
@@ -12689,6 +13550,13 @@
         }
     },
     {
+        "client_id": 214050842770189,
+        "data": {
+            "clientId": "214050842770189",
+            "text": "Whale"
+        }
+    },
+    {
         "client_id": 214077154278438,
         "data": {
             "clientId": "214077154278438",
@@ -12714,6 +13582,13 @@
         "data": {
             "clientId": "214489392932621",
             "text": "<color=#FFFFFFA5>Until</color> {0}"
+        }
+    },
+    {
+        "client_id": 214493981115919,
+        "data": {
+            "clientId": "214493981115919",
+            "text": "Load"
         }
     },
     {
@@ -12850,10 +13725,24 @@
         }
     },
     {
+        "client_id": 216693191708177,
+        "data": {
+            "clientId": "216693191708177",
+            "text": "Deleted {0}."
+        }
+    },
+    {
         "client_id": 216715890214086,
         "data": {
             "clientId": "216715890214086",
             "text": "Normal"
+        }
+    },
+    {
+        "client_id": 216964972697964,
+        "data": {
+            "clientId": "216964972697964",
+            "text": "Try again"
         }
     },
     {
@@ -12955,6 +13844,13 @@
         }
     },
     {
+        "client_id": 218685708931751,
+        "data": {
+            "clientId": "218685708931751",
+            "text": "Cannot be selected because this is the current Leader."
+        }
+    },
+    {
         "client_id": 218750178755135,
         "data": {
             "clientId": "218750178755135",
@@ -12973,6 +13869,13 @@
         "data": {
             "clientId": "218956731179008",
             "text": "Exit"
+        }
+    },
+    {
+        "client_id": 219675637077789,
+        "data": {
+            "clientId": "219675637077789",
+            "text": "Clear NORMAL Mode\\nLevel {0}."
         }
     },
     {
@@ -13046,6 +13949,13 @@
         }
     },
     {
+        "client_id": 221014265622840,
+        "data": {
+            "clientId": "221014265622840",
+            "text": "Clear Status"
+        }
+    },
+    {
         "client_id": 221027276382208,
         "data": {
             "clientId": "221027276382208",
@@ -13078,6 +13988,13 @@
         "data": {
             "clientId": "222272372501752",
             "text": "A cool, powered-up boat Thanks to the windshield, safety is improved!"
+        }
+    },
+    {
+        "client_id": 222427079743772,
+        "data": {
+            "clientId": "222427079743772",
+            "text": "Privacy Settings"
         }
     },
     {
@@ -13123,6 +14040,13 @@
         }
     },
     {
+        "client_id": 223557945155158,
+        "data": {
+            "clientId": "223557945155158",
+            "text": "Nope"
+        }
+    },
+    {
         "client_id": 223764145091872,
         "data": {
             "clientId": "223764145091872",
@@ -13130,10 +14054,24 @@
         }
     },
     {
+        "client_id": 224003210038466,
+        "data": {
+            "clientId": "224003210038466",
+            "text": "Auto formation applied."
+        }
+    },
+    {
         "client_id": 224151303835398,
         "data": {
             "clientId": "224151303835398",
             "text": "currently assigned to another Holowork."
+        }
+    },
+    {
+        "client_id": 224266417372297,
+        "data": {
+            "clientId": "224266417372297",
+            "text": "Holomem Rank"
         }
     },
     {
@@ -13197,6 +14135,13 @@
         "data": {
             "clientId": "225819827454262",
             "text": "Room ID"
+        }
+    },
+    {
+        "client_id": 225926949663001,
+        "data": {
+            "clientId": "225926949663001",
+            "text": "Unlocked Nodes are identical to the current\\nHolomem Board. This present cannot be loaded."
         }
     },
     {
@@ -13267,6 +14212,20 @@
         "data": {
             "clientId": "227116940519459",
             "text": "Rankings are calculated every week."
+        }
+    },
+    {
+        "client_id": 227203100353845,
+        "data": {
+            "clientId": "227203100353845",
+            "text": "Win Streak"
+        }
+    },
+    {
+        "client_id": 227203496086012,
+        "data": {
+            "clientId": "227203496086012",
+            "text": "CHALLENGE"
         }
     },
     {
@@ -13361,6 +14320,13 @@
         }
     },
     {
+        "client_id": 228876847302772,
+        "data": {
+            "clientId": "228876847302772",
+            "text": "This is the Preview screen."
+        }
+    },
+    {
         "client_id": 229058083917173,
         "data": {
             "clientId": "229058083917173",
@@ -13400,6 +14366,13 @@
         "data": {
             "clientId": "229609369713293",
             "text": "None"
+        }
+    },
+    {
+        "client_id": 229670739645374,
+        "data": {
+            "clientId": "229670739645374",
+            "text": "Surrender"
         }
     },
     {
@@ -13522,6 +14495,13 @@
         }
     },
     {
+        "client_id": 232620789917344,
+        "data": {
+            "clientId": "232620789917344",
+            "text": "TARGET SCORE"
+        }
+    },
+    {
         "client_id": 232771047634177,
         "data": {
             "clientId": "232771047634177",
@@ -13540,6 +14520,13 @@
         "data": {
             "clientId": "232936069265601",
             "text": "Special Titles can be claimed through Achievs."
+        }
+    },
+    {
+        "client_id": 232957849516453,
+        "data": {
+            "clientId": "232957849516453",
+            "text": "The opponent’s Leader scored a Try..."
         }
     },
     {
@@ -13585,6 +14572,13 @@
         }
     },
     {
+        "client_id": 234319967780027,
+        "data": {
+            "clientId": "234319967780027",
+            "text": "No Song or Difficulty selection was detected within the time limit.\\nIf this happens repeatedly, you may be temporarily restricted\\nfrom joining Multiplayer Lives."
+        }
+    },
+    {
         "client_id": 234490797770176,
         "data": {
             "clientId": "234490797770176",
@@ -13596,6 +14590,13 @@
         "data": {
             "clientId": "234637917583579",
             "text": "nd"
+        }
+    },
+    {
+        "client_id": 234694749861380,
+        "data": {
+            "clientId": "234694749861380",
+            "text": "{0} has been edited."
         }
     },
     {
@@ -13624,6 +14625,13 @@
         "data": {
             "clientId": "235457114212171",
             "text": "The ESC key is disabled on this screen."
+        }
+    },
+    {
+        "client_id": 235605800874370,
+        "data": {
+            "clientId": "235605800874370",
+            "text": "Outfit"
         }
     },
     {
@@ -13683,6 +14691,13 @@
         }
     },
     {
+        "client_id": 236396752726996,
+        "data": {
+            "clientId": "236396752726996",
+            "text": "Your Leader scored a Try!"
+        }
+    },
+    {
         "client_id": 236656136035962,
         "data": {
             "clientId": "236656136035962",
@@ -13701,6 +14716,13 @@
         "data": {
             "clientId": "236929697570053",
             "text": "Chart Info"
+        }
+    },
+    {
+        "client_id": 237099646372316,
+        "data": {
+            "clientId": "237099646372316",
+            "text": "CLEAR"
         }
     },
     {
@@ -13886,6 +14908,13 @@
         }
     },
     {
+        "client_id": 242636073484203,
+        "data": {
+            "clientId": "242636073484203",
+            "text": "Your Leader is in danger!"
+        }
+    },
+    {
         "client_id": 242655411028237,
         "data": {
             "clientId": "242655411028237",
@@ -13925,6 +14954,13 @@
         "data": {
             "clientId": "243633817442155",
             "text": "Z"
+        }
+    },
+    {
+        "client_id": 243668712002629,
+        "data": {
+            "clientId": "243668712002629",
+            "text": "Use Bloom Stone"
         }
     },
     {
@@ -13991,6 +15027,13 @@
         }
     },
     {
+        "client_id": 245139377669647,
+        "data": {
+            "clientId": "245139377669647",
+            "text": "Leader"
+        }
+    },
+    {
         "client_id": 245372361695232,
         "data": {
             "clientId": "245372361695232",
@@ -14023,6 +15066,13 @@
         "data": {
             "clientId": "245967412521695",
             "text": "Rescuing"
+        }
+    },
+    {
+        "client_id": 246144725023735,
+        "data": {
+            "clientId": "246144725023735",
+            "text": "Not enough items."
         }
     },
     {
@@ -14061,6 +15111,13 @@
         }
     },
     {
+        "client_id": 246949780868779,
+        "data": {
+            "clientId": "246949780868779",
+            "text": "Congratulations on clearing all Stages!"
+        }
+    },
+    {
         "client_id": 247010931909933,
         "data": {
             "clientId": "247010931909933",
@@ -14089,10 +15146,24 @@
         }
     },
     {
+        "client_id": 247502740254085,
+        "data": {
+            "clientId": "247502740254085",
+            "text": "Wins"
+        }
+    },
+    {
         "client_id": 247519453661921,
         "data": {
             "clientId": "247519453661921",
             "text": "Contains invalid parts."
+        }
+    },
+    {
+        "client_id": 247649708141021,
+        "data": {
+            "clientId": "247649708141021",
+            "text": "The same situation was repeated three times. This game ends in a draw."
         }
     },
     {
@@ -14107,6 +15178,13 @@
         "data": {
             "clientId": "248018894868525",
             "text": "Defended facilities in time!"
+        }
+    },
+    {
+        "client_id": 248082417115076,
+        "data": {
+            "clientId": "248082417115076",
+            "text": "Target Score"
         }
     },
     {
@@ -14152,10 +15230,24 @@
         }
     },
     {
+        "client_id": 249344955150446,
+        "data": {
+            "clientId": "249344955150446",
+            "text": "Only Friends"
+        }
+    },
+    {
         "client_id": 249407164387213,
         "data": {
             "clientId": "249407164387213",
             "text": "1"
+        }
+    },
+    {
+        "client_id": 249713293796009,
+        "data": {
+            "clientId": "249713293796009",
+            "text": "{0} win streak"
         }
     },
     {
@@ -14218,7 +15310,7 @@
         "client_id": 250863090900176,
         "data": {
             "clientId": "250863090900176",
-            "text": "Key Configuration"
+            "text": "Key Configuration (Shared)"
         }
     },
     {
@@ -14523,6 +15615,13 @@
         }
     },
     {
+        "client_id": 253751033019904,
+        "data": {
+            "clientId": "253751033019904",
+            "text": "Repeat Stage"
+        }
+    },
+    {
         "client_id": 253763204208640,
         "data": {
             "clientId": "253763204208640",
@@ -14759,6 +15858,20 @@
         }
     },
     {
+        "client_id": 256719460016410,
+        "data": {
+            "clientId": "256719460016410",
+            "text": "Save"
+        }
+    },
+    {
+        "client_id": 256845739695085,
+        "data": {
+            "clientId": "256845739695085",
+            "text": "Victory Conditions"
+        }
+    },
+    {
         "client_id": 257228162162688,
         "data": {
             "clientId": "257228162162688",
@@ -14975,6 +16088,13 @@
         }
     },
     {
+        "client_id": 262762630776753,
+        "data": {
+            "clientId": "262762630776753",
+            "text": "Fixed Camera"
+        }
+    },
+    {
         "client_id": 262804880945878,
         "data": {
             "clientId": "262804880945878",
@@ -14989,10 +16109,24 @@
         }
     },
     {
+        "client_id": 263439178812941,
+        "data": {
+            "clientId": "263439178812941",
+            "text": "Hints"
+        }
+    },
+    {
         "client_id": 263528394189817,
         "data": {
             "clientId": "263528394189817",
             "text": "iOS order date"
+        }
+    },
+    {
+        "client_id": 263588076672097,
+        "data": {
+            "clientId": "263588076672097",
+            "text": "Member Preview"
         }
     },
     {
@@ -15101,6 +16235,13 @@
         }
     },
     {
+        "client_id": 266213161855493,
+        "data": {
+            "clientId": "266213161855493",
+            "text": "VS"
+        }
+    },
+    {
         "client_id": 266300484844067,
         "data": {
             "clientId": "266300484844067",
@@ -15164,6 +16305,13 @@
         }
     },
     {
+        "client_id": 267257773296176,
+        "data": {
+            "clientId": "267257773296176",
+            "text": "Turtle"
+        }
+    },
+    {
         "client_id": 267571060367360,
         "data": {
             "clientId": "267571060367360",
@@ -15171,10 +16319,24 @@
         }
     },
     {
+        "client_id": 267732740360778,
+        "data": {
+            "clientId": "267732740360778",
+            "text": "You don't have enough materials to load.\\nWould you like to load only the Nodes you have enough materials for?"
+        }
+    },
+    {
         "client_id": 267798078085049,
         "data": {
             "clientId": "267798078085049",
             "text": "SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC　SELECTED MUSIC"
+        }
+    },
+    {
+        "client_id": 267886449167994,
+        "data": {
+            "clientId": "267886449167994",
+            "text": "Please save the preset."
         }
     },
     {
@@ -15262,10 +16424,24 @@
         }
     },
     {
+        "client_id": 269588282332177,
+        "data": {
+            "clientId": "269588282332177",
+            "text": "Song Clear\nStatus"
+        }
+    },
+    {
         "client_id": 269691108286985,
         "data": {
             "clientId": "269691108286985",
             "text": "HH:mm"
+        }
+    },
+    {
+        "client_id": 269946084961207,
+        "data": {
+            "clientId": "269946084961207",
+            "text": "Play Guide"
         }
     },
     {
@@ -15283,10 +16459,24 @@
         }
     },
     {
+        "client_id": 270691929960861,
+        "data": {
+            "clientId": "270691929960861",
+            "text": "Rewards Earned"
+        }
+    },
+    {
         "client_id": 270696856641536,
         "data": {
             "clientId": "270696856641536",
             "text": "Details"
+        }
+    },
+    {
+        "client_id": 270790040880878,
+        "data": {
+            "clientId": "270790040880878",
+            "text": "Stages Cleared"
         }
     },
     {
@@ -15308,6 +16498,13 @@
         "data": {
             "clientId": "270957784885017",
             "text": "You can check after playing."
+        }
+    },
+    {
+        "client_id": 271192717121087,
+        "data": {
+            "clientId": "271192717121087",
+            "text": "Challenge"
         }
     },
     {
@@ -15534,6 +16731,20 @@
         }
     },
     {
+        "client_id": 276269945305094,
+        "data": {
+            "clientId": "276269945305094",
+            "text": "Team formed."
+        }
+    },
+    {
+        "client_id": 276320469025582,
+        "data": {
+            "clientId": "276320469025582",
+            "text": "Your saved Holomem Board will be overwritten."
+        }
+    },
+    {
         "client_id": 276365564944437,
         "data": {
             "clientId": "276365564944437",
@@ -15562,6 +16773,13 @@
         }
     },
     {
+        "client_id": 276831431198624,
+        "data": {
+            "clientId": "276831431198624",
+            "text": "{0}%"
+        }
+    },
+    {
         "client_id": 276868334650299,
         "data": {
             "clientId": "276868334650299",
@@ -15580,6 +16798,13 @@
         "data": {
             "clientId": "277256852272826",
             "text": "The following information will be hidden from other players in Multiplayer."
+        }
+    },
+    {
+        "client_id": 277269463207823,
+        "data": {
+            "clientId": "277269463207823",
+            "text": "Select a tile"
         }
     },
     {
@@ -17923,7 +19148,7 @@
         "client_id": 498737727292322,
         "data": {
             "clientId": "498737727292322",
-            "text": "Your Google Play account's game data will be overwritten and cannot be restored. Are you sure you want to proceed?"
+            "text": "Google Play game data will be overwritten and cannot be restored.\\nAre you sure you wish to proceed?"
         }
     },
     {
@@ -21646,6 +22871,13 @@
         "data": {
             "clientId": "812012800925696",
             "text": "Gacha"
+        }
+    },
+    {
+        "client_id": 813810984982508,
+        "data": {
+            "clientId": "813810984982508",
+            "text": "You are about to spend {0} to Bloom.\\nAre you sure?"
         }
     },
     {

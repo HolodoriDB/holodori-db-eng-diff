@@ -336,6 +336,197 @@
         }
     },
     {
+        "id": "tips-game_screen-live_tower",
+        "data": {
+            "id": "tips-game_screen-live_tower",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-live_tower-title",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_LIVE_TOWER_NORMAL",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-game_screen-shogi",
+        "data": {
+            "id": "tips-game_screen-shogi",
+            "type": "TipsType_TIPS_TYPE_GAME_SCREEN",
+            "titleLangId": "la-tips-game_screen-shogi",
+            "gameScreenType": "GameScreenType_GAME_SCREEN_TYPE_SHOGI_INGAME",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-instant_tips-live_tower-quest-unlock",
+        "data": {
+            "id": "tips-instant_tips-live_tower-quest-unlock",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-instant_tips-live_tower-quest-unlock-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-instant_tips-skill_tree-upgrade-1",
+        "data": {
+            "id": "tips-instant_tips-skill_tree-upgrade-1",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-instant_tips-skill_tree-upgrade-1",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-live_tower",
+        "data": {
+            "id": "tips-live_tower",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-live_tower-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-live_tower-quest",
+        "data": {
+            "id": "tips-live_tower-quest",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-live_tower-title",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi",
+        "data": {
+            "id": "tips-shogi",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-quest",
+        "data": {
+            "id": "tips-shogi-quest",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-quest",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage-catch-end",
+        "data": {
+            "id": "tips-shogi-stage-catch-end",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage-catch-end",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage-catch-start",
+        "data": {
+            "id": "tips-shogi-stage-catch-start",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage-catch-start",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage-nakama-end",
+        "data": {
+            "id": "tips-shogi-stage-nakama-end",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage-nakama-end",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage-nakama-start",
+        "data": {
+            "id": "tips-shogi-stage-nakama-start",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage-nakama-start",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage-naru-end",
+        "data": {
+            "id": "tips-shogi-stage-naru-end",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage-naru-end",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage-naru-start",
+        "data": {
+            "id": "tips-shogi-stage-naru-start",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage-naru-start",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage-try-end",
+        "data": {
+            "id": "tips-shogi-stage-try-end",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage-try-end",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage-try-start",
+        "data": {
+            "id": "tips-shogi-stage-try-start",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage-try-start",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage1-hint",
+        "data": {
+            "id": "tips-shogi-stage1-hint",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage1-hint",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage2-hint",
+        "data": {
+            "id": "tips-shogi-stage2-hint",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage2-hint",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage3-hint",
+        "data": {
+            "id": "tips-shogi-stage3-hint",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage3-hint",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage4-hint",
+        "data": {
+            "id": "tips-shogi-stage4-hint",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage4-hint",
+            "order": 1
+        }
+    },
+    {
+        "id": "tips-shogi-stage5-hint",
+        "data": {
+            "id": "tips-shogi-stage5-hint",
+            "type": "TipsType_TIPS_TYPE_TUTORIAL",
+            "titleLangId": "la-tips-shogi-stage5-hint",
+            "order": 1
+        }
+    },
+    {
         "id": "tips-achievement",
         "data": {
             "id": "tips-achievement",

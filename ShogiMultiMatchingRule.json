@@ -1,0 +1,40 @@
+[
+    {
+        "seconds": 0,
+        "data": {
+            "maxRatingDiff": 100,
+            "excludeRecentOpponentCount": 3
+        }
+    },
+    {
+        "seconds": 15,
+        "data": {
+            "seconds": 15,
+            "maxRatingDiff": 200,
+            "excludeRecentOpponentCount": 3
+        }
+    },
+    {
+        "seconds": 20,
+        "data": {
+            "seconds": 20,
+            "maxRatingDiff": 400,
+            "excludeRecentOpponentCount": 2
+        }
+    },
+    {
+        "seconds": 25,
+        "data": {
+            "seconds": 25,
+            "maxRatingDiff": 700,
+            "excludeRecentOpponentCount": 1
+        }
+    },
+    {
+        "seconds": 29,
+        "data": {
+            "seconds": 29,
+            "maxRatingDiff": 9999
+        }
+    }
+]

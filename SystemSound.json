@@ -1260,6 +1260,34 @@
         }
     },
     {
+        "type": 296,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_TOWER_STAGE_UP",
+            "soundAssetId": "se_sys_anim_400_live_tower_stageup"
+        }
+    },
+    {
+        "type": 297,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_TOWER_STAGE_UP_RANK_GTE_5",
+            "soundAssetId": "se_sys_anim_400_live_tower_stageup_over5"
+        }
+    },
+    {
+        "type": 298,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_LIVE_TOWER_ALL_CLEAR",
+            "soundAssetId": "se_sys_anim_400_live_tower_all_clear"
+        }
+    },
+    {
+        "type": 301,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SYSTEM_ANIMATION_COMMON_STAGE_RELEASE",
+            "soundAssetId": "se_sys_cmn_pkg-stage-open"
+        }
+    },
+    {
         "type": 10000,
         "data": {
             "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_JUMP_ROPE_ROPE_1",
@@ -2324,6 +2352,13 @@
         }
     },
     {
+        "type": 10622,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_PARK_FISHING_RESULT_GOLD",
+            "soundAssetId": "se_mg_902_pkg-fishing-result-gold"
+        }
+    },
+    {
         "type": 10700,
         "data": {
             "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_BOAT_BURNER",
@@ -2531,6 +2566,174 @@
         "data": {
             "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SPLASH_BALL_MAP_SCALE_DOWN",
             "soundAssetId": "se_mg_006_pkg-map-down-scale"
+        }
+    },
+    {
+        "type": 10800,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_OUT_GAME_STAGE_RELEASE",
+            "soundAssetId": "se_mg_007_pkg-stage-open"
+        }
+    },
+    {
+        "type": 10801,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_OUT_GAME_STAGE_SELECT",
+            "soundAssetId": "se_mg_007_pkg-stage-select"
+        }
+    },
+    {
+        "type": 10802,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_OUT_GAME_ORGANIZATION",
+            "soundAssetId": "se_mg_007_pkg-team-form"
+        }
+    },
+    {
+        "type": 10803,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_PIECE_SELECT_HEADER",
+            "soundAssetId": "se_mg_007_pkg-chara-select-header"
+        }
+    },
+    {
+        "type": 10804,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_CANCEL",
+            "soundAssetId": "se_mg_007_pkg-cancel"
+        }
+    },
+    {
+        "type": 10805,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_TURN_CHANGE",
+            "soundAssetId": "se_mg_007_pkg-turn-change"
+        }
+    },
+    {
+        "type": 10806,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_TIMER_ALERT",
+            "soundAssetId": "se_mg_007_pkg-timer-alert"
+        }
+    },
+    {
+        "type": 10807,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_TAKE_BACK",
+            "soundAssetId": "se_mg_007_pkg-undo-turn"
+        }
+    },
+    {
+        "type": 10808,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_PIECE_DRAG",
+            "soundAssetId": "se_mg_007_pkg-chara-drag"
+        }
+    },
+    {
+        "type": 10809,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_PIECE_CAPTURE",
+            "soundAssetId": "se_mg_007_pkg-get-opponent"
+        }
+    },
+    {
+        "type": 10810,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_PIECE_CAPTURE_REACTION",
+            "soundAssetId": "se_mg_007_pkg-opponent-reaction"
+        }
+    },
+    {
+        "type": 10811,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_START",
+            "soundAssetId": "se_mg_007_pkg-start"
+        }
+    },
+    {
+        "type": 10812,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_FINISH",
+            "soundAssetId": "se_mg_007_pkg-finish"
+        }
+    },
+    {
+        "type": 10813,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_PIECE_MOVE_DECISION",
+            "soundAssetId": "se_mg_007_pkg-chara-move-decision"
+        }
+    },
+    {
+        "type": 10814,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_CHECK_ALERT",
+            "soundAssetId": "se_mg_007_pkg-checkmate-alert"
+        }
+    },
+    {
+        "type": 10815,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_CLEAR_CONDITION",
+            "soundAssetId": "se_mg_007_pkg-rule"
+        }
+    },
+    {
+        "type": 10816,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_OWN_PIECE_SELECT",
+            "soundAssetId": "se_mg_007_pkg-own-chara-select"
+        }
+    },
+    {
+        "type": 10817,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_MOTION_MOVE",
+            "soundAssetId": "se_mg_007_pkg-motion-move"
+        }
+    },
+    {
+        "type": 10818,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_MOTION_PROMOTE",
+            "soundAssetId": "se_mg_007_pkg-motion-evolution"
+        }
+    },
+    {
+        "type": 10819,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_MOTION_ATTACK_HAMMER",
+            "soundAssetId": "se_mg_007_pkg-motion-attack-hammer"
+        }
+    },
+    {
+        "type": 10820,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_MOTION_ATTACK_SWORD",
+            "soundAssetId": "se_mg_007_pkg-motion-attack-sword"
+        }
+    },
+    {
+        "type": 10821,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_MOTION_FALL_WATER",
+            "soundAssetId": "se_mg_007_pkg-motion-fall-water"
+        }
+    },
+    {
+        "type": 10822,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_MOTION_LEADER_CAPTURE_WIN",
+            "soundAssetId": "se_mg_007_pkg-motion-leader-knockdown-win"
+        }
+    },
+    {
+        "type": 10823,
+        "data": {
+            "type": "SystemSoundType_SYSTEM_SOUND_TYPE_SE_SHOGI_MOTION_LEADER_CAPTURE_LOSE",
+            "soundAssetId": "se_mg_007_pkg-motion-leader-knockdown-lose"
         }
     },
     {

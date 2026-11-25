@@ -815,6 +815,16 @@
         }
     },
     {
+        "id": "target_map-a03-shogi",
+        "data": {
+            "id": "target_map-a03-shogi",
+            "nameLangId": "la-target_map-a03-shogi",
+            "targetType": "ParkTargetType_PARK_TARGET_TYPE_FACILITY",
+            "facilityId": "facility-a03-stadium",
+            "parkPositionId": "park_pos-a03-stadium-content_sp_01"
+        }
+    },
+    {
         "id": "target_map-a01-athletic-free_npc_sp_01-day-chat-16",
         "data": {
             "id": "target_map-a01-athletic-free_npc_sp_01-day-chat-16",
@@ -1256,6 +1266,15 @@
         }
     },
     {
+        "id": "target_map-area-a01-30-1-1",
+        "data": {
+            "id": "target_map-area-a01-30-1-1",
+            "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
+            "parkNpcGroupId": "npc_group-area-a01-30-1-1",
+            "parkPositionId": "park_pos-a01-livestage-quest"
+        }
+    },
+    {
         "id": "target_map-a01-athletic-free_npc_sp_01-day-chat-65",
         "data": {
             "id": "target_map-a01-athletic-free_npc_sp_01-day-chat-65",
@@ -1316,6 +1335,25 @@
             "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
             "parkNpcGroupId": "npc_group-a01-athletic-day-chat-71",
             "parkPositionId": "park_pos-a01-athletic-free_npc_sp_01"
+        }
+    },
+    {
+        "id": "target_map-area-a01-30-1-2",
+        "data": {
+            "id": "target_map-area-a01-30-1-2",
+            "nameLangId": "la-target_map-area-a01-30-1-2",
+            "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
+            "parkNpcGroupId": "npc_group-area-a01-30-1-2",
+            "parkPositionId": "park_pos-a01-livestage-quest"
+        }
+    },
+    {
+        "id": "target_map-area-a03-20-1-1",
+        "data": {
+            "id": "target_map-area-a03-20-1-1",
+            "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
+            "parkNpcGroupId": "npc_group-area-a03-20-1-1",
+            "parkPositionId": "park_pos-a03-stadium-quest_sp_04"
         }
     },
     {
@@ -1658,6 +1696,16 @@
             "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
             "parkNpcGroupId": "npc_group-multi-a01-athletic-day-chat-43",
             "parkPositionId": "park_pos-a01-athletic-free_npc_sp_02"
+        }
+    },
+    {
+        "id": "target_map-area-a03-20-1-2",
+        "data": {
+            "id": "target_map-area-a03-20-1-2",
+            "nameLangId": "la-target_map-area-a03-20-1-2",
+            "targetType": "ParkTargetType_PARK_TARGET_TYPE_NPC",
+            "parkNpcGroupId": "npc_group-area-a03-20-1-2",
+            "parkPositionId": "park_pos-a03-stadium-quest_sp_04"
         }
     },
     {

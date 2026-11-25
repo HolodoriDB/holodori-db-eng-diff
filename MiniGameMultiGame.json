@@ -108,5 +108,27 @@
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-08",
             "order": 5
         }
+    },
+    {
+        "mini_game_type": 7,
+        "multi_game_match_type": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SHOGI",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_PRIVATE_ROOM",
+            "listAssetId": "shogi",
+            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-01-04",
+            "order": 7
+        }
+    },
+    {
+        "mini_game_type": 7,
+        "multi_game_match_type": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SHOGI",
+            "multiGameMatchType": "MultiGameMatchType_MULTI_GAME_MATCH_TYPE_RANDOM",
+            "listAssetId": "shogi",
+            "viewConditionGroupId": "cd-quest_clear-quest-area-a03-20",
+            "order": 7
+        }
     }
 ]

@@ -1,0 +1,321 @@
+[
+    {
+        "group_id": "shogi_character_personality_parameter-forward_type",
+        "personality_type": 4,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-forward_type",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_DROP_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 40
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-forward_type",
+        "personality_type": 2,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-forward_type",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-forward_type_02",
+        "personality_type": 2,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-forward_type_02",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-purely_strong",
+        "personality_type": 5,
+        "personality_piece_type": 3,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-purely_strong",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_CAPTURE_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ELEPHANT",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-purely_strong",
+        "personality_type": 5,
+        "personality_piece_type": 2,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-purely_strong",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_CAPTURE_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_GIRAFFE",
+            "weight": 80
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-purely_strong",
+        "personality_type": 5,
+        "personality_piece_type": 5,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-purely_strong",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_CAPTURE_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ROOSTER",
+            "weight": 60
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-purely_strong",
+        "personality_type": 6,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-purely_strong",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_SAFETY_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 50
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-retraction_type",
+        "personality_type": 5,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-retraction_type",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_CAPTURE_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 40
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-retraction_type",
+        "personality_type": 3,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-retraction_type",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_BACKWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-safety_01",
+        "personality_type": 4,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-safety_01",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_DROP_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 40
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-safety_01",
+        "personality_type": 6,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-safety_01",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_SAFETY_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-safety_01_02",
+        "personality_type": 6,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-safety_01_02",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_SAFETY_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-safety_02",
+        "personality_type": 3,
+        "personality_piece_type": 3,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-safety_02",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_BACKWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ELEPHANT",
+            "weight": 40
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-safety_02",
+        "personality_type": 3,
+        "personality_piece_type": 2,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-safety_02",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_BACKWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_GIRAFFE",
+            "weight": 60
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-safety_02",
+        "personality_type": 3,
+        "personality_piece_type": 1,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-safety_02",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_BACKWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_LION",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-safety_02",
+        "personality_type": 6,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-safety_02",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_SAFETY_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 80
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-strong_mistake",
+        "personality_type": 5,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-strong_mistake",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_CAPTURE_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-strong_mistake",
+        "personality_type": 4,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-strong_mistake",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_DROP_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 40
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-take_pieces",
+        "personality_type": 5,
+        "personality_piece_type": 3,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_CAPTURE_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ELEPHANT",
+            "weight": 70
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-take_pieces",
+        "personality_type": 5,
+        "personality_piece_type": 2,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_CAPTURE_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_GIRAFFE",
+            "weight": 80
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-take_pieces",
+        "personality_type": 5,
+        "personality_piece_type": 5,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_CAPTURE_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ROOSTER",
+            "weight": 60
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-take_pieces",
+        "personality_type": 2,
+        "personality_piece_type": 3,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ELEPHANT",
+            "weight": 20
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-take_pieces",
+        "personality_type": 2,
+        "personality_piece_type": 2,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_GIRAFFE",
+            "weight": 30
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-take_pieces",
+        "personality_type": 2,
+        "personality_piece_type": 1,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_LION",
+            "weight": 40
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-take_pieces",
+        "personality_type": 2,
+        "personality_piece_type": 5,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-take_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ROOSTER",
+            "weight": 10
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-use_pieces",
+        "personality_type": 4,
+        "personality_piece_type": 99,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-use_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_DROP_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ALL",
+            "weight": 80
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-use_pieces",
+        "personality_type": 2,
+        "personality_piece_type": 3,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-use_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ELEPHANT",
+            "weight": 40
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-use_pieces",
+        "personality_type": 2,
+        "personality_piece_type": 2,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-use_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_GIRAFFE",
+            "weight": 50
+        }
+    },
+    {
+        "group_id": "shogi_character_personality_parameter-use_pieces",
+        "personality_type": 2,
+        "personality_piece_type": 5,
+        "data": {
+            "groupId": "shogi_character_personality_parameter-use_pieces",
+            "personalityType": "ShogiCharacterPersonalityType_SHOGI_CHARACTER_PERSONALITY_TYPE_MOVE_DIRECTION_FORWARD_EVALUATION",
+            "personalityPieceType": "ShogiCharacterPersonalityPieceType_SHOGI_CHARACTER_PERSONALITY_PIECE_TYPE_ROOSTER",
+            "weight": 30
+        }
+    }
+]

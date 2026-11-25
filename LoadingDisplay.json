@@ -60,6 +60,18 @@
         }
     },
     {
+        "id": "loading_display-tips-live_tower-001",
+        "data": {
+            "id": "loading_display-tips-live_tower-001",
+            "type": "LoadingDisplayType_LOADING_DISPLAY_TYPE_TIPS",
+            "titleLangId": "la-loading_display-tips-live_tower-001-title",
+            "textLangId": "la-loading_display-tips-live_tower-001-text",
+            "assetId": "img_ui_loading_live_tower-001",
+            "ratio": 10,
+            "conditionGroupId": "cd-live_tower-default-unlock"
+        }
+    },
+    {
         "id": "loading_display-chr-00037",
         "data": {
             "id": "loading_display-chr-00037",

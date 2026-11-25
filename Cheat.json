@@ -360,28 +360,6 @@
     },
     {
         "type": 101,
-        "severity_type": 2,
-        "parameter_type": 1011,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_SCORE_TAMPERING",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_SCORE_TAMPERING_LIVE_DECK_EVALUATION_VALUE_COEFFICIENT_PERMIL_MULTIPLY",
-            "threshold": "10000"
-        }
-    },
-    {
-        "type": 101,
-        "severity_type": 2,
-        "parameter_type": 1010,
-        "data": {
-            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_SCORE_TAMPERING",
-            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
-            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_SCORE_TAMPERING_SCORE",
-            "threshold": "2000000"
-        }
-    },
-    {
-        "type": 101,
         "severity_type": 1,
         "parameter_type": 1011,
         "data": {
@@ -830,6 +808,37 @@
             "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
             "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_SPLASH_BALL_MISMATCH_POSITION_DISTANCE_PERMIL",
             "threshold": "25000"
+        }
+    },
+    {
+        "type": 1700,
+        "severity_type": 1,
+        "parameter_type": 107000,
+        "data": {
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_YELLOW",
+            "threshold": "10000"
+        }
+    },
+    {
+        "type": 101,
+        "severity_type": 2,
+        "parameter_type": 1011,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_SCORE_TAMPERING_LIVE_DECK_EVALUATION_VALUE_COEFFICIENT_PERMIL_MULTIPLY",
+            "threshold": "10000"
+        }
+    },
+    {
+        "type": 101,
+        "severity_type": 2,
+        "parameter_type": 1010,
+        "data": {
+            "type": "CheatType_CHEAT_TYPE_MULTI_LIVE_SCORE_TAMPERING",
+            "severityType": "CheatSeverityType_CHEAT_SEVERITY_TYPE_RED",
+            "parameterType": "CheatParameterType_CHEAT_PARAMETER_TYPE_MULTI_LIVE_SCORE_TAMPERING_SCORE",
+            "threshold": "10000000"
         }
     }
 ]

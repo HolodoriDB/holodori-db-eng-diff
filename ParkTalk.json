@@ -43428,6 +43428,144 @@
         }
     },
     {
+        "group_id": "park_talk-area-a01-30-1-1-after",
+        "simple_adv_character_id": "",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-30-1-1-after",
+            "number": 1,
+            "advAssetId": "adv_area_01_01_30-01"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a01-30-1-1",
+        "simple_adv_character_id": "chr-00001",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-30-1-1",
+            "simpleAdvCharacterId": "chr-00001",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a01-30-1-1-1-00001",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_glad02_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-quest-area-a01-30-1-1-1-00001"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a01-30-1-1",
+        "simple_adv_character_id": "chr-00002",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-30-1-1",
+            "simpleAdvCharacterId": "chr-00002",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a01-30-1-1-1-00002",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_sigh00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-quest-area-a01-30-1-1-1-00002"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a01-30-1-2",
+        "simple_adv_character_id": "chr-00001",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-30-1-2",
+            "simpleAdvCharacterId": "chr-00001",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a01-30-1-2-1-00001",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_letsgo00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-quest-area-a01-30-1-2-1-00001"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a01-30-1-2",
+        "simple_adv_character_id": "chr-00002",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a01-30-1-2",
+            "simpleAdvCharacterId": "chr-00002",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a01-30-1-2-1-00002",
+            "simpleAdvMotionAssetId": "mot_define_general_chr_drs_letsgo00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-quest-area-a01-30-1-2-1-00002"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a03-20-1-1-after",
+        "simple_adv_character_id": "",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a03-20-1-1-after",
+            "number": 1,
+            "advAssetId": "adv_area_01_03_20-01",
+            "simpleAdvMotionAssetId": "mot_define_park_chr_drs_a03-boat-wave-hands00_{personality_type}_in_bdy00",
+            "afterTimePoint": 14
+        }
+    },
+    {
+        "group_id": "park_talk-area-a03-20-1-1",
+        "simple_adv_character_id": "chr-00023",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a03-20-1-1",
+            "simpleAdvCharacterId": "chr-00023",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a03-20-1-1-1-00023",
+            "simpleAdvMotionAssetId": "mot_define_park_chr_drs_a03-boat-wave-hands00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-quest-area-a03-20-1-1-1-00023"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a03-20-1-1",
+        "simple_adv_character_id": "chr-06003",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a03-20-1-1",
+            "simpleAdvCharacterId": "chr-06003",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a03-20-1-1-1-06003",
+            "simpleAdvMotionAssetId": "mot_define_park_chr_drs_a03-boat-wave-hands00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-quest-area-a03-20-1-1-1-06003"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a03-20-1-2-after",
+        "simple_adv_character_id": "",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a03-20-1-2-after",
+            "number": 1,
+            "advAssetId": "adv_area_01_03_20-02",
+            "simpleAdvMotionAssetId": "mot_define_park_chr_drs_a03-boat-wave-hands00_{personality_type}_in_bdy00",
+            "afterTimePoint": 14
+        }
+    },
+    {
+        "group_id": "park_talk-area-a03-20-1-2",
+        "simple_adv_character_id": "chr-00030",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a03-20-1-2",
+            "simpleAdvCharacterId": "chr-00030",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a03-20-1-2-1-00030",
+            "simpleAdvMotionAssetId": "mot_define_park_chr_drs_a03-boat-wave-hands00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-quest-area-a03-20-1-2-1-00030"
+        }
+    },
+    {
+        "group_id": "park_talk-area-a03-20-1-2",
+        "simple_adv_character_id": "chr-00034",
+        "number": 1,
+        "data": {
+            "groupId": "park_talk-area-a03-20-1-2",
+            "simpleAdvCharacterId": "chr-00034",
+            "number": 1,
+            "simpleAdvTextLangId": "la-park_talk-area-a03-20-1-2-1-00034",
+            "simpleAdvMotionAssetId": "mot_define_park_chr_drs_a03-boat-wave-hands00_{personality_type}_in_bdy00",
+            "characterVoiceId": "cv-quest-area-a03-20-1-2-1-00034"
+        }
+    },
+    {
         "group_id": "park_talk-area-a01-15-1-1",
         "simple_adv_character_id": "chr-00016",
         "number": 10,

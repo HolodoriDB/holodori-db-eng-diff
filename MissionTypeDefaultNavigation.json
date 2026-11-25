@@ -499,6 +499,14 @@
         }
     },
     {
+        "mission_type": 73,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_INCREMENT_SHOGI_STAGE_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SHOGI"
+        }
+    },
+    {
         "mission_type": 1000,
         "data": {
             "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_LOGIN_COUNT"
@@ -800,6 +808,46 @@
         "data": {
             "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_MARATHON_LIVE_CLEAR_MUSIC_COUNT",
             "transitionType": "TransitionType_TRANSITION_TYPE_MUSIC_SELECTION"
+        }
+    },
+    {
+        "mission_type": 1051,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_SHOGI_STAGE_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SHOGI"
+        }
+    },
+    {
+        "mission_type": 1052,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_SHOGI_PLAY_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SHOGI"
+        }
+    },
+    {
+        "mission_type": 1053,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_SHOGI_PIECE_TAKE_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SHOGI"
+        }
+    },
+    {
+        "mission_type": 1054,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_SHOGI_PIECE_TAKEN_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_PARK_MINI_GAME_LIST",
+            "transitionId": "SHOGI"
+        }
+    },
+    {
+        "mission_type": 1055,
+        "data": {
+            "missionType": "MissionType_MISSION_TYPE_ABSOLUTE_LIVE_TOWER_STAGE_CLEAR_COUNT",
+            "transitionType": "TransitionType_TRANSITION_TYPE_LIVE_TOWER",
+            "transitionId": "live_tower-default-001"
         }
     },
     {

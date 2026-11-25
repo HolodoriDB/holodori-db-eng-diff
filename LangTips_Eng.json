@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-instant_tips-live_tower-quest-unlock-title",
+        "data": {
+            "id": "la-instant_tips-live_tower-quest-unlock-title",
+            "text": "Area Quest Unlock"
+        }
+    },
+    {
         "id": "la-tips-achievement-title",
         "data": {
             "id": "la-tips-achievement-title",
@@ -189,6 +196,13 @@
         }
     },
     {
+        "id": "la-tips-game_screen-live_tower-title",
+        "data": {
+            "id": "la-tips-game_screen-live_tower-title",
+            "text": "Challenge Live"
+        }
+    },
+    {
         "id": "la-tips-game_screen-membership_top-title",
         "data": {
             "id": "la-tips-game_screen-membership_top-title",
@@ -291,6 +305,13 @@
         "data": {
             "id": "la-tips-game_screen-score_ranking-title",
             "text": "Score Ranking"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-shogi",
+        "data": {
+            "id": "la-tips-game_screen-shogi",
+            "text": "Puka Puka Fight"
         }
     },
     {
@@ -875,6 +896,13 @@
         }
     },
     {
+        "id": "la-tips-instant_tips-skill_tree-upgrade-1",
+        "data": {
+            "id": "la-tips-instant_tips-skill_tree-upgrade-1",
+            "text": "New Leader Type Nodes"
+        }
+    },
+    {
         "id": "la-tips-jump-rope-title",
         "data": {
             "id": "la-tips-jump-rope-title",
@@ -886,6 +914,13 @@
         "data": {
             "id": "la-tips-live-title",
             "text": "Unit"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-title",
+        "data": {
+            "id": "la-tips-live_tower-title",
+            "text": "Challenge Live"
         }
     },
     {
@@ -1096,6 +1131,111 @@
         "data": {
             "id": "la-tips-rhythm-game-title",
             "text": "Live"
+        }
+    },
+    {
+        "id": "la-tips-shogi",
+        "data": {
+            "id": "la-tips-shogi",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest",
+        "data": {
+            "id": "la-tips-shogi-quest",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-catch-end",
+        "data": {
+            "id": "la-tips-shogi-stage-catch-end",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-catch-start",
+        "data": {
+            "id": "la-tips-shogi-stage-catch-start",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-nakama-end",
+        "data": {
+            "id": "la-tips-shogi-stage-nakama-end",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-nakama-start",
+        "data": {
+            "id": "la-tips-shogi-stage-nakama-start",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-naru-end",
+        "data": {
+            "id": "la-tips-shogi-stage-naru-end",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-naru-start",
+        "data": {
+            "id": "la-tips-shogi-stage-naru-start",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-try-end",
+        "data": {
+            "id": "la-tips-shogi-stage-try-end",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-try-start",
+        "data": {
+            "id": "la-tips-shogi-stage-try-start",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage1-hint",
+        "data": {
+            "id": "la-tips-shogi-stage1-hint",
+            "text": "Hints"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage2-hint",
+        "data": {
+            "id": "la-tips-shogi-stage2-hint",
+            "text": "Hints"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage3-hint",
+        "data": {
+            "id": "la-tips-shogi-stage3-hint",
+            "text": "Hints"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage4-hint",
+        "data": {
+            "id": "la-tips-shogi-stage4-hint",
+            "text": "Hints"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage5-hint",
+        "data": {
+            "id": "la-tips-shogi-stage5-hint",
+            "text": "Hints"
         }
     },
     {

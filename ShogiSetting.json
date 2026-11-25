@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "data": {
+            "id": "1",
+            "shogiPieceNonLeaderCharacterIds": [
+                "chr-00023",
+                "chr-00034",
+                "chr-00030",
+                "chr-00037",
+                "chr-04012",
+                "chr-03009",
+                "chr-06003"
+            ],
+            "miniGameRewardUpStaminaConsumptionUnit": 20,
+            "miniGameRewardUpStaminaEffectGroupId": "mini_game_reward_up_stamina_effect-shogi-01",
+            "challengeHoldSeconds": 60,
+            "multiGameSetupTimeLimitSeconds": 20,
+            "multiHoldSeconds": 60,
+            "multiForceExitAnnounceNoOperationTurnCount": 3,
+            "maxUserCount": 2,
+            "randomMatchMinUserCount": 1,
+            "privateRoomMinUserCount": 2,
+            "randomMatchStartTimeLimitSeconds": 30
+        }
+    }
+]

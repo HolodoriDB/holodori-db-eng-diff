@@ -30,6 +30,33 @@
         }
     },
     {
+        "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader",
+        "data": {
+            "id": "skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_LIVE_ACTIVE_SKILL_ACTIVATION_PROBABILITY_UP_PERMIL_UP",
+            "value": "100",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_SET_LIVE_LEADER",
+            "nameLangId": "la-skill_tree_effect-name-leader",
+            "descriptionLangId": "la-generated-skill_tree_effect-live_active_skill_activation_probability_up_permil_up-100-skill_tree_effect_target-all-set_live_leader-description"
+        }
+    },
+    {
+        "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi",
+        "data": {
+            "id": "skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi",
+            "effectType": "SkillTreeEffectType_SKILL_TREE_EFFECT_TYPE_MINI_GAME_REWARD_QUANTITY_UP_PERMIL_UP",
+            "value": "5",
+            "skillTreeEffectTargetId": "skill_tree_effect_target-all",
+            "characterTriggerType": "SkillTreeEffectCharacterTriggerType_SKILL_TREE_EFFECT_CHARACTER_TRIGGER_TYPE_ALWAYS",
+            "miniGameTypes": [
+                "MiniGameType_MINI_GAME_TYPE_SHOGI"
+            ],
+            "nameLangId": "la-skill_tree_effect-name-park",
+            "descriptionLangId": "la-generated-skill_tree_effect-mini_game_reward_quantity_up_permil_up-5-skill_tree_effect_target-all-always-shogi-description"
+        }
+    },
+    {
         "id": "skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always",
         "data": {
             "id": "skill_tree_effect-performance_up-10-skill_tree_effect_target-all-always",

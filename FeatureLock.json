@@ -161,6 +161,15 @@
         }
     },
     {
+        "tutorial_type": 22,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_LIVE_TOWER",
+            "titleLangId": "la-feature_lock-live_tower-title",
+            "descriptionLangId": "la-feature_lock-live_tower-description",
+            "unlockConditionGroupId": "cd-live_tower-default-unlock"
+        }
+    },
+    {
         "tutorial_type": 501,
         "data": {
             "tutorialType": "TutorialType_TUTORIAL_TYPE_EXCHANGE_AREA01",
@@ -222,6 +231,14 @@
             "tutorialType": "TutorialType_TUTORIAL_TYPE_SPLASH_BALL",
             "titleLangId": "la-feature_lock-splash_ball",
             "viewConditionGroupId": "cd-quest_clear-quest-main-w1-03-08"
+        }
+    },
+    {
+        "tutorial_type": 1008,
+        "data": {
+            "tutorialType": "TutorialType_TUTORIAL_TYPE_SHOGI",
+            "titleLangId": "la-feature_lock-shogi",
+            "viewConditionGroupId": "cd-perm-a03-shogi"
         }
     },
     {
@@ -390,7 +407,7 @@
         "data": {
             "tutorialType": "TutorialType_TUTORIAL_TYPE_PARK_PRINT_BOOTH_AREA02",
             "titleLangId": "la-feature_lock-park_print_booth-title",
-            "viewConditionGroupId": "cd-quest_clear-quest-main-w1-02-06"
+            "viewConditionGroupId": "cd-facility-a02-photobooth"
         }
     },
     {

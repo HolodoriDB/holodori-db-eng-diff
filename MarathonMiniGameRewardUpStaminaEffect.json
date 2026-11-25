@@ -133,5 +133,50 @@
             "consumptionRate": 3,
             "marathonScoreProvideCount": 15
         }
+    },
+    {
+        "mini_game_type": 7,
+        "consumption_rate": 1,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SHOGI",
+            "consumptionRate": 1,
+            "marathonScoreProvideCount": 6
+        }
+    },
+    {
+        "mini_game_type": 7,
+        "consumption_rate": 2,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SHOGI",
+            "consumptionRate": 2,
+            "marathonScoreProvideCount": 12
+        }
+    },
+    {
+        "mini_game_type": 7,
+        "consumption_rate": 3,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SHOGI",
+            "consumptionRate": 3,
+            "marathonScoreProvideCount": 17
+        }
+    },
+    {
+        "mini_game_type": 7,
+        "consumption_rate": 4,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SHOGI",
+            "consumptionRate": 4,
+            "marathonScoreProvideCount": 22
+        }
+    },
+    {
+        "mini_game_type": 7,
+        "consumption_rate": 5,
+        "data": {
+            "miniGameType": "MiniGameType_MINI_GAME_TYPE_SHOGI",
+            "consumptionRate": 5,
+            "marathonScoreProvideCount": 26
+        }
     }
 ]

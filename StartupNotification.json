@@ -1,0 +1,515 @@
+[
+    {
+        "id": "startup_noti-shop_consumption_item-pack-001-area_01_clear-01",
+        "data": {
+            "id": "startup_noti-shop_consumption_item-pack-001-area_01_clear-01",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "conditionGroupId": "cd-startup_notification-shop_consumption_item-pack-01-area_01_clear",
+            "priority": 260723031,
+            "startTime": "946652400000",
+            "assetId": "shop-normal-limited-001-02",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-shop_consumption_item-pack-001-area_02_clear-01",
+        "data": {
+            "id": "startup_noti-shop_consumption_item-pack-001-area_02_clear-01",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "conditionGroupId": "cd-startup_notification-shop_consumption_item-pack-01-area_02_clear",
+            "priority": 260723030,
+            "startTime": "946652400000",
+            "assetId": "shop-normal-limited-001-03",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-shop_consumption_item-pack-001-beginner-01",
+        "data": {
+            "id": "startup_noti-shop_consumption_item-pack-001-beginner-01",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "conditionGroupId": "cd-startup_notification-shop_consumption_item-pack-01-beginner_clear",
+            "priority": 260723020,
+            "startTime": "946652400000",
+            "assetId": "shop-normal-limited-001-04",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-fixed-260807",
+        "data": {
+            "id": "startup_notification-gacha-fixed-260807",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "conditionGroupId": "cd-gacha-fixed-260807-banner-end",
+            "priority": 260807010,
+            "startTime": "1786068000000",
+            "endTime": "1786931999000",
+            "assetId": "gacha-fixed-260807",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-260728",
+        "data": {
+            "id": "startup_notification-gacha-pickup-260728",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260807200,
+            "startTime": "1785200400000",
+            "endTime": "1786067999000",
+            "assetId": "gacha-pickup-260728",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-gift-sales_ranking_1st-gacha-260929",
+        "data": {
+            "id": "startup_noti-gift-sales_ranking_1st-gacha-260929",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260929040,
+            "startTime": "1790748000000",
+            "endTime": "1791338399000",
+            "assetId": "img_banner_full_gift-sales-ranking-1st-gacha-260929",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-261007",
+        "data": {
+            "id": "startup_notification-gacha-pickup-261007",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261007010,
+            "startTime": "1791338400000",
+            "endTime": "1792375199000",
+            "assetId": "img_banner_full_gacha-pickup-261007",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-261019",
+        "data": {
+            "id": "startup_notification-gacha-pickup-261019",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261019020,
+            "startTime": "1792375200000",
+            "endTime": "1793239199000",
+            "assetId": "img_banner_full_gacha-pickup-261019",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-info-stream-93",
+        "data": {
+            "id": "startup_noti-info-stream-93",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261019010,
+            "startTime": "1793008800000",
+            "endTime": "1793102399000",
+            "assetId": "img_banner_full_info-stream-93",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-gacha-fixed-beginner-001",
+        "data": {
+            "id": "startup_noti-gacha-fixed-beginner-001",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "conditionGroupId": "cd-gacha-fixed-beginner-001-banner-end",
+            "priority": 260723010,
+            "startTime": "946652400000",
+            "assetId": "gacha-fixed-release",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-gift-dl_million-260724",
+        "data": {
+            "id": "startup_noti-gift-dl_million-260724",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260724010,
+            "startTime": "1784858400000",
+            "endTime": "1785153599000",
+            "assetId": "gift-dl-million-260724",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-gift-dl_million-260807",
+        "data": {
+            "id": "startup_noti-gift-dl_million-260807",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260807020,
+            "startTime": "1786068000000",
+            "endTime": "1786114799000",
+            "assetId": "gift-dl-million-260807",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-gift-sales_ranking_1st-260723",
+        "data": {
+            "id": "startup_noti-gift-sales_ranking_1st-260723",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260726020,
+            "startTime": "1785060000000",
+            "endTime": "1786067999000",
+            "assetId": "gift-sales-ranking-1st-gacha-260723",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-gift-sales_ranking_1st-260729",
+        "data": {
+            "id": "startup_noti-gift-sales_ranking_1st-260729",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260729010,
+            "startTime": "1785308400000",
+            "endTime": "1786067999000",
+            "assetId": "gift-sales-ranking-1st-gacha-260728",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-gift-sales_ranking_1st-gacha-260807",
+        "data": {
+            "id": "startup_noti-gift-sales_ranking_1st-gacha-260807",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260807040,
+            "startTime": "1786096800000",
+            "endTime": "1786931999000",
+            "assetId": "gift-sales-ranking-1st-gacha-260807",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-info-stream-260726",
+        "data": {
+            "id": "startup_noti-info-stream-260726",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260726010,
+            "startTime": "1785060000000",
+            "endTime": "1785153599000",
+            "assetId": "info-stream-260726",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-info-stream-33",
+        "data": {
+            "id": "startup_noti-info-stream-33",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260823010,
+            "startTime": "1787454000000",
+            "endTime": "1787579999000",
+            "assetId": "info-stream-33",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_noti-info-survey-260902",
+        "data": {
+            "id": "startup_noti-info-survey-260902",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260828010,
+            "startTime": "1787882400000",
+            "endTime": "1787968799000",
+            "assetId": "img_banner_full_info-survey-260828",
+            "contentStartupNotificationTransitionType": "TransitionType_TRANSITION_TYPE_EXTERNAL_URL",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER",
+            "contentStartupNotificationExternalUrlJpn": "https://questant.jp/q/V551VCJM?id={PublicUserId}",
+            "contentStartupNotificationExternalUrlEng": "https://questant.jp/q/SA95SYSO?id={PublicUserId}",
+            "contentStartupNotificationExternalUrlInd": "https://questant.jp/q/AO3FPR58?id={PublicUserId}",
+            "contentStartupNotificationExternalUrlKor": "https://questant.jp/q/8NAON2ZN?id={PublicUserId}",
+            "contentStartupNotificationExternalUrlCht": "https://questant.jp/q/YSXD0QMS?id={PublicUserId}",
+            "contentStartupNotificationExternalUrlChs": "https://questant.jp/q/EDUJ1TAN?id={PublicUserId}"
+        }
+    },
+    {
+        "id": "startup_noti-info-update-260828",
+        "data": {
+            "id": "startup_noti-info-update-260828",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260828060,
+            "startTime": "1787882400000",
+            "endTime": "1789783199000",
+            "assetId": "img_banner_full_minigame-chase-260828",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-shop-membership-260901",
+        "data": {
+            "id": "startup_noti-shop-membership-260901",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260828030,
+            "startTime": "1788206400000",
+            "endTime": "1788314399000",
+            "assetId": "img_banner_full_shop-membership-missionpass-260901",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-260807",
+        "data": {
+            "id": "startup_notification-gacha-pickup-260807",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260807030,
+            "startTime": "1786068000000",
+            "endTime": "1786931999000",
+            "assetId": "gacha-pickup-260807",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-260817",
+        "data": {
+            "id": "startup_notification-gacha-pickup-260817",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260817010,
+            "startTime": "1786932000000",
+            "endTime": "1787968799000",
+            "assetId": "gacha-pickup-260817",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_STARTUP_NOTIFICATION"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-260829",
+        "data": {
+            "id": "startup_notification-gacha-pickup-260829",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260828040,
+            "startTime": "1787968800000",
+            "endTime": "1788832799000",
+            "assetId": "img_banner_full_gacha-pickup-260829",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-gift-dl_million-260908",
+        "data": {
+            "id": "startup_noti-gift-dl_million-260908",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260908010,
+            "startTime": "1788832800000",
+            "endTime": "1789783199000",
+            "assetId": "img_banner_full_gift-dl-million-260908",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-260908",
+        "data": {
+            "id": "startup_notification-gacha-pickup-260908",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260908020,
+            "startTime": "1788832800000",
+            "endTime": "1789783199000",
+            "assetId": "img_banner_full_gacha-pickup-260908",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-260919",
+        "data": {
+            "id": "startup_notification-gacha-pickup-260919",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260919010,
+            "startTime": "1789783200000",
+            "endTime": "1790629199000",
+            "assetId": "img_banner_full_gacha-pickup-260919",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-info-stream-63",
+        "data": {
+            "id": "startup_noti-info-stream-63",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260921010,
+            "startTime": "1789981200000",
+            "endTime": "1790083799000",
+            "assetId": "img_banner_full_info-stream-63",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-info-update-260929",
+        "data": {
+            "id": "startup_noti-info-update-260929",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260929050,
+            "startTime": "1790647200000",
+            "endTime": "1792375199000",
+            "assetId": "img_banner_full_area-a03",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-shop-membership-261001",
+        "data": {
+            "id": "startup_noti-shop-membership-261001",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260929020,
+            "startTime": "1790798400000",
+            "endTime": "1791125999000",
+            "assetId": "img_banner_full_shop-membership-missionpass-261001",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-shop-pack-area03_clear-260929",
+        "data": {
+            "id": "startup_noti-shop-pack-area03_clear-260929",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "conditionGroupId": "cd-startup_noti-shop-pack-area03_clear-260929",
+            "priority": 260723029,
+            "startTime": "1790647200000",
+            "assetId": "img_banner_full_shop-pack-area03-clear-260929",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-shop-stone-area03_celebration-260929",
+        "data": {
+            "id": "startup_noti-shop-stone-area03_celebration-260929",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260929010,
+            "startTime": "1790647200000",
+            "endTime": "1790798399000",
+            "assetId": "img_banner_full_shop-stone-area03-celebration-260929",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-260929",
+        "data": {
+            "id": "startup_notification-gacha-pickup-260929",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 260929030,
+            "startTime": "1790647200000",
+            "endTime": "1791338399000",
+            "assetId": "img_banner_full_gacha-pickup-260929",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-shop-membership-261101",
+        "data": {
+            "id": "startup_noti-shop-membership-261101",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261029020,
+            "startTime": "1793476800000",
+            "endTime": "1793584799000",
+            "assetId": "img_banner_full_shop-membership-missionpass-261101",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-fixed-261029",
+        "data": {
+            "id": "startup_notification-gacha-fixed-261029",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "conditionGroupId": "cd-gacha-fixed-261029-banner-end",
+            "priority": 261029010,
+            "startTime": "1793239200000",
+            "endTime": "1793930399000",
+            "assetId": "img_banner_full_gacha-fixed-261029",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-261029",
+        "data": {
+            "id": "startup_notification-gacha-pickup-261029",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261029030,
+            "startTime": "1793239200000",
+            "endTime": "1793930399000",
+            "assetId": "img_banner_full_gacha-pickup-261029-free",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-261106",
+        "data": {
+            "id": "startup_notification-gacha-pickup-261106",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261106010,
+            "startTime": "1793930400000",
+            "endTime": "1794621599000",
+            "assetId": "img_banner_full_gacha-pickup-261106",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-261114",
+        "data": {
+            "id": "startup_notification-gacha-pickup-261114",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261114010,
+            "startTime": "1794621600000",
+            "endTime": "1795658399000",
+            "assetId": "img_banner_full_gacha-pickup-261114",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-info-stream-123",
+        "data": {
+            "id": "startup_noti-info-stream-123",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261123010,
+            "startTime": "1795424400000",
+            "endTime": "1795528799000",
+            "assetId": "img_banner_full_info-stream-123",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-content-live_tower-261125",
+        "data": {
+            "id": "startup_noti-content-live_tower-261125",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261125030,
+            "startTime": "1795572000000",
+            "endTime": "1796068799000",
+            "assetId": "img_banner_full_content-live-tower-261125",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-minigame-shogi-261125",
+        "data": {
+            "id": "startup_noti-minigame-shogi-261125",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261125040,
+            "startTime": "1795572000000",
+            "endTime": "1796522399000",
+            "assetId": "img_banner_full_minigame-shogi-261125",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_noti-shop-membership-261201",
+        "data": {
+            "id": "startup_noti-shop-membership-261201",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261125010,
+            "startTime": "1796068800000",
+            "endTime": "1796522399000",
+            "assetId": "img_banner_full_shop-membership-missionpass-261201",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    },
+    {
+        "id": "startup_notification-gacha-pickup-261126",
+        "data": {
+            "id": "startup_notification-gacha-pickup-261126",
+            "type": "StartupNotificationType_STARTUP_NOTIFICATION_TYPE_CONTENT",
+            "priority": 261125020,
+            "startTime": "1795658400000",
+            "endTime": "1796522399000",
+            "assetId": "img_banner_full_gacha-pickup-261126-free",
+            "contentStartupNotificationImageType": "StartupNotificationImageType_STARTUP_NOTIFICATION_IMAGE_TYPE_BANNER"
+        }
+    }
+]

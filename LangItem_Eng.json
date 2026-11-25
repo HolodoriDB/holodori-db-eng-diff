@@ -994,6 +994,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-description",
+            "text": "A Badge used to exchange for items in the Event Exchange.\nAfter the deadline, they are converted into Hologold."
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-name",
+            "text": "Event Badge"
+        }
+    },
+    {
         "id": "la-item-event_badge-marathon_event-relay-001-all-description",
         "data": {
             "id": "la-item-event_badge-marathon_event-relay-001-all-description",
@@ -2069,6 +2083,20 @@
         "data": {
             "id": "la-item-skill_tree_leader-2-name",
             "text": "Red Hexa"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_leader-3-description",
+        "data": {
+            "id": "la-item-skill_tree_leader-3-description",
+            "text": "An item used to unlock Nodes on the Holomem Board."
+        }
+    },
+    {
+        "id": "la-item-skill_tree_leader-3-name",
+        "data": {
+            "id": "la-item-skill_tree_leader-3-name",
+            "text": "Red Star Cube"
         }
     }
 ]

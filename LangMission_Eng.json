@@ -9744,6 +9744,13 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_live_tower_stage_clear_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_live_tower_stage_clear_count-description",
+            "text": "Clear Stage {0}."
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_music_highest_score_rating_sum-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_music_highest_score_rating_sum-description",
@@ -9786,6 +9793,27 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0031-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0031-description",
+            "text": "Catch a Kurage-kun Plushie."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0032-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0032-description",
+            "text": "Catch an Assistant-kun Plushie."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0033-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0033-description",
+            "text": "Catch an Uni-kun Plushie."
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0061-description",
@@ -9807,6 +9835,27 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0064-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0064-description",
+            "text": "Catch a Yukimin Plushie."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0065-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0065-description",
+            "text": "Catch an Ichimi Kuma Plushie."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0066-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0066-description",
+            "text": "Catch a Mr. Squeaks Plushie."
+        }
+    },
+    {
         "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0094-description",
@@ -9825,6 +9874,27 @@
         "data": {
             "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0096-description",
             "text": "Catch a Jester Frogfish."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0097-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0097-description",
+            "text": "Catch a Cilus Plushie."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0098-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0098-description",
+            "text": "Catch an Upao Plushie."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0099-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_park_fishing_fish_unique_count-park_fishing_fish-0099-description",
+            "text": "Catch a ZA-IN Plushie."
         }
     },
     {
@@ -9859,7 +9929,7 @@
         "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
         "data": {
             "id": "la-mission-achievement-common-absolute_park_quest_clear_count-area_group-a03-description",
-            "text": "Clear all the main area quests in Soda Pop Lagoon"
+            "text": "Complete 34 Main and Area Quests in Soda Pop Lagoon."
         }
     },
     {
@@ -9916,6 +9986,34 @@
         "data": {
             "id": "la-mission-achievement-common-absolute_poster_get_count-description",
             "text": "Obtain {0} different Memories."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_shogi_piece_take_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_shogi_piece_take_count-description",
+            "text": "Knock a holomem into the water {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-description",
+            "text": "Get your holomem knocked into the water {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_shogi_piece_taken_count-name",
+            "text": "Master Swimmer"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-absolute_shogi_stage_clear_count-single-description",
+        "data": {
+            "id": "la-mission-achievement-common-absolute_shogi_stage_clear_count-single-description",
+            "text": "Clear NORMAL / CHALLENGE stages {0} time(s)."
         }
     },
     {
@@ -10322,6 +10420,13 @@
         "data": {
             "id": "la-mission-achievement-common-increment_mini_game_play_count-jump_rope-description",
             "text": "Play Hoppin' Rope {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_mini_game_play_count-shogi-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_mini_game_play_count-shogi-description",
+            "text": "Play Puka Puka Fight {0} time(s)."
         }
     },
     {
@@ -11326,6 +11431,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-shogi_celebration-261125-absolute_park_fishing_fish_unique_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-absolute_park_fishing_fish_unique_count",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_piece_take_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_piece_take_count",
+            "text": "Recruit {0} holomem(s) in Puka Puka Fight matches."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_stage_clear_count-single",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-absolute_shogi_stage_clear_count-single",
+            "text": "Clear {0} Puka Puka Fight NORMAL Stage(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_live_play_count",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_play_count-shogi",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_play_count-shogi",
+            "text": "Play Puka Puka Fight {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_mini_game_stamina_consumption",
+            "text": "Use a total of {0} Minigame Boost(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_mission_clear_count-event_normal-mission_grp-shogi_celebration-261125",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_mission_clear_count-event_normal-mission_grp-shogi_celebration-261125",
+            "text": "Let’s complete all the Missions!"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_multi_live_play_count",
+            "text": "Play a Live Together {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_park_present_receive_count",
+            "text": "Receive presents from holomem {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-shogi_celebration-261125-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-shogi_celebration-261125-increment_work_finish_count",
+            "text": "Complete Holowork tasks {0} time(s)."
+        }
+    },
+    {
         "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
         "data": {
             "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -11462,6 +11637,76 @@
         "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
         "data": {
             "id": "la-mission-event_mission-training_support-261105-increment_work_finish_count",
+            "text": "Complete Holowork tasks {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_card_level_count-70",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_card_level_count-70",
+            "text": "Have {0} Member(s) reach Lv 70."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_character_level_sum",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_character_level_sum",
+            "text": "Reach Holomem total Rank {0}."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_live_clear_music_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_live_clear_music_count",
+            "text": "Complete {0} different types of Lives."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_live_deck_evaluation_value",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_live_deck_evaluation_value",
+            "text": "Reach a Unit Score of {0}."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_live_tower_stage_clear_count-live_tower-default-001",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_live_tower_stage_clear_count-live_tower-default-001",
+            "text": "Clear Challenge Live Stage {0}."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-absolute_skill_tree_release_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-absolute_skill_tree_release_count",
+            "text": "Unlock a total of {0} Holomem Boards."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-increment_live_play_count",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-increment_mini_game_stamina_consumption",
+            "text": "Use a total of {0} Minigame Boost(s)."
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-increment_mission_clear_count-event_normal-mission_grp-training_support-261205",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-increment_mission_clear_count-event_normal-mission_grp-training_support-261205",
+            "text": "Let’s complete all the Missions!"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-training_support-261205-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-training_support-261205-increment_work_finish_count",
             "text": "Complete Holowork tasks {0} time(s)."
         }
     },
@@ -12225,6 +12470,167 @@
         "id": "la-mission-missionpass-261101-weekly-increment_work_start_count-name",
         "data": {
             "id": "la-mission-missionpass-261101-weekly-increment_work_start_count-name",
+            "text": "Start a Holowork task {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_card_level_up_count-name",
+            "text": "Level up a Member {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_drop_item_get_count-name",
+            "text": "Pick up {0} Hidden Treasure(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_live_play_count-name",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_mini_game_play_count-name",
+            "text": "Play a Minigame {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_multi_live_play_count-name",
+            "text": "Play a Live Together {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_park_present_receive_count-name",
+            "text": "Receive presents from holomem {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_park_quest_clear_count-daily-name",
+            "text": "Complete {0} Daily Quest(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-daily-increment_work_start_count-name",
+            "text": "Start a Holowork task {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-season-absolute_live_tower_stage_clear_count-live_tower-default-001-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-season-absolute_live_tower_stage_clear_count-live_tower-default-001-name",
+            "text": "Clear {0} Challenge Live Stage(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-season-absolute_park_fishing_fish_unique_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-season-absolute_park_fishing_fish_unique_count-name",
+            "text": "Catch {0} type(s) of fish."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-season-increment_mini_game_play_count-shogi-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-season-increment_mini_game_play_count-shogi-name",
+            "text": "Play Puka Puka Fight {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-season-increment_park_fishing_fish_caught_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-season-increment_park_fishing_fish_caught_count-name",
+            "text": "Catch {0} fish."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_card_level_limit_break_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_card_level_limit_break_count-name",
+            "text": "Train a Member {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_drop_item_get_count-name",
+            "text": "Pick up {0} Hidden Treasure(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+            "text": "Make {0} exchange(s) using Hologold at the NePoLaBo Mart."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_live_play_count-name",
+            "text": "Play Live {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_live_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_live_stamina_consumption-name",
+            "text": "Use a total of {0} Live Boost(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_mini_game_play_count-name",
+            "text": "Play a Minigame {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_mini_game_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_mini_game_stamina_consumption-name",
+            "text": "Use a total of {0} Minigame Boost(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_multi_live_play_count-name",
+            "text": "Play a Live Together {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_music_creative_chart_live_clear_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_music_creative_chart_live_clear_count-name",
+            "text": "Clear a Created Chart Song {0} time(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_skill_tree_release_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_skill_tree_release_count-name",
+            "text": "Unlock {0} Holomem Board(s)."
+        }
+    },
+    {
+        "id": "la-mission-missionpass-261201-weekly-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-261201-weekly-increment_work_start_count-name",
             "text": "Start a Holowork task {0} time(s)."
         }
     },

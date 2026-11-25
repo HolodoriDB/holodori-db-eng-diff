@@ -886,6 +886,59 @@
         }
     },
     {
+        "group_id": "resource_obtainment_route-fishingbait-009",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-009",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-shogi",
+            "facilityId": "facility-a03-stadium",
+            "conditionGroupId": "cd-quest_clear-quest-area-a03-20"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-010",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-010",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-shogi",
+            "facilityId": "facility-a03-stadium",
+            "conditionGroupId": "cd-quest_clear-quest-area-a03-20"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-fishingbait-011",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-fishingbait-011",
+            "number": 1,
+            "descriptionLangId": "la-facility-a03-fishingshop-name",
+            "facilityId": "facility-a03-fishingshop",
+            "conditionGroupId": "cd-absolute_park_fishing_fish_unique_count_99"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-event_badge-marathon_event-normal-010-chapter-01",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-event_badge-marathon_event-normal-010-chapter-01",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-item-event_badge-marathon_event-normal-010-chapter-01"
+        }
+    },
+    {
+        "group_id": "resource_obtainment_route-item-skill_tree_leader-3",
+        "number": 1,
+        "data": {
+            "groupId": "resource_obtainment_route-item-skill_tree_leader-3",
+            "number": 1,
+            "descriptionLangId": "la-resource_obtainment_route-live_tower",
+            "facilityId": "facility-a01-livestage",
+            "conditionGroupId": "cd-quest_clear-quest-main-w1-03-15"
+        }
+    },
+    {
         "group_id": "resource_obtainment_route-item-gacha_ticket-r5-01",
         "number": 1,
         "data": {

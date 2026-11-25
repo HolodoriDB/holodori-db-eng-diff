@@ -451,7 +451,7 @@
         "id": "la-help_category-faq-questions-5-text",
         "data": {
             "id": "la-help_category-faq-questions-5-text",
-            "text": "Gift History will show up to the last 100 entries.\nOlder entries will be deleted when exceeding 100."
+            "text": "Gift History will show up to the last 500 entries.\nOlder entries will be deleted when exceeding 500."
         }
     },
     {
@@ -1120,6 +1120,20 @@
         }
     },
     {
+        "id": "la-help_category-help-game-9-text",
+        "data": {
+            "id": "la-help_category-help-game-9-text",
+            "text": "Puka Puka Fight is a Minigame in which you control holomems with different roles and aim to knock your opponent’s Leader into the water.\nYou win by either knocking your opponent’s Leader into the water or scoring a Try with your own Leader.\n\nYou can earn rewards based on the outcome of each match.\nThere are two game modes: Solo Play and Multiplayer. Multiplayer mode supports up to two players.\n\nFor more details, select [?] on the Puka Puka Fight main screen to view the How to Play guide.\n\n▼ Supervision\nPuka Puka Fight uses the game rules of Dobutsu Shogi.\nGame design of Dobutsu Shogi and supervision of Puka Puka Fight: Madoka Kitao"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-9-title",
+        "data": {
+            "id": "la-help_category-help-game-9-title",
+            "text": "Puka Puka Fight"
+        }
+    },
+    {
         "id": "la-help_category-help-item-1-text",
         "data": {
             "id": "la-help_category-help-item-1-text",
@@ -1459,7 +1473,7 @@
         "id": "la-help_category-help-profile-3-text",
         "data": {
             "id": "la-help_category-help-profile-3-text",
-            "text": "Basic profile information, holomem, Live, and Games can be set to public or private.\nEach piece of information can be set to public or private separately."
+            "text": "Basic profile information, holomem, Live, and Games can be set to Public, Private or, Only Friends.\n\nYou can adjust these settings at the bottom of your profile."
         }
     },
     {
@@ -1638,6 +1652,20 @@
         }
     },
     {
+        "id": "la-help_category-help-rhythm-13-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-13-text",
+            "text": "Challenge Live is a Live mode where you take on Set Pieces at each Stage and aim to reach the Target Score.\nWhen you reach the Target Score, the Stage is cleared, you earn rewards, and move on to the next Stage.\n* Stages you have already cleared cannot be replayed.\n\nWhen you include different Bonus Members set for each Stage in your formation, Bonus Effects will be applied, and your Unit Score will increase.\nWhen a Bonus Effect is applied, “+[Bonus Effect Value]” will be displayed at the bottom of the Unit Score.\n* The Bonus Effect Value is not added to the total Unit Score displayed.\n* The Unit Score with the added Bonus Effect Value does not count toward Achievement requirements.\n* Scores that do not include Bonus Effects from Bonus Members are recorded as each Song's High Score.\n\nFor more details, please tap on [?] from Challenge Live's TOP menu."
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-13-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-13-title",
+            "text": "Challenge Live"
+        }
+    },
+    {
         "id": "la-help_category-help-rhythm-2-text",
         "data": {
             "id": "la-help_category-help-rhythm-2-text",
@@ -1767,7 +1795,7 @@
         "id": "la-help_category-help-shop-2-text",
         "data": {
             "id": "la-help_category-help-shop-2-text",
-            "text": "HoloPassport is a subscription service that allows you to enjoy various perks by paying a monthly fee.\n\n▼Perks While Valid\n・Reward Bonuses: Live & Minigame rewards are doubled.\n・Boost Limit UP: Live & Minigame Boost Limit is doubled.\n\n*Event Pts and Event Badges are also eligible for the reward bonus.\n\n▼Sign-Up/Renewal Perks\n・You are gifted Blue Diamonds x 360 when buying or renewing.\n\n▼Important Notes\n・HoloPassport is valid for one month from the day of purchase/renewal.\n・HoloPassport will automatically renew upon expiration.\n・You cannot subscribe via the Steam version. HoloPassport effects earned on the iOS・Android versions can be used on the Steam version.\n・For information on how to cancel HoloPassport, go to [Dream Park] → [Menu] → [Shop] → [HoloPassport] and press [+] to access [Details]."
+            "text": "HoloPassport is a subscription service that allows you to enjoy various perks by paying a monthly fee.\n\n▼Perks While Valid\n・Reward Bonuses: Live & Minigame rewards are doubled.\n・Boost Limit UP: Live & Minigame Boost Limit is doubled.\n\n* Event Pts and Event Badges are eligible for Reward Bonuses.\n* Achievement Rewards for individual Songs are not eligible for Reward Bonuses.\n* Quests, Private Multiplayer Rooms, and Puka Puka Fight's NORMAL Mode are not eligible for Reward Bonuses.\n\n▼Sign-Up/Renewal Perks\n・You will receive Blue Diamonds x360 upon purchase or renewal.\n\n▼Important Notes\n・HoloPassport is valid for one month from the day of purchase/renewal.\n・HoloPassport will automatically renew upon expiration.\n・You cannot subscribe via the Steam version. The perks of HoloPassport purchased on the iOS and Android versions will also apply to the Steam version.\n・For information on how to cancel HoloPassport, go to [Dream Park] → [Menu] → [Shop] → [HoloPassport], and press [+] to access [Details]."
         }
     },
     {
